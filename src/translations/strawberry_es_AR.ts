@@ -1,7600 +1,7569 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_EG">
-<context>
+<TS version="2.1" language="es_AR" sourcelanguage="en">
+  <context>
     <name>MainWindow</name>
     <message>
-        <source>Strawberry Music Player</source>
-        <translation type="unfinished">Reproductor de música Strawberry</translation>
+      <source>Strawberry Music Player</source>
+      <translation type="unfinished">Strawberry Music Player</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>&amp;Music</source>
-        <translation type="unfinished">&amp;Música</translation>
+      <source>&amp;Music</source>
+      <translation type="unfinished">&amp;Music</translation>
     </message>
     <message>
-        <source>P&amp;laylist</source>
-        <translation type="unfinished">Lista de re&amp;producción</translation>
+      <source>P&amp;laylist</source>
+      <translation type="unfinished">P&amp;laylist</translation>
     </message>
     <message>
-        <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+      <source>Help</source>
+      <translation type="unfinished">Help</translation>
     </message>
     <message>
-        <source>&amp;Tools</source>
-        <translation type="unfinished">&amp;Herramientas</translation>
+      <source>&amp;Tools</source>
+      <translation type="unfinished">&amp;Tools</translation>
     </message>
     <message>
-        <source>Previous track</source>
-        <translation type="unfinished">Pista anterior</translation>
+      <source>Previous track</source>
+      <translation type="unfinished">Previous track</translation>
     </message>
     <message>
-        <source>F5</source>
-        <translation type="unfinished"></translation>
+      <source>F5</source>
+      <translation type="unfinished">F5</translation>
     </message>
     <message>
-        <source>&amp;Play</source>
-        <translation type="unfinished">&amp;Reproducir</translation>
+      <source>&amp;Play</source>
+      <translation type="unfinished">&amp;Play</translation>
     </message>
     <message>
-        <source>F6</source>
-        <translation type="unfinished"></translation>
+      <source>F6</source>
+      <translation type="unfinished">F6</translation>
     </message>
     <message>
-        <source>&amp;Stop</source>
-        <translation type="unfinished">&amp;Detener</translation>
+      <source>&amp;Stop</source>
+      <translation type="unfinished">&amp;Stop</translation>
     </message>
     <message>
-        <source>F7</source>
-        <translation type="unfinished"></translation>
+      <source>F7</source>
+      <translation type="unfinished">F7</translation>
     </message>
     <message>
-        <source>&amp;Next track</source>
-        <translation type="unfinished">Pista &amp;siguiente</translation>
+      <source>&amp;Next track</source>
+      <translation type="unfinished">&amp;Next track</translation>
     </message>
     <message>
-        <source>F8</source>
-        <translation type="unfinished"></translation>
+      <source>F8</source>
+      <translation type="unfinished">F8</translation>
     </message>
     <message>
-        <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Salir</translation>
+      <source>&amp;Quit</source>
+      <translation type="unfinished">&amp;Quit</translation>
     </message>
     <message>
-        <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+Q</source>
+      <translation type="unfinished">Ctrl+Q</translation>
     </message>
     <message>
-        <source>Stop after this track</source>
-        <translation type="unfinished">Detener reproducción al finalizar la pista actual</translation>
+      <source>Stop after this track</source>
+      <translation type="unfinished">Stop after this track</translation>
     </message>
     <message>
-        <source>Ctrl+Alt+V</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+Alt+V</source>
+      <translation type="unfinished">Ctrl+Alt+V</translation>
     </message>
     <message>
-        <source>Love</source>
-        <translation type="unfinished">Me gusta</translation>
+      <source>Love</source>
+      <translation type="unfinished">Love</translation>
     </message>
     <message>
-        <source>&amp;Clear playlist</source>
-        <translation type="unfinished">&amp;Borrar lista de reproducción</translation>
+      <source>&amp;Clear playlist</source>
+      <translation type="unfinished">&amp;Clear playlist</translation>
     </message>
     <message>
-        <source>Clear playlist</source>
-        <translation type="unfinished">Vaciar lista de reproducción</translation>
+      <source>Clear playlist</source>
+      <translation type="unfinished">Clear playlist</translation>
     </message>
     <message>
-        <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+K</source>
+      <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Editar información de la pista…</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+E</source>
+      <translation type="unfinished">Ctrl+E</translation>
     </message>
     <message>
-        <source>Renumber tracks in this order...</source>
-        <translation type="unfinished">Reordenar pistas en este orden…</translation>
+      <source>Renumber tracks in this order...</source>
+      <translation type="unfinished">Renumber tracks in this order...</translation>
     </message>
     <message>
-        <source>Set value for all selected tracks...</source>
-        <translation type="unfinished">Establecer valor para todas las pistas seleccionadas…</translation>
+      <source>Set value for all selected tracks...</source>
+      <translation type="unfinished">Set value for all selected tracks...</translation>
     </message>
     <message>
-        <source>Edit tag...</source>
-        <translation type="unfinished">Editar etiqueta…</translation>
+      <source>Edit tag...</source>
+      <translation type="unfinished">Edit tag...</translation>
     </message>
     <message>
-        <source>&amp;Settings...</source>
-        <translation type="unfinished">&amp;Configuración…</translation>
+      <source>&amp;Settings...</source>
+      <translation type="unfinished">&amp;Settings...</translation>
     </message>
     <message>
-        <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+P</source>
+      <translation type="unfinished">Ctrl+P</translation>
     </message>
     <message>
-        <source>&amp;About Strawberry</source>
-        <translation type="unfinished">&amp;Acerca de Strawberry</translation>
+      <source>&amp;About Strawberry</source>
+      <translation type="unfinished">&amp;About Strawberry</translation>
     </message>
     <message>
-        <source>F1</source>
-        <translation type="unfinished"></translation>
+      <source>F1</source>
+      <translation type="unfinished">F1</translation>
     </message>
     <message>
-        <source>S&amp;huffle playlist</source>
-        <translation type="unfinished">&amp;Mezclar lista de reproducción</translation>
+      <source>S&amp;huffle playlist</source>
+      <translation type="unfinished">S&amp;huffle playlist</translation>
     </message>
     <message>
-        <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+H</source>
+      <translation type="unfinished">Ctrl+H</translation>
     </message>
     <message>
-        <source>&amp;Add file...</source>
-        <translation type="unfinished">&amp;Añadir archivo...</translation>
+      <source>&amp;Add file...</source>
+      <translation type="unfinished">&amp;Add file...</translation>
     </message>
     <message>
-        <source>Ctrl+Shift+A</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+Shift+A</source>
+      <translation type="unfinished">Ctrl+Shift+A</translation>
     </message>
     <message>
-        <source>&amp;Open file...</source>
-        <translation type="unfinished">&amp;Abrir archivo...</translation>
+      <source>&amp;Open file...</source>
+      <translation type="unfinished">&amp;Open file...</translation>
     </message>
     <message>
-        <source>Open audio &amp;CD...</source>
-        <translation type="unfinished">Abrir &amp;CD de audio...</translation>
+      <source>Open audio &amp;CD...</source>
+      <translation type="unfinished">Open audio &amp;CD...</translation>
     </message>
     <message>
-        <source>&amp;Cover Manager</source>
-        <translation type="unfinished">&amp;Gestor de cubiertas</translation>
+      <source>&amp;Cover Manager</source>
+      <translation type="unfinished">&amp;Cover Manager</translation>
     </message>
     <message>
-        <source>C&amp;onsole</source>
-        <translation type="unfinished">C&amp;onsola</translation>
+      <source>C&amp;onsole</source>
+      <translation type="unfinished">C&amp;onsole</translation>
     </message>
     <message>
-        <source>&amp;Shuffle mode</source>
-        <translation type="unfinished">Modo &amp;aleatorio</translation>
+      <source>&amp;Shuffle mode</source>
+      <translation type="unfinished">&amp;Shuffle mode</translation>
     </message>
     <message>
-        <source>&amp;Repeat mode</source>
-        <translation type="unfinished">Modo de &amp;repetición</translation>
+      <source>&amp;Repeat mode</source>
+      <translation type="unfinished">&amp;Repeat mode</translation>
     </message>
     <message>
-        <source>Remove from playlist</source>
-        <translation type="unfinished">Quitar de la lista de reproducción</translation>
+      <source>Remove from playlist</source>
+      <translation type="unfinished">Remove from playlist</translation>
     </message>
     <message>
-        <source>&amp;Equalizer</source>
-        <translation type="unfinished">&amp;Ecualizador</translation>
+      <source>&amp;Equalizer</source>
+      <translation type="unfinished">&amp;Equalizer</translation>
     </message>
     <message>
-        <source>&amp;Transcode Music</source>
-        <translation type="unfinished">Conver&amp;tir música</translation>
+      <source>&amp;Transcode Music</source>
+      <translation type="unfinished">&amp;Transcode Music</translation>
     </message>
     <message>
-        <source>Add &amp;folder...</source>
-        <translation type="unfinished">Añadir &amp;carpeta...</translation>
+      <source>Add &amp;folder...</source>
+      <translation type="unfinished">Add &amp;folder...</translation>
     </message>
     <message>
-        <source>&amp;Jump to the currently playing track</source>
-        <translation type="unfinished">&amp;Saltar a la pista en reproducción</translation>
+      <source>&amp;Jump to the currently playing track</source>
+      <translation type="unfinished">&amp;Jump to the currently playing track</translation>
     </message>
     <message>
-        <source>Ctrl+J</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+J</source>
+      <translation type="unfinished">Ctrl+J</translation>
     </message>
     <message>
-        <source>&amp;New playlist</source>
-        <translation type="unfinished">Lista de reproducción &amp;nueva</translation>
+      <source>&amp;New playlist</source>
+      <translation type="unfinished">&amp;New playlist</translation>
     </message>
     <message>
-        <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+N</source>
+      <translation type="unfinished">Ctrl+N</translation>
     </message>
     <message>
-        <source>Save &amp;playlist...</source>
-        <translation type="unfinished">Guardar lista de re&amp;producción</translation>
+      <source>Save &amp;playlist...</source>
+      <translation type="unfinished">Save &amp;playlist...</translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+S</source>
+      <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
-        <source>&amp;Load playlist...</source>
-        <translation type="unfinished">&amp;Cargar lista de reproducción...</translation>
+      <source>&amp;Load playlist...</source>
+      <translation type="unfinished">&amp;Load playlist...</translation>
     </message>
     <message>
-        <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+Shift+O</source>
+      <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <source>&amp;Save all playlists...</source>
-        <translation type="unfinished"></translation>
+      <source>&amp;Save all playlists...</source>
+      <translation type="unfinished">&amp;Save all playlists...</translation>
     </message>
     <message>
-        <source>Go to next playlist tab</source>
-        <translation type="unfinished">Ir a la siguiente pestaña de lista de reproducción</translation>
+      <source>Go to next playlist tab</source>
+      <translation type="unfinished">Go to next playlist tab</translation>
     </message>
     <message>
-        <source>Go to previous playlist tab</source>
-        <translation type="unfinished">Ir a la anterior pestaña de lista de reproducción</translation>
+      <source>Go to previous playlist tab</source>
+      <translation type="unfinished">Go to previous playlist tab</translation>
     </message>
     <message>
-        <source>&amp;Update changed collection folders</source>
-        <translation type="unfinished">&amp;Actualizar carpetas de la fonoteca con cambios</translation>
+      <source>&amp;Update changed collection folders</source>
+      <translation type="unfinished">&amp;Update changed collection folders</translation>
     </message>
     <message>
-        <source>About &amp;Qt</source>
-        <translation type="unfinished">Acerca de &amp;Qt</translation>
+      <source>About &amp;Qt</source>
+      <translation type="unfinished">About &amp;Qt</translation>
     </message>
     <message>
-        <source>&amp;Mute</source>
-        <translation type="unfinished">&amp;Silenciar</translation>
+      <source>&amp;Mute</source>
+      <translation type="unfinished">&amp;Mute</translation>
     </message>
     <message>
-        <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+M</source>
+      <translation type="unfinished">Ctrl+M</translation>
     </message>
     <message>
-        <source>&amp;Do a full collection rescan</source>
-        <translation type="unfinished">Anali&amp;zar de nuevo toda la fonoteca</translation>
+      <source>&amp;Do a full collection rescan</source>
+      <translation type="unfinished">&amp;Do a full collection rescan</translation>
     </message>
     <message>
-        <source>Stop collection scan</source>
-        <translation type="unfinished"></translation>
+      <source>Stop collection scan</source>
+      <translation type="unfinished">Stop collection scan</translation>
     </message>
     <message>
-        <source>Complete tags automatically...</source>
-        <translation type="unfinished">Completar etiquetas automáticamente…</translation>
+      <source>Complete tags automatically...</source>
+      <translation type="unfinished">Complete tags automatically...</translation>
     </message>
     <message>
-        <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+T</source>
+      <translation type="unfinished">Ctrl+T</translation>
     </message>
     <message>
-        <source>Toggle scrobbling</source>
-        <translation type="unfinished">Alternar seguimiento de reproducción</translation>
+      <source>Toggle scrobbling</source>
+      <translation type="unfinished">Toggle scrobbling</translation>
     </message>
     <message>
-        <source>Remove &amp;duplicates from playlist</source>
-        <translation type="unfinished">Quitar &amp;duplicados de la lista de reproducción</translation>
+      <source>Remove &amp;duplicates from playlist</source>
+      <translation type="unfinished">Remove &amp;duplicates from playlist</translation>
     </message>
     <message>
-        <source>Remove &amp;unavailable tracks from playlist</source>
-        <translation type="unfinished">Quitar pistas &amp;no disponibles de la lista de reproducción</translation>
+      <source>Remove &amp;unavailable tracks from playlist</source>
+      <translation type="unfinished">Remove &amp;unavailable tracks from playlist</translation>
     </message>
     <message>
-        <source>Add file(s) to transcoder</source>
-        <translation type="unfinished">Añadir archivo(s) que convertir</translation>
+      <source>Add file(s) to transcoder</source>
+      <translation type="unfinished">Add file(s) to transcoder</translation>
     </message>
     <message>
-        <source>Add file to transcoder</source>
-        <translation type="unfinished">Añadir archivo que convertir</translation>
+      <source>Add file to transcoder</source>
+      <translation type="unfinished">Add file to transcoder</translation>
     </message>
     <message>
-        <source>Add stream...</source>
-        <translation type="unfinished">Añadir emisora…</translation>
+      <source>Add stream...</source>
+      <translation type="unfinished">Add stream...</translation>
     </message>
     <message>
-        <source>Show sidebar</source>
-        <translation type="unfinished">Mostrar barra lateral</translation>
+      <source>Show sidebar</source>
+      <translation type="unfinished">Show sidebar</translation>
     </message>
     <message>
-        <source>Import data from last.fm...</source>
-        <translation type="unfinished">Importar datos de Last.fm…</translation>
+      <source>Import data from last.fm...</source>
+      <translation type="unfinished">Import data from last.fm...</translation>
     </message>
     <message>
-        <source>All Files (*)</source>
-        <translation type="unfinished">Todos los archivos (*)</translation>
+      <source>All Files (*)</source>
+      <translation type="unfinished">All Files (*)</translation>
     </message>
     <message>
-        <source>Context</source>
-        <translation type="unfinished">Contexto</translation>
+      <source>Context</source>
+      <translation type="unfinished">Context</translation>
     </message>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Colección</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>Queue</source>
-        <translation type="unfinished">Cola</translation>
+      <source>Queue</source>
+      <translation type="unfinished">Queue</translation>
     </message>
     <message>
-        <source>Playlists</source>
-        <translation type="unfinished">Listas</translation>
+      <source>Playlists</source>
+      <translation type="unfinished">Playlists</translation>
     </message>
     <message>
-        <source>Smart playlists</source>
-        <translation type="unfinished">Listas inteligentes</translation>
+      <source>Smart playlists</source>
+      <translation type="unfinished">Smart playlists</translation>
     </message>
     <message>
-        <source>Files</source>
-        <translation type="unfinished">Archivos</translation>
+      <source>Files</source>
+      <translation type="unfinished">Files</translation>
     </message>
     <message>
-        <source>Radios</source>
-        <translation type="unfinished"></translation>
+      <source>Radios</source>
+      <translation type="unfinished">Radios</translation>
     </message>
     <message>
-        <source>Devices</source>
-        <translation type="unfinished">Dispositivos</translation>
+      <source>Devices</source>
+      <translation type="unfinished">Devices</translation>
     </message>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished"></translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished"></translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Spotify</source>
-        <translation type="unfinished"></translation>
+      <source>Spotify</source>
+      <translation type="unfinished">Spotify</translation>
     </message>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished"></translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>Show all songs</source>
-        <translation type="unfinished">Mostrar todas las pistas</translation>
+      <source>Show all songs</source>
+      <translation type="unfinished">Show all songs</translation>
     </message>
     <message>
-        <source>Show only duplicates</source>
-        <translation type="unfinished">Mostrar solo los duplicados</translation>
+      <source>Show only duplicates</source>
+      <translation type="unfinished">Show only duplicates</translation>
     </message>
     <message>
-        <source>Show only untagged</source>
-        <translation type="unfinished">Solo mostrar no etiquetadas</translation>
+      <source>Show only untagged</source>
+      <translation type="unfinished">Show only untagged</translation>
     </message>
     <message>
-        <source>Configure collection...</source>
-        <translation type="unfinished">Configurar colección…</translation>
+      <source>Configure collection...</source>
+      <translation type="unfinished">Configure collection...</translation>
     </message>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Reproducir</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
     <message>
-        <source>Toggle queue status</source>
-        <translation type="unfinished">Cambiar estado de la cola</translation>
+      <source>Toggle queue status</source>
+      <translation type="unfinished">Toggle queue status</translation>
     </message>
     <message>
-        <source>Queue selected tracks to play next</source>
-        <translation type="unfinished">Poner en cola las pistas seleccionadas para reproducir a continuación</translation>
+      <source>Queue selected tracks to play next</source>
+      <translation type="unfinished">Queue selected tracks to play next</translation>
     </message>
     <message>
-        <source>Toggle skip status</source>
-        <translation type="unfinished">Alternar estado de avance</translation>
+      <source>Toggle skip status</source>
+      <translation type="unfinished">Toggle skip status</translation>
     </message>
     <message>
-        <source>Rescan song(s)...</source>
-        <translation type="unfinished">Volver a escanear tema(s)...</translation>
+      <source>Rescan song(s)...</source>
+      <translation type="unfinished">Rescan song(s)...</translation>
     </message>
     <message>
-        <source>Copy URL(s)...</source>
-        <translation type="unfinished">Copiar URL…</translation>
+      <source>Copy URL(s)...</source>
+      <translation type="unfinished">Copy URL(s)...</translation>
     </message>
     <message>
-        <source>Show in collection...</source>
-        <translation type="unfinished">Mostrar en la colección…</translation>
+      <source>Show in collection...</source>
+      <translation type="unfinished">Show in collection...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Mostrar en el gestor de archivos…</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
     <message>
-        <source>Organize files...</source>
-        <translation type="unfinished">Organizar archivos…</translation>
+      <source>Organize files...</source>
+      <translation type="unfinished">Organize files...</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Copiar en la colección…</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Move to collection...</source>
-        <translation type="unfinished">Mover a la colección…</translation>
+      <source>Move to collection...</source>
+      <translation type="unfinished">Move to collection...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Copiar en un dispositivo…</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Eliminar del disco…</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Check for updates...</source>
-        <translation type="unfinished">Buscar actualizaciones…</translation>
+      <source>Check for updates...</source>
+      <translation type="unfinished">Check for updates...</translation>
     </message>
     <message>
-        <source>Strawberry running under Rosetta</source>
-        <translation type="unfinished"></translation>
+      <source>Strawberry running under Rosetta</source>
+      <translation type="unfinished">Strawberry running under Rosetta</translation>
     </message>
     <message>
-        <source>You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</source>
-        <translation type="unfinished"></translation>
+      <source>You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</source>
+      <translation type="unfinished">You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</translation>
     </message>
     <message>
-        <source>Sponsoring Strawberry</source>
-        <translation type="unfinished"></translation>
+      <source>Sponsoring Strawberry</source>
+      <translation type="unfinished">Sponsoring Strawberry</translation>
     </message>
     <message>
-        <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
-        <translation type="unfinished"></translation>
+      <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
+      <translation type="unfinished">Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Pausar</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Dequeue track</source>
-        <translation type="unfinished">Quitar la pista de la cola</translation>
+      <source>Dequeue track</source>
+      <translation type="unfinished">Dequeue track</translation>
     </message>
     <message>
-        <source>Dequeue selected tracks</source>
-        <translation type="unfinished">Quitar las pistas seleccionadas de la cola</translation>
+      <source>Dequeue selected tracks</source>
+      <translation type="unfinished">Dequeue selected tracks</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Poner pista en cola</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue selected tracks</source>
-        <translation type="unfinished">Poner en cola las pistas seleccionadas</translation>
+      <source>Queue selected tracks</source>
+      <translation type="unfinished">Queue selected tracks</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Poner en cola para reproducir a continuación</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Unskip track</source>
-        <translation type="unfinished">No omitir pista</translation>
+      <source>Unskip track</source>
+      <translation type="unfinished">Unskip track</translation>
     </message>
     <message>
-        <source>Unskip selected tracks</source>
-        <translation type="unfinished">No omitir pistas seleccionadas</translation>
+      <source>Unskip selected tracks</source>
+      <translation type="unfinished">Unskip selected tracks</translation>
     </message>
     <message>
-        <source>Skip track</source>
-        <translation type="unfinished">Omitir pista</translation>
+      <source>Skip track</source>
+      <translation type="unfinished">Skip track</translation>
     </message>
     <message>
-        <source>Skip selected tracks</source>
-        <translation type="unfinished">Omitir pistas seleccionadas</translation>
+      <source>Skip selected tracks</source>
+      <translation type="unfinished">Skip selected tracks</translation>
     </message>
     <message>
-        <source>Set %1 to &quot;%2&quot;...</source>
-        <translation type="unfinished">Establecer %1 a «%2»…</translation>
+      <source>Set %1 to &quot;%2&quot;...</source>
+      <translation type="unfinished">Set %1 to &quot;%2&quot;...</translation>
     </message>
     <message>
-        <source>Edit tag &quot;%1&quot;...</source>
-        <translation type="unfinished">Editar etiqueta «%1»…</translation>
+      <source>Edit tag &quot;%1&quot;...</source>
+      <translation type="unfinished">Edit tag &quot;%1&quot;...</translation>
     </message>
     <message>
-        <source>Add to another playlist</source>
-        <translation type="unfinished">Añadir a otra lista de reproducción</translation>
+      <source>Add to another playlist</source>
+      <translation type="unfinished">Add to another playlist</translation>
     </message>
     <message>
-        <source>New playlist</source>
-        <translation type="unfinished">Lista nueva</translation>
+      <source>New playlist</source>
+      <translation type="unfinished">New playlist</translation>
     </message>
     <message>
-        <source>Add file</source>
-        <translation type="unfinished">Añadir archivo</translation>
+      <source>Add file</source>
+      <translation type="unfinished">Add file</translation>
     </message>
     <message>
-        <source>Music</source>
-        <translation type="unfinished">Música</translation>
+      <source>Music</source>
+      <translation type="unfinished">Music</translation>
     </message>
     <message>
-        <source>Add folder</source>
-        <translation type="unfinished">Añadir carpeta</translation>
+      <source>Add folder</source>
+      <translation type="unfinished">Add folder</translation>
     </message>
     <message>
-        <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
-        <translation type="unfinished">La lista de reproducción tiene %1 temas, demasiadas para deshacer, ¿estás seguro de que quieres eliminarla?</translation>
+      <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
+      <translation type="unfinished">Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>None of the selected songs were suitable for copying to a device</source>
-        <translation type="unfinished">Ninguna de las pistas seleccionadas era apta para copiarse en un dispositivo</translation>
+      <source>None of the selected songs were suitable for copying to a device</source>
+      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
     </message>
     <message>
-        <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
-        <translation type="unfinished">La versión de Strawberry a la que se acaba de actualizar necesita volver a analizar la colección debido a estas nuevas funciones:</translation>
+      <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
+      <translation type="unfinished">The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</translation>
     </message>
     <message>
-        <source>Would you like to run a full rescan right now?</source>
-        <translation type="unfinished">¿Quiere ejecutar un nuevo análisis completo ahora?</translation>
+      <source>Would you like to run a full rescan right now?</source>
+      <translation type="unfinished">Would you like to run a full rescan right now?</translation>
     </message>
     <message>
-        <source>Collection rescan notice</source>
-        <translation type="unfinished">Notificación de nuevo análisis de la colección</translation>
+      <source>Collection rescan notice</source>
+      <translation type="unfinished">Collection rescan notice</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GroupByDialog</name>
     <message>
-        <source>Collection advanced grouping</source>
-        <translation type="unfinished">Agrupamiento avanzado de la colección</translation>
+      <source>Collection advanced grouping</source>
+      <translation type="unfinished">Collection advanced grouping</translation>
     </message>
     <message>
-        <source>You can change the way the songs in the collection are organized.</source>
-        <translation type="unfinished">Puede modificar cómo se organizan los temas en la fonoteca</translation>
+      <source>You can change the way the songs in the collection are organized.</source>
+      <translation type="unfinished">You can change the way the songs in the collection are organized.</translation>
     </message>
     <message>
-        <source>Group Collection by...</source>
-        <translation type="unfinished">Agrupar colección por…</translation>
+      <source>Group Collection by...</source>
+      <translation type="unfinished">Group Collection by...</translation>
     </message>
     <message>
-        <source>First level</source>
-        <translation type="unfinished">Primer nivel</translation>
+      <source>First level</source>
+      <translation type="unfinished">First level</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Artista del álbum</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Album - Disc</source>
-        <translation type="unfinished">Álbum - Disco</translation>
+      <source>Album - Disc</source>
+      <translation type="unfinished">Album - Disc</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Disco</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation type="unfinished">Formato</translation>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Género</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Year - Album</source>
-        <translation type="unfinished">Año - álbum</translation>
+      <source>Year - Album</source>
+      <translation type="unfinished">Year - Album</translation>
     </message>
     <message>
-        <source>Year - Album - Disc</source>
-        <translation type="unfinished">Año - álbum - disco</translation>
+      <source>Year - Album - Disc</source>
+      <translation type="unfinished">Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Año original</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Original year - Album</source>
-        <translation type="unfinished">Año original - álbum</translation>
+      <source>Original year - Album</source>
+      <translation type="unfinished">Original year - Album</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Compositor</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Intérprete</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Agrupamiento</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Tipo</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Frecuencia</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Resolución</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Second level</source>
-        <translation type="unfinished">Segundo nivel</translation>
+      <source>Second level</source>
+      <translation type="unfinished">Second level</translation>
     </message>
     <message>
-        <source>Third level</source>
-        <translation type="unfinished">Tercer nivel</translation>
+      <source>Third level</source>
+      <translation type="unfinished">Third level</translation>
     </message>
     <message>
-        <source>Separate albums by grouping tag</source>
-        <translation type="unfinished"></translation>
+      <source>Separate albums by grouping tag</source>
+      <translation type="unfinished">Separate albums by grouping tag</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionFilterWidget</name>
     <message>
-        <source>Collection Filter</source>
-        <translation type="unfinished">Filtro de colección</translation>
+      <source>Collection Filter</source>
+      <translation type="unfinished">Collection Filter</translation>
     </message>
     <message>
-        <source>Enter search terms here</source>
-        <translation type="unfinished">Introduzca aquí términos de búsqueda</translation>
+      <source>Enter search terms here</source>
+      <translation type="unfinished">Enter search terms here</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Entire collection</source>
-        <translation type="unfinished">Fonoteca completa</translation>
+      <source>Entire collection</source>
+      <translation type="unfinished">Entire collection</translation>
     </message>
     <message>
-        <source>Added today</source>
-        <translation type="unfinished">Añadidas hoy</translation>
+      <source>Added today</source>
+      <translation type="unfinished">Added today</translation>
     </message>
     <message>
-        <source>Added this week</source>
-        <translation type="unfinished">Añadidas esta semana</translation>
+      <source>Added this week</source>
+      <translation type="unfinished">Added this week</translation>
     </message>
     <message>
-        <source>Added within three months</source>
-        <translation type="unfinished">Añadidas en los últimos tres meses</translation>
+      <source>Added within three months</source>
+      <translation type="unfinished">Added within three months</translation>
     </message>
     <message>
-        <source>Added this year</source>
-        <translation type="unfinished">Añadidas este año</translation>
+      <source>Added this year</source>
+      <translation type="unfinished">Added this year</translation>
     </message>
     <message>
-        <source>Added this month</source>
-        <translation type="unfinished">Añadidas este mes</translation>
+      <source>Added this month</source>
+      <translation type="unfinished">Added this month</translation>
     </message>
     <message>
-        <source>Save current grouping</source>
-        <translation type="unfinished">Guardar agrupamiento actual</translation>
+      <source>Save current grouping</source>
+      <translation type="unfinished">Save current grouping</translation>
     </message>
     <message>
-        <source>Manage saved groupings</source>
-        <translation type="unfinished">Gestionar agrupamientos guardados</translation>
+      <source>Manage saved groupings</source>
+      <translation type="unfinished">Manage saved groupings</translation>
     </message>
     <message>
-        <source>Show</source>
-        <translation type="unfinished">Mostrar</translation>
+      <source>Show</source>
+      <translation type="unfinished">Show</translation>
     </message>
     <message>
-        <source>Group by</source>
-        <translation type="unfinished">Agrupar por</translation>
+      <source>Group by</source>
+      <translation type="unfinished">Group by</translation>
     </message>
     <message>
-        <source>Display options</source>
-        <translation type="unfinished">Opciones de visualización</translation>
+      <source>Display options</source>
+      <translation type="unfinished">Display options</translation>
     </message>
     <message>
-        <source>Group by Album artist/Album</source>
-        <translation type="unfinished">Agrupar por artista del álbum/álbum</translation>
+      <source>Group by Album artist/Album</source>
+      <translation type="unfinished">Group by Album artist/Album</translation>
     </message>
     <message>
-        <source>Group by Album artist/Album - Disc</source>
-        <translation type="unfinished">Agrupar por artista del álbum/álbum - disco</translation>
+      <source>Group by Album artist/Album - Disc</source>
+      <translation type="unfinished">Group by Album artist/Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Album artist/Year - Album</source>
-        <translation type="unfinished">Agrupar por artista del álbum/año - álbum</translation>
+      <source>Group by Album artist/Year - Album</source>
+      <translation type="unfinished">Group by Album artist/Year - Album</translation>
     </message>
     <message>
-        <source>Group by Album artist/Year - Album - Disc</source>
-        <translation type="unfinished">Agrupar por artista del álbum/año - álbum - disco</translation>
+      <source>Group by Album artist/Year - Album - Disc</source>
+      <translation type="unfinished">Group by Album artist/Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Artist/Album</source>
-        <translation type="unfinished">Agrupar por artista/álbum</translation>
+      <source>Group by Artist/Album</source>
+      <translation type="unfinished">Group by Artist/Album</translation>
     </message>
     <message>
-        <source>Group by Artist/Album - Disc</source>
-        <translation type="unfinished">Agrupar por artista/álbum - disco</translation>
+      <source>Group by Artist/Album - Disc</source>
+      <translation type="unfinished">Group by Artist/Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Artist/Year - Album</source>
-        <translation type="unfinished">Agrupar por artista/año - álbum</translation>
+      <source>Group by Artist/Year - Album</source>
+      <translation type="unfinished">Group by Artist/Year - Album</translation>
     </message>
     <message>
-        <source>Group by Artist/Year - Album - Disc</source>
-        <translation type="unfinished">Agrupar por artista/año - álbum - disco</translation>
+      <source>Group by Artist/Year - Album - Disc</source>
+      <translation type="unfinished">Group by Artist/Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Genre/Album artist/Album</source>
-        <translation type="unfinished">Agrupar por género/artista del álbum/álbum</translation>
+      <source>Group by Genre/Album artist/Album</source>
+      <translation type="unfinished">Group by Genre/Album artist/Album</translation>
     </message>
     <message>
-        <source>Group by Genre/Artist/Album</source>
-        <translation type="unfinished">Agrupar por género/artista/álbum</translation>
+      <source>Group by Genre/Artist/Album</source>
+      <translation type="unfinished">Group by Genre/Artist/Album</translation>
     </message>
     <message>
-        <source>Group by Album Artist</source>
-        <translation type="unfinished">Agrupar por artista del álbum</translation>
+      <source>Group by Album Artist</source>
+      <translation type="unfinished">Group by Album Artist</translation>
     </message>
     <message>
-        <source>Group by Artist</source>
-        <translation type="unfinished">Agrupar por artista</translation>
+      <source>Group by Artist</source>
+      <translation type="unfinished">Group by Artist</translation>
     </message>
     <message>
-        <source>Group by Album</source>
-        <translation type="unfinished">Agrupar por álbum</translation>
+      <source>Group by Album</source>
+      <translation type="unfinished">Group by Album</translation>
     </message>
     <message>
-        <source>Group by Genre/Album</source>
-        <translation type="unfinished">Agrupar por género/álbum</translation>
+      <source>Group by Genre/Album</source>
+      <translation type="unfinished">Group by Genre/Album</translation>
     </message>
     <message>
-        <source>Advanced grouping...</source>
-        <translation type="unfinished">Agrupamiento avanzado…</translation>
+      <source>Advanced grouping...</source>
+      <translation type="unfinished">Advanced grouping...</translation>
     </message>
     <message>
-        <source>Grouping Name</source>
-        <translation type="unfinished">Nombre de agrupamiento</translation>
+      <source>Grouping Name</source>
+      <translation type="unfinished">Grouping Name</translation>
     </message>
     <message>
-        <source>Grouping name:</source>
-        <translation type="unfinished">Nombre de agrupamiento:</translation>
+      <source>Grouping name:</source>
+      <translation type="unfinished">Grouping name:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SavedGroupingManager</name>
     <message>
-        <source>Saved Grouping Manager</source>
-        <translation type="unfinished">Gestor de agrupamientos guardados</translation>
+      <source>Saved Grouping Manager</source>
+      <translation type="unfinished">Saved Grouping Manager</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Ctrl+Up</source>
-        <translation type="unfinished">Ctrl+Arriba</translation>
+      <source>Ctrl+Up</source>
+      <translation type="unfinished">Ctrl+Up</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>First level</source>
-        <translation type="unfinished">Primer nivel</translation>
+      <source>First level</source>
+      <translation type="unfinished">First level</translation>
     </message>
     <message>
-        <source>Second Level</source>
-        <translation type="unfinished">Segundo nivel</translation>
+      <source>Second Level</source>
+      <translation type="unfinished">Second Level</translation>
     </message>
     <message>
-        <source>Third Level</source>
-        <translation type="unfinished">Tercer nivel</translation>
+      <source>Third Level</source>
+      <translation type="unfinished">Third Level</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Artista del álbum</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Album - Disc</source>
-        <translation type="unfinished">Álbum - Disco</translation>
+      <source>Album - Disc</source>
+      <translation type="unfinished">Album - Disc</translation>
     </message>
     <message>
-        <source>Year - Album</source>
-        <translation type="unfinished">Año - álbum</translation>
+      <source>Year - Album</source>
+      <translation type="unfinished">Year - Album</translation>
     </message>
     <message>
-        <source>Year - Album - Disc</source>
-        <translation type="unfinished">Año - álbum - disco</translation>
+      <source>Year - Album - Disc</source>
+      <translation type="unfinished">Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Original year - Album</source>
-        <translation type="unfinished">Año original - álbum</translation>
+      <source>Original year - Album</source>
+      <translation type="unfinished">Original year - Album</translation>
     </message>
     <message>
-        <source>Original year - Album - Disc</source>
-        <translation type="unfinished">Año original - álbum - disco</translation>
+      <source>Original year - Album - Disc</source>
+      <translation type="unfinished">Original year - Album - Disc</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Disco</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Año original</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Género</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Compositor</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Intérprete</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Agrupamiento</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Tipo</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation type="unfinished">Formato</translation>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Frecuencia</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Resolución</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation type="unfinished"></translation>
+      <source>Undo</source>
+      <translation type="unfinished">Undo</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation type="unfinished"></translation>
+      <source>Redo</source>
+      <translation type="unfinished">Redo</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Load playlist</source>
-        <translation type="unfinished">Cargar lista de reproducción</translation>
+      <source>Load playlist</source>
+      <translation type="unfinished">Load playlist</translation>
     </message>
     <message>
-        <source>No matches found.  Clear the search box to show the whole playlist again.</source>
-        <translation type="unfinished">No se encontraron coincidencias. Borre el texto introducido en el cuadro de búsqueda para mostrar la lista completa de nuevo.</translation>
+      <source>No matches found.  Clear the search box to show the whole playlist again.</source>
+      <translation type="unfinished">No matches found.  Clear the search box to show the whole playlist again.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistListContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>New folder</source>
-        <translation type="unfinished">Carpeta nueva</translation>
+      <source>New folder</source>
+      <translation type="unfinished">New folder</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation type="unfinished">Eliminar</translation>
+      <source>Delete</source>
+      <translation type="unfinished">Delete</translation>
     </message>
     <message>
-        <source>Save playlist</source>
-        <comment>Save playlist menu action.</comment>
-        <translation type="unfinished">Guardar lista de reproducción</translation>
+      <source>Save playlist</source>
+      <comment>Save playlist menu action.</comment>
+      <translation type="unfinished">Save playlist</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Copiar en un dispositivo…</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Enter the name of the folder</source>
-        <translation type="unfinished">Escriba el nombre de la carpeta</translation>
+      <source>Enter the name of the folder</source>
+      <translation type="unfinished">Enter the name of the folder</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Copy to device</source>
-        <translation type="unfinished">Copiar en un dispositivo</translation>
+      <source>Copy to device</source>
+      <translation type="unfinished">Copy to device</translation>
     </message>
     <message>
-        <source>Playlist must be open first.</source>
-        <translation type="unfinished">La lista debe abrirse primero.</translation>
+      <source>Playlist must be open first.</source>
+      <translation type="unfinished">Playlist must be open first.</translation>
     </message>
     <message>
-        <source>Remove playlists</source>
-        <translation type="unfinished">Eliminar listas de reproducción</translation>
+      <source>Remove playlists</source>
+      <translation type="unfinished">Remove playlists</translation>
     </message>
     <message>
-        <source>You are about to remove %1 playlists from your favorites, are you sure?</source>
-        <translation type="unfinished">¿Confirma que quiere eliminar %1 listas de reproducción de sus favoritos?</translation>
+      <source>You are about to remove %1 playlists from your favorites, are you sure?</source>
+      <translation type="unfinished">You are about to remove %1 playlists from your favorites, are you sure?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSaveOptionsDialog</name>
     <message>
-        <source>Playlist options</source>
-        <translation type="unfinished">Opciones de la lista de reproducción</translation>
+      <source>Playlist options</source>
+      <translation type="unfinished">Playlist options</translation>
     </message>
     <message>
-        <source>File paths</source>
-        <translation type="unfinished">Rutas de archivos</translation>
+      <source>File paths</source>
+      <translation type="unfinished">File paths</translation>
     </message>
     <message>
-        <source>This can be changed later through the preferences</source>
-        <translation type="unfinished">Esta opción puede modificarse luego en Preferencias</translation>
+      <source>This can be changed later through the preferences</source>
+      <translation type="unfinished">This can be changed later through the preferences</translation>
     </message>
     <message>
-        <source>Remember my choice</source>
-        <translation type="unfinished">Recordar mi elección</translation>
+      <source>Remember my choice</source>
+      <translation type="unfinished">Remember my choice</translation>
     </message>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+      <source>Automatic</source>
+      <translation type="unfinished">Automatic</translation>
     </message>
     <message>
-        <source>Relative</source>
-        <translation type="unfinished">Relativo</translation>
+      <source>Relative</source>
+      <translation type="unfinished">Relative</translation>
     </message>
     <message>
-        <source>Absolute</source>
-        <translation type="unfinished">Absoluto</translation>
+      <source>Absolute</source>
+      <translation type="unfinished">Absolute</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSequence</name>
     <message>
-        <source>Repeat</source>
-        <translation type="unfinished">Repetir</translation>
+      <source>Repeat</source>
+      <translation type="unfinished">Repeat</translation>
     </message>
     <message>
-        <source>Shuffle</source>
-        <translation type="unfinished">Aleatorio</translation>
+      <source>Shuffle</source>
+      <translation type="unfinished">Shuffle</translation>
     </message>
     <message>
-        <source>Don&apos;t repeat</source>
-        <translation type="unfinished">No repetir</translation>
+      <source>Don&apos;t repeat</source>
+      <translation type="unfinished">Don&apos;t repeat</translation>
     </message>
     <message>
-        <source>Repeat track</source>
-        <translation type="unfinished">Repetir pista</translation>
+      <source>Repeat track</source>
+      <translation type="unfinished">Repeat track</translation>
     </message>
     <message>
-        <source>Repeat album</source>
-        <translation type="unfinished">Repetir álbum</translation>
+      <source>Repeat album</source>
+      <translation type="unfinished">Repeat album</translation>
     </message>
     <message>
-        <source>Repeat playlist</source>
-        <translation type="unfinished">Repetir lista de reproducción</translation>
+      <source>Repeat playlist</source>
+      <translation type="unfinished">Repeat playlist</translation>
     </message>
     <message>
-        <source>Stop after each track</source>
-        <translation type="unfinished">Detener reproducción al finalizar cada pista</translation>
+      <source>Stop after each track</source>
+      <translation type="unfinished">Stop after each track</translation>
     </message>
     <message>
-        <source>Intro tracks</source>
-        <translation type="unfinished">Pistas de introducción</translation>
+      <source>Intro tracks</source>
+      <translation type="unfinished">Intro tracks</translation>
     </message>
     <message>
-        <source>Don&apos;t shuffle</source>
-        <translation type="unfinished">No mezclar</translation>
+      <source>Don&apos;t shuffle</source>
+      <translation type="unfinished">Don&apos;t shuffle</translation>
     </message>
     <message>
-        <source>Shuffle tracks in this album</source>
-        <translation type="unfinished">Mezclar pistas de este álbum</translation>
+      <source>Shuffle tracks in this album</source>
+      <translation type="unfinished">Shuffle tracks in this album</translation>
     </message>
     <message>
-        <source>Shuffle all</source>
-        <translation type="unfinished">Mezclar todo</translation>
+      <source>Shuffle all</source>
+      <translation type="unfinished">Shuffle all</translation>
     </message>
     <message>
-        <source>Shuffle albums</source>
-        <translation type="unfinished">Mezclar álbumes</translation>
+      <source>Shuffle albums</source>
+      <translation type="unfinished">Shuffle albums</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DynamicPlaylistControls</name>
     <message>
-        <source>Dynamic mode is on</source>
-        <translation type="unfinished">Modo dinámico activado</translation>
+      <source>Dynamic mode is on</source>
+      <translation type="unfinished">Dynamic mode is on</translation>
     </message>
     <message>
-        <source>New tracks will be added automatically.</source>
-        <translation type="unfinished">Las pistas nuevas se añadirán automáticamente.</translation>
+      <source>New tracks will be added automatically.</source>
+      <translation type="unfinished">New tracks will be added automatically.</translation>
     </message>
     <message>
-        <source>Expand</source>
-        <translation type="unfinished">Expandir</translation>
+      <source>Expand</source>
+      <translation type="unfinished">Expand</translation>
     </message>
     <message>
-        <source>Repopulate</source>
-        <translation type="unfinished">Volver a poblar</translation>
+      <source>Repopulate</source>
+      <translation type="unfinished">Repopulate</translation>
     </message>
     <message>
-        <source>Turn off</source>
-        <translation type="unfinished">Apagar</translation>
+      <source>Turn off</source>
+      <translation type="unfinished">Turn off</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QueueView</name>
     <message>
-        <source>QueueView</source>
-        <translation type="unfinished">Vista de la cola</translation>
+      <source>QueueView</source>
+      <translation type="unfinished">QueueView</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Bajar</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Ctrl+Up</source>
-        <translation type="unfinished">Ctrl+Arriba</translation>
+      <source>Ctrl+Up</source>
+      <translation type="unfinished">Ctrl+Up</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Subir</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Ctrl+Down</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+Down</source>
+      <translation type="unfinished">Ctrl+Down</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Borrar</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+      <source>Ctrl+K</source>
+      <translation type="unfinished">Ctrl+K</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQuerySearchPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Search mode</source>
-        <translation type="unfinished">Mode de búsqueda</translation>
+      <source>Search mode</source>
+      <translation type="unfinished">Search mode</translation>
     </message>
     <message>
-        <source>Match every search term (AND)</source>
-        <translation type="unfinished">Hacer coincidir todos los términos (Y)</translation>
+      <source>Match every search term (AND)</source>
+      <translation type="unfinished">Match every search term (AND)</translation>
     </message>
     <message>
-        <source>Match one or more search terms (OR)</source>
-        <translation type="unfinished">Hacer coincidir algún término (O)</translation>
+      <source>Match one or more search terms (OR)</source>
+      <translation type="unfinished">Match one or more search terms (OR)</translation>
     </message>
     <message>
-        <source>Include all songs</source>
-        <translation type="unfinished">Incluir todas las canciones</translation>
+      <source>Include all songs</source>
+      <translation type="unfinished">Include all songs</translation>
     </message>
     <message>
-        <source>Search terms</source>
-        <translation type="unfinished">Términos de búsqueda</translation>
+      <source>Search terms</source>
+      <translation type="unfinished">Search terms</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQuerySortPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Sorting</source>
-        <translation type="unfinished">Ordenación</translation>
+      <source>Sorting</source>
+      <translation type="unfinished">Sorting</translation>
     </message>
     <message>
-        <source>Put songs in a random order</source>
-        <translation type="unfinished">Disponer canciones en orden aleatorio</translation>
+      <source>Put songs in a random order</source>
+      <translation type="unfinished">Put songs in a random order</translation>
     </message>
     <message>
-        <source>Sort songs by</source>
-        <translation type="unfinished">Ordenar temas por</translation>
+      <source>Sort songs by</source>
+      <translation type="unfinished">Sort songs by</translation>
     </message>
     <message>
-        <source>Limits</source>
-        <translation type="unfinished">Límites</translation>
+      <source>Limits</source>
+      <translation type="unfinished">Limits</translation>
     </message>
     <message>
-        <source>Show all the songs</source>
-        <translation type="unfinished">Mostrar todos los temas</translation>
+      <source>Show all the songs</source>
+      <translation type="unfinished">Show all the songs</translation>
     </message>
     <message>
-        <source>Only show the first</source>
-        <translation type="unfinished">Mostrar solo el primero</translation>
+      <source>Only show the first</source>
+      <translation type="unfinished">Only show the first</translation>
     </message>
     <message>
-        <source> songs</source>
-        <translation type="unfinished">temas</translation>
+      <source> songs</source>
+      <translation type="unfinished"> songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchPreview</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Previsualización</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Cargando…</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>%1 songs found (showing %2)</source>
-        <translation type="unfinished">%1 canciones encontradas (se muestran %2)</translation>
+      <source>%1 songs found (showing %2)</source>
+      <translation type="unfinished">%1 songs found (showing %2)</translation>
     </message>
     <message>
-        <source>%1 songs found</source>
-        <translation type="unfinished">%1 canciones encontradas</translation>
+      <source>%1 songs found</source>
+      <translation type="unfinished">%1 songs found</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchTermWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>and</source>
-        <translation type="unfinished">y</translation>
+      <source>and</source>
+      <translation type="unfinished">and</translation>
     </message>
     <message>
-        <source>ago</source>
-        <translation type="unfinished">hace</translation>
+      <source>ago</source>
+      <translation type="unfinished">ago</translation>
     </message>
     <message>
-        <source>The second value must be greater than the first one!</source>
-        <translation type="unfinished">El segundo valor debe ser mayor que el primero.</translation>
+      <source>The second value must be greater than the first one!</source>
+      <translation type="unfinished">The second value must be greater than the first one!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistsViewContainer</name>
     <message>
-        <source>New smart playlist</source>
-        <translation type="unfinished">Lista inteligente nueva</translation>
+      <source>New smart playlist</source>
+      <translation type="unfinished">New smart playlist</translation>
     </message>
     <message>
-        <source>Edit smart playlist</source>
-        <translation type="unfinished">Editar lista inteligente</translation>
+      <source>Edit smart playlist</source>
+      <translation type="unfinished">Edit smart playlist</translation>
     </message>
     <message>
-        <source>Delete smart playlist</source>
-        <translation type="unfinished">Eliminar lista inteligente</translation>
+      <source>Delete smart playlist</source>
+      <translation type="unfinished">Delete smart playlist</translation>
     </message>
     <message>
-        <source>New smart playlist...</source>
-        <translation type="unfinished">Lista inteligente nueva…</translation>
+      <source>New smart playlist...</source>
+      <translation type="unfinished">New smart playlist...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Poner pista en cola</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Play next</source>
-        <translation type="unfinished">Reproducir siguiente</translation>
+      <source>Play next</source>
+      <translation type="unfinished">Play next</translation>
     </message>
     <message>
-        <source>Edit smart playlist...</source>
-        <translation type="unfinished">Editar lista inteligente...</translation>
+      <source>Edit smart playlist...</source>
+      <translation type="unfinished">Edit smart playlist...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistWizardFinishPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Use dynamic mode</source>
-        <translation type="unfinished">Usar modo dinámico</translation>
+      <source>Use dynamic mode</source>
+      <translation type="unfinished">Use dynamic mode</translation>
     </message>
     <message>
-        <source>In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</source>
-        <translation type="unfinished">En el modo dinámico se escogerán y añadirán nuevas pistas cada vez que un tema finalice.</translation>
+      <source>In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</source>
+      <translation type="unfinished">In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverExport</name>
     <message>
-        <source>Export covers</source>
-        <translation type="unfinished">Exportar cubiertas</translation>
+      <source>Export covers</source>
+      <translation type="unfinished">Export covers</translation>
     </message>
     <message>
-        <source>Output</source>
-        <translation type="unfinished">Salida</translation>
+      <source>Output</source>
+      <translation type="unfinished">Output</translation>
     </message>
     <message>
-        <source>Enter a filename for exported covers (no extension):</source>
-        <translation type="unfinished">Introduzca un nombre de archivo para las cubiertas exportadas (sin extensión):</translation>
+      <source>Enter a filename for exported covers (no extension):</source>
+      <translation type="unfinished">Enter a filename for exported covers (no extension):</translation>
     </message>
     <message>
-        <source>Export downloaded covers</source>
-        <translation type="unfinished">Exportar cubiertas descargadas</translation>
+      <source>Export downloaded covers</source>
+      <translation type="unfinished">Export downloaded covers</translation>
     </message>
     <message>
-        <source>Export embedded covers</source>
-        <translation type="unfinished">Exportar cubiertas incrustadas</translation>
+      <source>Export embedded covers</source>
+      <translation type="unfinished">Export embedded covers</translation>
     </message>
     <message>
-        <source>Existing covers</source>
-        <translation type="unfinished">Cubiertas existentes</translation>
+      <source>Existing covers</source>
+      <translation type="unfinished">Existing covers</translation>
     </message>
     <message>
-        <source>Do not overwrite</source>
-        <translation type="unfinished">No sobrescribir</translation>
+      <source>Do not overwrite</source>
+      <translation type="unfinished">Do not overwrite</translation>
     </message>
     <message>
-        <source>O&amp;verwrite all</source>
-        <translation type="unfinished">&amp;Sobrescribir todo</translation>
+      <source>O&amp;verwrite all</source>
+      <translation type="unfinished">O&amp;verwrite all</translation>
     </message>
     <message>
-        <source>Overwrite s&amp;maller ones only</source>
-        <translation type="unfinished">Sobrescribir únicamente los &amp;más pequeños</translation>
+      <source>Overwrite s&amp;maller ones only</source>
+      <translation type="unfinished">Overwrite s&amp;maller ones only</translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
     </message>
     <message>
-        <source>Scale size</source>
-        <translation type="unfinished">Tamaño de escala</translation>
+      <source>Scale size</source>
+      <translation type="unfinished">Scale size</translation>
     </message>
     <message>
-        <source>Size:</source>
-        <translation type="unfinished">Tamaño:</translation>
+      <source>Size:</source>
+      <translation type="unfinished">Size:</translation>
     </message>
     <message>
-        <source>Pixel</source>
-        <translation type="unfinished">Píxel</translation>
+      <source>Pixel</source>
+      <translation type="unfinished">Pixel</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverManager</name>
     <message>
-        <source>Cover Manager</source>
-        <translation type="unfinished">Gestor de cubiertas</translation>
+      <source>Cover Manager</source>
+      <translation type="unfinished">Cover Manager</translation>
     </message>
     <message>
-        <source>Enter search terms here</source>
-        <translation type="unfinished">Introduzca aquí términos de búsqueda</translation>
+      <source>Enter search terms here</source>
+      <translation type="unfinished">Enter search terms here</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation type="unfinished">Ver</translation>
+      <source>View</source>
+      <translation type="unfinished">View</translation>
     </message>
     <message>
-        <source>Total albums:</source>
-        <translation type="unfinished">Álbumes totales:</translation>
+      <source>Total albums:</source>
+      <translation type="unfinished">Total albums:</translation>
     </message>
     <message>
-        <source>Without cover:</source>
-        <translation type="unfinished">Sin cubierta:</translation>
+      <source>Without cover:</source>
+      <translation type="unfinished">Without cover:</translation>
     </message>
     <message>
-        <source>0</source>
-        <translation type="unfinished"></translation>
+      <source>0</source>
+      <translation type="unfinished">0</translation>
     </message>
     <message>
-        <source>Fetch Missing Covers</source>
-        <translation type="unfinished">Obtener las cubiertas que faltan</translation>
+      <source>Fetch Missing Covers</source>
+      <translation type="unfinished">Fetch Missing Covers</translation>
     </message>
     <message>
-        <source>Export Covers</source>
-        <translation type="unfinished">Exportar cubiertas</translation>
+      <source>Export Covers</source>
+      <translation type="unfinished">Export Covers</translation>
     </message>
     <message>
-        <source>Fetch automatically</source>
-        <translation type="unfinished">Obtener automáticamente</translation>
+      <source>Fetch automatically</source>
+      <translation type="unfinished">Fetch automatically</translation>
     </message>
     <message>
-        <source>Load</source>
-        <translation type="unfinished">Cargar</translation>
+      <source>Load</source>
+      <translation type="unfinished">Load</translation>
     </message>
     <message>
-        <source>Add to playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción</translation>
+      <source>Add to playlist</source>
+      <translation type="unfinished">Add to playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverSearcher</name>
     <message>
-        <source>Cover Manager</source>
-        <translation type="unfinished">Gestor de cubiertas</translation>
+      <source>Cover Manager</source>
+      <translation type="unfinished">Cover Manager</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+      <source>Search</source>
+      <translation type="unfinished">Search</translation>
     </message>
     <message>
-        <source>Covers from %1</source>
-        <translation type="unfinished">Cubiertas de %1</translation>
+      <source>Covers from %1</source>
+      <translation type="unfinished">Covers from %1</translation>
     </message>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Interrumpir</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverSearchStatisticsDialog</name>
     <message>
-        <source>Fetch completed</source>
-        <translation type="unfinished">Descarga finalizada</translation>
+      <source>Fetch completed</source>
+      <translation type="unfinished">Fetch completed</translation>
     </message>
     <message>
-        <source>Got %1 covers out of %2 (%3 failed)</source>
-        <translation type="unfinished">Se obtuvieron %1 cubiertas de %2 (%3 fallaron)</translation>
+      <source>Got %1 covers out of %2 (%3 failed)</source>
+      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
     </message>
     <message>
-        <source>Covers from %1</source>
-        <translation type="unfinished">Cubiertas de %1</translation>
+      <source>Covers from %1</source>
+      <translation type="unfinished">Covers from %1</translation>
     </message>
     <message>
-        <source>Total network requests made</source>
-        <translation type="unfinished">Total de solicitudes hechas a la red</translation>
+      <source>Total network requests made</source>
+      <translation type="unfinished">Total network requests made</translation>
     </message>
     <message>
-        <source>Average image size</source>
-        <translation type="unfinished">Tamaño medio de imagen</translation>
+      <source>Average image size</source>
+      <translation type="unfinished">Average image size</translation>
     </message>
     <message>
-        <source>Total bytes transferred</source>
-        <translation type="unfinished">Total de bytes transferidos</translation>
+      <source>Total bytes transferred</source>
+      <translation type="unfinished">Total bytes transferred</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverFromURLDialog</name>
     <message>
-        <source>Load cover from URL</source>
-        <translation type="unfinished">Cargar cubierta desde un URL</translation>
+      <source>Load cover from URL</source>
+      <translation type="unfinished">Load cover from URL</translation>
     </message>
     <message>
-        <source>Enter a URL to download a cover from the Internet:</source>
-        <translation type="unfinished">Introduzca un URL para descargar una cubierta de la Internet:</translation>
+      <source>Enter a URL to download a cover from the Internet:</source>
+      <translation type="unfinished">Enter a URL to download a cover from the Internet:</translation>
     </message>
     <message>
-        <source>Fetching cover error</source>
-        <translation type="unfinished">Error al obtener la cubierta</translation>
+      <source>Fetching cover error</source>
+      <translation type="unfinished">Fetching cover error</translation>
     </message>
     <message>
-        <source>The site you requested does not exist!</source>
-        <translation type="unfinished">El sitio indicado no existe.</translation>
+      <source>The site you requested does not exist!</source>
+      <translation type="unfinished">The site you requested does not exist!</translation>
     </message>
     <message>
-        <source>The site you requested is not an image!</source>
-        <translation type="unfinished">El sitio indicado no es una imagen.</translation>
+      <source>The site you requested is not an image!</source>
+      <translation type="unfinished">The site you requested is not an image!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SettingsDialog</name>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+      <source>Settings</source>
+      <translation type="unfinished">Settings</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
+      <source>General</source>
+      <translation type="unfinished">General</translation>
     </message>
     <message>
-        <source>User interface</source>
-        <translation type="unfinished">Interfaz de usuario</translation>
+      <source>User interface</source>
+      <translation type="unfinished">User interface</translation>
     </message>
     <message>
-        <source>Streaming</source>
-        <translation type="unfinished">Transmitiendo</translation>
+      <source>Streaming</source>
+      <translation type="unfinished">Streaming</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>BehaviourSettingsPage</name>
     <message>
-        <source>Behavior</source>
-        <translation type="unfinished">Comportamiento</translation>
+      <source>Behavior</source>
+      <translation type="unfinished">Behavior</translation>
     </message>
     <message>
-        <source>Show system tray icon</source>
-        <translation type="unfinished">Mostrar icono en la bandeja del sistema</translation>
+      <source>Show system tray icon</source>
+      <translation type="unfinished">Show system tray icon</translation>
     </message>
     <message>
-        <source>Keep running in the background when the window is closed</source>
-        <translation type="unfinished">Seguir ejecutando el programa en segundo plano al cerrar la ventana</translation>
+      <source>Keep running in the background when the window is closed</source>
+      <translation type="unfinished">Keep running in the background when the window is closed</translation>
     </message>
     <message>
-        <source>Show song progress on system tray icon</source>
-        <translation type="unfinished">Mostrar avance en el icono de la bandeja del sistema</translation>
+      <source>Show song progress on system tray icon</source>
+      <translation type="unfinished">Show song progress on system tray icon</translation>
     </message>
     <message>
-        <source>Show song progress on taskbar</source>
-        <translation type="unfinished"></translation>
+      <source>Show song progress on taskbar</source>
+      <translation type="unfinished">Show song progress on taskbar</translation>
     </message>
     <message>
-        <source>Resume playback on start</source>
-        <translation type="unfinished">Reanudar la reproducción al iniciar</translation>
+      <source>Resume playback on start</source>
+      <translation type="unfinished">Resume playback on start</translation>
     </message>
     <message>
-        <source>Show playing widget</source>
-        <translation type="unfinished">Mostrar mini aplicación de reproducción</translation>
+      <source>Show playing widget</source>
+      <translation type="unfinished">Show playing widget</translation>
     </message>
     <message>
-        <source>On startup</source>
-        <translation type="unfinished">Al iniciar</translation>
+      <source>On startup</source>
+      <translation type="unfinished">On startup</translation>
     </message>
     <message>
-        <source>Remember from &amp;last time</source>
-        <translation type="unfinished">Recordar de la ú&amp;ltima vez</translation>
+      <source>Remember from &amp;last time</source>
+      <translation type="unfinished">Remember from &amp;last time</translation>
     </message>
     <message>
-        <source>Show the main window</source>
-        <translation type="unfinished">Mostrar ventana principal</translation>
+      <source>Show the main window</source>
+      <translation type="unfinished">Show the main window</translation>
     </message>
     <message>
-        <source>Hide the main window</source>
-        <translation type="unfinished">Oculta la ventana principal</translation>
+      <source>Hide the main window</source>
+      <translation type="unfinished">Hide the main window</translation>
     </message>
     <message>
-        <source>Show the main window maximized</source>
-        <translation type="unfinished">Mostrar ventana principal maximizada</translation>
+      <source>Show the main window maximized</source>
+      <translation type="unfinished">Show the main window maximized</translation>
     </message>
     <message>
-        <source>Show the main window minimized</source>
-        <translation type="unfinished">Mostrar ventana principal minimizada</translation>
+      <source>Show the main window minimized</source>
+      <translation type="unfinished">Show the main window minimized</translation>
     </message>
     <message>
-        <source>Language</source>
-        <translation type="unfinished">Idioma</translation>
+      <source>Language</source>
+      <translation type="unfinished">Language</translation>
     </message>
     <message>
-        <source>Use the system default</source>
-        <translation type="unfinished">Utilizar valor predeterminado del sistema</translation>
+      <source>Use the system default</source>
+      <translation type="unfinished">Use the system default</translation>
     </message>
     <message>
-        <source>You will need to restart Strawberry if you change the language.</source>
-        <translation type="unfinished">Necesitará reiniciar Strawberry si cambia el idioma.</translation>
+      <source>You will need to restart Strawberry if you change the language.</source>
+      <translation type="unfinished">You will need to restart Strawberry if you change the language.</translation>
     </message>
     <message>
-        <source>Using the menu to add a song will...</source>
-        <translation type="unfinished">Al usar el menú para añadir una canción…</translation>
+      <source>Using the menu to add a song will...</source>
+      <translation type="unfinished">Using the menu to add a song will...</translation>
     </message>
     <message>
-        <source>Never start playing</source>
-        <translation type="unfinished">Nunca comenzar la reproducción</translation>
+      <source>Never start playing</source>
+      <translation type="unfinished">Never start playing</translation>
     </message>
     <message>
-        <source>Play if there is nothing already playing</source>
-        <translation type="unfinished">Reproducir si no hay nada en reproducción</translation>
+      <source>Play if there is nothing already playing</source>
+      <translation type="unfinished">Play if there is nothing already playing</translation>
     </message>
     <message>
-        <source>Always start playing</source>
-        <translation type="unfinished">Comenzar siempre la reproducción</translation>
+      <source>Always start playing</source>
+      <translation type="unfinished">Always start playing</translation>
     </message>
     <message>
-        <source>Pressing &quot;Previous&quot; in player will...</source>
-        <translation type="unfinished">Al pulsar en el botón «Anterior» del reproductor…</translation>
+      <source>Pressing &quot;Previous&quot; in player will...</source>
+      <translation type="unfinished">Pressing &quot;Previous&quot; in player will...</translation>
     </message>
     <message>
-        <source>Jump to previous song right away</source>
-        <translation type="unfinished">Ir a la pista anterior inmediatamente</translation>
+      <source>Jump to previous song right away</source>
+      <translation type="unfinished">Jump to previous song right away</translation>
     </message>
     <message>
-        <source>Restart song, then jump to previous if pressed again</source>
-        <translation type="unfinished">Reiniciar la pista e ir a la anterior si se hace clic nuevamente</translation>
+      <source>Restart song, then jump to previous if pressed again</source>
+      <translation type="unfinished">Restart song, then jump to previous if pressed again</translation>
     </message>
     <message>
-        <source>Double clicking a song will...</source>
-        <translation type="unfinished">Al pulsar dos veces en una canción…</translation>
+      <source>Double clicking a song will...</source>
+      <translation type="unfinished">Double clicking a song will...</translation>
     </message>
     <message>
-        <source>Append to the playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción</translation>
+      <source>Append to the playlist</source>
+      <translation type="unfinished">Append to the playlist</translation>
     </message>
     <message>
-        <source>Replace the playlist</source>
-        <translation type="unfinished">Reemplazar la lista de reproducción</translation>
+      <source>Replace the playlist</source>
+      <translation type="unfinished">Replace the playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Add to the queue</source>
-        <translation type="unfinished">Añadir a la cola</translation>
+      <source>Add to the queue</source>
+      <translation type="unfinished">Add to the queue</translation>
     </message>
     <message>
-        <source>Double clicking a song in the playlist will...</source>
-        <translation type="unfinished">Al pulsar dos veces en una canción en la lista de reproducción…</translation>
+      <source>Double clicking a song in the playlist will...</source>
+      <translation type="unfinished">Double clicking a song in the playlist will...</translation>
     </message>
     <message>
-        <source>Change the currently playing song</source>
-        <translation type="unfinished">Cambiar la pista actualmente en reproducción</translation>
+      <source>Change the currently playing song</source>
+      <translation type="unfinished">Change the currently playing song</translation>
     </message>
     <message>
-        <source>Seeking using a keyboard shortcut or mouse wheel</source>
-        <translation type="unfinished">Moverse en la pista mediante un atajo de teclado o la rueda del ratón</translation>
+      <source>Seeking using a keyboard shortcut or mouse wheel</source>
+      <translation type="unfinished">Seeking using a keyboard shortcut or mouse wheel</translation>
     </message>
     <message>
-        <source>Time step</source>
-        <translation type="unfinished">Salto en el tiempo</translation>
+      <source>Time step</source>
+      <translation type="unfinished">Time step</translation>
     </message>
     <message>
-        <source> s</source>
-        <translation type="unfinished"></translation>
+      <source> s</source>
+      <translation type="unfinished"> s</translation>
     </message>
     <message>
-        <source>Volume Increment</source>
-        <translation type="unfinished"></translation>
+      <source>Volume Increment</source>
+      <translation type="unfinished">Volume Increment</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionSettingsPage</name>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Colección</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>These folders will be scanned for music to make up your collection</source>
-        <translation type="unfinished">Estas carpetas se analizarán en busca de música para crear su colección</translation>
+      <source>These folders will be scanned for music to make up your collection</source>
+      <translation type="unfinished">These folders will be scanned for music to make up your collection</translation>
     </message>
     <message>
-        <source>Add new folder...</source>
-        <translation type="unfinished">Añadir carpeta nueva…</translation>
+      <source>Add new folder...</source>
+      <translation type="unfinished">Add new folder...</translation>
     </message>
     <message>
-        <source>Remove folder</source>
-        <translation type="unfinished">Quitar carpeta</translation>
+      <source>Remove folder</source>
+      <translation type="unfinished">Remove folder</translation>
     </message>
     <message>
-        <source>Automatic updating</source>
-        <translation type="unfinished">Actualización automática</translation>
+      <source>Automatic updating</source>
+      <translation type="unfinished">Automatic updating</translation>
     </message>
     <message>
-        <source>Update the collection when Strawberry starts</source>
-        <translation type="unfinished">Actualizar la colección al iniciar Strawberry</translation>
+      <source>Update the collection when Strawberry starts</source>
+      <translation type="unfinished">Update the collection when Strawberry starts</translation>
     </message>
     <message>
-        <source>Monitor the collection for changes</source>
-        <translation type="unfinished">Vigilar cambios en la colección</translation>
+      <source>Monitor the collection for changes</source>
+      <translation type="unfinished">Monitor the collection for changes</translation>
     </message>
     <message>
-        <source>Song fingerprinting and tracking</source>
-        <translation type="unfinished">Identificación y seguimiento de canciones</translation>
+      <source>Song fingerprinting and tracking</source>
+      <translation type="unfinished">Song fingerprinting and tracking</translation>
     </message>
     <message>
-        <source>Mark disappeared songs unavailable</source>
-        <translation type="unfinished">Marcar las pistas desaparecidas como no disponibles</translation>
+      <source>Mark disappeared songs unavailable</source>
+      <translation type="unfinished">Mark disappeared songs unavailable</translation>
     </message>
     <message>
-        <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
-        <translation type="unfinished"></translation>
+      <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
+      <translation type="unfinished">Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</translation>
     </message>
     <message>
-        <source>Expire unavailable songs after</source>
-        <translation type="unfinished"></translation>
+      <source>Expire unavailable songs after</source>
+      <translation type="unfinished">Expire unavailable songs after</translation>
     </message>
     <message>
-        <source>days</source>
-        <translation type="unfinished">días</translation>
+      <source>days</source>
+      <translation type="unfinished">days</translation>
     </message>
     <message>
-        <source>Preferred album art filenames (comma separated)</source>
-        <translation type="unfinished">Nombres de archivo preferidos para las portadas (separados por comas)</translation>
+      <source>Preferred album art filenames (comma separated)</source>
+      <translation type="unfinished">Preferred album art filenames (comma separated)</translation>
     </message>
     <message>
-        <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
+      <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
 If there are no matches then it will use the largest image in the directory.</source>
-        <translation type="unfinished">Al buscar la cubierta, Strawberry tratará de localizar primero imágenes que contengan una de estas palabras. Si no hay resultados, se usará la imagen más grande de la carpeta.</translation>
+      <translation type="unfinished">When looking for album art Strawberry will first look for picture files that contain one of these words.
+If there are no matches then it will use the largest image in the directory.</translation>
     </message>
     <message>
-        <source>Display options</source>
-        <translation type="unfinished">Opciones de visualización</translation>
+      <source>Display options</source>
+      <translation type="unfinished">Display options</translation>
     </message>
     <message>
-        <source>Automatically open single categories in the collection tree</source>
-        <translation type="unfinished">Expandir automáticamente categorías únicas en la colección</translation>
+      <source>Automatically open single categories in the collection tree</source>
+      <translation type="unfinished">Automatically open single categories in the collection tree</translation>
     </message>
     <message>
-        <source>Show dividers</source>
-        <translation type="unfinished">Mostrar divisores</translation>
+      <source>Show dividers</source>
+      <translation type="unfinished">Show dividers</translation>
     </message>
     <message>
-        <source>Show album cover art in collection</source>
-        <translation type="unfinished">Mostrar cubierta del álbum en la colección</translation>
+      <source>Show album cover art in collection</source>
+      <translation type="unfinished">Show album cover art in collection</translation>
     </message>
     <message>
-        <source>Use various artists for compilation albums</source>
-        <translation type="unfinished"></translation>
+      <source>Use various artists for compilation albums</source>
+      <translation type="unfinished">Use various artists for compilation albums</translation>
     </message>
     <message>
-        <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
-        <translation type="unfinished"></translation>
+      <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
+      <translation type="unfinished">Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</translation>
     </message>
     <message>
-        <source>Album cover pixmap cache</source>
-        <translation type="unfinished">Antememoria de mapa de bits de cubiertas</translation>
+      <source>Album cover pixmap cache</source>
+      <translation type="unfinished">Album cover pixmap cache</translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
     </message>
     <message>
-        <source>Enable Disk Cache</source>
-        <translation type="unfinished">Activar antememoria de disco</translation>
+      <source>Enable Disk Cache</source>
+      <translation type="unfinished">Enable Disk Cache</translation>
     </message>
     <message>
-        <source>Disk Cache Size</source>
-        <translation type="unfinished">Tamaño de antememoria de disco</translation>
+      <source>Disk Cache Size</source>
+      <translation type="unfinished">Disk Cache Size</translation>
     </message>
     <message>
-        <source>Current disk cache in use:</source>
-        <translation type="unfinished">Antememoria de disco en uso:</translation>
+      <source>Current disk cache in use:</source>
+      <translation type="unfinished">Current disk cache in use:</translation>
     </message>
     <message>
-        <source>Clear Disk Cache</source>
-        <translation type="unfinished">Vaciar antememoria de disco</translation>
+      <source>Clear Disk Cache</source>
+      <translation type="unfinished">Clear Disk Cache</translation>
     </message>
     <message>
-        <source>Song playcounts and ratings</source>
-        <translation type="unfinished"></translation>
+      <source>Song playcounts and ratings</source>
+      <translation type="unfinished">Song playcounts and ratings</translation>
     </message>
     <message>
-        <source>Save playcounts to song tags when possible</source>
-        <translation type="unfinished"></translation>
+      <source>Save playcounts to song tags when possible</source>
+      <translation type="unfinished">Save playcounts to song tags when possible</translation>
     </message>
     <message>
-        <source>Save ratings to song tags when possible</source>
-        <translation type="unfinished"></translation>
+      <source>Save ratings to song tags when possible</source>
+      <translation type="unfinished">Save ratings to song tags when possible</translation>
     </message>
     <message>
-        <source>Overwrite database playcount when songs are re-read from disk</source>
-        <translation type="unfinished"></translation>
+      <source>Overwrite database playcount when songs are re-read from disk</source>
+      <translation type="unfinished">Overwrite database playcount when songs are re-read from disk</translation>
     </message>
     <message>
-        <source>Overwrite database rating when songs are re-read from disk</source>
-        <translation type="unfinished"></translation>
+      <source>Overwrite database rating when songs are re-read from disk</source>
+      <translation type="unfinished">Overwrite database rating when songs are re-read from disk</translation>
     </message>
     <message>
-        <source>Save playcounts and ratings to files now</source>
-        <translation type="unfinished"></translation>
+      <source>Save playcounts and ratings to files now</source>
+      <translation type="unfinished">Save playcounts and ratings to files now</translation>
     </message>
     <message>
-        <source>Enable delete files in the right click context menu</source>
-        <translation type="unfinished">Activar eliminación de archivos en el menú contextual del botón secundario del ratón</translation>
+      <source>Enable delete files in the right click context menu</source>
+      <translation type="unfinished">Enable delete files in the right click context menu</translation>
     </message>
     <message>
-        <source>Add directory...</source>
-        <translation type="unfinished">Añadir carpeta…</translation>
+      <source>Add directory...</source>
+      <translation type="unfinished">Add directory...</translation>
     </message>
     <message>
-        <source>Write all playcounts and ratings to files</source>
-        <translation type="unfinished"></translation>
+      <source>Write all playcounts and ratings to files</source>
+      <translation type="unfinished">Write all playcounts and ratings to files</translation>
     </message>
     <message>
-        <source>Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</source>
-        <translation type="unfinished"></translation>
+      <source>Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</source>
+      <translation type="unfinished">Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>BackendSettingsPage</name>
     <message>
-        <source>Backend</source>
-        <translation type="unfinished">Sistema de audio</translation>
+      <source>Backend</source>
+      <translation type="unfinished">Backend</translation>
     </message>
     <message>
-        <source>Audio output</source>
-        <translation type="unfinished">Salida de audio</translation>
+      <source>Audio output</source>
+      <translation type="unfinished">Audio output</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Dispositivo</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>Output</source>
-        <translation type="unfinished">Salida</translation>
+      <source>Output</source>
+      <translation type="unfinished">Output</translation>
     </message>
     <message>
-        <source>Engine</source>
-        <translation type="unfinished">Motor</translation>
+      <source>Engine</source>
+      <translation type="unfinished">Engine</translation>
     </message>
     <message>
-        <source>ALSA plugin:</source>
-        <translation type="unfinished">Complemento de ALSA:</translation>
+      <source>ALSA plugin:</source>
+      <translation type="unfinished">ALSA plugin:</translation>
     </message>
     <message>
-        <source>hw</source>
-        <translation type="unfinished"></translation>
+      <source>hw</source>
+      <translation type="unfinished">hw</translation>
     </message>
     <message>
-        <source>p&amp;lughw</source>
-        <translation type="unfinished"></translation>
+      <source>p&amp;lughw</source>
+      <translation type="unfinished">p&amp;lughw</translation>
     </message>
     <message>
-        <source>pcm</source>
-        <translation type="unfinished"></translation>
+      <source>pcm</source>
+      <translation type="unfinished">pcm</translation>
     </message>
     <message>
-        <source>Exclusive mode (Experimental)</source>
-        <translation type="unfinished"></translation>
+      <source>Exclusive mode (Experimental)</source>
+      <translation type="unfinished">Exclusive mode (Experimental)</translation>
     </message>
     <message>
-        <source>Options</source>
-        <translation type="unfinished"></translation>
+      <source>Options</source>
+      <translation type="unfinished">Options</translation>
     </message>
     <message>
-        <source>Enable volume control</source>
-        <translation type="unfinished">Activar control de volumen</translation>
+      <source>Enable volume control</source>
+      <translation type="unfinished">Enable volume control</translation>
     </message>
     <message>
-        <source>Upmix / downmix to</source>
-        <translation type="unfinished"></translation>
+      <source>Upmix / downmix to</source>
+      <translation type="unfinished">Upmix / downmix to</translation>
     </message>
     <message>
-        <source>channels</source>
-        <translation type="unfinished">canales</translation>
+      <source>channels</source>
+      <translation type="unfinished">channels</translation>
     </message>
     <message>
-        <source>Improve headphone listening of stereo audio records (bs2b)</source>
-        <translation type="unfinished"></translation>
+      <source>Improve headphone listening of stereo audio records (bs2b)</source>
+      <translation type="unfinished">Improve headphone listening of stereo audio records (bs2b)</translation>
     </message>
     <message>
-        <source>Enable HTTP/2 for streaming</source>
-        <translation type="unfinished"></translation>
+      <source>Enable HTTP/2 for streaming</source>
+      <translation type="unfinished">Enable HTTP/2 for streaming</translation>
     </message>
     <message>
-        <source>Use strict SSL mode</source>
-        <translation type="unfinished"></translation>
+      <source>Use strict SSL mode</source>
+      <translation type="unfinished">Use strict SSL mode</translation>
     </message>
     <message>
-        <source>Buffer</source>
-        <translation type="unfinished">Búfer</translation>
+      <source>Buffer</source>
+      <translation type="unfinished">Buffer</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation type="unfinished"></translation>
+      <source> ms</source>
+      <translation type="unfinished"> ms</translation>
     </message>
     <message>
-        <source>Buffer duration</source>
-        <translation type="unfinished">Duración del búfer</translation>
+      <source>Buffer duration</source>
+      <translation type="unfinished">Buffer duration</translation>
     </message>
     <message>
-        <source>High watermark</source>
-        <translation type="unfinished">Marca de agua alta</translation>
+      <source>High watermark</source>
+      <translation type="unfinished">High watermark</translation>
     </message>
     <message>
-        <source>Low watermark</source>
-        <translation type="unfinished">Marca de agua baja</translation>
+      <source>Low watermark</source>
+      <translation type="unfinished">Low watermark</translation>
     </message>
     <message>
-        <source>Defaults</source>
-        <translation type="unfinished">Valores predeterminados</translation>
+      <source>Defaults</source>
+      <translation type="unfinished">Defaults</translation>
     </message>
     <message>
-        <source>Audio normalization</source>
-        <translation type="unfinished"></translation>
+      <source>Audio normalization</source>
+      <translation type="unfinished">Audio normalization</translation>
     </message>
     <message>
-        <source>No audio normalization</source>
-        <translation type="unfinished"></translation>
+      <source>No audio normalization</source>
+      <translation type="unfinished">No audio normalization</translation>
     </message>
     <message>
-        <source>Replay Gain</source>
-        <translation type="unfinished">Ajuste de volumen en reproducción</translation>
+      <source>Replay Gain</source>
+      <translation type="unfinished">Replay Gain</translation>
     </message>
     <message>
-        <source>Use Replay Gain metadata if it is available</source>
-        <translation type="unfinished">Usar metadatos de ajuste de volumen en reproducción si están disponibles</translation>
+      <source>Use Replay Gain metadata if it is available</source>
+      <translation type="unfinished">Use Replay Gain metadata if it is available</translation>
     </message>
     <message>
-        <source>Replay Gain mode</source>
-        <translation type="unfinished">Modo de ajuste de volumen en reproducción</translation>
+      <source>Replay Gain mode</source>
+      <translation type="unfinished">Replay Gain mode</translation>
     </message>
     <message>
-        <source>Radio (equal loudness for all tracks)</source>
-        <translation type="unfinished">Radio (volumen igual para todas las pistas)</translation>
+      <source>Radio (equal loudness for all tracks)</source>
+      <translation type="unfinished">Radio (equal loudness for all tracks)</translation>
     </message>
     <message>
-        <source>Album (ideal loudness for all tracks)</source>
-        <translation type="unfinished">Álbum (volumen idóneo para todas las pistas)</translation>
+      <source>Album (ideal loudness for all tracks)</source>
+      <translation type="unfinished">Album (ideal loudness for all tracks)</translation>
     </message>
     <message>
-        <source>Pre-amp</source>
-        <translation type="unfinished">Preamplificador</translation>
+      <source>Pre-amp</source>
+      <translation type="unfinished">Pre-amp</translation>
     </message>
     <message>
-        <source>Apply compression to prevent clipping</source>
-        <translation type="unfinished">Aplicar compresión para evitar saturación</translation>
+      <source>Apply compression to prevent clipping</source>
+      <translation type="unfinished">Apply compression to prevent clipping</translation>
     </message>
     <message>
-        <source>Fallback-gain</source>
-        <translation type="unfinished"></translation>
+      <source>Fallback-gain</source>
+      <translation type="unfinished">Fallback-gain</translation>
     </message>
     <message>
-        <source>EBU R 128 Loudness Normalization</source>
-        <translation type="unfinished"></translation>
+      <source>EBU R 128 Loudness Normalization</source>
+      <translation type="unfinished">EBU R 128 Loudness Normalization</translation>
     </message>
     <message>
-        <source>Perform track loudness normalization</source>
-        <translation type="unfinished"></translation>
+      <source>Perform track loudness normalization</source>
+      <translation type="unfinished">Perform track loudness normalization</translation>
     </message>
     <message>
-        <source>Target Level</source>
-        <translation type="unfinished"></translation>
+      <source>Target Level</source>
+      <translation type="unfinished">Target Level</translation>
     </message>
     <message>
-        <source>Fading</source>
-        <translation type="unfinished">Fundido</translation>
+      <source>Fading</source>
+      <translation type="unfinished">Fading</translation>
     </message>
     <message>
-        <source>Fade out when stopping a track</source>
-        <translation type="unfinished">Fundido al detener la reproducción</translation>
+      <source>Fade out when stopping a track</source>
+      <translation type="unfinished">Fade out when stopping a track</translation>
     </message>
     <message>
-        <source>Cross-fade when changing tracks manually</source>
-        <translation type="unfinished">Fundido encadenado al cambiar pistas manualmente</translation>
+      <source>Cross-fade when changing tracks manually</source>
+      <translation type="unfinished">Cross-fade when changing tracks manually</translation>
     </message>
     <message>
-        <source>Cross-fade when changing tracks automatically</source>
-        <translation type="unfinished">Fundido encadenado al cambiar pistas automáticamente</translation>
+      <source>Cross-fade when changing tracks automatically</source>
+      <translation type="unfinished">Cross-fade when changing tracks automatically</translation>
     </message>
     <message>
-        <source>Except between tracks on the same album or in the same CUE sheet</source>
-        <translation type="unfinished">Excepto entre pistas del mismo álbum o en la misma hoja CUE</translation>
+      <source>Except between tracks on the same album or in the same CUE sheet</source>
+      <translation type="unfinished">Except between tracks on the same album or in the same CUE sheet</translation>
     </message>
     <message>
-        <source>Fading duration</source>
-        <translation type="unfinished">Duración del fundido</translation>
+      <source>Fading duration</source>
+      <translation type="unfinished">Fading duration</translation>
     </message>
     <message>
-        <source>Fade out on pause / fade in on resume</source>
-        <translation type="unfinished">Fundido al pausar / reanudar</translation>
+      <source>Fade out on pause / fade in on resume</source>
+      <translation type="unfinished">Fade out on pause / fade in on resume</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ContextSettingsPage</name>
     <message>
-        <source>Context</source>
-        <translation type="unfinished">Contexto</translation>
+      <source>Context</source>
+      <translation type="unfinished">Context</translation>
     </message>
     <message>
-        <source>Custom text settings</source>
-        <translation type="unfinished">Configuración de texto personalizada</translation>
+      <source>Custom text settings</source>
+      <translation type="unfinished">Custom text settings</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Título</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Resumen</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Enable Items</source>
-        <translation type="unfinished">Activar elementos</translation>
+      <source>Enable Items</source>
+      <translation type="unfinished">Enable Items</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Technical Data</source>
-        <translation type="unfinished">Información técnica</translation>
+      <source>Technical Data</source>
+      <translation type="unfinished">Technical Data</translation>
     </message>
     <message>
-        <source>Song Lyrics</source>
-        <translation type="unfinished">Letra de la canción</translation>
+      <source>Song Lyrics</source>
+      <translation type="unfinished">Song Lyrics</translation>
     </message>
     <message>
-        <source>Automatically search for album cover</source>
-        <translation type="unfinished">Buscar automáticamente la cubierta del álbum</translation>
+      <source>Automatically search for album cover</source>
+      <translation type="unfinished">Automatically search for album cover</translation>
     </message>
     <message>
-        <source>Automatically search for song lyrics</source>
-        <translation type="unfinished">Buscar automáticamente la letra de la canción</translation>
+      <source>Automatically search for song lyrics</source>
+      <translation type="unfinished">Automatically search for song lyrics</translation>
     </message>
     <message>
-        <source>Font for headline</source>
-        <translation type="unfinished">Tipo de letra de títulos</translation>
+      <source>Font for headline</source>
+      <translation type="unfinished">Font for headline</translation>
     </message>
     <message>
-        <source>Font</source>
-        <translation type="unfinished">Tipo de letra</translation>
+      <source>Font</source>
+      <translation type="unfinished">Font</translation>
     </message>
     <message>
-        <source>Font size</source>
-        <translation type="unfinished">Tamaño de letra</translation>
+      <source>Font size</source>
+      <translation type="unfinished">Font size</translation>
     </message>
     <message>
-        <source> pt</source>
-        <translation type="unfinished">pt</translation>
+      <source> pt</source>
+      <translation type="unfinished"> pt</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Previsualización</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Font for data and lyrics</source>
-        <translation type="unfinished">Tipo de letra de datos y letras</translation>
+      <source>Font for data and lyrics</source>
+      <translation type="unfinished">Font for data and lyrics</translation>
     </message>
     <message>
-        <source>Add song artist tag</source>
-        <translation type="unfinished">Añadir etiqueta de artista a la canción</translation>
+      <source>Add song artist tag</source>
+      <translation type="unfinished">Add song artist tag</translation>
     </message>
     <message>
-        <source>Add song album tag</source>
-        <translation type="unfinished">Añadir etiqueta de álbum a la canción</translation>
+      <source>Add song album tag</source>
+      <translation type="unfinished">Add song album tag</translation>
     </message>
     <message>
-        <source>Add song title tag</source>
-        <translation type="unfinished">Añadir etiqueta de título a la canción</translation>
+      <source>Add song title tag</source>
+      <translation type="unfinished">Add song title tag</translation>
     </message>
     <message>
-        <source>Add song albumartist tag</source>
-        <translation type="unfinished">Añadir etiqueta de artista del álbum a la canción</translation>
+      <source>Add song albumartist tag</source>
+      <translation type="unfinished">Add song albumartist tag</translation>
     </message>
     <message>
-        <source>Add song year tag</source>
-        <translation type="unfinished">Añadir etiqueta de año a la canción</translation>
+      <source>Add song year tag</source>
+      <translation type="unfinished">Add song year tag</translation>
     </message>
     <message>
-        <source>Add song composer tag</source>
-        <translation type="unfinished">Añadir etiqueta de compositor a la canción</translation>
+      <source>Add song composer tag</source>
+      <translation type="unfinished">Add song composer tag</translation>
     </message>
     <message>
-        <source>Add song performer tag</source>
-        <translation type="unfinished">Añadir etiqueta de intérprete a la canción</translation>
+      <source>Add song performer tag</source>
+      <translation type="unfinished">Add song performer tag</translation>
     </message>
     <message>
-        <source>Add song grouping tag</source>
-        <translation type="unfinished">Añadir etiqueta de agrupamiento a la canción</translation>
+      <source>Add song grouping tag</source>
+      <translation type="unfinished">Add song grouping tag</translation>
     </message>
     <message>
-        <source>Add song disc tag</source>
-        <translation type="unfinished">Añadir etiqueta de disco a la canción</translation>
+      <source>Add song disc tag</source>
+      <translation type="unfinished">Add song disc tag</translation>
     </message>
     <message>
-        <source>Add song track tag</source>
-        <translation type="unfinished">Añadir etiqueta de pista a la canción</translation>
+      <source>Add song track tag</source>
+      <translation type="unfinished">Add song track tag</translation>
     </message>
     <message>
-        <source>Add song genre tag</source>
-        <translation type="unfinished">Añadir etiqueta de género a la canción</translation>
+      <source>Add song genre tag</source>
+      <translation type="unfinished">Add song genre tag</translation>
     </message>
     <message>
-        <source>Add song length tag</source>
-        <translation type="unfinished">Añadir etiqueta de duración a la canción</translation>
+      <source>Add song length tag</source>
+      <translation type="unfinished">Add song length tag</translation>
     </message>
     <message>
-        <source>Add song play count</source>
-        <translation type="unfinished">Añadir contador de reproducciones de la canción</translation>
+      <source>Add song play count</source>
+      <translation type="unfinished">Add song play count</translation>
     </message>
     <message>
-        <source>Add song skip count</source>
-        <translation type="unfinished">Añadir contador de omisiones de la canción</translation>
+      <source>Add song skip count</source>
+      <translation type="unfinished">Add song skip count</translation>
     </message>
     <message>
-        <source>Add a new line if supported by the notification type</source>
-        <translation type="unfinished">Añadir un salto de renglón si el tipo de notificación lo permite</translation>
+      <source>Add a new line if supported by the notification type</source>
+      <translation type="unfinished">Add a new line if supported by the notification type</translation>
     </message>
     <message>
-        <source>%filename%</source>
-        <translation type="unfinished"></translation>
+      <source>%filename%</source>
+      <translation type="unfinished">%filename%</translation>
     </message>
     <message>
-        <source>Add song filename</source>
-        <translation type="unfinished">Añadir nombre de archivo de la canción</translation>
+      <source>Add song filename</source>
+      <translation type="unfinished">Add song filename</translation>
     </message>
     <message>
-        <source>%url%</source>
-        <translation type="unfinished"></translation>
+      <source>%url%</source>
+      <translation type="unfinished">%url%</translation>
     </message>
     <message>
-        <source>Add song URL</source>
-        <translation type="unfinished">Añadir URL del tema</translation>
+      <source>Add song URL</source>
+      <translation type="unfinished">Add song URL</translation>
     </message>
     <message>
-        <source>%rating%</source>
-        <translation type="unfinished"></translation>
+      <source>%rating%</source>
+      <translation type="unfinished">%rating%</translation>
     </message>
     <message>
-        <source>Add song rating</source>
-        <translation type="unfinished">Añadir valoración de la canción</translation>
+      <source>Add song rating</source>
+      <translation type="unfinished">Add song rating</translation>
     </message>
     <message>
-        <source>%originalyear%</source>
-        <translation type="unfinished"></translation>
+      <source>%originalyear%</source>
+      <translation type="unfinished">%originalyear%</translation>
     </message>
     <message>
-        <source>Add song original year tag</source>
-        <translation type="unfinished">Añadir etiqueta de año original</translation>
+      <source>Add song original year tag</source>
+      <translation type="unfinished">Add song original year tag</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSettingsPage</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Use alternating row colors</source>
-        <translation type="unfinished">Utilizar colores alternados en las filas</translation>
+      <source>Use alternating row colors</source>
+      <translation type="unfinished">Use alternating row colors</translation>
     </message>
     <message>
-        <source>Show bars on the currently playing track</source>
-        <translation type="unfinished"></translation>
+      <source>Show bars on the currently playing track</source>
+      <translation type="unfinished">Show bars on the currently playing track</translation>
     </message>
     <message>
-        <source>Show a glowing animation on the currently playing track</source>
-        <translation type="unfinished"></translation>
+      <source>Show a glowing animation on the currently playing track</source>
+      <translation type="unfinished">Show a glowing animation on the currently playing track</translation>
     </message>
     <message>
-        <source>Warn me when closing a playlist tab</source>
-        <translation type="unfinished">Avisarme antes de cerrar una pestaña de lista de reproducción</translation>
+      <source>Warn me when closing a playlist tab</source>
+      <translation type="unfinished">Warn me when closing a playlist tab</translation>
     </message>
     <message>
-        <source>Continue to the next item in the playlist if a song is unavailable</source>
-        <translation type="unfinished">Saltar al siguiente elemento en la lista de reproducción si una canción no está disponible</translation>
+      <source>Continue to the next item in the playlist if a song is unavailable</source>
+      <translation type="unfinished">Continue to the next item in the playlist if a song is unavailable</translation>
     </message>
     <message>
-        <source>Grey out unavailable songs in playlists on playback</source>
-        <translation type="unfinished">Mostrar en gris las pistas no disponibles en listas de reproducción al reproducir</translation>
+      <source>Grey out unavailable songs in playlists on playback</source>
+      <translation type="unfinished">Grey out unavailable songs in playlists on playback</translation>
     </message>
     <message>
-        <source>Grey out unavailable songs in playlists on startup</source>
-        <translation type="unfinished">Mostrar en gris las pistas no disponibles en listas de reproducción al iniciar</translation>
+      <source>Grey out unavailable songs in playlists on startup</source>
+      <translation type="unfinished">Grey out unavailable songs in playlists on startup</translation>
     </message>
     <message>
-        <source>Automatically select current playing track</source>
-        <translation type="unfinished">Seleccionar automáticamente la pista en reproducción</translation>
+      <source>Automatically select current playing track</source>
+      <translation type="unfinished">Automatically select current playing track</translation>
     </message>
     <message>
-        <source>Enable playlist toolbar</source>
-        <translation type="unfinished"></translation>
+      <source>Enable playlist toolbar</source>
+      <translation type="unfinished">Enable playlist toolbar</translation>
     </message>
     <message>
-        <source>Enable playlist clear button</source>
-        <translation type="unfinished">Activar botón de borrado de lista de reproducción</translation>
+      <source>Enable playlist clear button</source>
+      <translation type="unfinished">Enable playlist clear button</translation>
     </message>
     <message>
-        <source>Enable delete files in the right click context menu</source>
-        <translation type="unfinished">Activar eliminación de archivos en el menú contextual del botón secundario del ratón</translation>
+      <source>Enable delete files in the right click context menu</source>
+      <translation type="unfinished">Enable delete files in the right click context menu</translation>
     </message>
     <message>
-        <source>Automatically sort playlist when inserting songs</source>
-        <translation type="unfinished">Ordenar la lista automáticamente al insertar temas</translation>
+      <source>Automatically sort playlist when inserting songs</source>
+      <translation type="unfinished">Automatically sort playlist when inserting songs</translation>
     </message>
     <message>
-        <source>When saving a playlist, file paths should be</source>
-        <translation type="unfinished">Al guardar una lista de reproducción las rutas de archivo deben ser</translation>
+      <source>When saving a playlist, file paths should be</source>
+      <translation type="unfinished">When saving a playlist, file paths should be</translation>
     </message>
     <message>
-        <source>A&amp;utomatic</source>
-        <translation type="unfinished">A&amp;utomático</translation>
+      <source>A&amp;utomatic</source>
+      <translation type="unfinished">A&amp;utomatic</translation>
     </message>
     <message>
-        <source>Absolu&amp;te</source>
-        <translation type="unfinished">Absolu&amp;to</translation>
+      <source>Absolu&amp;te</source>
+      <translation type="unfinished">Absolu&amp;te</translation>
     </message>
     <message>
-        <source>Re&amp;lative</source>
-        <translation type="unfinished">Re&amp;lativo</translation>
+      <source>Re&amp;lative</source>
+      <translation type="unfinished">Re&amp;lative</translation>
     </message>
     <message>
-        <source>As&amp;k when saving</source>
-        <translation type="unfinished">&amp;Preguntar al guardar</translation>
+      <source>As&amp;k when saving</source>
+      <translation type="unfinished">As&amp;k when saving</translation>
     </message>
     <message>
-        <source>Metadata</source>
-        <translation type="unfinished">Metadatos</translation>
+      <source>Metadata</source>
+      <translation type="unfinished">Metadata</translation>
     </message>
     <message>
-        <source>If activated, clicking a selected song in the playlist view will let you edit the tag value directly</source>
-        <translation type="unfinished">Al activar esta opción podrá pulsar en la canción seleccionada de la lista de reproducción y editar la etiqueta directamente</translation>
+      <source>If activated, clicking a selected song in the playlist view will let you edit the tag value directly</source>
+      <translation type="unfinished">If activated, clicking a selected song in the playlist view will let you edit the tag value directly</translation>
     </message>
     <message>
-        <source>Enable song metadata inline edition with click</source>
-        <translation type="unfinished">Editar metadatos de pistas directamente</translation>
+      <source>Enable song metadata inline edition with click</source>
+      <translation type="unfinished">Enable song metadata inline edition with click</translation>
     </message>
     <message>
-        <source>Write metadata when saving playlists</source>
-        <translation type="unfinished">Escribir los metadatos al guardar las listas de reproducción</translation>
+      <source>Write metadata when saving playlists</source>
+      <translation type="unfinished">Write metadata when saving playlists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ScrobblerSettingsPage</name>
     <message>
-        <source>Scrobbler</source>
-        <translation type="unfinished">Registro de reproducción</translation>
+      <source>Scrobbler</source>
+      <translation type="unfinished">Scrobbler</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Activar</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</source>
-        <translation type="unfinished">La reproducción de una canción es registrada solo si dispone de metadatos válidos, dura más de 30 segundos y se ha reproducido al menos durante la mitad de su duración o 4 minutos (lo que ocurra primero).</translation>
+      <source>Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</source>
+      <translation type="unfinished">Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</translation>
     </message>
     <message>
-        <source>Work in offline mode (Only cache scrobbles)</source>
-        <translation type="unfinished">Trabajar sin conexión (solo registros de reproducción prealmacenados)</translation>
+      <source>Work in offline mode (Only cache scrobbles)</source>
+      <translation type="unfinished">Work in offline mode (Only cache scrobbles)</translation>
     </message>
     <message>
-        <source>Show scrobble button</source>
-        <translation type="unfinished">Mostrar botón de registro de reproducción</translation>
+      <source>Show scrobble button</source>
+      <translation type="unfinished">Show scrobble button</translation>
     </message>
     <message>
-        <source>Show love button</source>
-        <translation type="unfinished">Mostrar el botón &quot;Me gusta&quot;</translation>
+      <source>Show love button</source>
+      <translation type="unfinished">Show love button</translation>
     </message>
     <message>
-        <source>Submit scrobbles every</source>
-        <translation type="unfinished">Emitir al servidor de registro cada</translation>
+      <source>Submit scrobbles every</source>
+      <translation type="unfinished">Submit scrobbles every</translation>
     </message>
     <message>
-        <source> seconds</source>
-        <translation type="unfinished"> segundos</translation>
+      <source> seconds</source>
+      <translation type="unfinished"> seconds</translation>
     </message>
     <message>
-        <source>(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</source>
-        <translation type="unfinished"></translation>
+      <source>(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</source>
+      <translation type="unfinished">(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</translation>
     </message>
     <message>
-        <source>Prefer album artist when sending scrobbles</source>
-        <translation type="unfinished">Preferir artista del álbum al registrar reproducción</translation>
+      <source>Prefer album artist when sending scrobbles</source>
+      <translation type="unfinished">Prefer album artist when sending scrobbles</translation>
     </message>
     <message>
-        <source>Show dialog for errors</source>
-        <translation type="unfinished">Mostrar errores</translation>
+      <source>Show dialog for errors</source>
+      <translation type="unfinished">Show dialog for errors</translation>
     </message>
     <message>
-        <source>Strip &quot;remastered&quot; and similar from album and title</source>
-        <translation type="unfinished"></translation>
+      <source>Strip &quot;remastered&quot; and similar from album and title</source>
+      <translation type="unfinished">Strip &quot;remastered&quot; and similar from album and title</translation>
     </message>
     <message>
-        <source>Enable scrobbling for the following sources:</source>
-        <translation type="unfinished">Activar seguimiento de reproducción para:</translation>
+      <source>Enable scrobbling for the following sources:</source>
+      <translation type="unfinished">Enable scrobbling for the following sources:</translation>
     </message>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Colección</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished"></translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Local file</source>
-        <translation type="unfinished">Archivo local</translation>
+      <source>Local file</source>
+      <translation type="unfinished">Local file</translation>
     </message>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished"></translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Dispositivo</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished"></translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>CDDA</source>
-        <translation type="unfinished"></translation>
+      <source>CDDA</source>
+      <translation type="unfinished">CDDA</translation>
     </message>
     <message>
-        <source>SomaFM</source>
-        <translation type="unfinished"></translation>
+      <source>SomaFM</source>
+      <translation type="unfinished">SomaFM</translation>
     </message>
     <message>
-        <source>Stream</source>
-        <translation type="unfinished">Transmisión</translation>
+      <source>Stream</source>
+      <translation type="unfinished">Stream</translation>
     </message>
     <message>
-        <source>Radio Paradise</source>
-        <translation type="unfinished"></translation>
+      <source>Radio Paradise</source>
+      <translation type="unfinished">Radio Paradise</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Last.fm</source>
-        <translation type="unfinished"></translation>
+      <source>Last.fm</source>
+      <translation type="unfinished">Last.fm</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Acceder</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Libre.fm</source>
-        <translation type="unfinished"></translation>
+      <source>Libre.fm</source>
+      <translation type="unfinished">Libre.fm</translation>
     </message>
     <message>
-        <source>Listenbrainz</source>
-        <translation type="unfinished"></translation>
+      <source>Listenbrainz</source>
+      <translation type="unfinished">Listenbrainz</translation>
     </message>
     <message>
-        <source>User token:</source>
-        <translation type="unfinished">Ficha de usuario:</translation>
+      <source>User token:</source>
+      <translation type="unfinished">User token:</translation>
     </message>
     <message>
-        <source>Enter your user token from</source>
-        <translation type="unfinished">Introduzca su ficha de usuario de</translation>
+      <source>Enter your user token from</source>
+      <translation type="unfinished">Enter your user token from</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoversSettingsPage</name>
     <message>
-        <source>Covers</source>
-        <translation type="unfinished">Cubiertas</translation>
+      <source>Covers</source>
+      <translation type="unfinished">Covers</translation>
     </message>
     <message>
-        <source>Cover providers</source>
-        <translation type="unfinished">Proveedores de cubiertas</translation>
+      <source>Cover providers</source>
+      <translation type="unfinished">Cover providers</translation>
     </message>
     <message>
-        <source>Choose the providers you want to use when searching for covers.</source>
-        <translation type="unfinished">Selecciona los proveedores de búsqueda de cubiertas.</translation>
+      <source>Choose the providers you want to use when searching for covers.</source>
+      <translation type="unfinished">Choose the providers you want to use when searching for covers.</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Subir</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Bajar</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Acceder</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Album cover types</source>
-        <translation type="unfinished"></translation>
+      <source>Album cover types</source>
+      <translation type="unfinished">Album cover types</translation>
     </message>
     <message>
-        <source>Saving album covers</source>
-        <translation type="unfinished">Guardando cubiertas de álbumes</translation>
+      <source>Saving album covers</source>
+      <translation type="unfinished">Saving album covers</translation>
     </message>
     <message>
-        <source>Save album covers in album directory</source>
-        <translation type="unfinished">Guardar las cubiertas en la carpeta de álbumes</translation>
+      <source>Save album covers in album directory</source>
+      <translation type="unfinished">Save album covers in album directory</translation>
     </message>
     <message>
-        <source>Save album covers in cache directory</source>
-        <translation type="unfinished">Guardar cubiertas en directorio de antememoria</translation>
+      <source>Save album covers in cache directory</source>
+      <translation type="unfinished">Save album covers in cache directory</translation>
     </message>
     <message>
-        <source>Save album covers as embedded cover</source>
-        <translation type="unfinished">Guardar cubiertas del álbum como elementos incrustados</translation>
+      <source>Save album covers as embedded cover</source>
+      <translation type="unfinished">Save album covers as embedded cover</translation>
     </message>
     <message>
-        <source>Filename:</source>
-        <translation type="unfinished">Archivo:</translation>
+      <source>Filename:</source>
+      <translation type="unfinished">Filename:</translation>
     </message>
     <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Pauta</translation>
+      <source>Pattern</source>
+      <translation type="unfinished">Pattern</translation>
     </message>
     <message>
-        <source>Random</source>
-        <translation type="unfinished">Al azar</translation>
+      <source>Random</source>
+      <translation type="unfinished">Random</translation>
     </message>
     <message>
-        <source>Overwrite existing file</source>
-        <translation type="unfinished">Sobrescribir archivo existente</translation>
+      <source>Overwrite existing file</source>
+      <translation type="unfinished">Overwrite existing file</translation>
     </message>
     <message>
-        <source>Lowercase filename</source>
-        <translation type="unfinished">Nombre de archivo en minúsculas</translation>
+      <source>Lowercase filename</source>
+      <translation type="unfinished">Lowercase filename</translation>
     </message>
     <message>
-        <source>Replace spaces with dashes</source>
-        <translation type="unfinished">Sustituir espacios por guiones</translation>
+      <source>Replace spaces with dashes</source>
+      <translation type="unfinished">Replace spaces with dashes</translation>
     </message>
     <message>
-        <source>Use Tidal settings to authenticate.</source>
-        <translation type="unfinished">Usar ajustes de Tidal para autenticarse.</translation>
+      <source>Use Tidal settings to authenticate.</source>
+      <translation type="unfinished">Use Tidal settings to authenticate.</translation>
     </message>
     <message>
-        <source>Use Spotify settings to authenticate.</source>
-        <translation type="unfinished"></translation>
+      <source>Use Spotify settings to authenticate.</source>
+      <translation type="unfinished">Use Spotify settings to authenticate.</translation>
     </message>
     <message>
-        <source>Use Qobuz settings to authenticate.</source>
-        <translation type="unfinished">Usar ajustes de Qobuz para autenticarse.</translation>
+      <source>Use Qobuz settings to authenticate.</source>
+      <translation type="unfinished">Use Qobuz settings to authenticate.</translation>
     </message>
     <message>
-        <source>%1 needs authentication.</source>
-        <translation type="unfinished">%1 necesita autenticación.</translation>
+      <source>%1 needs authentication.</source>
+      <translation type="unfinished">%1 needs authentication.</translation>
     </message>
     <message>
-        <source>%1 does not need authentication.</source>
-        <translation type="unfinished">%1 no necesita autenticación.</translation>
+      <source>%1 does not need authentication.</source>
+      <translation type="unfinished">%1 does not need authentication.</translation>
     </message>
     <message>
-        <source>No provider selected.</source>
-        <translation type="unfinished">No se ha seleccionado ningún proveedor.</translation>
+      <source>No provider selected.</source>
+      <translation type="unfinished">No provider selected.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Falló la autenticación</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
     <message>
-        <source>Manually unset (%1)</source>
-        <translation type="unfinished"></translation>
+      <source>Manually unset (%1)</source>
+      <translation type="unfinished">Manually unset (%1)</translation>
     </message>
     <message>
-        <source>Set through album cover search (%1)</source>
-        <translation type="unfinished"></translation>
+      <source>Set through album cover search (%1)</source>
+      <translation type="unfinished">Set through album cover search (%1)</translation>
     </message>
     <message>
-        <source>Automatically picked up from album directory (%1)</source>
-        <translation type="unfinished"></translation>
+      <source>Automatically picked up from album directory (%1)</source>
+      <translation type="unfinished">Automatically picked up from album directory (%1)</translation>
     </message>
     <message>
-        <source>Embedded album cover art (%1)</source>
-        <translation type="unfinished"></translation>
+      <source>Embedded album cover art (%1)</source>
+      <translation type="unfinished">Embedded album cover art (%1)</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LyricsSettingsPage</name>
     <message>
-        <source>Lyrics</source>
-        <translation type="unfinished">Letras</translation>
+      <source>Lyrics</source>
+      <translation type="unfinished">Lyrics</translation>
     </message>
     <message>
-        <source>Lyrics providers</source>
-        <translation type="unfinished">Proveedores de letras</translation>
+      <source>Lyrics providers</source>
+      <translation type="unfinished">Lyrics providers</translation>
     </message>
     <message>
-        <source>Choose the providers you want to use when searching for lyrics.</source>
-        <translation type="unfinished">Seleccione los proveedores de búsqueda de letras.</translation>
+      <source>Choose the providers you want to use when searching for lyrics.</source>
+      <translation type="unfinished">Choose the providers you want to use when searching for lyrics.</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Subir</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Bajar</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Acceder</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>No provider selected.</source>
-        <translation type="unfinished">No se ha seleccionado ningún proveedor.</translation>
+      <source>No provider selected.</source>
+      <translation type="unfinished">No provider selected.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Falló la autenticación</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>NetworkProxySettingsPage</name>
     <message>
-        <source>Network Proxy</source>
-        <translation type="unfinished">Proxy de la red</translation>
+      <source>Network Proxy</source>
+      <translation type="unfinished">Network Proxy</translation>
     </message>
     <message>
-        <source>&amp;Use the system proxy settings</source>
-        <translation type="unfinished">&amp;Utilizar configuración de «proxy» del sistema</translation>
+      <source>&amp;Use the system proxy settings</source>
+      <translation type="unfinished">&amp;Use the system proxy settings</translation>
     </message>
     <message>
-        <source>Direct internet connection</source>
-        <translation type="unfinished">Conexión directa a Internet</translation>
+      <source>Direct internet connection</source>
+      <translation type="unfinished">Direct internet connection</translation>
     </message>
     <message>
-        <source>&amp;Manual proxy configuration</source>
-        <translation type="unfinished">&amp;Configuración manual del proxy</translation>
+      <source>&amp;Manual proxy configuration</source>
+      <translation type="unfinished">&amp;Manual proxy configuration</translation>
     </message>
     <message>
-        <source>HTTP proxy</source>
-        <translation type="unfinished">Proxy HTTP</translation>
+      <source>HTTP proxy</source>
+      <translation type="unfinished">HTTP proxy</translation>
     </message>
     <message>
-        <source>SOCKS proxy</source>
-        <translation type="unfinished">Proxy SOCKS</translation>
+      <source>SOCKS proxy</source>
+      <translation type="unfinished">SOCKS proxy</translation>
     </message>
     <message>
-        <source>Port</source>
-        <translation type="unfinished">Puerto</translation>
+      <source>Port</source>
+      <translation type="unfinished">Port</translation>
     </message>
     <message>
-        <source>Use authentication</source>
-        <translation type="unfinished">Usar autenticación</translation>
+      <source>Use authentication</source>
+      <translation type="unfinished">Use authentication</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Use proxy settings for streaming</source>
-        <translation type="unfinished">Usar ajustes de proxy para transmisión</translation>
+      <source>Use proxy settings for streaming</source>
+      <translation type="unfinished">Use proxy settings for streaming</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AppearanceSettingsPage</name>
     <message>
-        <source>Appearance</source>
-        <translation type="unfinished">Apariencia</translation>
+      <source>Appearance</source>
+      <translation type="unfinished">Appearance</translation>
     </message>
     <message>
-        <source>Style</source>
-        <translation type="unfinished">Estilo</translation>
+      <source>Style</source>
+      <translation type="unfinished">Style</translation>
     </message>
     <message>
-        <source>Use system theme icons</source>
-        <translation type="unfinished">Usar iconos del tema del sistema</translation>
+      <source>Use system theme icons</source>
+      <translation type="unfinished">Use system theme icons</translation>
     </message>
     <message>
-        <source>Settings require restart.</source>
-        <translation type="unfinished">Los ajustes requieren reiniciar.</translation>
+      <source>Settings require restart.</source>
+      <translation type="unfinished">Settings require restart.</translation>
     </message>
     <message>
-        <source>Tabbar colors</source>
-        <translation type="unfinished">Colores barra pestañas</translation>
+      <source>Tabbar colors</source>
+      <translation type="unfinished">Tabbar colors</translation>
     </message>
     <message>
-        <source>&amp;Use the system default color</source>
-        <translation type="unfinished">&amp;Usar el color predeterminado del sistema</translation>
+      <source>&amp;Use the system default color</source>
+      <translation type="unfinished">&amp;Use the system default color</translation>
     </message>
     <message>
-        <source>Use custom color</source>
-        <translation type="unfinished">Usar color personalizado</translation>
+      <source>Use custom color</source>
+      <translation type="unfinished">Use custom color</translation>
     </message>
     <message>
-        <source>Use gradient background</source>
-        <translation type="unfinished">Usar fondo degradado</translation>
+      <source>Use gradient background</source>
+      <translation type="unfinished">Use gradient background</translation>
     </message>
     <message>
-        <source>Select tabbar color:</source>
-        <translation type="unfinished">Seleccionar color barra pestañas:</translation>
+      <source>Select tabbar color:</source>
+      <translation type="unfinished">Select tabbar color:</translation>
     </message>
     <message>
-        <source>Background image</source>
-        <translation type="unfinished">Imagen de fondo</translation>
+      <source>Background image</source>
+      <translation type="unfinished">Background image</translation>
     </message>
     <message>
-        <source>Default bac&amp;kground image</source>
-        <translation type="unfinished">Imagen de &amp;fondo predeterminada</translation>
+      <source>Default bac&amp;kground image</source>
+      <translation type="unfinished">Default bac&amp;kground image</translation>
     </message>
     <message>
-        <source>&amp;No background image</source>
-        <translation type="unfinished">&amp;Sin imagen de fondo</translation>
+      <source>&amp;No background image</source>
+      <translation type="unfinished">&amp;No background image</translation>
     </message>
     <message>
-        <source>The album cover of the currently playing song</source>
-        <translation type="unfinished">La cubierta del álbum de la canción en reproducción</translation>
+      <source>The album cover of the currently playing song</source>
+      <translation type="unfinished">The album cover of the currently playing song</translation>
     </message>
     <message>
-        <source>Albu&amp;m cover</source>
-        <translation type="unfinished">C&amp;ubierta del álbum</translation>
+      <source>Albu&amp;m cover</source>
+      <translation type="unfinished">Albu&amp;m cover</translation>
     </message>
     <message>
-        <source>Custom image:</source>
-        <translation type="unfinished">Imagen personalizada:</translation>
+      <source>Custom image:</source>
+      <translation type="unfinished">Custom image:</translation>
     </message>
     <message>
-        <source>Browse...</source>
-        <translation type="unfinished">Examinar…</translation>
+      <source>Browse...</source>
+      <translation type="unfinished">Browse...</translation>
     </message>
     <message>
-        <source>Position</source>
-        <translation type="unfinished">Posición</translation>
+      <source>Position</source>
+      <translation type="unfinished">Position</translation>
     </message>
     <message>
-        <source>Upper Left</source>
-        <translation type="unfinished">Superior izquierda</translation>
+      <source>Upper Left</source>
+      <translation type="unfinished">Upper Left</translation>
     </message>
     <message>
-        <source>Upper Right</source>
-        <translation type="unfinished">Superior derecha</translation>
+      <source>Upper Right</source>
+      <translation type="unfinished">Upper Right</translation>
     </message>
     <message>
-        <source>Middle</source>
-        <translation type="unfinished">Medio</translation>
+      <source>Middle</source>
+      <translation type="unfinished">Middle</translation>
     </message>
     <message>
-        <source>Bottom Left</source>
-        <translation type="unfinished">Inferior izquierda</translation>
+      <source>Bottom Left</source>
+      <translation type="unfinished">Bottom Left</translation>
     </message>
     <message>
-        <source>Bottom Right</source>
-        <translation type="unfinished">Inferior derecha</translation>
+      <source>Bottom Right</source>
+      <translation type="unfinished">Bottom Right</translation>
     </message>
     <message>
-        <source>Max cover size</source>
-        <translation type="unfinished">Tamaño máximo de cubierta</translation>
+      <source>Max cover size</source>
+      <translation type="unfinished">Max cover size</translation>
     </message>
     <message>
-        <source>Stretch image to fill playlist</source>
-        <translation type="unfinished">Ajustar la imagen a la lista de reproducción</translation>
+      <source>Stretch image to fill playlist</source>
+      <translation type="unfinished">Stretch image to fill playlist</translation>
     </message>
     <message>
-        <source>Keep aspect ratio</source>
-        <translation type="unfinished">Mantener proporción</translation>
+      <source>Keep aspect ratio</source>
+      <translation type="unfinished">Keep aspect ratio</translation>
     </message>
     <message>
-        <source>Do not cut image</source>
-        <translation type="unfinished">No recortar la imagen</translation>
+      <source>Do not cut image</source>
+      <translation type="unfinished">Do not cut image</translation>
     </message>
     <message>
-        <source>Blur amount</source>
-        <translation type="unfinished">Cantidad de desenfoque</translation>
+      <source>Blur amount</source>
+      <translation type="unfinished">Blur amount</translation>
     </message>
     <message>
-        <source>0px</source>
-        <translation type="unfinished"></translation>
+      <source>0px</source>
+      <translation type="unfinished">0px</translation>
     </message>
     <message>
-        <source>Opacity</source>
-        <translation type="unfinished">Opacidad</translation>
+      <source>Opacity</source>
+      <translation type="unfinished">Opacity</translation>
     </message>
     <message>
-        <source>40%</source>
-        <translation type="unfinished">40 %</translation>
+      <source>40%</source>
+      <translation type="unfinished">40%</translation>
     </message>
     <message>
-        <source>Icon sizes</source>
-        <translation type="unfinished">Tamaños de iconos</translation>
+      <source>Icon sizes</source>
+      <translation type="unfinished">Icon sizes</translation>
     </message>
     <message>
-        <source>Playlist buttons</source>
-        <translation type="unfinished">Botones de lista de reproducción</translation>
+      <source>Playlist buttons</source>
+      <translation type="unfinished">Playlist buttons</translation>
     </message>
     <message>
-        <source>Tabbar large mode</source>
-        <translation type="unfinished">Barra pequeña</translation>
+      <source>Tabbar large mode</source>
+      <translation type="unfinished">Tabbar large mode</translation>
     </message>
     <message>
-        <source>Play control buttons</source>
-        <translation type="unfinished">Botones de control de reproducción</translation>
+      <source>Play control buttons</source>
+      <translation type="unfinished">Play control buttons</translation>
     </message>
     <message>
-        <source>Configure buttons</source>
-        <translation type="unfinished">Configurar botones</translation>
+      <source>Configure buttons</source>
+      <translation type="unfinished">Configure buttons</translation>
     </message>
     <message>
-        <source>Files, playlists and queue buttons</source>
-        <translation type="unfinished">Botones de archivos, listas y cola</translation>
+      <source>Files, playlists and queue buttons</source>
+      <translation type="unfinished">Files, playlists and queue buttons</translation>
     </message>
     <message>
-        <source>Tabbar small mode</source>
-        <translation type="unfinished">Barra grande</translation>
+      <source>Tabbar small mode</source>
+      <translation type="unfinished">Tabbar small mode</translation>
     </message>
     <message>
-        <source>Playlist playing song color</source>
-        <translation type="unfinished">Color de canción en repr. en lista</translation>
+      <source>Playlist playing song color</source>
+      <translation type="unfinished">Playlist playing song color</translation>
     </message>
     <message>
-        <source>System highlight color</source>
-        <translation type="unfinished">Color de resalte del sistema</translation>
+      <source>System highlight color</source>
+      <translation type="unfinished">System highlight color</translation>
     </message>
     <message>
-        <source>Custom color</source>
-        <translation type="unfinished">Color personalizado</translation>
+      <source>Custom color</source>
+      <translation type="unfinished">Custom color</translation>
     </message>
     <message>
-        <source>Select playlist playing song color:</source>
-        <translation type="unfinished">Seleccione el color de canción en repr. en listas:</translation>
+      <source>Select playlist playing song color:</source>
+      <translation type="unfinished">Select playlist playing song color:</translation>
     </message>
     <message>
-        <source>Select background image</source>
-        <translation type="unfinished">Elija la imagen de fondo</translation>
+      <source>Select background image</source>
+      <translation type="unfinished">Select background image</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>NotificationsSettingsPage</name>
     <message>
-        <source>Notifications</source>
-        <translation type="unfinished">Notificaciones</translation>
+      <source>Notifications</source>
+      <translation type="unfinished">Notifications</translation>
     </message>
     <message>
-        <source>Strawberry can show a message when the track changes.</source>
-        <translation type="unfinished">Strawberry puede mostrar un mensaje cuando la pista cambie.</translation>
+      <source>Strawberry can show a message when the track changes.</source>
+      <translation type="unfinished">Strawberry can show a message when the track changes.</translation>
     </message>
     <message>
-        <source>Notification type</source>
-        <translation type="unfinished">Tipo de notificación</translation>
+      <source>Notification type</source>
+      <translation type="unfinished">Notification type</translation>
     </message>
     <message>
-        <source>Disabled</source>
-        <comment>Refers to a disabled notification type in Notification settings.</comment>
-        <translation type="unfinished">Desactivado</translation>
+      <source>Disabled</source>
+      <comment>Refers to a disabled notification type in Notification settings.</comment>
+      <translation type="unfinished">Disabled</translation>
     </message>
     <message>
-        <source>Show a &amp;native desktop notification</source>
-        <translation type="unfinished">Mostrar una notificación &amp;nativa del sistema</translation>
+      <source>Show a &amp;native desktop notification</source>
+      <translation type="unfinished">Show a &amp;native desktop notification</translation>
     </message>
     <message>
-        <source>Show a pretty OSD</source>
-        <translation type="unfinished">Mostrar panel de información en pantalla chulo</translation>
+      <source>Show a pretty OSD</source>
+      <translation type="unfinished">Show a pretty OSD</translation>
     </message>
     <message>
-        <source>Show a popup fro&amp;m the system tray</source>
-        <translation type="unfinished">Mostrar una notificación en la bandeja del siste&amp;ma</translation>
+      <source>Show a popup fro&amp;m the system tray</source>
+      <translation type="unfinished">Show a popup fro&amp;m the system tray</translation>
     </message>
     <message>
-        <source>General settings</source>
-        <translation type="unfinished">Configuración general</translation>
+      <source>General settings</source>
+      <translation type="unfinished">General settings</translation>
     </message>
     <message>
-        <source>Popup duration</source>
-        <translation type="unfinished">Duración de la notificación emergente</translation>
+      <source>Popup duration</source>
+      <translation type="unfinished">Popup duration</translation>
     </message>
     <message>
-        <source> seconds</source>
-        <translation type="unfinished"> segundos</translation>
+      <source> seconds</source>
+      <translation type="unfinished"> seconds</translation>
     </message>
     <message>
-        <source>Disable duration</source>
-        <translation type="unfinished">Desactivar duración</translation>
+      <source>Disable duration</source>
+      <translation type="unfinished">Disable duration</translation>
     </message>
     <message>
-        <source>Show a notification when I change the volume</source>
-        <translation type="unfinished">Mostrar una notificación al cambiar el volumen</translation>
+      <source>Show a notification when I change the volume</source>
+      <translation type="unfinished">Show a notification when I change the volume</translation>
     </message>
     <message>
-        <source>Show a notification when I change the repeat/shuffle mode</source>
-        <translation type="unfinished">Mostrar una notificación al cambiar entre los modos repetir/aleatorio</translation>
+      <source>Show a notification when I change the repeat/shuffle mode</source>
+      <translation type="unfinished">Show a notification when I change the repeat/shuffle mode</translation>
     </message>
     <message>
-        <source>Show a notification when I pause playback</source>
-        <translation type="unfinished">Mostrar una notificación al pausar la reproducción</translation>
+      <source>Show a notification when I pause playback</source>
+      <translation type="unfinished">Show a notification when I pause playback</translation>
     </message>
     <message>
-        <source>Show a notification when I resume playback</source>
-        <translation type="unfinished">Mostrar una notificación cuando reanude la reproducción</translation>
+      <source>Show a notification when I resume playback</source>
+      <translation type="unfinished">Show a notification when I resume playback</translation>
     </message>
     <message>
-        <source>Include album art in the notification</source>
-        <translation type="unfinished">Incluir cubierta en la notificación</translation>
+      <source>Include album art in the notification</source>
+      <translation type="unfinished">Include album art in the notification</translation>
     </message>
     <message>
-        <source>Custom message settings</source>
-        <translation type="unfinished">Configuración de mensaje personalizado</translation>
+      <source>Custom message settings</source>
+      <translation type="unfinished">Custom message settings</translation>
     </message>
     <message>
-        <source>Use a custom message for notifications</source>
-        <translation type="unfinished">Usar un mensaje personalizado para las notificaciones</translation>
+      <source>Use a custom message for notifications</source>
+      <translation type="unfinished">Use a custom message for notifications</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Previsualización</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Resumen</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Body</source>
-        <translation type="unfinished">Cuerpo</translation>
+      <source>Body</source>
+      <translation type="unfinished">Body</translation>
     </message>
     <message>
-        <source>Pretty OSD options</source>
-        <translation type="unfinished">Panel de información en pantalla estético</translation>
+      <source>Pretty OSD options</source>
+      <translation type="unfinished">Pretty OSD options</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="unfinished">Color de fondo</translation>
+      <source>Background color</source>
+      <translation type="unfinished">Background color</translation>
     </message>
     <message>
-        <source>Text options</source>
-        <translation type="unfinished">Opciones del texto</translation>
+      <source>Text options</source>
+      <translation type="unfinished">Text options</translation>
     </message>
     <message>
-        <source>Choose font...</source>
-        <translation type="unfinished">Elegir tipo de letra…</translation>
+      <source>Choose font...</source>
+      <translation type="unfinished">Choose font...</translation>
     </message>
     <message>
-        <source>Choose color...</source>
-        <translation type="unfinished">Elegir color…</translation>
+      <source>Choose color...</source>
+      <translation type="unfinished">Choose color...</translation>
     </message>
     <message>
-        <source>Background opacity</source>
-        <translation type="unfinished">Opacidad del fondo</translation>
+      <source>Background opacity</source>
+      <translation type="unfinished">Background opacity</translation>
     </message>
     <message>
-        <source>Basic Blue</source>
-        <translation type="unfinished">Azul básico</translation>
+      <source>Basic Blue</source>
+      <translation type="unfinished">Basic Blue</translation>
     </message>
     <message>
-        <source>Strawberry Red</source>
-        <translation type="unfinished">Rojo de Strawberry</translation>
+      <source>Strawberry Red</source>
+      <translation type="unfinished">Strawberry Red</translation>
     </message>
     <message>
-        <source>Custom...</source>
-        <translation type="unfinished">Personalizado…</translation>
+      <source>Custom...</source>
+      <translation type="unfinished">Custom...</translation>
     </message>
     <message>
-        <source>Enable fading</source>
-        <translation type="unfinished">Activar transición gradual</translation>
+      <source>Enable fading</source>
+      <translation type="unfinished">Enable fading</translation>
     </message>
     <message>
-        <source>Add song artist tag</source>
-        <translation type="unfinished">Añadir etiqueta de artista a la canción</translation>
+      <source>Add song artist tag</source>
+      <translation type="unfinished">Add song artist tag</translation>
     </message>
     <message>
-        <source>Add song album tag</source>
-        <translation type="unfinished">Añadir etiqueta de álbum a la canción</translation>
+      <source>Add song album tag</source>
+      <translation type="unfinished">Add song album tag</translation>
     </message>
     <message>
-        <source>Add song title tag</source>
-        <translation type="unfinished">Añadir etiqueta de título a la canción</translation>
+      <source>Add song title tag</source>
+      <translation type="unfinished">Add song title tag</translation>
     </message>
     <message>
-        <source>Add song albumartist tag</source>
-        <translation type="unfinished">Añadir etiqueta de artista del álbum a la canción</translation>
+      <source>Add song albumartist tag</source>
+      <translation type="unfinished">Add song albumartist tag</translation>
     </message>
     <message>
-        <source>Add song year tag</source>
-        <translation type="unfinished">Añadir etiqueta de año a la canción</translation>
+      <source>Add song year tag</source>
+      <translation type="unfinished">Add song year tag</translation>
     </message>
     <message>
-        <source>Add song composer tag</source>
-        <translation type="unfinished">Añadir etiqueta de compositor a la canción</translation>
+      <source>Add song composer tag</source>
+      <translation type="unfinished">Add song composer tag</translation>
     </message>
     <message>
-        <source>Add song performer tag</source>
-        <translation type="unfinished">Añadir etiqueta de intérprete a la canción</translation>
+      <source>Add song performer tag</source>
+      <translation type="unfinished">Add song performer tag</translation>
     </message>
     <message>
-        <source>Add song grouping tag</source>
-        <translation type="unfinished">Añadir etiqueta de agrupamiento a la canción</translation>
+      <source>Add song grouping tag</source>
+      <translation type="unfinished">Add song grouping tag</translation>
     </message>
     <message>
-        <source>Add song disc tag</source>
-        <translation type="unfinished">Añadir etiqueta de disco a la canción</translation>
+      <source>Add song disc tag</source>
+      <translation type="unfinished">Add song disc tag</translation>
     </message>
     <message>
-        <source>Add song track tag</source>
-        <translation type="unfinished">Añadir etiqueta de pista a la canción</translation>
+      <source>Add song track tag</source>
+      <translation type="unfinished">Add song track tag</translation>
     </message>
     <message>
-        <source>Add song genre tag</source>
-        <translation type="unfinished">Añadir etiqueta de género a la canción</translation>
+      <source>Add song genre tag</source>
+      <translation type="unfinished">Add song genre tag</translation>
     </message>
     <message>
-        <source>Add song length tag</source>
-        <translation type="unfinished">Añadir etiqueta de duración a la canción</translation>
+      <source>Add song length tag</source>
+      <translation type="unfinished">Add song length tag</translation>
     </message>
     <message>
-        <source>Add song play count</source>
-        <translation type="unfinished">Añadir contador de reproducciones de la canción</translation>
+      <source>Add song play count</source>
+      <translation type="unfinished">Add song play count</translation>
     </message>
     <message>
-        <source>Add song skip count</source>
-        <translation type="unfinished">Añadir contador de omisiones de la canción</translation>
+      <source>Add song skip count</source>
+      <translation type="unfinished">Add song skip count</translation>
     </message>
     <message>
-        <source>Add song rating</source>
-        <translation type="unfinished">Añadir valoración de la canción</translation>
+      <source>Add song rating</source>
+      <translation type="unfinished">Add song rating</translation>
     </message>
     <message>
-        <source>Add a new line if supported by the notification type</source>
-        <translation type="unfinished">Añadir un salto de renglón si el tipo de notificación lo permite</translation>
+      <source>Add a new line if supported by the notification type</source>
+      <translation type="unfinished">Add a new line if supported by the notification type</translation>
     </message>
     <message>
-        <source>%filename%</source>
-        <translation type="unfinished"></translation>
+      <source>%filename%</source>
+      <translation type="unfinished">%filename%</translation>
     </message>
     <message>
-        <source>Add song filename</source>
-        <translation type="unfinished">Añadir nombre de archivo de la canción</translation>
+      <source>Add song filename</source>
+      <translation type="unfinished">Add song filename</translation>
     </message>
     <message>
-        <source>%url%</source>
-        <translation type="unfinished"></translation>
+      <source>%url%</source>
+      <translation type="unfinished">%url%</translation>
     </message>
     <message>
-        <source>Add song URL</source>
-        <translation type="unfinished">Añadir URL del tema</translation>
+      <source>Add song URL</source>
+      <translation type="unfinished">Add song URL</translation>
     </message>
     <message>
-        <source>%originalyear%</source>
-        <translation type="unfinished"></translation>
+      <source>%originalyear%</source>
+      <translation type="unfinished">%originalyear%</translation>
     </message>
     <message>
-        <source>Add song original year tag</source>
-        <translation type="unfinished">Añadir etiqueta de año original</translation>
+      <source>Add song original year tag</source>
+      <translation type="unfinished">Add song original year tag</translation>
     </message>
     <message>
-        <source>OSD Preview</source>
-        <translation type="unfinished">Previsualización del panel de información en pantalla</translation>
+      <source>OSD Preview</source>
+      <translation type="unfinished">OSD Preview</translation>
     </message>
     <message>
-        <source>Drag to reposition</source>
-        <translation type="unfinished">Arrastre para reposicionar</translation>
+      <source>Drag to reposition</source>
+      <translation type="unfinished">Drag to reposition</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderSettingsPage</name>
     <message>
-        <source>Transcoding</source>
-        <translation type="unfinished">Convirtiendo</translation>
+      <source>Transcoding</source>
+      <translation type="unfinished">Transcoding</translation>
     </message>
     <message>
-        <source>These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</source>
-        <translation type="unfinished">Estos ajustes se usa en la ventana «Convertir música» y al convertir canciones antes de copiarlas en un dispositivo.</translation>
+      <source>These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</source>
+      <translation type="unfinished">These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</translation>
     </message>
     <message>
-        <source>FLAC</source>
-        <translation type="unfinished"></translation>
+      <source>FLAC</source>
+      <translation type="unfinished">FLAC</translation>
     </message>
     <message>
-        <source>WavPack</source>
-        <translation type="unfinished"></translation>
+      <source>WavPack</source>
+      <translation type="unfinished">WavPack</translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation type="unfinished"></translation>
+      <source>Vorbis</source>
+      <translation type="unfinished">Vorbis</translation>
     </message>
     <message>
-        <source>Opus</source>
-        <translation type="unfinished"></translation>
+      <source>Opus</source>
+      <translation type="unfinished">Opus</translation>
     </message>
     <message>
-        <source>Speex</source>
-        <translation type="unfinished"></translation>
+      <source>Speex</source>
+      <translation type="unfinished">Speex</translation>
     </message>
     <message>
-        <source>AAC</source>
-        <translation type="unfinished"></translation>
+      <source>AAC</source>
+      <translation type="unfinished">AAC</translation>
     </message>
     <message>
-        <source>ASF (WMA)</source>
-        <translation type="unfinished"></translation>
+      <source>ASF (WMA)</source>
+      <translation type="unfinished">ASF (WMA)</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation type="unfinished"></translation>
+      <source>MP3</source>
+      <translation type="unfinished">MP3</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Equalizer</name>
     <message>
-        <source>Equalizer</source>
-        <translation type="unfinished">Ecualizador</translation>
+      <source>Equalizer</source>
+      <translation type="unfinished">Equalizer</translation>
     </message>
     <message>
-        <source>Preset:</source>
-        <translation type="unfinished">Ajuste predefinido:</translation>
+      <source>Preset:</source>
+      <translation type="unfinished">Preset:</translation>
     </message>
     <message>
-        <source>Save preset</source>
-        <translation type="unfinished">Guardar ajuste predefinido</translation>
+      <source>Save preset</source>
+      <translation type="unfinished">Save preset</translation>
     </message>
     <message>
-        <source>Delete preset</source>
-        <translation type="unfinished">Eliminar ajuste predefinido</translation>
+      <source>Delete preset</source>
+      <translation type="unfinished">Delete preset</translation>
     </message>
     <message>
-        <source>Enable equalizer</source>
-        <translation type="unfinished">Activar ecualizador</translation>
+      <source>Enable equalizer</source>
+      <translation type="unfinished">Enable equalizer</translation>
     </message>
     <message>
-        <source>Enable stereo balancer</source>
-        <translation type="unfinished">Activar equilibrador estéreo</translation>
+      <source>Enable stereo balancer</source>
+      <translation type="unfinished">Enable stereo balancer</translation>
     </message>
     <message>
-        <source>Left</source>
-        <translation type="unfinished">Izquierda</translation>
+      <source>Left</source>
+      <translation type="unfinished">Left</translation>
     </message>
     <message>
-        <source>Balance</source>
-        <translation type="unfinished">Equilibrio</translation>
+      <source>Balance</source>
+      <translation type="unfinished">Balance</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation type="unfinished">Derecha</translation>
+      <source>Right</source>
+      <translation type="unfinished">Right</translation>
     </message>
     <message>
-        <source>Pre-amp</source>
-        <translation type="unfinished">Preamplificador</translation>
+      <source>Pre-amp</source>
+      <translation type="unfinished">Pre-amp</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+      <source>Custom</source>
+      <translation type="unfinished">Custom</translation>
     </message>
     <message>
-        <source>Classical</source>
-        <translation type="unfinished">Clásica</translation>
+      <source>Classical</source>
+      <translation type="unfinished">Classical</translation>
     </message>
     <message>
-        <source>Club</source>
-        <translation type="unfinished"></translation>
+      <source>Club</source>
+      <translation type="unfinished">Club</translation>
     </message>
     <message>
-        <source>Dance</source>
-        <translation type="unfinished"></translation>
+      <source>Dance</source>
+      <translation type="unfinished">Dance</translation>
     </message>
     <message>
-        <source>Full Bass</source>
-        <translation type="unfinished">Graves completos</translation>
+      <source>Full Bass</source>
+      <translation type="unfinished">Full Bass</translation>
     </message>
     <message>
-        <source>Full Treble</source>
-        <translation type="unfinished">Agudos completos</translation>
+      <source>Full Treble</source>
+      <translation type="unfinished">Full Treble</translation>
     </message>
     <message>
-        <source>Full Bass + Treble</source>
-        <translation type="unfinished">Graves y agudos completos</translation>
+      <source>Full Bass + Treble</source>
+      <translation type="unfinished">Full Bass + Treble</translation>
     </message>
     <message>
-        <source>Laptop/Headphones</source>
-        <translation type="unfinished">Portátil/auriculares</translation>
+      <source>Laptop/Headphones</source>
+      <translation type="unfinished">Laptop/Headphones</translation>
     </message>
     <message>
-        <source>Large Hall</source>
-        <translation type="unfinished">Salón grande</translation>
+      <source>Large Hall</source>
+      <translation type="unfinished">Large Hall</translation>
     </message>
     <message>
-        <source>Live</source>
-        <translation type="unfinished">En directo</translation>
+      <source>Live</source>
+      <translation type="unfinished">Live</translation>
     </message>
     <message>
-        <source>Party</source>
-        <translation type="unfinished">Fiesta</translation>
+      <source>Party</source>
+      <translation type="unfinished">Party</translation>
     </message>
     <message>
-        <source>Pop</source>
-        <translation type="unfinished"></translation>
+      <source>Pop</source>
+      <translation type="unfinished">Pop</translation>
     </message>
     <message>
-        <source>Reggae</source>
-        <translation type="unfinished"></translation>
+      <source>Reggae</source>
+      <translation type="unfinished">Reggae</translation>
     </message>
     <message>
-        <source>Rock</source>
-        <translation type="unfinished"></translation>
+      <source>Rock</source>
+      <translation type="unfinished">Rock</translation>
     </message>
     <message>
-        <source>Soft</source>
-        <translation type="unfinished"></translation>
+      <source>Soft</source>
+      <translation type="unfinished">Soft</translation>
     </message>
     <message>
-        <source>Ska</source>
-        <translation type="unfinished"></translation>
+      <source>Ska</source>
+      <translation type="unfinished">Ska</translation>
     </message>
     <message>
-        <source>Soft Rock</source>
-        <translation type="unfinished">Soft rock</translation>
+      <source>Soft Rock</source>
+      <translation type="unfinished">Soft Rock</translation>
     </message>
     <message>
-        <source>Techno</source>
-        <translation type="unfinished">Tecno</translation>
+      <source>Techno</source>
+      <translation type="unfinished">Techno</translation>
     </message>
     <message>
-        <source>Zero</source>
-        <translation type="unfinished">Cero</translation>
+      <source>Zero</source>
+      <translation type="unfinished">Zero</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the &quot;%1&quot; preset?</source>
-        <translation type="unfinished">¿Confirma que quiere eliminar el ajuste predefinido «%1»?</translation>
+      <source>Are you sure you want to delete the &quot;%1&quot; preset?</source>
+      <translation type="unfinished">Are you sure you want to delete the &quot;%1&quot; preset?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>EqualizerSlider</name>
     <message>
-        <source>Equalizer</source>
-        <translation type="unfinished">Ecualizador</translation>
+      <source>Equalizer</source>
+      <translation type="unfinished">Equalizer</translation>
     </message>
     <message>
-        <source>%1 dB</source>
-        <translation type="unfinished"></translation>
+      <source>%1 dB</source>
+      <translation type="unfinished">%1 dB</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>About</name>
     <message>
-        <source>About</source>
-        <translation type="unfinished">Acerca de</translation>
+      <source>About</source>
+      <translation type="unfinished">About</translation>
     </message>
     <message>
-        <source>About Strawberry</source>
-        <translation type="unfinished">Acerca de Strawberry</translation>
+      <source>About Strawberry</source>
+      <translation type="unfinished">About Strawberry</translation>
     </message>
     <message>
-        <source>Version %1</source>
-        <translation type="unfinished">Versión %1</translation>
+      <source>Version %1</source>
+      <translation type="unfinished">Version %1</translation>
     </message>
     <message>
-        <source>Strawberry is a music player and music collection organizer.</source>
-        <translation type="unfinished">Strawberry es un reproductor y catalogador de colecciones musicales.</translation>
+      <source>Strawberry is a music player and music collection organizer.</source>
+      <translation type="unfinished">Strawberry is a music player and music collection organizer.</translation>
     </message>
     <message>
-        <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
-        <translation type="unfinished">Es un desarrollo derivado de Clementine lanzado en 2018 destinado a melómanos y audiófilos.</translation>
+      <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
+      <translation type="unfinished">It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</translation>
     </message>
     <message>
-        <source>Strawberry is free software released under GPL. The source code is available on %1</source>
-        <translation type="unfinished">Strawberry es un programa libre, disponible en virtud de la licencia GPL. El código fuente puede encontrarse en %1</translation>
+      <source>Strawberry is free software released under GPL. The source code is available on %1</source>
+      <translation type="unfinished">Strawberry is free software released under GPL. The source code is available on %1</translation>
     </message>
     <message>
-        <source>You should have received a copy of the GNU General Public License along with this program.  If not, see %1</source>
-        <translation type="unfinished">Debería haber recibido una copia de la Licencia Pública General GNU junto con este programa. Si no es así, diríjase a %1</translation>
+      <source>You should have received a copy of the GNU General Public License along with this program.  If not, see %1</source>
+      <translation type="unfinished">You should have received a copy of the GNU General Public License along with this program.  If not, see %1</translation>
     </message>
     <message>
-        <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
-        <translation type="unfinished">Si le gusta Strawberry y le da uso, plantéese patrocinarlo o realizar una donación.</translation>
+      <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
+      <translation type="unfinished">If you like Strawberry and can make use of it, consider sponsoring or donating.</translation>
     </message>
     <message>
-        <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
-        <translation type="unfinished">Puede patrocinar al autor en %1. También puede realizar una aportación económica a través de %2.</translation>
+      <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
+      <translation type="unfinished">You can sponsor the author on %1. You can also make a one-time payment through %2.</translation>
     </message>
     <message>
-        <source>Author and maintainer</source>
-        <translation type="unfinished">Autor y responsable</translation>
+      <source>Author and maintainer</source>
+      <translation type="unfinished">Author and maintainer</translation>
     </message>
     <message>
-        <source>Contributors</source>
-        <translation type="unfinished">Colaboradores</translation>
+      <source>Contributors</source>
+      <translation type="unfinished">Contributors</translation>
     </message>
     <message>
-        <source>Clementine authors</source>
-        <translation type="unfinished">Autores de Clementine</translation>
+      <source>Clementine authors</source>
+      <translation type="unfinished">Clementine authors</translation>
     </message>
     <message>
-        <source>Clementine contributors</source>
-        <translation type="unfinished">Colaboradores de Clementine</translation>
+      <source>Clementine contributors</source>
+      <translation type="unfinished">Clementine contributors</translation>
     </message>
     <message>
-        <source>Thanks to</source>
-        <translation type="unfinished">Gracias a</translation>
+      <source>Thanks to</source>
+      <translation type="unfinished">Thanks to</translation>
     </message>
     <message>
-        <source>Thanks to all the other Amarok and Clementine contributors.</source>
-        <translation type="unfinished">Gracias al resto de colaboradores de Amarok y Clementine</translation>
+      <source>Thanks to all the other Amarok and Clementine contributors.</source>
+      <translation type="unfinished">Thanks to all the other Amarok and Clementine contributors.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ErrorDialog</name>
     <message>
-        <source>Strawberry Error</source>
-        <translation type="unfinished">Error de Strawberry</translation>
+      <source>Strawberry Error</source>
+      <translation type="unfinished">Strawberry Error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Console</name>
     <message>
-        <source>Console</source>
-        <translation type="unfinished">Consola</translation>
+      <source>Console</source>
+      <translation type="unfinished">Console</translation>
     </message>
     <message>
-        <source>Run</source>
-        <translation type="unfinished">Ejecutar</translation>
+      <source>Run</source>
+      <translation type="unfinished">Run</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>EditTagDialog</name>
     <message>
-        <source>Edit track information</source>
-        <translation type="unfinished">Editar información de la pista</translation>
+      <source>Edit track information</source>
+      <translation type="unfinished">Edit track information</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Resumen</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Date created</source>
-        <translation type="unfinished">Fecha de creación</translation>
+      <source>Date created</source>
+      <translation type="unfinished">Date created</translation>
     </message>
     <message>
-        <source>Art Automatic</source>
-        <translation type="unfinished">Cubierta automática</translation>
+      <source>Art Automatic</source>
+      <translation type="unfinished">Art Automatic</translation>
     </message>
     <message>
-        <source>Date modified</source>
-        <translation type="unfinished">Fecha de modificación</translation>
+      <source>Date modified</source>
+      <translation type="unfinished">Date modified</translation>
     </message>
     <message>
-        <source>Art Embedded</source>
-        <translation type="unfinished"></translation>
+      <source>Art Embedded</source>
+      <translation type="unfinished">Art Embedded</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <comment>A playlist&apos;s tag.</comment>
-        <translation type="unfinished"></translation>
+      <source>Last played</source>
+      <comment>A playlist&apos;s tag.</comment>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Tipo</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Duración</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Play count</source>
-        <translation type="unfinished">Número de reproducciones</translation>
+      <source>Play count</source>
+      <translation type="unfinished">Play count</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Resolución</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>EBU R 128 integrated loudness</source>
-        <translation type="unfinished"></translation>
+      <source>EBU R 128 integrated loudness</source>
+      <translation type="unfinished">EBU R 128 integrated loudness</translation>
     </message>
     <message>
-        <source>Bit rate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bit rate</source>
+      <translation type="unfinished">Bit rate</translation>
     </message>
     <message>
-        <source>Skip count</source>
-        <translation type="unfinished">Número de omisiones</translation>
+      <source>Skip count</source>
+      <translation type="unfinished">Skip count</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Frecuencia</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Path</source>
-        <translation type="unfinished">Ruta</translation>
+      <source>Path</source>
+      <translation type="unfinished">Path</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+      <source>Filename</source>
+      <translation type="unfinished">Filename</translation>
     </message>
     <message>
-        <source>Art Unset</source>
-        <translation type="unfinished"></translation>
+      <source>Art Unset</source>
+      <translation type="unfinished">Art Unset</translation>
     </message>
     <message>
-        <source>File size</source>
-        <translation type="unfinished">Tamaño del archivo</translation>
+      <source>File size</source>
+      <translation type="unfinished">File size</translation>
     </message>
     <message>
-        <source>Art Manual</source>
-        <translation type="unfinished">Cubierta manual</translation>
+      <source>Art Manual</source>
+      <translation type="unfinished">Art Manual</translation>
     </message>
     <message>
-        <source>EBU R 128 loudness range</source>
-        <translation type="unfinished"></translation>
+      <source>EBU R 128 loudness range</source>
+      <translation type="unfinished">EBU R 128 loudness range</translation>
     </message>
     <message>
-        <source>Reset play counts</source>
-        <translation type="unfinished">Reiniciar contador de reproducciones</translation>
+      <source>Reset play counts</source>
+      <translation type="unfinished">Reset play counts</translation>
     </message>
     <message>
-        <source>Tags</source>
-        <translation type="unfinished">Etiquetas</translation>
+      <source>Tags</source>
+      <translation type="unfinished">Tags</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Change art</source>
-        <translation type="unfinished">Cambiar cubierta</translation>
+      <source>Change art</source>
+      <translation type="unfinished">Change art</translation>
     </message>
     <message>
-        <source>Embedded cover</source>
-        <translation type="unfinished">Cubierta incrustada</translation>
+      <source>Embedded cover</source>
+      <translation type="unfinished">Embedded cover</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Disco</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Agrupamiento</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Artista del álbum</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Título</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Compositor</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Complete tags automatically</source>
-        <translation type="unfinished">Completar etiquetas automáticamente</translation>
+      <source>Complete tags automatically</source>
+      <translation type="unfinished">Complete tags automatically</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Género</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Comentario</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Intérprete</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Compilation</source>
-        <translation type="unfinished">Compilación</translation>
+      <source>Compilation</source>
+      <translation type="unfinished">Compilation</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Pista</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation type="unfinished">Valoración</translation>
+      <source>Rating</source>
+      <translation type="unfinished">Rating</translation>
     </message>
     <message>
-        <source>Lyrics</source>
-        <translation type="unfinished">Letras</translation>
+      <source>Lyrics</source>
+      <translation type="unfinished">Lyrics</translation>
     </message>
     <message>
-        <source>Complete lyrics automatically</source>
-        <translation type="unfinished"></translation>
+      <source>Complete lyrics automatically</source>
+      <translation type="unfinished">Complete lyrics automatically</translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation type="unfinished">Anterior</translation>
+      <source>Previous</source>
+      <translation type="unfinished">Previous</translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation type="unfinished">Siguiente</translation>
+      <source>Next</source>
+      <translation type="unfinished">Next</translation>
     </message>
     <message>
-        <source>Saving tracks</source>
-        <translation type="unfinished">Guardando las pistas</translation>
+      <source>Saving tracks</source>
+      <translation type="unfinished">Saving tracks</translation>
     </message>
     <message>
-        <source>Loading tracks</source>
-        <translation type="unfinished">Cargando pistas</translation>
+      <source>Loading tracks</source>
+      <translation type="unfinished">Loading tracks</translation>
     </message>
     <message>
-        <source>%1 songs selected.</source>
-        <translation type="unfinished">%1 temas seleccionados</translation>
+      <source>%1 songs selected.</source>
+      <translation type="unfinished">%1 songs selected.</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kb/s</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
+      <source>Yes</source>
+      <translation type="unfinished">Yes</translation>
     </message>
     <message>
-        <source>No</source>
-        <translation type="unfinished"></translation>
+      <source>No</source>
+      <translation type="unfinished">No</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Cover is unset.</source>
-        <translation type="unfinished"></translation>
+      <source>Cover is unset.</source>
+      <translation type="unfinished">Cover is unset.</translation>
     </message>
     <message>
-        <source>Cover from embedded image.</source>
-        <translation type="unfinished"></translation>
+      <source>Cover from embedded image.</source>
+      <translation type="unfinished">Cover from embedded image.</translation>
     </message>
     <message>
-        <source>Cover from %1</source>
-        <translation type="unfinished"></translation>
+      <source>Cover from %1</source>
+      <translation type="unfinished">Cover from %1</translation>
     </message>
     <message>
-        <source>Cover art not set</source>
-        <translation type="unfinished">Cubierta no definida</translation>
+      <source>Cover art not set</source>
+      <translation type="unfinished">Cover art not set</translation>
     </message>
     <message>
-        <source>Album cover editing is only available for collection songs.</source>
-        <translation type="unfinished">La edición de las cubiertas de los álbumes solo está disponible para las canciones de la fonoteca.</translation>
+      <source>Album cover editing is only available for collection songs.</source>
+      <translation type="unfinished">Album cover editing is only available for collection songs.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be cleared when saved.</source>
-        <translation type="unfinished">Cubierta modificada: se restablecerá al guardar.</translation>
+      <source>Cover changed: Will be cleared when saved.</source>
+      <translation type="unfinished">Cover changed: Will be cleared when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be unset when saved.</source>
-        <translation type="unfinished">Cubierta modificada: se desactivará al guardar.</translation>
+      <source>Cover changed: Will be unset when saved.</source>
+      <translation type="unfinished">Cover changed: Will be unset when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be deleted when saved.</source>
-        <translation type="unfinished">Cubierta modificada: se eliminará al guardar.</translation>
+      <source>Cover changed: Will be deleted when saved.</source>
+      <translation type="unfinished">Cover changed: Will be deleted when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will set new when saved.</source>
-        <translation type="unfinished">Cubierta modificada: se establecerá la nueva al guardar.</translation>
+      <source>Cover changed: Will set new when saved.</source>
+      <translation type="unfinished">Cover changed: Will set new when saved.</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+      <source>Never</source>
+      <translation type="unfinished">Never</translation>
     </message>
     <message>
-        <source>Reset song play statistics</source>
-        <translation type="unfinished"></translation>
+      <source>Reset song play statistics</source>
+      <translation type="unfinished">Reset song play statistics</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset this song&apos;s play statistics?</source>
-        <translation type="unfinished"></translation>
+      <source>Are you sure you want to reset this song&apos;s play statistics?</source>
+      <translation type="unfinished">Are you sure you want to reset this song&apos;s play statistics?</translation>
     </message>
     <message>
-        <source>loading...</source>
-        <translation type="unfinished"></translation>
+      <source>loading...</source>
+      <translation type="unfinished">loading...</translation>
     </message>
     <message>
-        <source>Not found.</source>
-        <translation type="unfinished"></translation>
+      <source>Not found.</source>
+      <translation type="unfinished">Not found.</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1</source>
-        <translation type="unfinished"></translation>
+      <source>Could not write metadata to %1</source>
+      <translation type="unfinished">Could not write metadata to %1</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Could not write metadata to %1: %2</source>
+      <translation type="unfinished">Could not write metadata to %1: %2</translation>
     </message>
     <message>
-        <source>(different across multiple songs)</source>
-        <translation type="unfinished"></translation>
+      <source>(different across multiple songs)</source>
+      <translation type="unfinished">(different across multiple songs)</translation>
     </message>
     <message>
-        <source>Different art across multiple songs.</source>
-        <translation type="unfinished"></translation>
+      <source>Different art across multiple songs.</source>
+      <translation type="unfinished">Different art across multiple songs.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TrackSelectionDialog</name>
     <message>
-        <source>Tag fetcher</source>
-        <translation type="unfinished">Obtener etiquetas</translation>
+      <source>Tag fetcher</source>
+      <translation type="unfinished">Tag fetcher</translation>
     </message>
     <message>
-        <source>Sorry</source>
-        <translation type="unfinished">Lo sentimos</translation>
+      <source>Sorry</source>
+      <translation type="unfinished">Sorry</translation>
     </message>
     <message>
-        <source>Strawberry was unable to find results for this file</source>
-        <translation type="unfinished">Strawberry no encontró resultados para este archivo</translation>
+      <source>Strawberry was unable to find results for this file</source>
+      <translation type="unfinished">Strawberry was unable to find results for this file</translation>
     </message>
     <message>
-        <source>Select best possible match</source>
-        <translation type="unfinished">Seleccionar la mejor coincidencia</translation>
+      <source>Select best possible match</source>
+      <translation type="unfinished">Select best possible match</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Pista</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Título</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation type="unfinished">Anterior</translation>
+      <source>Previous</source>
+      <translation type="unfinished">Previous</translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation type="unfinished">Siguiente</translation>
+      <source>Next</source>
+      <translation type="unfinished">Next</translation>
     </message>
     <message>
-        <source>Original tags</source>
-        <translation type="unfinished">Etiquetas originales</translation>
+      <source>Original tags</source>
+      <translation type="unfinished">Original tags</translation>
     </message>
     <message>
-        <source>Suggested tags</source>
-        <translation type="unfinished">Etiquetas sugeridas</translation>
+      <source>Suggested tags</source>
+      <translation type="unfinished">Suggested tags</translation>
     </message>
     <message>
-        <source>Saving tracks</source>
-        <translation type="unfinished">Guardando las pistas</translation>
+      <source>Saving tracks</source>
+      <translation type="unfinished">Saving tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AddStreamDialog</name>
     <message>
-        <source>Add Stream</source>
-        <translation type="unfinished">Añadir emisora</translation>
+      <source>Add Stream</source>
+      <translation type="unfinished">Add Stream</translation>
     </message>
     <message>
-        <source>Enter the URL of a stream:</source>
-        <translation type="unfinished">Introduzca el URL de una emisora:</translation>
+      <source>Enter the URL of a stream:</source>
+      <translation type="unfinished">Enter the URL of a stream:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>UserPassDialog</name>
     <message>
-        <source>Enter username and password</source>
-        <translation type="unfinished">Introduzca usuario y contraseña</translation>
+      <source>Enter username and password</source>
+      <translation type="unfinished">Enter username and password</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastFMImportDialog</name>
     <message>
-        <source>Import data from last.fm</source>
-        <translation type="unfinished">Importar datos de Last.fm</translation>
+      <source>Import data from last.fm</source>
+      <translation type="unfinished">Import data from last.fm</translation>
     </message>
     <message>
-        <source>Choose data to import from last.fm</source>
-        <translation type="unfinished">Escoja qué información importar de Last.fm</translation>
+      <source>Choose data to import from last.fm</source>
+      <translation type="unfinished">Choose data to import from last.fm</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <translation type="unfinished"></translation>
+      <source>Last played</source>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>Play counts</source>
-        <translation type="unfinished">Contadores de reproducción</translation>
+      <source>Play counts</source>
+      <translation type="unfinished">Play counts</translation>
     </message>
     <message>
-        <source>Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</source>
-        <translation type="unfinished">Atención: se reemplazará el recuento de reproducciones y la última reproducción de los temas coincidentes con los datos procedentes de Last.fm. El recuento de reproducciones se sobreescribirá atendiendo a artista y nombre del tema. Haga una copia de respaldo de su base de datos antes de comenzar.</translation>
+      <source>Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</source>
+      <translation type="unfinished">Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</translation>
     </message>
     <message>
-        <source>Go!</source>
-        <translation type="unfinished">Ir</translation>
+      <source>Go!</source>
+      <translation type="unfinished">Go!</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+      <source>Close</source>
+      <translation type="unfinished">Close</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+      <source>Cancel</source>
+      <translation type="unfinished">Cancel</translation>
     </message>
     <message>
-        <source>Receiving initial data from last.fm...</source>
-        <translation type="unfinished">Recibiendo datos iniciales de Last.fm…</translation>
+      <source>Receiving initial data from last.fm...</source>
+      <translation type="unfinished">Receiving initial data from last.fm...</translation>
     </message>
     <message>
-        <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
-        <translation type="unfinished">Recibiendo info de nº de reproducciones para %1 temas y última reproducción para %2 temas.</translation>
+      <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
+      <translation type="unfinished">Receiving playcount for %1 songs and last played for %2 songs.</translation>
     </message>
     <message>
-        <source>Receiving last played for %1 songs.</source>
-        <translation type="unfinished">Recibiendo info de última reproducción para %1 temas.</translation>
+      <source>Receiving last played for %1 songs.</source>
+      <translation type="unfinished">Receiving last played for %1 songs.</translation>
     </message>
     <message>
-        <source>Receiving playcounts for %1 songs.</source>
-        <translation type="unfinished">Recibiendo info de nº de reproducciones para %1 temas.</translation>
+      <source>Receiving playcounts for %1 songs.</source>
+      <translation type="unfinished">Receiving playcounts for %1 songs.</translation>
     </message>
     <message>
-        <source>Playcounts for %1 songs and last played for %2 songs received.</source>
-        <translation type="unfinished">Recuentos de %1 reproducciones y última reproducción para %2 temas recibida.</translation>
+      <source>Playcounts for %1 songs and last played for %2 songs received.</source>
+      <translation type="unfinished">Playcounts for %1 songs and last played for %2 songs received.</translation>
     </message>
     <message>
-        <source>Last played for %1 songs received.</source>
-        <translation type="unfinished">Info de última reproducción para %1 temas recibida.</translation>
+      <source>Last played for %1 songs received.</source>
+      <translation type="unfinished">Last played for %1 songs received.</translation>
     </message>
     <message>
-        <source>Playcounts for %1 songs received.</source>
-        <translation type="unfinished">Recuentos de reproducciones para %1 temas recibidos.</translation>
+      <source>Playcounts for %1 songs received.</source>
+      <translation type="unfinished">Playcounts for %1 songs received.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MessageDialog</name>
     <message>
-        <source>Message Dialog</source>
-        <translation type="unfinished"></translation>
+      <source>Message Dialog</source>
+      <translation type="unfinished">Message Dialog</translation>
     </message>
     <message>
-        <source>Do not show this message again.</source>
-        <translation type="unfinished">No volver a mostrar este mensaje.</translation>
+      <source>Do not show this message again.</source>
+      <translation type="unfinished">Do not show this message again.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SavePlaylistsDialog</name>
     <message>
-        <source>Select directory for saving playlists</source>
-        <translation type="unfinished"></translation>
+      <source>Select directory for saving playlists</source>
+      <translation type="unfinished">Select directory for saving playlists</translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation type="unfinished"></translation>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
     </message>
     <message>
-        <source>Select directory for the playlists</source>
-        <translation type="unfinished"></translation>
+      <source>Select directory for the playlists</source>
+      <translation type="unfinished">Select directory for the playlists</translation>
     </message>
     <message>
-        <source>Directory does not exist.</source>
-        <translation type="unfinished"></translation>
+      <source>Directory does not exist.</source>
+      <translation type="unfinished">Directory does not exist.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TrackSlider</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>0:00:00</source>
-        <translation type="unfinished"></translation>
+      <source>0:00:00</source>
+      <translation type="unfinished">0:00:00</translation>
     </message>
     <message>
-        <source>Click to toggle between remaining time and total time</source>
-        <translation type="unfinished">Pulse para alternar entre el tiempo restante y el total</translation>
+      <source>Click to toggle between remaining time and total time</source>
+      <translation type="unfinished">Click to toggle between remaining time and total time</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileView</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LoginStateWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>You are not signed in.</source>
-        <translation type="unfinished">No ha accedido a su cuenta.</translation>
+      <source>You are not signed in.</source>
+      <translation type="unfinished">You are not signed in.</translation>
     </message>
     <message>
-        <source>Sign out</source>
-        <translation type="unfinished">Cerrar sesión</translation>
+      <source>Sign out</source>
+      <translation type="unfinished">Sign out</translation>
     </message>
     <message>
-        <source>Signing in...</source>
-        <translation type="unfinished">Iniciando sesión…</translation>
+      <source>Signing in...</source>
+      <translation type="unfinished">Signing in...</translation>
     </message>
     <message>
-        <source>You are signed in.</source>
-        <translation type="unfinished">Ha accedido a su cuenta.</translation>
+      <source>You are signed in.</source>
+      <translation type="unfinished">You are signed in.</translation>
     </message>
     <message>
-        <source>You are signed in as %1.</source>
-        <translation type="unfinished">Ha accedido como %1.</translation>
+      <source>You are signed in as %1.</source>
+      <translation type="unfinished">You are signed in as %1.</translation>
     </message>
     <message>
-        <source>Expires on %1</source>
-        <translation type="unfinished">Caduca el %1</translation>
+      <source>Expires on %1</source>
+      <translation type="unfinished">Expires on %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingTabsView</name>
     <message>
-        <source>Streaming Tabs View</source>
-        <translation type="unfinished"></translation>
+      <source>Streaming Tabs View</source>
+      <translation type="unfinished">Streaming Tabs View</translation>
     </message>
     <message>
-        <source>Artists</source>
-        <translation type="unfinished">Artistas</translation>
+      <source>Artists</source>
+      <translation type="unfinished">Artists</translation>
     </message>
     <message>
-        <source>Albums</source>
-        <translation type="unfinished">Álbumes</translation>
+      <source>Albums</source>
+      <translation type="unfinished">Albums</translation>
     </message>
     <message>
-        <source>Songs</source>
-        <translation type="unfinished">Pistas</translation>
+      <source>Songs</source>
+      <translation type="unfinished">Songs</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+      <source>Search</source>
+      <translation type="unfinished">Search</translation>
     </message>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Configurar %1…</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingCollectionViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+      <source>Close</source>
+      <translation type="unfinished">Close</translation>
     </message>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Interrumpir</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
     <message>
-        <source>Refresh catalogue</source>
-        <translation type="unfinished">Actualizar catálogo</translation>
+      <source>Refresh catalogue</source>
+      <translation type="unfinished">Refresh catalogue</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSearchView</name>
     <message>
-        <source>Streaming Search View</source>
-        <translation type="unfinished"></translation>
+      <source>Streaming Search View</source>
+      <translation type="unfinished">Streaming Search View</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished"></translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>artists</source>
-        <translation type="unfinished">artistas</translation>
+      <source>artists</source>
+      <translation type="unfinished">artists</translation>
     </message>
     <message>
-        <source>albums</source>
-        <translation type="unfinished">álbumes</translation>
+      <source>albums</source>
+      <translation type="unfinished">albums</translation>
     </message>
     <message>
-        <source>songs</source>
-        <translation type="unfinished">temas</translation>
+      <source>songs</source>
+      <translation type="unfinished">songs</translation>
     </message>
     <message>
-        <source>Enter search terms above to find music</source>
-        <translation type="unfinished">Introduzca términos de búsqueda arriba para buscar en la colección</translation>
+      <source>Enter search terms above to find music</source>
+      <translation type="unfinished">Enter search terms above to find music</translation>
     </message>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Configurar %1…</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Poner pista en cola</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Add to artists</source>
-        <translation type="unfinished">Añadir a artistas</translation>
+      <source>Add to artists</source>
+      <translation type="unfinished">Add to artists</translation>
     </message>
     <message>
-        <source>Add to albums</source>
-        <translation type="unfinished">Añadir a álbumes</translation>
+      <source>Add to albums</source>
+      <translation type="unfinished">Add to albums</translation>
     </message>
     <message>
-        <source>Add to songs</source>
-        <translation type="unfinished">Añadir a temas</translation>
+      <source>Add to songs</source>
+      <translation type="unfinished">Add to songs</translation>
     </message>
     <message>
-        <source>Search for this</source>
-        <translation type="unfinished">Buscar esto</translation>
+      <source>Search for this</source>
+      <translation type="unfinished">Search for this</translation>
     </message>
     <message>
-        <source>Group by</source>
-        <translation type="unfinished">Agrupar por</translation>
+      <source>Group by</source>
+      <translation type="unfinished">Group by</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OrganizeDialog</name>
     <message>
-        <source>Organize Files</source>
-        <translation type="unfinished">Organizar archivos</translation>
+      <source>Organize Files</source>
+      <translation type="unfinished">Organize Files</translation>
     </message>
     <message>
-        <source>Destination</source>
-        <translation type="unfinished">Destino</translation>
+      <source>Destination</source>
+      <translation type="unfinished">Destination</translation>
     </message>
     <message>
-        <source>After copying...</source>
-        <translation type="unfinished">Después de copiar…</translation>
+      <source>After copying...</source>
+      <translation type="unfinished">After copying...</translation>
     </message>
     <message>
-        <source>Keep the original files</source>
-        <translation type="unfinished">Mantener los archivos originales</translation>
+      <source>Keep the original files</source>
+      <translation type="unfinished">Keep the original files</translation>
     </message>
     <message>
-        <source>Delete the original files</source>
-        <translation type="unfinished">Eliminar los archivos originales</translation>
+      <source>Delete the original files</source>
+      <translation type="unfinished">Delete the original files</translation>
     </message>
     <message>
-        <source>Naming options</source>
-        <translation type="unfinished">Opciones de nomenclatura</translation>
+      <source>Naming options</source>
+      <translation type="unfinished">Naming options</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
+      <source>&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
 
 &lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Las fichas comienzan por %, por ejemplo: %artist %album %title &lt;/p&gt;
+      <translation type="unfinished">&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
 
-&lt;p&gt;Si encierra una sección de texto que contenga una ficha entre llaves, esa sección no se mostrará si la ficha está vacía.&lt;/p&gt;</translation>
+&lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Insert...</source>
-        <translation type="unfinished">Insertar…</translation>
+      <source>Insert...</source>
+      <translation type="unfinished">Insert...</translation>
     </message>
     <message>
-        <source>Remove problematic characters from filenames</source>
-        <translation type="unfinished">Elimina caracteres especiales de nombres de archivo</translation>
+      <source>Remove problematic characters from filenames</source>
+      <translation type="unfinished">Remove problematic characters from filenames</translation>
     </message>
     <message>
-        <source>Restrict to characters allowed on FAT filesystems</source>
-        <translation type="unfinished">Limitar a caracteres permitidos en sistemas de archivos FAT</translation>
+      <source>Restrict to characters allowed on FAT filesystems</source>
+      <translation type="unfinished">Restrict to characters allowed on FAT filesystems</translation>
     </message>
     <message>
-        <source>Restrict characters to ASCII</source>
-        <translation type="unfinished">Limitar caracteres a conjunto ASCII</translation>
+      <source>Restrict characters to ASCII</source>
+      <translation type="unfinished">Restrict characters to ASCII</translation>
     </message>
     <message>
-        <source>Allow extended ASCII characters</source>
-        <translation type="unfinished">Admitir caracteres de ASCII ampliado</translation>
+      <source>Allow extended ASCII characters</source>
+      <translation type="unfinished">Allow extended ASCII characters</translation>
     </message>
     <message>
-        <source>Replace spaces with underscores</source>
-        <translation type="unfinished">Sustituir espacios pòr caracteres de subrayado</translation>
+      <source>Replace spaces with underscores</source>
+      <translation type="unfinished">Replace spaces with underscores</translation>
     </message>
     <message>
-        <source>Overwrite existing files</source>
-        <translation type="unfinished">Sobrescribir los archivos existentes</translation>
+      <source>Overwrite existing files</source>
+      <translation type="unfinished">Overwrite existing files</translation>
     </message>
     <message>
-        <source>Copy album cover artwork</source>
-        <translation type="unfinished">Copiar cubierta del álbum</translation>
+      <source>Copy album cover artwork</source>
+      <translation type="unfinished">Copy album cover artwork</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Previsualización</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Cargando…</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>Safely remove the device after copying</source>
-        <translation type="unfinished">Quitar dispositivo con seguridad después de copiar</translation>
+      <source>Safely remove the device after copying</source>
+      <translation type="unfinished">Safely remove the device after copying</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Título</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Artist&apos;s initial</source>
-        <translation type="unfinished">Iniciales del artista</translation>
+      <source>Artist&apos;s initial</source>
+      <translation type="unfinished">Artist&apos;s initial</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Artista del álbum</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Compositor</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Intérprete</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Agrupamiento</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Pista</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Disco</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Año original</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Género</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Comentario</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Duración</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <comment>Refers to bitrate in file organize dialog.</comment>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <comment>Refers to bitrate in file organize dialog.</comment>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Frecuencia</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Resolución</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>File extension</source>
-        <translation type="unfinished">Extensión del archivo</translation>
+      <source>File extension</source>
+      <translation type="unfinished">File extension</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscodeDialog</name>
     <message>
-        <source>Transcode Music</source>
-        <translation type="unfinished">Convertir música</translation>
+      <source>Transcode Music</source>
+      <translation type="unfinished">Transcode Music</translation>
     </message>
     <message>
-        <source>Files to transcode</source>
-        <translation type="unfinished">Archivos que convertir</translation>
+      <source>Files to transcode</source>
+      <translation type="unfinished">Files to transcode</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+      <source>Filename</source>
+      <translation type="unfinished">Filename</translation>
     </message>
     <message>
-        <source>Directory</source>
-        <translation type="unfinished">Directorio</translation>
+      <source>Directory</source>
+      <translation type="unfinished">Directory</translation>
     </message>
     <message>
-        <source>Add...</source>
-        <translation type="unfinished">Añadir...</translation>
+      <source>Add...</source>
+      <translation type="unfinished">Add...</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Add all tracks from a directory and all its subdirectories</source>
-        <translation type="unfinished">Añadir todas las pistas de una carpeta y sus subcarpetas</translation>
+      <source>Add all tracks from a directory and all its subdirectories</source>
+      <translation type="unfinished">Add all tracks from a directory and all its subdirectories</translation>
     </message>
     <message>
-        <source>Import...</source>
-        <translation type="unfinished">Importar…</translation>
+      <source>Import...</source>
+      <translation type="unfinished">Import...</translation>
     </message>
     <message>
-        <source>Output options</source>
-        <translation type="unfinished">Opciones de salida</translation>
+      <source>Output options</source>
+      <translation type="unfinished">Output options</translation>
     </message>
     <message>
-        <source>Audio format</source>
-        <translation type="unfinished">Formato de audio</translation>
+      <source>Audio format</source>
+      <translation type="unfinished">Audio format</translation>
     </message>
     <message>
-        <source>Options...</source>
-        <translation type="unfinished">Opciones…</translation>
+      <source>Options...</source>
+      <translation type="unfinished">Options...</translation>
     </message>
     <message>
-        <source>Destination</source>
-        <translation type="unfinished">Destino</translation>
+      <source>Destination</source>
+      <translation type="unfinished">Destination</translation>
     </message>
     <message>
-        <source>Alongside the originals</source>
-        <translation type="unfinished">Junto a los originales</translation>
+      <source>Alongside the originals</source>
+      <translation type="unfinished">Alongside the originals</translation>
     </message>
     <message>
-        <source>Select...</source>
-        <translation type="unfinished">Seleccionar...</translation>
+      <source>Select...</source>
+      <translation type="unfinished">Select...</translation>
     </message>
     <message>
-        <source>Progress</source>
-        <translation type="unfinished">Progreso</translation>
+      <source>Progress</source>
+      <translation type="unfinished">Progress</translation>
     </message>
     <message>
-        <source>Details...</source>
-        <translation type="unfinished">Detalles…</translation>
+      <source>Details...</source>
+      <translation type="unfinished">Details...</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Borrar</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Start transcoding</source>
-        <translation type="unfinished">Iniciar la conversión</translation>
+      <source>Start transcoding</source>
+      <translation type="unfinished">Start transcoding</translation>
     </message>
     <message numerus="yes">
-        <source>%n remaining</source>
-        <translation type="unfinished">
-            <numerusform>%n pendientes</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n remaining</source>
+      <translation type="unfinished">
+        <numerusform>%n remaining</numerusform>
+        <numerusform>%n remaining</numerusform>
+      </translation>
     </message>
     <message numerus="yes">
-        <source>%n finished</source>
-        <translation type="unfinished">
-            <numerusform>%n completados</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n finished</source>
+      <translation type="unfinished">
+        <numerusform>%n finished</numerusform>
+        <numerusform>%n finished</numerusform>
+      </translation>
     </message>
     <message numerus="yes">
-        <source>%n failed</source>
-        <translation type="unfinished">
-            <numerusform>%n falló</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n failed</source>
+      <translation type="unfinished">
+        <numerusform>%n failed</numerusform>
+        <numerusform>%n failed</numerusform>
+      </translation>
     </message>
     <message>
-        <source>Add files to transcode</source>
-        <translation type="unfinished">Añadir archivos que convertir</translation>
+      <source>Add files to transcode</source>
+      <translation type="unfinished">Add files to transcode</translation>
     </message>
     <message>
-        <source>Music</source>
-        <translation type="unfinished">Música</translation>
+      <source>Music</source>
+      <translation type="unfinished">Music</translation>
     </message>
     <message>
-        <source>Open a directory to import music from</source>
-        <translation type="unfinished">Abrir una carpeta de la que importar música</translation>
+      <source>Open a directory to import music from</source>
+      <translation type="unfinished">Open a directory to import music from</translation>
     </message>
     <message>
-        <source>Add folder</source>
-        <translation type="unfinished">Añadir carpeta</translation>
+      <source>Add folder</source>
+      <translation type="unfinished">Add folder</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscodeLogDialog</name>
     <message>
-        <source>Transcoder Log</source>
-        <translation type="unfinished">Registro del conversor</translation>
+      <source>Transcoder Log</source>
+      <translation type="unfinished">Transcoder Log</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsAAC</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Profile</source>
-        <translation type="unfinished">Perfil</translation>
+      <source>Profile</source>
+      <translation type="unfinished">Profile</translation>
     </message>
     <message>
-        <source>Main profile (MAIN)</source>
-        <translation type="unfinished">Perfil principal (MAIN)</translation>
+      <source>Main profile (MAIN)</source>
+      <translation type="unfinished">Main profile (MAIN)</translation>
     </message>
     <message>
-        <source>Low complexity profile (LC)</source>
-        <translation type="unfinished">Perfil de baja complejidad (LC)</translation>
+      <source>Low complexity profile (LC)</source>
+      <translation type="unfinished">Low complexity profile (LC)</translation>
     </message>
     <message>
-        <source>Scalable sampling rate profile (SSR)</source>
-        <translation type="unfinished">Perfil de tasa de muestreo escalable (SSR)</translation>
+      <source>Scalable sampling rate profile (SSR)</source>
+      <translation type="unfinished">Scalable sampling rate profile (SSR)</translation>
     </message>
     <message>
-        <source>Long term prediction profile (LTP)</source>
-        <translation type="unfinished">Perfil de predicción a largo plazo (LTP)</translation>
+      <source>Long term prediction profile (LTP)</source>
+      <translation type="unfinished">Long term prediction profile (LTP)</translation>
     </message>
     <message>
-        <source>Use temporal noise shaping</source>
-        <translation type="unfinished">Usar conformación de ruido temporal</translation>
+      <source>Use temporal noise shaping</source>
+      <translation type="unfinished">Use temporal noise shaping</translation>
     </message>
     <message>
-        <source>Allow mid/side encoding</source>
-        <translation type="unfinished">Permitir codificación MS (suma / diferencia)</translation>
+      <source>Allow mid/side encoding</source>
+      <translation type="unfinished">Allow mid/side encoding</translation>
     </message>
     <message>
-        <source>Block type</source>
-        <translation type="unfinished">Tipo de bloque</translation>
+      <source>Block type</source>
+      <translation type="unfinished">Block type</translation>
     </message>
     <message>
-        <source>Normal block type</source>
-        <translation type="unfinished">Tipo de bloque normal</translation>
+      <source>Normal block type</source>
+      <translation type="unfinished">Normal block type</translation>
     </message>
     <message>
-        <source>No short blocks</source>
-        <translation type="unfinished">Sin bloques cortos</translation>
+      <source>No short blocks</source>
+      <translation type="unfinished">No short blocks</translation>
     </message>
     <message>
-        <source>No long blocks</source>
-        <translation type="unfinished">Sin bloques largos</translation>
+      <source>No long blocks</source>
+      <translation type="unfinished">No long blocks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsDialog</name>
     <message>
-        <source>Transcoding options</source>
-        <translation type="unfinished">Opciones de conversión</translation>
+      <source>Transcoding options</source>
+      <translation type="unfinished">Transcoding options</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsFLAC</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Calidad</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Fast</source>
-        <translation type="unfinished">Rápido</translation>
+      <source>Fast</source>
+      <translation type="unfinished">Fast</translation>
     </message>
     <message>
-        <source>Best</source>
-        <translation type="unfinished">Mejor</translation>
+      <source>Best</source>
+      <translation type="unfinished">Best</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsWavPack</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsVorbis</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Calidad</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Use bitrate management engine</source>
-        <translation type="unfinished">Usar el motor de gestión de flujo de bits</translation>
+      <source>Use bitrate management engine</source>
+      <translation type="unfinished">Use bitrate management engine</translation>
     </message>
     <message>
-        <source>Target bitrate</source>
-        <translation type="unfinished">Tasa de bits objetivo</translation>
+      <source>Target bitrate</source>
+      <translation type="unfinished">Target bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Minimum bitrate</source>
-        <translation type="unfinished">Tasa de bits mínima</translation>
+      <source>Minimum bitrate</source>
+      <translation type="unfinished">Minimum bitrate</translation>
     </message>
     <message>
-        <source>disabled</source>
-        <translation type="unfinished">desactivado</translation>
+      <source>disabled</source>
+      <translation type="unfinished">disabled</translation>
     </message>
     <message>
-        <source>Maximum bitrate</source>
-        <translation type="unfinished">Tasa de bits máxima</translation>
+      <source>Maximum bitrate</source>
+      <translation type="unfinished">Maximum bitrate</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsOpus</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsSpeex</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Calidad</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>automatic</source>
-        <translation type="unfinished">automático</translation>
+      <source>automatic</source>
+      <translation type="unfinished">automatic</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Average bitrate</source>
-        <translation type="unfinished">Tasa media de bits</translation>
+      <source>Average bitrate</source>
+      <translation type="unfinished">Average bitrate</translation>
     </message>
     <message>
-        <source>disabled</source>
-        <translation type="unfinished">desactivado</translation>
+      <source>disabled</source>
+      <translation type="unfinished">disabled</translation>
     </message>
     <message>
-        <source>Encoding mode</source>
-        <translation type="unfinished">Modo de codificación</translation>
+      <source>Encoding mode</source>
+      <translation type="unfinished">Encoding mode</translation>
     </message>
     <message>
-        <source>Auto</source>
-        <translation type="unfinished">Autom.</translation>
+      <source>Auto</source>
+      <translation type="unfinished">Auto</translation>
     </message>
     <message>
-        <source>Ultra wide band (UWB)</source>
-        <translation type="unfinished">Banda ultraancha (UWB)</translation>
+      <source>Ultra wide band (UWB)</source>
+      <translation type="unfinished">Ultra wide band (UWB)</translation>
     </message>
     <message>
-        <source>Wide band (WB)</source>
-        <translation type="unfinished">Banda ancha (WB)</translation>
+      <source>Wide band (WB)</source>
+      <translation type="unfinished">Wide band (WB)</translation>
     </message>
     <message>
-        <source>Narrow band (NB)</source>
-        <translation type="unfinished">Banda estrecha (NB)</translation>
+      <source>Narrow band (NB)</source>
+      <translation type="unfinished">Narrow band (NB)</translation>
     </message>
     <message>
-        <source>Variable bit rate</source>
-        <translation type="unfinished">Tasa de bits variable</translation>
+      <source>Variable bit rate</source>
+      <translation type="unfinished">Variable bit rate</translation>
     </message>
     <message>
-        <source>Voice activity detection</source>
-        <translation type="unfinished">Detección de actividad de voz</translation>
+      <source>Voice activity detection</source>
+      <translation type="unfinished">Voice activity detection</translation>
     </message>
     <message>
-        <source>Discontinuous transmission</source>
-        <translation type="unfinished">Transmisión discontinua</translation>
+      <source>Discontinuous transmission</source>
+      <translation type="unfinished">Discontinuous transmission</translation>
     </message>
     <message>
-        <source>Encoding complexity</source>
-        <translation type="unfinished">Complejidad de codificación</translation>
+      <source>Encoding complexity</source>
+      <translation type="unfinished">Encoding complexity</translation>
     </message>
     <message>
-        <source>Frames per buffer</source>
-        <translation type="unfinished">Fotogramas por búfer</translation>
+      <source>Frames per buffer</source>
+      <translation type="unfinished">Frames per buffer</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsASF</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsMP3</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Optimize for &amp;quality</source>
-        <translation type="unfinished">Optimizar para &amp;calidad</translation>
+      <source>Optimize for &amp;quality</source>
+      <translation type="unfinished">Optimize for &amp;quality</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Calidad</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Opti&amp;mize for bitrate</source>
-        <translation type="unfinished">Opti&amp;mizar para tasa de bits</translation>
+      <source>Opti&amp;mize for bitrate</source>
+      <translation type="unfinished">Opti&amp;mize for bitrate</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kb/s</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Constant bitrate</source>
-        <translation type="unfinished">Tasa de bits constante</translation>
+      <source>Constant bitrate</source>
+      <translation type="unfinished">Constant bitrate</translation>
     </message>
     <message>
-        <source>Encoding engine quality</source>
-        <translation type="unfinished">Calidad del motor de codificación</translation>
+      <source>Encoding engine quality</source>
+      <translation type="unfinished">Encoding engine quality</translation>
     </message>
     <message>
-        <source>Fast</source>
-        <translation type="unfinished">Rápido</translation>
+      <source>Fast</source>
+      <translation type="unfinished">Fast</translation>
     </message>
     <message>
-        <source>Standard</source>
-        <translation type="unfinished">Estándar</translation>
+      <source>Standard</source>
+      <translation type="unfinished">Standard</translation>
     </message>
     <message>
-        <source>High</source>
-        <translation type="unfinished">Alto</translation>
+      <source>High</source>
+      <translation type="unfinished">High</translation>
     </message>
     <message>
-        <source>Force mono encoding</source>
-        <translation type="unfinished">Forzar la codificación monoaural</translation>
+      <source>Force mono encoding</source>
+      <translation type="unfinished">Force mono encoding</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutGrabber</name>
     <message>
-        <source>Press a key</source>
-        <translation type="unfinished">Presione una tecla</translation>
+      <source>Press a key</source>
+      <translation type="unfinished">Press a key</translation>
     </message>
     <message>
-        <source>Press a key combination to use for %1...</source>
-        <translation type="unfinished">Oprima una combinación de teclas para usar con %1…</translation>
+      <source>Press a key combination to use for %1...</source>
+      <translation type="unfinished">Press a key combination to use for %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutsSettingsPage</name>
     <message>
-        <source>Global Shortcuts</source>
-        <translation type="unfinished">Atajos generales</translation>
+      <source>Global Shortcuts</source>
+      <translation type="unfinished">Global Shortcuts</translation>
     </message>
     <message>
-        <source>Use Gnome (GSD) shortcuts when available</source>
-        <translation type="unfinished">Utilizar atajos de Gnome (GSD) cuando sea posible</translation>
+      <source>Use Gnome (GSD) shortcuts when available</source>
+      <translation type="unfinished">Use Gnome (GSD) shortcuts when available</translation>
     </message>
     <message>
-        <source>Open...</source>
-        <translation type="unfinished">Abrir…</translation>
+      <source>Open...</source>
+      <translation type="unfinished">Open...</translation>
     </message>
     <message>
-        <source>Use MATE shortcuts when available</source>
-        <translation type="unfinished">Utilizar atajos de MATE si están disponibles</translation>
+      <source>Use MATE shortcuts when available</source>
+      <translation type="unfinished">Use MATE shortcuts when available</translation>
     </message>
     <message>
-        <source>Use KDE (KGlobalAccel) shortcuts when available</source>
-        <translation type="unfinished">Utilizar atajos de KDE (GSD) cuando sea posible</translation>
+      <source>Use KDE (KGlobalAccel) shortcuts when available</source>
+      <translation type="unfinished">Use KDE (KGlobalAccel) shortcuts when available</translation>
     </message>
     <message>
-        <source>Use X11 shortcuts when available</source>
-        <translation type="unfinished">Usar atajos de X11 cuando sea posible</translation>
+      <source>Use X11 shortcuts when available</source>
+      <translation type="unfinished">Use X11 shortcuts when available</translation>
     </message>
     <message>
-        <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
-        <translation type="unfinished">Debe abrir las Preferencias del sistema y permitir que Strawberry «&lt;span style=&quot;font-style:italic&quot;&gt;controle el equipo&lt;/span&gt;» para utilizar atajos globales en Strawberry.</translation>
+      <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
+      <translation type="unfinished">You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</translation>
     </message>
     <message>
-        <source>Action</source>
-        <comment>Category label</comment>
-        <translation type="unfinished">Acción</translation>
+      <source>Action</source>
+      <comment>Category label</comment>
+      <translation type="unfinished">Action</translation>
     </message>
     <message>
-        <source>Shortcut</source>
-        <translation type="unfinished">Atajo</translation>
+      <source>Shortcut</source>
+      <translation type="unfinished">Shortcut</translation>
     </message>
     <message>
-        <source>Shortcut for %1</source>
-        <translation type="unfinished">Atajo para %1</translation>
+      <source>Shortcut for %1</source>
+      <translation type="unfinished">Shortcut for %1</translation>
     </message>
     <message>
-        <source>&amp;None</source>
-        <translation type="unfinished">&amp;Ninguno</translation>
+      <source>&amp;None</source>
+      <translation type="unfinished">&amp;None</translation>
     </message>
     <message>
-        <source>&amp;Default</source>
-        <translation type="unfinished">&amp;Predeterminado</translation>
+      <source>&amp;Default</source>
+      <translation type="unfinished">&amp;Default</translation>
     </message>
     <message>
-        <source>&amp;Custom</source>
-        <translation type="unfinished">&amp;Personalizado</translation>
+      <source>&amp;Custom</source>
+      <translation type="unfinished">&amp;Custom</translation>
     </message>
     <message>
-        <source>Change shortcut...</source>
-        <translation type="unfinished">Cambiar atajo…</translation>
+      <source>Change shortcut...</source>
+      <translation type="unfinished">Change shortcut...</translation>
     </message>
     <message>
-        <source>The &quot;%1&quot; command could not be started.</source>
-        <translation type="unfinished">No se pudo iniciar la orden «%1».</translation>
+      <source>The &quot;%1&quot; command could not be started.</source>
+      <translation type="unfinished">The &quot;%1&quot; command could not be started.</translation>
     </message>
     <message>
-        <source>Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</source>
-        <translation type="unfinished">Usar atajos de X11 en %1 no es recomendable y puede hacer que el teclado no responda eficientemente.</translation>
+      <source>Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</source>
+      <translation type="unfinished">Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</source>
-        <translation type="unfinished">Los atajos en %1 se usan normalmente a través de GMPRIS y KGlobalAccel.</translation>
+      <source> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</source>
-        <translation type="unfinished"></translation>
+      <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</source>
-        <translation type="unfinished"></translation>
+      <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</source>
-        <translation type="unfinished"></translation>
+      <source> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MoodbarSettingsPage</name>
     <message>
-        <source>Moodbar</source>
-        <translation type="unfinished">Barra de ánimo</translation>
+      <source>Moodbar</source>
+      <translation type="unfinished">Moodbar</translation>
     </message>
     <message>
-        <source>Show a moodbar in the track progress bar</source>
-        <translation type="unfinished">Mostrar una barra de ánimo en la barra de progreso</translation>
+      <source>Show a moodbar in the track progress bar</source>
+      <translation type="unfinished">Show a moodbar in the track progress bar</translation>
     </message>
     <message>
-        <source>Moodbar style</source>
-        <translation type="unfinished">Estilo de la barra de ánimo</translation>
+      <source>Moodbar style</source>
+      <translation type="unfinished">Moodbar style</translation>
     </message>
     <message>
-        <source>Save the .mood files directly in the songs folders</source>
-        <translation type="unfinished">Guardar archivos .mood directamente en las carpetas de las pistas</translation>
+      <source>Save the .mood files directly in the songs folders</source>
+      <translation type="unfinished">Save the .mood files directly in the songs folders</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Activado</translation>
+      <source>Enabled</source>
+      <translation type="unfinished">Enabled</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceProperties</name>
     <message>
-        <source>Device Properties</source>
-        <translation type="unfinished">Propiedades del dispositivo</translation>
+      <source>Device Properties</source>
+      <translation type="unfinished">Device Properties</translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation type="unfinished">Información</translation>
+      <source>Information</source>
+      <translation type="unfinished">Information</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Icon</source>
-        <translation type="unfinished">Icono</translation>
+      <source>Icon</source>
+      <translation type="unfinished">Icon</translation>
     </message>
     <message>
-        <source>Hardware information</source>
-        <translation type="unfinished">Información del hardware</translation>
+      <source>Hardware information</source>
+      <translation type="unfinished">Hardware information</translation>
     </message>
     <message>
-        <source>Hardware information is only available while the device is connected.</source>
-        <translation type="unfinished">La información del hardware solo está disponible cuando el dispositivo está conectado.</translation>
+      <source>Hardware information is only available while the device is connected.</source>
+      <translation type="unfinished">Hardware information is only available while the device is connected.</translation>
     </message>
     <message>
-        <source>File formats</source>
-        <translation type="unfinished">Formatos de archivo</translation>
+      <source>File formats</source>
+      <translation type="unfinished">File formats</translation>
     </message>
     <message>
-        <source>Supported formats</source>
-        <translation type="unfinished">Formatos admitidos</translation>
+      <source>Supported formats</source>
+      <translation type="unfinished">Supported formats</translation>
     </message>
     <message>
-        <source>This device supports the following file formats:</source>
-        <translation type="unfinished">Este dispositivo admite los formatos de archivo siguientes:</translation>
+      <source>This device supports the following file formats:</source>
+      <translation type="unfinished">This device supports the following file formats:</translation>
     </message>
     <message>
-        <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
-        <translation type="unfinished">Strawberry puede convertir automáticamente la música que copie en este dispositivo en un formato que pueda reproducir.</translation>
+      <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
+      <translation type="unfinished">Strawberry can automatically convert the music you copy to this device into a format that it can play.</translation>
     </message>
     <message>
-        <source>Do not convert any music</source>
-        <translation type="unfinished">No convertir ninguna pista</translation>
+      <source>Do not convert any music</source>
+      <translation type="unfinished">Do not convert any music</translation>
     </message>
     <message>
-        <source>Convert any music that the device can&apos;t play</source>
-        <translation type="unfinished">Convertir las pistas que el dispositivo no pueda reproducir</translation>
+      <source>Convert any music that the device can&apos;t play</source>
+      <translation type="unfinished">Convert any music that the device can&apos;t play</translation>
     </message>
     <message>
-        <source>Convert all music</source>
-        <translation type="unfinished">Convertir toda la música</translation>
+      <source>Convert all music</source>
+      <translation type="unfinished">Convert all music</translation>
     </message>
     <message>
-        <source>Preferred format</source>
-        <translation type="unfinished">Formato preferido</translation>
+      <source>Preferred format</source>
+      <translation type="unfinished">Preferred format</translation>
     </message>
     <message>
-        <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
-        <translation type="unfinished">Este dispositivo debe conectarse y abrirse antes de que Strawberry pueda ver qué formatos de archivo admite.</translation>
+      <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
+      <translation type="unfinished">This device must be connected and opened before Strawberry can see what file formats it supports.</translation>
     </message>
     <message>
-        <source>Open device</source>
-        <translation type="unfinished">Abrir dispositivo</translation>
+      <source>Open device</source>
+      <translation type="unfinished">Open device</translation>
     </message>
     <message>
-        <source>Querying device...</source>
-        <translation type="unfinished">Consultando dispositivo…</translation>
+      <source>Querying device...</source>
+      <translation type="unfinished">Querying device...</translation>
     </message>
     <message>
-        <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+      <source>Model</source>
+      <translation type="unfinished">Model</translation>
     </message>
     <message>
-        <source>Manufacturer</source>
-        <translation type="unfinished">Fabricante</translation>
+      <source>Manufacturer</source>
+      <translation type="unfinished">Manufacturer</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicSettingsPage</name>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished"></translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Activar</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Server URL</source>
-        <translation type="unfinished">URL del servidor</translation>
+      <source>Server URL</source>
+      <translation type="unfinished">Server URL</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Authentication method:</source>
-        <translation type="unfinished">Metodo de autentificacion</translation>
+      <source>Authentication method:</source>
+      <translation type="unfinished">Authentication method:</translation>
     </message>
     <message>
-        <source>Hex</source>
-        <translation type="unfinished"></translation>
+      <source>Hex</source>
+      <translation type="unfinished">Hex</translation>
     </message>
     <message>
-        <source>MD5 token (Recommended)</source>
-        <translation type="unfinished"></translation>
+      <source>MD5 token (Recommended)</source>
+      <translation type="unfinished">MD5 token (Recommended)</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Preferencias</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Use HTTP/2 when possible</source>
-        <translation type="unfinished"></translation>
+      <source>Use HTTP/2 when possible</source>
+      <translation type="unfinished">Use HTTP/2 when possible</translation>
     </message>
     <message>
-        <source>Verify server certificate</source>
-        <translation type="unfinished">Verificar el certificado del servidor</translation>
+      <source>Verify server certificate</source>
+      <translation type="unfinished">Verify server certificate</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Descargar las cubiertas de los álbumes</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Server-side scrobbling</source>
-        <translation type="unfinished">Seguimiento de reproducción en el servidor</translation>
+      <source>Server-side scrobbling</source>
+      <translation type="unfinished">Server-side scrobbling</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation type="unfinished">Probar</translation>
+      <source>Test</source>
+      <translation type="unfinished">Test</translation>
     </message>
     <message>
-        <source>Delete songs</source>
-        <translation type="unfinished"></translation>
+      <source>Delete songs</source>
+      <translation type="unfinished">Delete songs</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Configuración incompleta</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing server url, username or password.</source>
-        <translation type="unfinished">Falta el URL del servidor, el usuario o la contraseña.</translation>
+      <source>Missing server url, username or password.</source>
+      <translation type="unfinished">Missing server url, username or password.</translation>
     </message>
     <message>
-        <source>Configuration incorrect</source>
-        <translation type="unfinished">Configuración incorrecta</translation>
+      <source>Configuration incorrect</source>
+      <translation type="unfinished">Configuration incorrect</translation>
     </message>
     <message>
-        <source>Server URL is invalid.</source>
-        <translation type="unfinished">La dirección URL del servidor es inválida.</translation>
+      <source>Server URL is invalid.</source>
+      <translation type="unfinished">Server URL is invalid.</translation>
     </message>
     <message>
-        <source>Test successful!</source>
-        <translation type="unfinished">¡Prueba correcta!</translation>
+      <source>Test successful!</source>
+      <translation type="unfinished">Test successful!</translation>
     </message>
     <message>
-        <source>Test failed!</source>
-        <translation type="unfinished">¡Prueba fallida!</translation>
+      <source>Test failed!</source>
+      <translation type="unfinished">Test failed!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalSettingsPage</name>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished"></translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Activar</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</source>
-        <translation type="unfinished">La compatibilidad con Tidal no es oficial y precisa de una ficha de API procedente de una aplicación registrada. No le podemos ayudar a conseguirla.</translation>
+      <source>Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</source>
+      <translation type="unfinished">Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Use OAuth</source>
-        <translation type="unfinished">Utilizar OAuth</translation>
+      <source>Use OAuth</source>
+      <translation type="unfinished">Use OAuth</translation>
     </message>
     <message>
-        <source>Client ID</source>
-        <translation type="unfinished">Id. de cliente</translation>
+      <source>Client ID</source>
+      <translation type="unfinished">Client ID</translation>
     </message>
     <message>
-        <source>API Token</source>
-        <translation type="unfinished">Ficha de API</translation>
+      <source>API Token</source>
+      <translation type="unfinished">API Token</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Acceder</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Preferencias</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Audio quality</source>
-        <translation type="unfinished">Calidad de audio</translation>
+      <source>Audio quality</source>
+      <translation type="unfinished">Audio quality</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Demora de búsqueda</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished"></translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Límites de búsqueda de artistas</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Límites de búsqueda de álbumes</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Límite de búsqueda de pistas</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Descargar las cubiertas de los álbumes</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Fetch entire albums when searching songs</source>
-        <translation type="unfinished">Devolver el álbum completo al buscar pistas</translation>
+      <source>Fetch entire albums when searching songs</source>
+      <translation type="unfinished">Fetch entire albums when searching songs</translation>
     </message>
     <message>
-        <source>Album cover size</source>
-        <translation type="unfinished">Tamaño de la cubierta del álbum</translation>
+      <source>Album cover size</source>
+      <translation type="unfinished">Album cover size</translation>
     </message>
     <message>
-        <source>Stream URL method</source>
-        <translation type="unfinished">Método de streaming de URL</translation>
+      <source>Stream URL method</source>
+      <translation type="unfinished">Stream URL method</translation>
     </message>
     <message>
-        <source>Append explicit to album title for explicit albums</source>
-        <translation type="unfinished">Añadir «explícito» al nombre de los álbumes explícitos</translation>
+      <source>Append explicit to album title for explicit albums</source>
+      <translation type="unfinished">Append explicit to album title for explicit albums</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Configuración incompleta</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing Tidal client ID.</source>
-        <translation type="unfinished">Falta el identificador de cliente de Tidal.</translation>
+      <source>Missing Tidal client ID.</source>
+      <translation type="unfinished">Missing Tidal client ID.</translation>
     </message>
     <message>
-        <source>Missing API token.</source>
-        <translation type="unfinished">Falta la ficha de la API.</translation>
+      <source>Missing API token.</source>
+      <translation type="unfinished">Missing API token.</translation>
     </message>
     <message>
-        <source>Missing username.</source>
-        <translation type="unfinished">Falta el usuario.</translation>
+      <source>Missing username.</source>
+      <translation type="unfinished">Missing username.</translation>
     </message>
     <message>
-        <source>Missing password.</source>
-        <translation type="unfinished">Falta la contraseña.</translation>
+      <source>Missing password.</source>
+      <translation type="unfinished">Missing password.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Falló la autenticación</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifySettingsPage</name>
     <message>
-        <source>Spotify</source>
-        <translation type="unfinished"></translation>
+      <source>Spotify</source>
+      <translation type="unfinished">Spotify</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Activar</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Basic authentication</source>
-        <translation type="unfinished"></translation>
+      <source>Basic authentication</source>
+      <translation type="unfinished">Basic authentication</translation>
     </message>
     <message>
-        <source>Authenticate</source>
-        <translation type="unfinished"></translation>
+      <source>Authenticate</source>
+      <translation type="unfinished">Authenticate</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Preferencias</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Demora de búsqueda</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished"></translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Límites de búsqueda de artistas</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Límites de búsqueda de álbumes</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Límite de búsqueda de pistas</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Descargar las cubiertas de los álbumes</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Fetch entire albums when searching songs</source>
-        <translation type="unfinished">Devolver el álbum completo al buscar pistas</translation>
+      <source>Fetch entire albums when searching songs</source>
+      <translation type="unfinished">Fetch entire albums when searching songs</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Falló la autenticación</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzSettingsPage</name>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished"></translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Activar</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</source>
-        <translation type="unfinished">La compatibilidad con Qobuz no es oficial y precisa de una ficha de API procedente de una aplicación registrada. No le podemos ayudar a conseguirla.</translation>
+      <source>Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</source>
+      <translation type="unfinished">Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>App ID</source>
-        <translation type="unfinished">Id. de aplic.</translation>
+      <source>App ID</source>
+      <translation type="unfinished">App ID</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>App Secret</source>
-        <translation type="unfinished">Secreto de aplicación</translation>
+      <source>App Secret</source>
+      <translation type="unfinished">App Secret</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Acceder</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Preferencias</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Audio format</source>
-        <translation type="unfinished">Formato de audio</translation>
+      <source>Audio format</source>
+      <translation type="unfinished">Audio format</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Demora de búsqueda</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished"></translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Límites de búsqueda de artistas</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Límites de búsqueda de álbumes</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Límite de búsqueda de pistas</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Descargar las cubiertas de los álbumes</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Base64 encoded secret</source>
-        <translation type="unfinished"></translation>
+      <source>Base64 encoded secret</source>
+      <translation type="unfinished">Base64 encoded secret</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Configuración incompleta</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing app id.</source>
-        <translation type="unfinished">Falta el identificador de aplicación.</translation>
+      <source>Missing app id.</source>
+      <translation type="unfinished">Missing app id.</translation>
     </message>
     <message>
-        <source>Missing username.</source>
-        <translation type="unfinished">Falta el usuario.</translation>
+      <source>Missing username.</source>
+      <translation type="unfinished">Missing username.</translation>
     </message>
     <message>
-        <source>Missing password.</source>
-        <translation type="unfinished">Falta la contraseña.</translation>
+      <source>Missing password.</source>
+      <translation type="unfinished">Missing password.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Falló la autenticación</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QObject</name>
     <message>
-        <source>Usage</source>
-        <translation type="unfinished">Uso</translation>
+      <source>Usage</source>
+      <translation type="unfinished">Usage</translation>
     </message>
     <message>
-        <source>options</source>
-        <translation type="unfinished">opciones</translation>
+      <source>options</source>
+      <translation type="unfinished">options</translation>
     </message>
     <message>
-        <source>URL(s)</source>
-        <translation type="unfinished">URL</translation>
+      <source>URL(s)</source>
+      <translation type="unfinished">URL(s)</translation>
     </message>
     <message>
-        <source>Player options</source>
-        <translation type="unfinished">Opciones del reproductor</translation>
+      <source>Player options</source>
+      <translation type="unfinished">Player options</translation>
     </message>
     <message>
-        <source>Start the playlist currently playing</source>
-        <translation type="unfinished">Iniciar la lista de reproducción actualmente en reproducción</translation>
+      <source>Start the playlist currently playing</source>
+      <translation type="unfinished">Start the playlist currently playing</translation>
     </message>
     <message>
-        <source>Play if stopped, pause if playing</source>
-        <translation type="unfinished">Reproducir si detenido, pausar si en reproducción</translation>
+      <source>Play if stopped, pause if playing</source>
+      <translation type="unfinished">Play if stopped, pause if playing</translation>
     </message>
     <message>
-        <source>Pause playback</source>
-        <translation type="unfinished">Pausar la reproducción</translation>
+      <source>Pause playback</source>
+      <translation type="unfinished">Pause playback</translation>
     </message>
     <message>
-        <source>Stop playback</source>
-        <translation type="unfinished">Detener reproducción</translation>
+      <source>Stop playback</source>
+      <translation type="unfinished">Stop playback</translation>
     </message>
     <message>
-        <source>Stop playback after current track</source>
-        <translation type="unfinished">Detener reproducción al terminar la pista actual</translation>
+      <source>Stop playback after current track</source>
+      <translation type="unfinished">Stop playback after current track</translation>
     </message>
     <message>
-        <source>Skip backwards in playlist</source>
-        <translation type="unfinished">Saltar hacia atrás en la lista de reproducción</translation>
+      <source>Skip backwards in playlist</source>
+      <translation type="unfinished">Skip backwards in playlist</translation>
     </message>
     <message>
-        <source>Skip forwards in playlist</source>
-        <translation type="unfinished">Saltar hacia adelante en la lista de reproducción</translation>
+      <source>Skip forwards in playlist</source>
+      <translation type="unfinished">Skip forwards in playlist</translation>
     </message>
     <message>
-        <source>Set the volume to &lt;value&gt; percent</source>
-        <translation type="unfinished">Establecer el volumen en &lt;value&gt;%</translation>
+      <source>Set the volume to &lt;value&gt; percent</source>
+      <translation type="unfinished">Set the volume to &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Increase the volume by 4 percent</source>
-        <translation type="unfinished">Aumentar el volumen en un 4&#xa0;%</translation>
+      <source>Increase the volume by 4 percent</source>
+      <translation type="unfinished">Increase the volume by 4 percent</translation>
     </message>
     <message>
-        <source>Decrease the volume by 4 percent</source>
-        <translation type="unfinished">Reduce el volumen en un 4&#xa0;%</translation>
+      <source>Decrease the volume by 4 percent</source>
+      <translation type="unfinished">Decrease the volume by 4 percent</translation>
     </message>
     <message>
-        <source>Increase the volume by &lt;value&gt; percent</source>
-        <translation type="unfinished">Aumentar el volumen en &lt;value&gt;&#xa0;%</translation>
+      <source>Increase the volume by &lt;value&gt; percent</source>
+      <translation type="unfinished">Increase the volume by &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Decrease the volume by &lt;value&gt; percent</source>
-        <translation type="unfinished">Reduce el volumen en &lt;value&gt;&#xa0;%</translation>
+      <source>Decrease the volume by &lt;value&gt; percent</source>
+      <translation type="unfinished">Decrease the volume by &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Seek the currently playing track to an absolute position</source>
-        <translation type="unfinished">Moverse en la pista actual hacia una posición absoluta</translation>
+      <source>Seek the currently playing track to an absolute position</source>
+      <translation type="unfinished">Seek the currently playing track to an absolute position</translation>
     </message>
     <message>
-        <source>Seek the currently playing track by a relative amount</source>
-        <translation type="unfinished">Moverse en la pista actual hacia una posición relativa</translation>
+      <source>Seek the currently playing track by a relative amount</source>
+      <translation type="unfinished">Seek the currently playing track by a relative amount</translation>
     </message>
     <message>
-        <source>Restart the track, or play the previous track if within 8 seconds of start.</source>
-        <translation type="unfinished">Reiniciar la pista o saltar a la anterior si no han transcurrido 8 segundos desde su inicio.</translation>
+      <source>Restart the track, or play the previous track if within 8 seconds of start.</source>
+      <translation type="unfinished">Restart the track, or play the previous track if within 8 seconds of start.</translation>
     </message>
     <message>
-        <source>Playlist options</source>
-        <translation type="unfinished">Opciones de la lista de reproducción</translation>
+      <source>Playlist options</source>
+      <translation type="unfinished">Playlist options</translation>
     </message>
     <message>
-        <source>Create a new playlist with files</source>
-        <translation type="unfinished">Crear una lista de reproducción nueva con archivos</translation>
+      <source>Create a new playlist with files</source>
+      <translation type="unfinished">Create a new playlist with files</translation>
     </message>
     <message>
-        <source>Append files/URLs to the playlist</source>
-        <translation type="unfinished">Añadir archivos/URL a la lista de reproducción</translation>
+      <source>Append files/URLs to the playlist</source>
+      <translation type="unfinished">Append files/URLs to the playlist</translation>
     </message>
     <message>
-        <source>Loads files/URLs, replacing current playlist</source>
-        <translation type="unfinished">Carga archivos/URL, reemplaza la lista de reproducción actual</translation>
+      <source>Loads files/URLs, replacing current playlist</source>
+      <translation type="unfinished">Loads files/URLs, replacing current playlist</translation>
     </message>
     <message>
-        <source>Play the &lt;n&gt;th track in the playlist</source>
-        <translation type="unfinished">Reproducir la &lt;n&gt;.ª pista de la lista de reproducción</translation>
+      <source>Play the &lt;n&gt;th track in the playlist</source>
+      <translation type="unfinished">Play the &lt;n&gt;th track in the playlist</translation>
     </message>
     <message>
-        <source>Play given playlist</source>
-        <translation type="unfinished">Reproducir lista indicada</translation>
+      <source>Play given playlist</source>
+      <translation type="unfinished">Play given playlist</translation>
     </message>
     <message>
-        <source>Other options</source>
-        <translation type="unfinished">Otras opciones</translation>
+      <source>Other options</source>
+      <translation type="unfinished">Other options</translation>
     </message>
     <message>
-        <source>Display the on-screen-display</source>
-        <translation type="unfinished">Mostrar indicadores en pantalla</translation>
+      <source>Display the on-screen-display</source>
+      <translation type="unfinished">Display the on-screen-display</translation>
     </message>
     <message>
-        <source>Toggle visibility for the pretty on-screen-display</source>
-        <translation type="unfinished">Conmutar visibilidad del panel de información en pantalla estético</translation>
+      <source>Toggle visibility for the pretty on-screen-display</source>
+      <translation type="unfinished">Toggle visibility for the pretty on-screen-display</translation>
     </message>
     <message>
-        <source>Change the language</source>
-        <translation type="unfinished">Cambiar el idioma</translation>
+      <source>Change the language</source>
+      <translation type="unfinished">Change the language</translation>
     </message>
     <message>
-        <source>Resize the window</source>
-        <translation type="unfinished">Redimensionar la ventana</translation>
+      <source>Resize the window</source>
+      <translation type="unfinished">Resize the window</translation>
     </message>
     <message>
-        <source>Equivalent to --log-levels *:1</source>
-        <translation type="unfinished">Equivalente a --log-levels*:1</translation>
+      <source>Equivalent to --log-levels *:1</source>
+      <translation type="unfinished">Equivalent to --log-levels *:1</translation>
     </message>
     <message>
-        <source>Equivalent to --log-levels *:3</source>
-        <translation type="unfinished">Equivalente a --log-levels*:3</translation>
+      <source>Equivalent to --log-levels *:3</source>
+      <translation type="unfinished">Equivalent to --log-levels *:3</translation>
     </message>
     <message>
-        <source>Comma separated list of class:level, level is 0-3</source>
-        <translation type="unfinished">Lista separada por comas de la clase:nivel, el nivel es 0-3</translation>
+      <source>Comma separated list of class:level, level is 0-3</source>
+      <translation type="unfinished">Comma separated list of class:level, level is 0-3</translation>
     </message>
     <message>
-        <source>Print out version information</source>
-        <translation type="unfinished">Mostrar información de versión</translation>
+      <source>Print out version information</source>
+      <translation type="unfinished">Print out version information</translation>
     </message>
     <message>
-        <source>Failed to create directory %1.</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to create directory %1.</source>
+      <translation type="unfinished">Failed to create directory %1.</translation>
     </message>
     <message>
-        <source>Destination file %1 exists, but not allowed to overwrite.</source>
-        <translation type="unfinished"></translation>
+      <source>Destination file %1 exists, but not allowed to overwrite.</source>
+      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite.</translation>
     </message>
     <message>
-        <source>Destination file %1 exists, but not allowed to overwrite</source>
-        <translation type="unfinished"></translation>
+      <source>Destination file %1 exists, but not allowed to overwrite</source>
+      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite</translation>
     </message>
     <message>
-        <source>Could not copy file %1 to %2.</source>
-        <translation type="unfinished"></translation>
+      <source>Could not copy file %1 to %2.</source>
+      <translation type="unfinished">Could not copy file %1 to %2.</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>LUFS</source>
-        <translation type="unfinished"></translation>
+      <source>LUFS</source>
+      <translation type="unfinished">LUFS</translation>
     </message>
     <message>
-        <source>LU</source>
-        <translation type="unfinished"></translation>
+      <source>LU</source>
+      <translation type="unfinished">LU</translation>
     </message>
     <message>
-        <source>File %1 is not recognized as a valid audio file.</source>
-        <translation type="unfinished">El archivo de audio %1 no parece válido.</translation>
+      <source>File %1 is not recognized as a valid audio file.</source>
+      <translation type="unfinished">File %1 is not recognized as a valid audio file.</translation>
     </message>
     <message>
-        <source>1 day</source>
-        <translation type="unfinished">1 día</translation>
+      <source>1 day</source>
+      <translation type="unfinished">1 day</translation>
     </message>
     <message>
-        <source>%1 days</source>
-        <translation type="unfinished">%1 días</translation>
+      <source>%1 days</source>
+      <translation type="unfinished">%1 days</translation>
     </message>
     <message>
-        <source>Today</source>
-        <translation type="unfinished">Hoy</translation>
+      <source>Today</source>
+      <translation type="unfinished">Today</translation>
     </message>
     <message>
-        <source>Yesterday</source>
-        <translation type="unfinished">Ayer</translation>
+      <source>Yesterday</source>
+      <translation type="unfinished">Yesterday</translation>
     </message>
     <message>
-        <source>%1 days ago</source>
-        <translation type="unfinished">hace %1 días</translation>
+      <source>%1 days ago</source>
+      <translation type="unfinished">%1 days ago</translation>
     </message>
     <message>
-        <source>Tomorrow</source>
-        <translation type="unfinished">Mañana</translation>
+      <source>Tomorrow</source>
+      <translation type="unfinished">Tomorrow</translation>
     </message>
     <message>
-        <source>In %1 days</source>
-        <translation type="unfinished">En %1 días</translation>
+      <source>In %1 days</source>
+      <translation type="unfinished">In %1 days</translation>
     </message>
     <message>
-        <source>Next week</source>
-        <translation type="unfinished">Próxima semana</translation>
+      <source>Next week</source>
+      <translation type="unfinished">Next week</translation>
     </message>
     <message>
-        <source>In %1 weeks</source>
-        <translation type="unfinished">En %1 semanas</translation>
+      <source>In %1 weeks</source>
+      <translation type="unfinished">In %1 weeks</translation>
     </message>
     <message>
-        <source>Show in file browser</source>
-        <translation type="unfinished">Mostrar en el navegador de archivos</translation>
+      <source>Show in file browser</source>
+      <translation type="unfinished">Show in file browser</translation>
     </message>
     <message>
-        <source>Too many songs selected.</source>
-        <translation type="unfinished">Demasiadas pistas seleccionadas</translation>
+      <source>Too many songs selected.</source>
+      <translation type="unfinished">Too many songs selected.</translation>
     </message>
     <message>
-        <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
-        <translation type="unfinished">Se han seleccionado %1 temas en %2 directorios. ¿Confirma que quiere abrirlos todos?</translation>
+      <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
+      <translation type="unfinished">%1 songs in %2 different directories selected, are you sure you want to open them all?</translation>
     </message>
     <message>
-        <source>Failed to load image from data for %1</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to load image from data for %1</source>
+      <translation type="unfinished">Failed to load image from data for %1</translation>
     </message>
     <message>
-        <source>Success</source>
-        <translation type="unfinished"></translation>
+      <source>Success</source>
+      <translation type="unfinished">Success</translation>
     </message>
     <message>
-        <source>File is unsupported</source>
-        <translation type="unfinished"></translation>
+      <source>File is unsupported</source>
+      <translation type="unfinished">File is unsupported</translation>
     </message>
     <message>
-        <source>Filename is missing</source>
-        <translation type="unfinished"></translation>
+      <source>Filename is missing</source>
+      <translation type="unfinished">Filename is missing</translation>
     </message>
     <message>
-        <source>File does not exist</source>
-        <translation type="unfinished"></translation>
+      <source>File does not exist</source>
+      <translation type="unfinished">File does not exist</translation>
     </message>
     <message>
-        <source>File could not be opened</source>
-        <translation type="unfinished"></translation>
+      <source>File could not be opened</source>
+      <translation type="unfinished">File could not be opened</translation>
     </message>
     <message>
-        <source>Could not parse file</source>
-        <translation type="unfinished"></translation>
+      <source>Could not parse file</source>
+      <translation type="unfinished">Could not parse file</translation>
     </message>
     <message>
-        <source>Could save file</source>
-        <translation type="unfinished"></translation>
+      <source>Could save file</source>
+      <translation type="unfinished">Could save file</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Error desconocido</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
     <message>
-        <source>Prefix a search term with a field name to limit the search to that field, e.g.:</source>
-        <translation type="unfinished"></translation>
+      <source>Prefix a search term with a field name to limit the search to that field, e.g.:</source>
+      <translation type="unfinished">Prefix a search term with a field name to limit the search to that field, e.g.:</translation>
     </message>
     <message>
-        <source>artist</source>
-        <translation type="unfinished">artista</translation>
+      <source>artist</source>
+      <translation type="unfinished">artist</translation>
     </message>
     <message>
-        <source>searches for all artists containing the word %1. </source>
-        <translation type="unfinished"></translation>
+      <source>searches for all artists containing the word %1. </source>
+      <translation type="unfinished">searches for all artists containing the word %1. </translation>
     </message>
     <message>
-        <source>Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </source>
-        <translation type="unfinished"></translation>
+      <source>Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </source>
+      <translation type="unfinished">Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </translation>
     </message>
     <message>
-        <source>rating</source>
-        <translation type="unfinished"></translation>
+      <source>rating</source>
+      <translation type="unfinished">rating</translation>
     </message>
     <message>
-        <source>Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </source>
-        <translation type="unfinished"></translation>
+      <source>Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </source>
+      <translation type="unfinished">Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </translation>
     </message>
     <message>
-        <source>Available fields</source>
-        <translation type="unfinished">Campos disponibles</translation>
+      <source>Available fields</source>
+      <translation type="unfinished">Available fields</translation>
     </message>
     <message>
-        <source>after</source>
-        <translation type="unfinished">Después</translation>
+      <source>after</source>
+      <translation type="unfinished">after</translation>
     </message>
     <message>
-        <source>before</source>
-        <translation type="unfinished">antes</translation>
+      <source>before</source>
+      <translation type="unfinished">before</translation>
     </message>
     <message>
-        <source>on</source>
-        <translation type="unfinished">el</translation>
+      <source>on</source>
+      <translation type="unfinished">on</translation>
     </message>
     <message>
-        <source>not on</source>
-        <translation type="unfinished">no el</translation>
+      <source>not on</source>
+      <translation type="unfinished">not on</translation>
     </message>
     <message>
-        <source>in the last</source>
-        <translation type="unfinished">en el último</translation>
+      <source>in the last</source>
+      <translation type="unfinished">in the last</translation>
     </message>
     <message>
-        <source>not in the last</source>
-        <translation type="unfinished">no en los últimos</translation>
+      <source>not in the last</source>
+      <translation type="unfinished">not in the last</translation>
     </message>
     <message>
-        <source>between</source>
-        <translation type="unfinished">entre</translation>
+      <source>between</source>
+      <translation type="unfinished">between</translation>
     </message>
     <message>
-        <source>contains</source>
-        <translation type="unfinished">contiene</translation>
+      <source>contains</source>
+      <translation type="unfinished">contains</translation>
     </message>
     <message>
-        <source>does not contain</source>
-        <translation type="unfinished">no contiene</translation>
+      <source>does not contain</source>
+      <translation type="unfinished">does not contain</translation>
     </message>
     <message>
-        <source>starts with</source>
-        <translation type="unfinished">comienza por</translation>
+      <source>starts with</source>
+      <translation type="unfinished">starts with</translation>
     </message>
     <message>
-        <source>ends with</source>
-        <translation type="unfinished">termina en</translation>
+      <source>ends with</source>
+      <translation type="unfinished">ends with</translation>
     </message>
     <message>
-        <source>greater than</source>
-        <translation type="unfinished">mayor que</translation>
+      <source>greater than</source>
+      <translation type="unfinished">greater than</translation>
     </message>
     <message>
-        <source>less than</source>
-        <translation type="unfinished">menos de</translation>
+      <source>less than</source>
+      <translation type="unfinished">less than</translation>
     </message>
     <message>
-        <source>equals</source>
-        <translation type="unfinished">es igual a</translation>
+      <source>equals</source>
+      <translation type="unfinished">equals</translation>
     </message>
     <message>
-        <source>not equals</source>
-        <translation type="unfinished">no es igual a</translation>
+      <source>not equals</source>
+      <translation type="unfinished">not equals</translation>
     </message>
     <message>
-        <source>empty</source>
-        <translation type="unfinished">vacío</translation>
+      <source>empty</source>
+      <translation type="unfinished">empty</translation>
     </message>
     <message>
-        <source>not empty</source>
-        <translation type="unfinished">no vacío</translation>
+      <source>not empty</source>
+      <translation type="unfinished">not empty</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Comentario</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>A-Z</source>
-        <translation type="unfinished"></translation>
+      <source>A-Z</source>
+      <translation type="unfinished">A-Z</translation>
     </message>
     <message>
-        <source>Z-A</source>
-        <translation type="unfinished"></translation>
+      <source>Z-A</source>
+      <translation type="unfinished">Z-A</translation>
     </message>
     <message>
-        <source>oldest first</source>
-        <translation type="unfinished">el más antiguo primero</translation>
+      <source>oldest first</source>
+      <translation type="unfinished">oldest first</translation>
     </message>
     <message>
-        <source>newest first</source>
-        <translation type="unfinished">El más nuevo primero</translation>
+      <source>newest first</source>
+      <translation type="unfinished">newest first</translation>
     </message>
     <message>
-        <source>shortest first</source>
-        <translation type="unfinished">el más corto primero</translation>
+      <source>shortest first</source>
+      <translation type="unfinished">shortest first</translation>
     </message>
     <message>
-        <source>longest first</source>
-        <translation type="unfinished">El más largo primero</translation>
+      <source>longest first</source>
+      <translation type="unfinished">longest first</translation>
     </message>
     <message>
-        <source>smallest first</source>
-        <translation type="unfinished">el más pequeño primero</translation>
+      <source>smallest first</source>
+      <translation type="unfinished">smallest first</translation>
     </message>
     <message>
-        <source>biggest first</source>
-        <translation type="unfinished">primero el mayor</translation>
+      <source>biggest first</source>
+      <translation type="unfinished">biggest first</translation>
     </message>
     <message>
-        <source>Hours</source>
-        <translation type="unfinished">Horas</translation>
+      <source>Hours</source>
+      <translation type="unfinished">Hours</translation>
     </message>
     <message>
-        <source>Days</source>
-        <translation type="unfinished">Días</translation>
+      <source>Days</source>
+      <translation type="unfinished">Days</translation>
     </message>
     <message>
-        <source>Weeks</source>
-        <translation type="unfinished">Semanas</translation>
+      <source>Weeks</source>
+      <translation type="unfinished">Weeks</translation>
     </message>
     <message>
-        <source>Months</source>
-        <translation type="unfinished">Meses</translation>
+      <source>Months</source>
+      <translation type="unfinished">Months</translation>
     </message>
     <message>
-        <source>Years</source>
-        <translation type="unfinished">Años</translation>
+      <source>Years</source>
+      <translation type="unfinished">Years</translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="unfinished"></translation>
+      <source>Normal</source>
+      <translation type="unfinished">Normal</translation>
     </message>
     <message>
-        <source>Angry</source>
-        <translation type="unfinished">Enfadado</translation>
+      <source>Angry</source>
+      <translation type="unfinished">Angry</translation>
     </message>
     <message>
-        <source>Frozen</source>
-        <translation type="unfinished">Congelado</translation>
+      <source>Frozen</source>
+      <translation type="unfinished">Frozen</translation>
     </message>
     <message>
-        <source>Happy</source>
-        <translation type="unfinished">Feliz</translation>
+      <source>Happy</source>
+      <translation type="unfinished">Happy</translation>
     </message>
     <message>
-        <source>System colors</source>
-        <translation type="unfinished">Colores del sistema</translation>
+      <source>System colors</source>
+      <translation type="unfinished">System colors</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Database</name>
     <message>
-        <source>Unable to execute SQL query: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Unable to execute SQL query: %1</source>
+      <translation type="unfinished">Unable to execute SQL query: %1</translation>
     </message>
     <message>
-        <source>Failed SQL query: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Failed SQL query: %1</source>
+      <translation type="unfinished">Failed SQL query: %1</translation>
     </message>
     <message>
-        <source>Integrity check</source>
-        <translation type="unfinished">Comprobación de integridad</translation>
+      <source>Integrity check</source>
+      <translation type="unfinished">Integrity check</translation>
     </message>
     <message>
-        <source>Database corruption detected.</source>
-        <translation type="unfinished">Se han detectado errores en la base de datos</translation>
+      <source>Database corruption detected.</source>
+      <translation type="unfinished">Database corruption detected.</translation>
     </message>
     <message>
-        <source>Backing up database</source>
-        <translation type="unfinished">Haciendo copia de respaldo de la base de datos</translation>
+      <source>Backing up database</source>
+      <translation type="unfinished">Backing up database</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeleteFiles</name>
     <message>
-        <source>Deleting files</source>
-        <translation type="unfinished">Eliminando los archivos</translation>
+      <source>Deleting files</source>
+      <translation type="unfinished">Deleting files</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SongLoader</name>
     <message>
-        <source>You need GStreamer for this URL.</source>
-        <translation type="unfinished">Necesita GStreamer para este URL</translation>
+      <source>You need GStreamer for this URL.</source>
+      <translation type="unfinished">You need GStreamer for this URL.</translation>
     </message>
     <message>
-        <source>Preload function was not set for blocking operation.</source>
-        <translation type="unfinished">La función de precarga no se ajustó para un funcionamiento con bloqueo.</translation>
+      <source>Preload function was not set for blocking operation.</source>
+      <translation type="unfinished">Preload function was not set for blocking operation.</translation>
     </message>
     <message>
-        <source>File %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+      <source>File %1 does not exist.</source>
+      <translation type="unfinished">File %1 does not exist.</translation>
     </message>
     <message>
-        <source>CD playback is only available with the GStreamer engine.</source>
-        <translation type="unfinished">La reproducción de CD solo es posible con el motor GStreamer.</translation>
+      <source>CD playback is only available with the GStreamer engine.</source>
+      <translation type="unfinished">CD playback is only available with the GStreamer engine.</translation>
     </message>
     <message>
-        <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Could not open file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Could not open CUE file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Could not open CUE file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open CUE file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Could not open playlist file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Could not open playlist file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open playlist file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer source element for %1</source>
-        <translation type="unfinished"></translation>
+      <source>Couldn&apos;t create GStreamer source element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer source element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer typefind element for %1</source>
-        <translation type="unfinished"></translation>
+      <source>Couldn&apos;t create GStreamer typefind element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer typefind element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer fakesink element for %1</source>
-        <translation type="unfinished"></translation>
+      <source>Couldn&apos;t create GStreamer fakesink element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer fakesink element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</source>
-        <translation type="unfinished"></translation>
+      <source>Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</source>
+      <translation type="unfinished">Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MimeData</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GstEngine</name>
     <message>
-        <source>Buffering</source>
-        <translation type="unfinished">Guardando en búfer</translation>
+      <source>Buffering</source>
+      <translation type="unfinished">Buffering</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AnalyzerContainer</name>
     <message>
-        <source>Framerate</source>
-        <translation type="unfinished">Tasa de fotogramas</translation>
+      <source>Framerate</source>
+      <translation type="unfinished">Framerate</translation>
     </message>
     <message>
-        <source>Low (%1 fps)</source>
-        <translation type="unfinished">Baja (%1 fps)</translation>
+      <source>Low (%1 fps)</source>
+      <translation type="unfinished">Low (%1 fps)</translation>
     </message>
     <message>
-        <source>Medium (%1 fps)</source>
-        <translation type="unfinished">Media (%1 fps)</translation>
+      <source>Medium (%1 fps)</source>
+      <translation type="unfinished">Medium (%1 fps)</translation>
     </message>
     <message>
-        <source>High (%1 fps)</source>
-        <translation type="unfinished">Alta (%1 fps)</translation>
+      <source>High (%1 fps)</source>
+      <translation type="unfinished">High (%1 fps)</translation>
     </message>
     <message>
-        <source>Super high (%1 fps)</source>
-        <translation type="unfinished">Muy alta (%1 fps)</translation>
+      <source>Super high (%1 fps)</source>
+      <translation type="unfinished">Super high (%1 fps)</translation>
     </message>
     <message>
-        <source>No analyzer</source>
-        <translation type="unfinished">Sin analizador</translation>
+      <source>No analyzer</source>
+      <translation type="unfinished">No analyzer</translation>
     </message>
     <message>
-        <source>Block analyzer</source>
-        <translation type="unfinished">Analizador de bloques</translation>
+      <source>Block analyzer</source>
+      <translation type="unfinished">Block analyzer</translation>
     </message>
     <message>
-        <source>Boom analyzer</source>
-        <translation type="unfinished">Analizador de resonancia</translation>
+      <source>Boom analyzer</source>
+      <translation type="unfinished">Boom analyzer</translation>
     </message>
     <message>
-        <source>Turbine</source>
-        <translation type="unfinished"></translation>
+      <source>Turbine</source>
+      <translation type="unfinished">Turbine</translation>
     </message>
     <message>
-        <source>Sonogram</source>
-        <translation type="unfinished"></translation>
+      <source>Sonogram</source>
+      <translation type="unfinished">Sonogram</translation>
     </message>
     <message>
-        <source>WaveRubber</source>
-        <translation type="unfinished"></translation>
+      <source>WaveRubber</source>
+      <translation type="unfinished">WaveRubber</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ContextView</name>
     <message>
-        <source>Filetype</source>
-        <translation type="unfinished">Tipo de archivo</translation>
+      <source>Filetype</source>
+      <translation type="unfinished">Filetype</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Duración</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Samplerate</source>
-        <translation type="unfinished">Frecuencia</translation>
+      <source>Samplerate</source>
+      <translation type="unfinished">Samplerate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Resolución</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>EBU R 128 Integrated Loudness</source>
-        <translation type="unfinished"></translation>
+      <source>EBU R 128 Integrated Loudness</source>
+      <translation type="unfinished">EBU R 128 Integrated Loudness</translation>
     </message>
     <message>
-        <source>EBU R 128 Loudness Range</source>
-        <translation type="unfinished"></translation>
+      <source>EBU R 128 Loudness Range</source>
+      <translation type="unfinished">EBU R 128 Loudness Range</translation>
     </message>
     <message>
-        <source>Show album cover</source>
-        <translation type="unfinished">Mostrar cubierta del álbum</translation>
+      <source>Show album cover</source>
+      <translation type="unfinished">Show album cover</translation>
     </message>
     <message>
-        <source>Show song technical data</source>
-        <translation type="unfinished">Mostrar información técnica de la canción</translation>
+      <source>Show song technical data</source>
+      <translation type="unfinished">Show song technical data</translation>
     </message>
     <message>
-        <source>Show song lyrics</source>
-        <translation type="unfinished">Mostrar letras</translation>
+      <source>Show song lyrics</source>
+      <translation type="unfinished">Show song lyrics</translation>
     </message>
     <message>
-        <source>Automatically search for song lyrics</source>
-        <translation type="unfinished">Buscar automáticamente la letra de la canción</translation>
+      <source>Automatically search for song lyrics</source>
+      <translation type="unfinished">Automatically search for song lyrics</translation>
     </message>
     <message>
-        <source>No song playing</source>
-        <translation type="unfinished">No suena nada</translation>
+      <source>No song playing</source>
+      <translation type="unfinished">No song playing</translation>
     </message>
     <message>
-        <source>%1 song</source>
-        <translation type="unfinished">%1 canción</translation>
+      <source>%1 song</source>
+      <translation type="unfinished">%1 song</translation>
     </message>
     <message>
-        <source>%1 songs</source>
-        <translation type="unfinished">%1 canciones</translation>
+      <source>%1 songs</source>
+      <translation type="unfinished">%1 songs</translation>
     </message>
     <message>
-        <source>%1 artist</source>
-        <translation type="unfinished">%1 artista</translation>
+      <source>%1 artist</source>
+      <translation type="unfinished">%1 artist</translation>
     </message>
     <message>
-        <source>%1 artists</source>
-        <translation type="unfinished">%1 artistas</translation>
+      <source>%1 artists</source>
+      <translation type="unfinished">%1 artists</translation>
     </message>
     <message>
-        <source>%1 album</source>
-        <translation type="unfinished">%1 álbum</translation>
+      <source>%1 album</source>
+      <translation type="unfinished">%1 album</translation>
     </message>
     <message>
-        <source>%1 albums</source>
-        <translation type="unfinished">%1 álbumes</translation>
+      <source>%1 albums</source>
+      <translation type="unfinished">%1 albums</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kb/s</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SCollection</name>
     <message>
-        <source>Saving playcounts and ratings</source>
-        <translation type="unfinished"></translation>
+      <source>Saving playcounts and ratings</source>
+      <translation type="unfinished">Saving playcounts and ratings</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionModel</name>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Varios artistas</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Cargando…</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionBackend</name>
     <message>
-        <source>Unable to execute collection SQL query: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Unable to execute collection SQL query: %1</source>
+      <translation type="unfinished">Unable to execute collection SQL query: %1</translation>
     </message>
     <message>
-        <source>Failed SQL query: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Failed SQL query: %1</source>
+      <translation type="unfinished">Failed SQL query: %1</translation>
     </message>
     <message>
-        <source>Updating %1 database.</source>
-        <translation type="unfinished"></translation>
+      <source>Updating %1 database.</source>
+      <translation type="unfinished">Updating %1 database.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionWatcher</name>
     <message>
-        <source>Updating collection</source>
-        <translation type="unfinished">Actualizando la colección</translation>
+      <source>Updating collection</source>
+      <translation type="unfinished">Updating collection</translation>
     </message>
     <message>
-        <source>Updating %1</source>
-        <translation type="unfinished">Actualizando %1</translation>
+      <source>Updating %1</source>
+      <translation type="unfinished">Updating %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionView</name>
     <message>
-        <source>Your collection is empty!</source>
-        <translation type="unfinished">La colección está vacía.</translation>
+      <source>Your collection is empty!</source>
+      <translation type="unfinished">Your collection is empty!</translation>
     </message>
     <message>
-        <source>Click here to add some music</source>
-        <translation type="unfinished">Pulse aquí para añadir música</translation>
+      <source>Click here to add some music</source>
+      <translation type="unfinished">Click here to add some music</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Poner pista en cola</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Poner en cola para reproducir a continuación</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Search for this</source>
-        <translation type="unfinished">Buscar esto</translation>
+      <source>Search for this</source>
+      <translation type="unfinished">Search for this</translation>
     </message>
     <message>
-        <source>Organize files...</source>
-        <translation type="unfinished">Organizar archivos…</translation>
+      <source>Organize files...</source>
+      <translation type="unfinished">Organize files...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Copiar en un dispositivo…</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Eliminar del disco…</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Editar información de la pista…</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Edit tracks information...</source>
-        <translation type="unfinished">Editar información de las pistas…</translation>
+      <source>Edit tracks information...</source>
+      <translation type="unfinished">Edit tracks information...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Mostrar en el gestor de archivos…</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
     <message>
-        <source>Rescan song(s)</source>
-        <translation type="unfinished">Volver a escanear pistas</translation>
+      <source>Rescan song(s)</source>
+      <translation type="unfinished">Rescan song(s)</translation>
     </message>
     <message>
-        <source>Show in various artists</source>
-        <translation type="unfinished">Mostrar en Varios artistas</translation>
+      <source>Show in various artists</source>
+      <translation type="unfinished">Show in various artists</translation>
     </message>
     <message>
-        <source>Don&apos;t show in various artists</source>
-        <translation type="unfinished">No mostrar en Varios artistas</translation>
+      <source>Don&apos;t show in various artists</source>
+      <translation type="unfinished">Don&apos;t show in various artists</translation>
     </message>
     <message>
-        <source>There are other songs in this album</source>
-        <translation type="unfinished">Hay otras pistas en este álbum</translation>
+      <source>There are other songs in this album</source>
+      <translation type="unfinished">There are other songs in this album</translation>
     </message>
     <message>
-        <source>Would you like to move the other songs on this album to Various Artists as well?</source>
-        <translation type="unfinished">¿Le gustaría mover también el resto de temas del álbum a Varios artistas?</translation>
+      <source>Would you like to move the other songs on this album to Various Artists as well?</source>
+      <translation type="unfinished">Would you like to move the other songs on this album to Various Artists as well?</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>None of the selected songs were suitable for copying to a device</source>
-        <translation type="unfinished">Ninguna de las pistas seleccionadas era apta para copiarse en un dispositivo</translation>
+      <source>None of the selected songs were suitable for copying to a device</source>
+      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Playlist</name>
     <message>
-        <source>Could not write metadata to %1</source>
-        <translation type="unfinished"></translation>
+      <source>Could not write metadata to %1</source>
+      <translation type="unfinished">Could not write metadata to %1</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Could not write metadata to %1: %2</source>
+      <translation type="unfinished">Could not write metadata to %1: %2</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Título</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Pista</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Disco</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Duración</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Año</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original Year</source>
-        <translation type="unfinished"></translation>
+      <source>Original Year</source>
+      <translation type="unfinished">Original Year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Género</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Album Artist</source>
-        <translation type="unfinished"></translation>
+      <source>Album Artist</source>
+      <translation type="unfinished">Album Artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Compositor</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Intérprete</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Agrupamiento</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Play Count</source>
-        <translation type="unfinished"></translation>
+      <source>Play Count</source>
+      <translation type="unfinished">Play Count</translation>
     </message>
     <message>
-        <source>Skip Count</source>
-        <translation type="unfinished"></translation>
+      <source>Skip Count</source>
+      <translation type="unfinished">Skip Count</translation>
     </message>
     <message>
-        <source>Last Played</source>
-        <translation type="unfinished"></translation>
+      <source>Last Played</source>
+      <translation type="unfinished">Last Played</translation>
     </message>
     <message>
-        <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+      <source>Sample Rate</source>
+      <translation type="unfinished">Sample Rate</translation>
     </message>
     <message>
-        <source>Bit Depth</source>
-        <translation type="unfinished"></translation>
+      <source>Bit Depth</source>
+      <translation type="unfinished">Bit Depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Tasa de bits</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="unfinished"></translation>
+      <source>File Name</source>
+      <translation type="unfinished">File Name</translation>
     </message>
     <message>
-        <source>File Name (without path)</source>
-        <translation type="unfinished"></translation>
+      <source>File Name (without path)</source>
+      <translation type="unfinished">File Name (without path)</translation>
     </message>
     <message>
-        <source>File Size</source>
-        <translation type="unfinished"></translation>
+      <source>File Size</source>
+      <translation type="unfinished">File Size</translation>
     </message>
     <message>
-        <source>File Type</source>
-        <translation type="unfinished"></translation>
+      <source>File Type</source>
+      <translation type="unfinished">File Type</translation>
     </message>
     <message>
-        <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+      <source>Date Modified</source>
+      <translation type="unfinished">Date Modified</translation>
     </message>
     <message>
-        <source>Date Created</source>
-        <translation type="unfinished"></translation>
+      <source>Date Created</source>
+      <translation type="unfinished">Date Created</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Comentario</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Source</source>
-        <translation type="unfinished">Origen</translation>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
     </message>
     <message>
-        <source>Mood</source>
-        <translation type="unfinished">Ánimo</translation>
+      <source>Mood</source>
+      <translation type="unfinished">Mood</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation type="unfinished">Valoración</translation>
+      <source>Rating</source>
+      <translation type="unfinished">Rating</translation>
     </message>
     <message>
-        <source>CUE</source>
-        <translation type="unfinished"></translation>
+      <source>CUE</source>
+      <translation type="unfinished">CUE</translation>
     </message>
     <message>
-        <source>Integrated Loudness</source>
-        <translation type="unfinished"></translation>
+      <source>Integrated Loudness</source>
+      <translation type="unfinished">Integrated Loudness</translation>
     </message>
     <message>
-        <source>Loudness Range</source>
-        <translation type="unfinished"></translation>
+      <source>Loudness Range</source>
+      <translation type="unfinished">Loudness Range</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistDelegateBase</name>
     <message>
-        <source>stop</source>
-        <translation type="unfinished">detener</translation>
+      <source>stop</source>
+      <translation type="unfinished">stop</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastPlayedItemDelegate</name>
     <message>
-        <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+      <source>Never</source>
+      <translation type="unfinished">Never</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileTypeItemDelegate</name>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistHeader</name>
     <message>
-        <source>&amp;Hide...</source>
-        <translation type="unfinished">&amp;Ocultar…</translation>
+      <source>&amp;Hide...</source>
+      <translation type="unfinished">&amp;Hide...</translation>
     </message>
     <message>
-        <source>&amp;Stretch columns to fit window</source>
-        <translation type="unfinished">&amp;Ajustar columnas a la ventana</translation>
+      <source>&amp;Stretch columns to fit window</source>
+      <translation type="unfinished">&amp;Stretch columns to fit window</translation>
     </message>
     <message>
-        <source>&amp;Reset columns to default</source>
-        <translation type="unfinished">&amp;Reajustar columnas a valores iniciales</translation>
+      <source>&amp;Reset columns to default</source>
+      <translation type="unfinished">&amp;Reset columns to default</translation>
     </message>
     <message>
-        <source>&amp;Lock rating</source>
-        <translation type="unfinished">B&amp;loquear valoración</translation>
+      <source>&amp;Lock rating</source>
+      <translation type="unfinished">&amp;Lock rating</translation>
     </message>
     <message>
-        <source>&amp;Align text</source>
-        <translation type="unfinished">&amp;Alinear el texto</translation>
+      <source>&amp;Align text</source>
+      <translation type="unfinished">&amp;Align text</translation>
     </message>
     <message>
-        <source>&amp;Left</source>
-        <translation type="unfinished">&amp;Izquierda</translation>
+      <source>&amp;Left</source>
+      <translation type="unfinished">&amp;Left</translation>
     </message>
     <message>
-        <source>&amp;Center</source>
-        <translation type="unfinished">&amp;Centrar</translation>
+      <source>&amp;Center</source>
+      <translation type="unfinished">&amp;Center</translation>
     </message>
     <message>
-        <source>&amp;Right</source>
-        <translation type="unfinished">&amp;Derecha</translation>
+      <source>&amp;Right</source>
+      <translation type="unfinished">&amp;Right</translation>
     </message>
     <message>
-        <source>&amp;Hide %1</source>
-        <translation type="unfinished">&amp;Ocultar «%1»</translation>
+      <source>&amp;Hide %1</source>
+      <translation type="unfinished">&amp;Hide %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistListView</name>
     <message>
-        <source>You can favorite playlists by clicking the star icon next to a playlist name</source>
-        <translation type="unfinished">Puede marcar listas de reproducción como favoritas pulsando en los iconos con forma de estrella junto a sus nombres</translation>
+      <source>You can favorite playlists by clicking the star icon next to a playlist name</source>
+      <translation type="unfinished">You can favorite playlists by clicking the star icon next to a playlist name</translation>
     </message>
     <message>
-        <source>Favorited playlists will be saved here</source>
-        <translation type="unfinished">Sus listas favoritas se guardarán aquí</translation>
+      <source>Favorited playlists will be saved here</source>
+      <translation type="unfinished">Favorited playlists will be saved here</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistManager</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create playlist</source>
-        <translation type="unfinished">No se pudo crear la lista de reproducción</translation>
+      <source>Couldn&apos;t create playlist</source>
+      <translation type="unfinished">Couldn&apos;t create playlist</translation>
     </message>
     <message>
-        <source>Save playlist</source>
-        <comment>Title of the playlist save dialog.</comment>
-        <translation type="unfinished">Guardar lista de reproducción</translation>
+      <source>Save playlist</source>
+      <comment>Title of the playlist save dialog.</comment>
+      <translation type="unfinished">Save playlist</translation>
     </message>
     <message>
-        <source>Unknown playlist extension</source>
-        <translation type="unfinished"></translation>
+      <source>Unknown playlist extension</source>
+      <translation type="unfinished">Unknown playlist extension</translation>
     </message>
     <message>
-        <source>Unknown file extension for playlist.</source>
-        <translation type="unfinished"></translation>
+      <source>Unknown file extension for playlist.</source>
+      <translation type="unfinished">Unknown file extension for playlist.</translation>
     </message>
     <message>
-        <source>%1 selected of</source>
-        <translation type="unfinished">%1 seleccionado de</translation>
+      <source>%1 selected of</source>
+      <translation type="unfinished">%1 selected of</translation>
     </message>
     <message numerus="yes">
-        <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n track(s)</source>
+      <translation type="unfinished">
+        <numerusform>%n track(s)</numerusform>
+        <numerusform>%n track(s)</numerusform>
+      </translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Varios artistas</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistTabBar</name>
     <message>
-        <source>Star playlist</source>
-        <translation type="unfinished"></translation>
+      <source>Star playlist</source>
+      <translation type="unfinished">Star playlist</translation>
     </message>
     <message>
-        <source>Close playlist</source>
-        <translation type="unfinished">Cerrar lista de reproducción</translation>
+      <source>Close playlist</source>
+      <translation type="unfinished">Close playlist</translation>
     </message>
     <message>
-        <source>Rename playlist...</source>
-        <translation type="unfinished">Cambiar nombre de lista…</translation>
+      <source>Rename playlist...</source>
+      <translation type="unfinished">Rename playlist...</translation>
     </message>
     <message>
-        <source>Save playlist...</source>
-        <translation type="unfinished">Guardar lista de reproducción…</translation>
+      <source>Save playlist...</source>
+      <translation type="unfinished">Save playlist...</translation>
     </message>
     <message>
-        <source>Rename playlist</source>
-        <translation type="unfinished">Cambiar nombre de lista</translation>
+      <source>Rename playlist</source>
+      <translation type="unfinished">Rename playlist</translation>
     </message>
     <message>
-        <source>Enter a new name for this playlist</source>
-        <translation type="unfinished">Introduzca un nombre nuevo para esta lista de reproducción</translation>
+      <source>Enter a new name for this playlist</source>
+      <translation type="unfinished">Enter a new name for this playlist</translation>
     </message>
     <message>
-        <source>Remove playlist</source>
-        <translation type="unfinished">Eliminar lista de reproducción</translation>
+      <source>Remove playlist</source>
+      <translation type="unfinished">Remove playlist</translation>
     </message>
     <message>
-        <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
+      <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
 Are you sure you want to continue?</source>
-        <translation type="unfinished">Está a punto de eliminar una lista de reproducción que no está entre sus favoritas (esta acción no se puede deshacer).
-¿Confirma que quiere continuar?</translation>
+      <translation type="unfinished">You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
+Are you sure you want to continue?</translation>
     </message>
     <message>
-        <source>Warn me when closing a playlist tab</source>
-        <translation type="unfinished">Avisarme antes de cerrar una pestaña de lista de reproducción</translation>
+      <source>Warn me when closing a playlist tab</source>
+      <translation type="unfinished">Warn me when closing a playlist tab</translation>
     </message>
     <message>
-        <source>This option can be changed in the &quot;Behavior&quot; preferences</source>
-        <translation type="unfinished">Puede modificar esta opción en la pestaña «Comportamiento» en Preferencias</translation>
+      <source>This option can be changed in the &quot;Behavior&quot; preferences</source>
+      <translation type="unfinished">This option can be changed in the &quot;Behavior&quot; preferences</translation>
     </message>
     <message>
-        <source>Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</source>
-        <translation type="unfinished">Pulse dos veces para convertir esta lista en favorita y que se guarde y quede accesible en el panel «Listas» de la barra izquierda</translation>
+      <source>Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</source>
+      <translation type="unfinished">Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Lista</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::InsertItems</name>
     <message numerus="yes">
-        <source>add %n songs</source>
-        <translation type="unfinished">
-            <numerusform>añadir %n pistas</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>add %n songs</source>
+      <translation type="unfinished">
+        <numerusform>add %n songs</numerusform>
+        <numerusform>add %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::RemoveItems</name>
     <message numerus="yes">
-        <source>remove %n songs</source>
-        <translation type="unfinished">
-            <numerusform>quitar %n temas</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>remove %n songs</source>
+      <translation type="unfinished">
+        <numerusform>remove %n songs</numerusform>
+        <numerusform>remove %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::MoveItems</name>
     <message numerus="yes">
-        <source>move %n songs</source>
-        <translation type="unfinished">
-            <numerusform>mover %n temas</numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>move %n songs</source>
+      <translation type="unfinished">
+        <numerusform>move %n songs</numerusform>
+        <numerusform>move %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::SortItems</name>
     <message>
-        <source>sort songs</source>
-        <translation type="unfinished">ordenar temas</translation>
+      <source>sort songs</source>
+      <translation type="unfinished">sort songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::ShuffleItems</name>
     <message>
-        <source>shuffle songs</source>
-        <translation type="unfinished">mezclar temas</translation>
+      <source>shuffle songs</source>
+      <translation type="unfinished">shuffle songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistView</name>
     <message>
-        <source>Hz</source>
-        <translation type="unfinished"></translation>
+      <source>Hz</source>
+      <translation type="unfinished">Hz</translation>
     </message>
     <message>
-        <source>Bit</source>
-        <translation type="unfinished"></translation>
+      <source>Bit</source>
+      <translation type="unfinished">Bit</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kb/s</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SongLoaderInserter</name>
     <message>
-        <source>Error while loading audio CD.</source>
-        <translation type="unfinished">Error al cargar el CD de audio.</translation>
+      <source>Error while loading audio CD.</source>
+      <translation type="unfinished">Error while loading audio CD.</translation>
     </message>
     <message>
-        <source>Loading tracks</source>
-        <translation type="unfinished">Cargando pistas</translation>
+      <source>Loading tracks</source>
+      <translation type="unfinished">Loading tracks</translation>
     </message>
     <message>
-        <source>Loading tracks info</source>
-        <translation type="unfinished">Cargando información de pistas</translation>
+      <source>Loading tracks info</source>
+      <translation type="unfinished">Loading tracks info</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Queue</name>
     <message numerus="yes">
-        <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n track(s)</source>
+      <translation type="unfinished">
+        <numerusform>%n track(s)</numerusform>
+        <numerusform>%n track(s)</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CueParser</name>
     <message>
-        <source>Saving CUE files is not supported.</source>
-        <translation type="unfinished"></translation>
+      <source>Saving CUE files is not supported.</source>
+      <translation type="unfinished">Saving CUE files is not supported.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ParserBase</name>
     <message>
-        <source>Don&apos;t know how to handle %1</source>
-        <translation type="unfinished"></translation>
+      <source>Don&apos;t know how to handle %1</source>
+      <translation type="unfinished">Don&apos;t know how to handle %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistParser</name>
     <message>
-        <source>All playlists (%1)</source>
-        <translation type="unfinished">Todas las listas de reproducción (%1)</translation>
+      <source>All playlists (%1)</source>
+      <translation type="unfinished">All playlists (%1)</translation>
     </message>
     <message>
-        <source>%1 playlists (%2)</source>
-        <translation type="unfinished">%1 listas de reproducción (%2)</translation>
+      <source>%1 playlists (%2)</source>
+      <translation type="unfinished">%1 playlists (%2)</translation>
     </message>
     <message>
-        <source>Unknown filetype: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Unknown filetype: %1</source>
+      <translation type="unfinished">Unknown filetype: %1</translation>
     </message>
     <message>
-        <source>Could not open file %1</source>
-        <translation type="unfinished"></translation>
+      <source>Could not open file %1</source>
+      <translation type="unfinished">Could not open file %1</translation>
     </message>
     <message>
-        <source>Directory %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+      <source>Directory %1 does not exist.</source>
+      <translation type="unfinished">Directory %1 does not exist.</translation>
     </message>
     <message>
-        <source>Failed to open %1 for writing.</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to open %1 for writing.</source>
+      <translation type="unfinished">Failed to open %1 for writing.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistGeneratorInserter</name>
     <message>
-        <source>Loading smart playlist</source>
-        <translation type="unfinished">Cargando lista inteligente</translation>
+      <source>Loading smart playlist</source>
+      <translation type="unfinished">Loading smart playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQueryWizardPlugin</name>
     <message>
-        <source>Collection search</source>
-        <translation type="unfinished">Búsqueda en la colección</translation>
+      <source>Collection search</source>
+      <translation type="unfinished">Collection search</translation>
     </message>
     <message>
-        <source>Find songs in your collection that match the criteria you specify.</source>
-        <translation type="unfinished">Encuentre temas en la colección que coincidan con los criterios que especifique.</translation>
+      <source>Find songs in your collection that match the criteria you specify.</source>
+      <translation type="unfinished">Find songs in your collection that match the criteria you specify.</translation>
     </message>
     <message>
-        <source>Search terms</source>
-        <translation type="unfinished">Términos de búsqueda</translation>
+      <source>Search terms</source>
+      <translation type="unfinished">Search terms</translation>
     </message>
     <message>
-        <source>A song will be included in the playlist if it matches these conditions.</source>
-        <translation type="unfinished">Se incluirá el tema si cumple estas condiciones.</translation>
+      <source>A song will be included in the playlist if it matches these conditions.</source>
+      <translation type="unfinished">A song will be included in the playlist if it matches these conditions.</translation>
     </message>
     <message>
-        <source>Search options</source>
-        <translation type="unfinished">Opciones de búsqueda</translation>
+      <source>Search options</source>
+      <translation type="unfinished">Search options</translation>
     </message>
     <message>
-        <source>Choose how the playlist is sorted and how many songs it will contain.</source>
-        <translation type="unfinished">Selecciona como se ordenará la lista y qué temas contendrá</translation>
+      <source>Choose how the playlist is sorted and how many songs it will contain.</source>
+      <translation type="unfinished">Choose how the playlist is sorted and how many songs it will contain.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchTermWidgetOverlay</name>
     <message>
-        <source>Add search term</source>
-        <translation type="unfinished">Añadir término de búsqueda</translation>
+      <source>Add search term</source>
+      <translation type="unfinished">Add search term</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylists</name>
     <message>
-        <source>Newest tracks</source>
-        <translation type="unfinished">Pistas más nuevas</translation>
+      <source>Newest tracks</source>
+      <translation type="unfinished">Newest tracks</translation>
     </message>
     <message>
-        <source>50 random tracks</source>
-        <translation type="unfinished">50 pistas aleatorias</translation>
+      <source>50 random tracks</source>
+      <translation type="unfinished">50 random tracks</translation>
     </message>
     <message>
-        <source>Ever played</source>
-        <translation type="unfinished">Ya reproducido</translation>
+      <source>Ever played</source>
+      <translation type="unfinished">Ever played</translation>
     </message>
     <message>
-        <source>Never played</source>
-        <translation type="unfinished">Nunca reproducidas</translation>
+      <source>Never played</source>
+      <translation type="unfinished">Never played</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <translation type="unfinished"></translation>
+      <source>Last played</source>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>Most played</source>
-        <translation type="unfinished">Más reproducidas</translation>
+      <source>Most played</source>
+      <translation type="unfinished">Most played</translation>
     </message>
     <message>
-        <source>Favourite tracks</source>
-        <translation type="unfinished">Pistas favoritas</translation>
+      <source>Favourite tracks</source>
+      <translation type="unfinished">Favourite tracks</translation>
     </message>
     <message>
-        <source>All tracks</source>
-        <translation type="unfinished">Todas las pistas</translation>
+      <source>All tracks</source>
+      <translation type="unfinished">All tracks</translation>
     </message>
     <message>
-        <source>Dynamic random mix</source>
-        <translation type="unfinished">Mezcla aleatoria dinámica</translation>
+      <source>Dynamic random mix</source>
+      <translation type="unfinished">Dynamic random mix</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Library</name>
     <message>
-        <source>Least favourite tracks</source>
-        <translation type="unfinished">Pistas menos valoradas</translation>
+      <source>Least favourite tracks</source>
+      <translation type="unfinished">Least favourite tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistWizard</name>
     <message>
-        <source>Smart playlist</source>
-        <translation type="unfinished">Lista inteligentes</translation>
+      <source>Smart playlist</source>
+      <translation type="unfinished">Smart playlist</translation>
     </message>
     <message>
-        <source>Playlist type</source>
-        <translation type="unfinished">Tipo de lista</translation>
+      <source>Playlist type</source>
+      <translation type="unfinished">Playlist type</translation>
     </message>
     <message>
-        <source>A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</source>
-        <translation type="unfinished">Una lista inteligente es una lista dinámica de temas de la fonoteca. Hay distintos tipos de listas inteligentes que permiten seleccionar los temas de distintas maneras.</translation>
+      <source>A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</source>
+      <translation type="unfinished">A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</translation>
     </message>
     <message>
-        <source>Finish</source>
-        <translation type="unfinished">Terminar</translation>
+      <source>Finish</source>
+      <translation type="unfinished">Finish</translation>
     </message>
     <message>
-        <source>Choose a name for your smart playlist</source>
-        <translation type="unfinished">Escoja un nombre para su lista inteligente</translation>
+      <source>Choose a name for your smart playlist</source>
+      <translation type="unfinished">Choose a name for your smart playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverManager</name>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Interrumpir</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
     <message>
-        <source>All albums</source>
-        <translation type="unfinished">Todos los álbumes</translation>
+      <source>All albums</source>
+      <translation type="unfinished">All albums</translation>
     </message>
     <message>
-        <source>Albums with covers</source>
-        <translation type="unfinished">Álbumes con cubierta</translation>
+      <source>Albums with covers</source>
+      <translation type="unfinished">Albums with covers</translation>
     </message>
     <message>
-        <source>Albums without covers</source>
-        <translation type="unfinished">Álbumes sin cubierta</translation>
+      <source>Albums without covers</source>
+      <translation type="unfinished">Albums without covers</translation>
     </message>
     <message>
-        <source>Really cancel?</source>
-        <translation type="unfinished">¿Confirma que quiere cancelar?</translation>
+      <source>Really cancel?</source>
+      <translation type="unfinished">Really cancel?</translation>
     </message>
     <message>
-        <source>Closing this window will stop searching for album covers.</source>
-        <translation type="unfinished">Si cierra esta ventana se detendrá la búsqueda de cubiertas para los álbumes.</translation>
+      <source>Closing this window will stop searching for album covers.</source>
+      <translation type="unfinished">Closing this window will stop searching for album covers.</translation>
     </message>
     <message>
-        <source>Don&apos;t stop!</source>
-        <translation type="unfinished">¡No detener!</translation>
+      <source>Don&apos;t stop!</source>
+      <translation type="unfinished">Don&apos;t stop!</translation>
     </message>
     <message>
-        <source>All artists</source>
-        <translation type="unfinished">Todos los artistas</translation>
+      <source>All artists</source>
+      <translation type="unfinished">All artists</translation>
     </message>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Varios artistas</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
     <message>
-        <source>Got %1 covers out of %2 (%3 failed)</source>
-        <translation type="unfinished">Se obtuvieron %1 cubiertas de %2 (%3 fallaron)</translation>
+      <source>Got %1 covers out of %2 (%3 failed)</source>
+      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
     </message>
     <message>
-        <source>%1 transferred</source>
-        <translation type="unfinished">%1 transferido</translation>
+      <source>%1 transferred</source>
+      <translation type="unfinished">%1 transferred</translation>
     </message>
     <message>
-        <source>Export finished</source>
-        <translation type="unfinished">Exportación finalizada</translation>
+      <source>Export finished</source>
+      <translation type="unfinished">Export finished</translation>
     </message>
     <message>
-        <source>No covers to export.</source>
-        <translation type="unfinished">No hay ninguna cubierta que exportar.</translation>
+      <source>No covers to export.</source>
+      <translation type="unfinished">No covers to export.</translation>
     </message>
     <message>
-        <source>Exported %1 covers out of %2 (%3 skipped)</source>
-        <translation type="unfinished">Se han exportado %1 cubiertas de %2 (%3 omitidas)</translation>
+      <source>Exported %1 covers out of %2 (%3 skipped)</source>
+      <translation type="unfinished">Exported %1 covers out of %2 (%3 skipped)</translation>
     </message>
     <message>
-        <source>Could not save cover to file %1.</source>
-        <translation type="unfinished"></translation>
+      <source>Could not save cover to file %1.</source>
+      <translation type="unfinished">Could not save cover to file %1.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverChoiceController</name>
     <message>
-        <source>Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</source>
-        <translation type="unfinished">Imágenes (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
+      <source>Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</source>
+      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
     </message>
     <message>
-        <source>Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</source>
-        <translation type="unfinished">Imágenes (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
+      <source>Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</source>
+      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
     </message>
     <message>
-        <source>All files (*)</source>
-        <translation type="unfinished">Todos los archivos (*)</translation>
+      <source>All files (*)</source>
+      <translation type="unfinished">All files (*)</translation>
     </message>
     <message>
-        <source>Load cover from disk...</source>
-        <translation type="unfinished">Cargar cubierta desde disco…</translation>
+      <source>Load cover from disk...</source>
+      <translation type="unfinished">Load cover from disk...</translation>
     </message>
     <message>
-        <source>Save cover to disk...</source>
-        <translation type="unfinished">Guardar la cubierta en el disco…</translation>
+      <source>Save cover to disk...</source>
+      <translation type="unfinished">Save cover to disk...</translation>
     </message>
     <message>
-        <source>Load cover from URL...</source>
-        <translation type="unfinished">Cargar cubierta desde un URL…</translation>
+      <source>Load cover from URL...</source>
+      <translation type="unfinished">Load cover from URL...</translation>
     </message>
     <message>
-        <source>Search for album covers...</source>
-        <translation type="unfinished">Buscar cubiertas de álbumes…</translation>
+      <source>Search for album covers...</source>
+      <translation type="unfinished">Search for album covers...</translation>
     </message>
     <message>
-        <source>Unset cover</source>
-        <translation type="unfinished">Quitar la cubierta</translation>
+      <source>Unset cover</source>
+      <translation type="unfinished">Unset cover</translation>
     </message>
     <message>
-        <source>Delete cover</source>
-        <translation type="unfinished">Eliminar cubierta</translation>
+      <source>Delete cover</source>
+      <translation type="unfinished">Delete cover</translation>
     </message>
     <message>
-        <source>Clear cover</source>
-        <translation type="unfinished">Eliminar cubierta</translation>
+      <source>Clear cover</source>
+      <translation type="unfinished">Clear cover</translation>
     </message>
     <message>
-        <source>Show fullsize...</source>
-        <translation type="unfinished">Mostrar a tamaño completo…</translation>
+      <source>Show fullsize...</source>
+      <translation type="unfinished">Show fullsize...</translation>
     </message>
     <message>
-        <source>Search automatically</source>
-        <translation type="unfinished">Buscar automáticamente</translation>
+      <source>Search automatically</source>
+      <translation type="unfinished">Search automatically</translation>
     </message>
     <message>
-        <source>Load cover from disk</source>
-        <translation type="unfinished">Cargar cubierta desde el disco</translation>
+      <source>Load cover from disk</source>
+      <translation type="unfinished">Load cover from disk</translation>
     </message>
     <message>
-        <source>Failed to open cover file %1 for reading: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to open cover file %1 for reading: %2</source>
+      <translation type="unfinished">Failed to open cover file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Cover file %1 is empty.</source>
-        <translation type="unfinished"></translation>
+      <source>Cover file %1 is empty.</source>
+      <translation type="unfinished">Cover file %1 is empty.</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+      <source>unknown</source>
+      <translation type="unfinished">unknown</translation>
     </message>
     <message>
-        <source>Save album cover</source>
-        <translation type="unfinished">Guardar la cubierta del álbum</translation>
+      <source>Save album cover</source>
+      <translation type="unfinished">Save album cover</translation>
     </message>
     <message>
-        <source>Failed to open cover file %1 for writing: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to open cover file %1 for writing: %2</source>
+      <translation type="unfinished">Failed to open cover file %1 for writing: %2</translation>
     </message>
     <message>
-        <source>Failed writing cover to file %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Failed writing cover to file %1: %2</source>
+      <translation type="unfinished">Failed writing cover to file %1: %2</translation>
     </message>
     <message>
-        <source>Failed writing cover to file %1.</source>
-        <translation type="unfinished"></translation>
+      <source>Failed writing cover to file %1.</source>
+      <translation type="unfinished">Failed writing cover to file %1.</translation>
     </message>
     <message>
-        <source>Failed to delete cover file %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to delete cover file %1: %2</source>
+      <translation type="unfinished">Failed to delete cover file %1: %2</translation>
     </message>
     <message>
-        <source>Failed to write cover to file %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Failed to write cover to file %1: %2</source>
+      <translation type="unfinished">Failed to write cover to file %1: %2</translation>
     </message>
     <message>
-        <source>Could not save cover to file %1.</source>
-        <translation type="unfinished"></translation>
+      <source>Could not save cover to file %1.</source>
+      <translation type="unfinished">Could not save cover to file %1.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GeniusLyricsProvider</name>
     <message>
-        <source>Genius Authentication</source>
-        <translation type="unfinished">Autenticación con Genius</translation>
+      <source>Genius Authentication</source>
+      <translation type="unfinished">Genius Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Abra este URL en el navegador</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code!</source>
-        <translation type="unfinished">¡Falta código del token de redirección!</translation>
+      <source>Redirect missing token code!</source>
+      <translation type="unfinished">Redirect missing token code!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Se recibió una respuesta no válida del navegador.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Redirect from Genius is missing query items code or state.</source>
-        <translation type="unfinished">Redirección Genius carece de código de elementos de búsqueda o estado.</translation>
+      <source>Redirect from Genius is missing query items code or state.</source>
+      <translation type="unfinished">Redirect from Genius is missing query items code or state.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeleteConfirmationDialog</name>
     <message>
-        <source>Delete files</source>
-        <translation type="unfinished">Eliminar archivos</translation>
+      <source>Delete files</source>
+      <translation type="unfinished">Delete files</translation>
     </message>
     <message>
-        <source>The following files will be deleted from disk:</source>
-        <translation type="unfinished">Los siguientes archivos serán borrados del disco:</translation>
+      <source>The following files will be deleted from disk:</source>
+      <translation type="unfinished">The following files will be deleted from disk:</translation>
     </message>
     <message>
-        <source>Are you sure you want to continue?</source>
-        <translation type="unfinished">¿Confirma que quiere continuar?</translation>
+      <source>Are you sure you want to continue?</source>
+      <translation type="unfinished">Are you sure you want to continue?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SnapDialog</name>
     <message>
-        <source>Strawberry is running as a Snap</source>
-        <translation type="unfinished">Strawberry se está ejecutando como un Snap</translation>
+      <source>Strawberry is running as a Snap</source>
+      <translation type="unfinished">Strawberry is running as a Snap</translation>
     </message>
     <message>
-        <source>It is detected that Strawberry is running as a Snap</source>
-        <translation type="unfinished">Se ha detectado que Strawbery está ejecutándose como un «snap»</translation>
+      <source>It is detected that Strawberry is running as a Snap</source>
+      <translation type="unfinished">It is detected that Strawberry is running as a Snap</translation>
     </message>
     <message>
-        <source>Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</source>
-        <translation type="unfinished">Strawberry se está ejecutando como un snap</translation>
+      <source>Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</source>
+      <translation type="unfinished">Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</translation>
     </message>
     <message>
-        <source>For Ubuntu there is an official PPA repository available at %1.</source>
-        <translation type="unfinished">Hay un repositorio PPA oficial para Ubuntu en %1.</translation>
+      <source>For Ubuntu there is an official PPA repository available at %1.</source>
+      <translation type="unfinished">For Ubuntu there is an official PPA repository available at %1.</translation>
     </message>
     <message>
-        <source>Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</source>
-        <translation type="unfinished">Existen versiones oficiales para Debian y Ubuntu que también funcionan en la mayor parte de sus derivados. Mira %1 para obtener más información.</translation>
+      <source>Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</source>
+      <translation type="unfinished">Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</translation>
     </message>
     <message>
-        <source>For a better experience please consider the other options above.</source>
-        <translation type="unfinished">Tenga en cuenta las opciones anteriores para lograr una experiencia óptima.</translation>
+      <source>For a better experience please consider the other options above.</source>
+      <translation type="unfinished">For a better experience please consider the other options above.</translation>
     </message>
     <message>
-        <source>Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</source>
-        <translation type="unfinished"></translation>
+      <source>Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</source>
+      <translation type="unfinished">Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</translation>
     </message>
     <message>
-        <source>Uninstall the snap with:</source>
-        <translation type="unfinished">Desinstale el «snap» con:</translation>
+      <source>Uninstall the snap with:</source>
+      <translation type="unfinished">Uninstall the snap with:</translation>
     </message>
     <message>
-        <source>Install strawberry through PPA:</source>
-        <translation type="unfinished"></translation>
+      <source>Install strawberry through PPA:</source>
+      <translation type="unfinished">Install strawberry through PPA:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FancyTabWidget</name>
     <message>
-        <source>Large sidebar</source>
-        <translation type="unfinished">Barra lateral grande</translation>
+      <source>Large sidebar</source>
+      <translation type="unfinished">Large sidebar</translation>
     </message>
     <message>
-        <source>Icons sidebar</source>
-        <translation type="unfinished"></translation>
+      <source>Icons sidebar</source>
+      <translation type="unfinished">Icons sidebar</translation>
     </message>
     <message>
-        <source>Small sidebar</source>
-        <translation type="unfinished">Barra lateral pequeña</translation>
+      <source>Small sidebar</source>
+      <translation type="unfinished">Small sidebar</translation>
     </message>
     <message>
-        <source>Plain sidebar</source>
-        <translation type="unfinished">Barra lateral simple</translation>
+      <source>Plain sidebar</source>
+      <translation type="unfinished">Plain sidebar</translation>
     </message>
     <message>
-        <source>Tabs on top</source>
-        <translation type="unfinished">Pestañas en la parte superior</translation>
+      <source>Tabs on top</source>
+      <translation type="unfinished">Tabs on top</translation>
     </message>
     <message>
-        <source>Icons on top</source>
-        <translation type="unfinished">Iconos en la parte superior</translation>
+      <source>Icons on top</source>
+      <translation type="unfinished">Icons on top</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileViewList</name>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Copiar en la colección…</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Move to collection...</source>
-        <translation type="unfinished">Mover a la colección…</translation>
+      <source>Move to collection...</source>
+      <translation type="unfinished">Move to collection...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Copiar en un dispositivo…</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Eliminar del disco…</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Editar información de la pista…</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Mostrar en el gestor de archivos…</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FreeSpaceBar</name>
     <message>
-        <source>Available</source>
-        <translation type="unfinished">Disponible</translation>
+      <source>Available</source>
+      <translation type="unfinished">Available</translation>
     </message>
     <message>
-        <source>New songs</source>
-        <translation type="unfinished">Canciones nuevas</translation>
+      <source>New songs</source>
+      <translation type="unfinished">New songs</translation>
     </message>
     <message>
-        <source>Exceeded by</source>
-        <translation type="unfinished"></translation>
+      <source>Exceeded by</source>
+      <translation type="unfinished">Exceeded by</translation>
     </message>
     <message>
-        <source>Used</source>
-        <translation type="unfinished">En uso:</translation>
+      <source>Used</source>
+      <translation type="unfinished">Used</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QWidget</name>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Borrar</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Reset</source>
-        <translation type="unfinished">Restablecer</translation>
+      <source>Reset</source>
+      <translation type="unfinished">Reset</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlayingWidget</name>
     <message>
-        <source>Small album cover</source>
-        <translation type="unfinished">Cubierta de álbum pequeña</translation>
+      <source>Small album cover</source>
+      <translation type="unfinished">Small album cover</translation>
     </message>
     <message>
-        <source>Large album cover</source>
-        <translation type="unfinished">Cubierta de álbum grande</translation>
+      <source>Large album cover</source>
+      <translation type="unfinished">Large album cover</translation>
     </message>
     <message>
-        <source>Fit cover to width</source>
-        <translation type="unfinished">Ajustar cubierta a anchura</translation>
+      <source>Fit cover to width</source>
+      <translation type="unfinished">Fit cover to width</translation>
     </message>
     <message>
-        <source>Show above status bar</source>
-        <translation type="unfinished">Mostrar sobre la barra de estado</translation>
+      <source>Show above status bar</source>
+      <translation type="unfinished">Show above status bar</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OSDBase</name>
     <message>
-        <source>disc %1</source>
-        <translation type="unfinished">disco %1</translation>
+      <source>disc %1</source>
+      <translation type="unfinished">disc %1</translation>
     </message>
     <message>
-        <source>track %1</source>
-        <translation type="unfinished">pista %1</translation>
+      <source>track %1</source>
+      <translation type="unfinished">track %1</translation>
     </message>
     <message>
-        <source>Paused</source>
-        <translation type="unfinished">En pausa</translation>
+      <source>Paused</source>
+      <translation type="unfinished">Paused</translation>
     </message>
     <message>
-        <source>Stopped</source>
-        <translation type="unfinished">Detenido</translation>
+      <source>Stopped</source>
+      <translation type="unfinished">Stopped</translation>
     </message>
     <message>
-        <source>Stop playing after track: %1</source>
-        <translation type="unfinished">Detener reproducción tras la pista: %1</translation>
+      <source>Stop playing after track: %1</source>
+      <translation type="unfinished">Stop playing after track: %1</translation>
     </message>
     <message>
-        <source>On</source>
-        <translation type="unfinished">Activado</translation>
+      <source>On</source>
+      <translation type="unfinished">On</translation>
     </message>
     <message>
-        <source>Off</source>
-        <translation type="unfinished">Desactivado</translation>
+      <source>Off</source>
+      <translation type="unfinished">Off</translation>
     </message>
     <message>
-        <source>Playlist finished</source>
-        <translation type="unfinished">Lista de reproducción finalizada</translation>
+      <source>Playlist finished</source>
+      <translation type="unfinished">Playlist finished</translation>
     </message>
     <message>
-        <source>Volume %1%</source>
-        <translation type="unfinished">Volumen %1%</translation>
+      <source>Volume %1%</source>
+      <translation type="unfinished">Volume %1%</translation>
     </message>
     <message>
-        <source>Don&apos;t shuffle</source>
-        <translation type="unfinished">No mezclar</translation>
+      <source>Don&apos;t shuffle</source>
+      <translation type="unfinished">Don&apos;t shuffle</translation>
     </message>
     <message>
-        <source>Shuffle all</source>
-        <translation type="unfinished">Mezclar todo</translation>
+      <source>Shuffle all</source>
+      <translation type="unfinished">Shuffle all</translation>
     </message>
     <message>
-        <source>Shuffle tracks in this album</source>
-        <translation type="unfinished">Mezclar pistas de este álbum</translation>
+      <source>Shuffle tracks in this album</source>
+      <translation type="unfinished">Shuffle tracks in this album</translation>
     </message>
     <message>
-        <source>Shuffle albums</source>
-        <translation type="unfinished">Mezclar álbumes</translation>
+      <source>Shuffle albums</source>
+      <translation type="unfinished">Shuffle albums</translation>
     </message>
     <message>
-        <source>Don&apos;t repeat</source>
-        <translation type="unfinished">No repetir</translation>
+      <source>Don&apos;t repeat</source>
+      <translation type="unfinished">Don&apos;t repeat</translation>
     </message>
     <message>
-        <source>Repeat track</source>
-        <translation type="unfinished">Repetir pista</translation>
+      <source>Repeat track</source>
+      <translation type="unfinished">Repeat track</translation>
     </message>
     <message>
-        <source>Repeat album</source>
-        <translation type="unfinished">Repetir álbum</translation>
+      <source>Repeat album</source>
+      <translation type="unfinished">Repeat album</translation>
     </message>
     <message>
-        <source>Repeat playlist</source>
-        <translation type="unfinished">Repetir lista de reproducción</translation>
+      <source>Repeat playlist</source>
+      <translation type="unfinished">Repeat playlist</translation>
     </message>
     <message>
-        <source>Stop after every track</source>
-        <translation type="unfinished">Detener reproducción al finalizar cada pista</translation>
+      <source>Stop after every track</source>
+      <translation type="unfinished">Stop after every track</translation>
     </message>
     <message>
-        <source>Intro tracks</source>
-        <translation type="unfinished">Pistas de introducción</translation>
+      <source>Intro tracks</source>
+      <translation type="unfinished">Intro tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSearchModel</name>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Varios artistas</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSongsView</name>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Configurar %1…</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingCollectionView</name>
     <message>
-        <source>The streaming collection is empty!</source>
-        <translation type="unfinished"></translation>
+      <source>The streaming collection is empty!</source>
+      <translation type="unfinished">The streaming collection is empty!</translation>
     </message>
     <message>
-        <source>Click here to retrieve music</source>
-        <translation type="unfinished">Pulse aquí para recuperar música</translation>
+      <source>Click here to retrieve music</source>
+      <translation type="unfinished">Click here to retrieve music</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Poner pista en cola</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Poner en cola para reproducir a continuación</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Remove from favorites</source>
-        <translation type="unfinished">Eliminar de favoritos</translation>
+      <source>Remove from favorites</source>
+      <translation type="unfinished">Remove from favorites</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioView</name>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Open homepage</source>
-        <translation type="unfinished"></translation>
+      <source>Open homepage</source>
+      <translation type="unfinished">Open homepage</translation>
     </message>
     <message>
-        <source>Donate</source>
-        <translation type="unfinished"></translation>
+      <source>Donate</source>
+      <translation type="unfinished">Donate</translation>
     </message>
     <message>
-        <source>Refresh channels</source>
-        <translation type="unfinished"></translation>
+      <source>Refresh channels</source>
+      <translation type="unfinished">Refresh channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SomaFMService</name>
     <message>
-        <source>Getting %1 channels</source>
-        <translation type="unfinished"></translation>
+      <source>Getting %1 channels</source>
+      <translation type="unfinished">Getting %1 channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioParadiseService</name>
     <message>
-        <source>Getting %1 channels</source>
-        <translation type="unfinished"></translation>
+      <source>Getting %1 channels</source>
+      <translation type="unfinished">Getting %1 channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ScrobblingAPI20</name>
     <message>
-        <source>%1 Scrobbler Authentication</source>
-        <translation type="unfinished">Autenticación en el servicio de registro de reproducciones %1</translation>
+      <source>%1 Scrobbler Authentication</source>
+      <translation type="unfinished">%1 Scrobbler Authentication</translation>
     </message>
     <message>
-        <source>Open URL in web browser?</source>
-        <translation type="unfinished">¿Quiere abrir el URL en el navegador?</translation>
+      <source>Open URL in web browser?</source>
+      <translation type="unfinished">Open URL in web browser?</translation>
     </message>
     <message>
-        <source>Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</source>
-        <translation type="unfinished">Pulse en «Guardar» para copiar el URL en el portapapeles y ábralo en el navegador manualmente.</translation>
+      <source>Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</source>
+      <translation type="unfinished">Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</translation>
     </message>
     <message>
-        <source>Could not open URL. Please open this URL in your browser</source>
-        <translation type="unfinished">No se ha podido abrir URL. Por favor, ábrela en tu navegador</translation>
+      <source>Could not open URL. Please open this URL in your browser</source>
+      <translation type="unfinished">Could not open URL. Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Invalid reply from web browser. Missing token.</source>
-        <translation type="unfinished">El servidor web devolvió una respuesta no válida. Falta la ficha.</translation>
+      <source>Invalid reply from web browser. Missing token.</source>
+      <translation type="unfinished">Invalid reply from web browser. Missing token.</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser. Try another browser.</source>
-        <translation type="unfinished"></translation>
+      <source>Received invalid reply from web browser. Try another browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser. Try another browser.</translation>
     </message>
     <message>
-        <source>Scrobbler %1 is not authenticated!</source>
-        <translation type="unfinished">¡No se ha iniciado sesión en servicio de registro de reproducción %1!</translation>
+      <source>Scrobbler %1 is not authenticated!</source>
+      <translation type="unfinished">Scrobbler %1 is not authenticated!</translation>
     </message>
     <message>
-        <source>Scrobbler %1 error: %2</source>
-        <translation type="unfinished">Registro de reproducción %1 error: %2</translation>
+      <source>Scrobbler %1 error: %2</source>
+      <translation type="unfinished">Scrobbler %1 error: %2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ListenBrainzScrobbler</name>
     <message>
-        <source>ListenBrainz Authentication</source>
-        <translation type="unfinished">Autenticación en ListenBrainz</translation>
+      <source>ListenBrainz Authentication</source>
+      <translation type="unfinished">ListenBrainz Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Abra este URL en el navegador</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code!</source>
-        <translation type="unfinished">¡Falta código del token de redirección!</translation>
+      <source>Redirect missing token code!</source>
+      <translation type="unfinished">Redirect missing token code!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Se recibió una respuesta no válida del navegador.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Unable to scrobble %1 - %2 because of error: %3</source>
-        <translation type="unfinished"></translation>
+      <source>Unable to scrobble %1 - %2 because of error: %3</source>
+      <translation type="unfinished">Unable to scrobble %1 - %2 because of error: %3</translation>
     </message>
     <message>
-        <source>Missing MusicBrainz recording ID for %1 %2 %3</source>
-        <translation type="unfinished"></translation>
+      <source>Missing MusicBrainz recording ID for %1 %2 %3</source>
+      <translation type="unfinished">Missing MusicBrainz recording ID for %1 %2 %3</translation>
     </message>
     <message>
-        <source>ListenBrainz error: %1</source>
-        <translation type="unfinished"></translation>
+      <source>ListenBrainz error: %1</source>
+      <translation type="unfinished">ListenBrainz error: %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastFMImport</name>
     <message>
-        <source>Missing username, please login to last.fm first!</source>
-        <translation type="unfinished">Falta el usuario; acceda a Last.fm primero.</translation>
+      <source>Missing username, please login to last.fm first!</source>
+      <translation type="unfinished">Missing username, please login to last.fm first!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Organize</name>
     <message>
-        <source>Organizing files</source>
-        <translation type="unfinished">Organizando archivos</translation>
+      <source>Organizing files</source>
+      <translation type="unfinished">Organizing files</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OrganizeErrorDialog</name>
     <message>
-        <source>Error copying songs</source>
-        <translation type="unfinished">Error al copiar pistas</translation>
+      <source>Error copying songs</source>
+      <translation type="unfinished">Error copying songs</translation>
     </message>
     <message>
-        <source>There were problems copying some songs.  The following files could not be copied:</source>
-        <translation type="unfinished">Hubo problemas al copiar algunas pistas. No se pudieron copiar los siguientes archivos:</translation>
+      <source>There were problems copying some songs.  The following files could not be copied:</source>
+      <translation type="unfinished">There were problems copying some songs.  The following files could not be copied:</translation>
     </message>
     <message>
-        <source>Error deleting songs</source>
-        <translation type="unfinished">Error al eliminar pistas</translation>
+      <source>Error deleting songs</source>
+      <translation type="unfinished">Error deleting songs</translation>
     </message>
     <message>
-        <source>There were problems deleting some songs.  The following files could not be deleted:</source>
-        <translation type="unfinished">Hubo problemas al eliminar algunas pistas. No se pudieron eliminar los siguientes archivos:</translation>
+      <source>There were problems deleting some songs.  The following files could not be deleted:</source>
+      <translation type="unfinished">There were problems deleting some songs.  The following files could not be deleted:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Transcoder</name>
     <message>
-        <source>Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</source>
-        <translation type="unfinished">No se pudo crear el elemento «%1» de GStreamer. Asegúrese de tener instalados todos los complementos necesarios de GStreamer.</translation>
+      <source>Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</source>
+      <translation type="unfinished">Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</translation>
     </message>
     <message>
-        <source>Successfully written %1</source>
-        <translation type="unfinished">%1 se ha escrito correctamente</translation>
+      <source>Successfully written %1</source>
+      <translation type="unfinished">Successfully written %1</translation>
     </message>
     <message>
-        <source>Transcoding %1 files using %2 threads</source>
-        <translation type="unfinished">Convirtiendo %1 archivos usando %2 procesos</translation>
+      <source>Transcoding %1 files using %2 threads</source>
+      <translation type="unfinished">Transcoding %1 files using %2 threads</translation>
     </message>
     <message>
-        <source>Error processing %1: %2</source>
-        <translation type="unfinished">Error al procesar %1: %2</translation>
+      <source>Error processing %1: %2</source>
+      <translation type="unfinished">Error processing %1: %2</translation>
     </message>
     <message>
-        <source>Starting %1</source>
-        <translation type="unfinished">Iniciando %1</translation>
+      <source>Starting %1</source>
+      <translation type="unfinished">Starting %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</source>
-        <translation type="unfinished">No se pudo encontrar un codificador para %1; compruebe que tiene instalados los complementos correctos de GStreamer</translation>
+      <source>Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</source>
+      <translation type="unfinished">Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</source>
-        <translation type="unfinished">No se pudo encontrar un mezclador para %1; compruebe que tiene instalados los complementos correctos de GStreamer</translation>
+      <source>Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</source>
+      <translation type="unfinished">Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SystemTrayIcon</name>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Pausar</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Reproducir</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutsManager</name>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Reproducir</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Pausar</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished"></translation>
+      <source>Play/Pause</source>
+      <translation type="unfinished">Play/Pause</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation type="unfinished"></translation>
+      <source>Stop</source>
+      <translation type="unfinished">Stop</translation>
     </message>
     <message>
-        <source>Stop playing after current track</source>
-        <translation type="unfinished"></translation>
+      <source>Stop playing after current track</source>
+      <translation type="unfinished">Stop playing after current track</translation>
     </message>
     <message>
-        <source>Next track</source>
-        <translation type="unfinished"></translation>
+      <source>Next track</source>
+      <translation type="unfinished">Next track</translation>
     </message>
     <message>
-        <source>Previous track</source>
-        <translation type="unfinished">Pista anterior</translation>
+      <source>Previous track</source>
+      <translation type="unfinished">Previous track</translation>
     </message>
     <message>
-        <source>Restart or previous track</source>
-        <translation type="unfinished"></translation>
+      <source>Restart or previous track</source>
+      <translation type="unfinished">Restart or previous track</translation>
     </message>
     <message>
-        <source>Increase volume</source>
-        <translation type="unfinished"></translation>
+      <source>Increase volume</source>
+      <translation type="unfinished">Increase volume</translation>
     </message>
     <message>
-        <source>Decrease volume</source>
-        <translation type="unfinished"></translation>
+      <source>Decrease volume</source>
+      <translation type="unfinished">Decrease volume</translation>
     </message>
     <message>
-        <source>Mute</source>
-        <translation type="unfinished">Silenciar</translation>
+      <source>Mute</source>
+      <translation type="unfinished">Mute</translation>
     </message>
     <message>
-        <source>Seek forward</source>
-        <translation type="unfinished"></translation>
+      <source>Seek forward</source>
+      <translation type="unfinished">Seek forward</translation>
     </message>
     <message>
-        <source>Seek backward</source>
-        <translation type="unfinished"></translation>
+      <source>Seek backward</source>
+      <translation type="unfinished">Seek backward</translation>
     </message>
     <message>
-        <source>Show/Hide</source>
-        <translation type="unfinished"></translation>
+      <source>Show/Hide</source>
+      <translation type="unfinished">Show/Hide</translation>
     </message>
     <message>
-        <source>Show OSD</source>
-        <translation type="unfinished"></translation>
+      <source>Show OSD</source>
+      <translation type="unfinished">Show OSD</translation>
     </message>
     <message>
-        <source>Toggle Pretty OSD</source>
-        <translation type="unfinished"></translation>
+      <source>Toggle Pretty OSD</source>
+      <translation type="unfinished">Toggle Pretty OSD</translation>
     </message>
     <message>
-        <source>Change shuffle mode</source>
-        <translation type="unfinished"></translation>
+      <source>Change shuffle mode</source>
+      <translation type="unfinished">Change shuffle mode</translation>
     </message>
     <message>
-        <source>Change repeat mode</source>
-        <translation type="unfinished"></translation>
+      <source>Change repeat mode</source>
+      <translation type="unfinished">Change repeat mode</translation>
     </message>
     <message>
-        <source>Enable/disable scrobbling</source>
-        <translation type="unfinished"></translation>
+      <source>Enable/disable scrobbling</source>
+      <translation type="unfinished">Enable/disable scrobbling</translation>
     </message>
     <message>
-        <source>Love</source>
-        <translation type="unfinished">Me gusta</translation>
+      <source>Love</source>
+      <translation type="unfinished">Love</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TagFetcher</name>
     <message>
-        <source>Identifying song</source>
-        <translation type="unfinished"></translation>
+      <source>Identifying song</source>
+      <translation type="unfinished">Identifying song</translation>
     </message>
     <message>
-        <source>Fingerprinting song</source>
-        <translation type="unfinished"></translation>
+      <source>Fingerprinting song</source>
+      <translation type="unfinished">Fingerprinting song</translation>
     </message>
     <message>
-        <source>Downloading metadata</source>
-        <translation type="unfinished"></translation>
+      <source>Downloading metadata</source>
+      <translation type="unfinished">Downloading metadata</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MoodbarProxyStyle</name>
     <message>
-        <source>Show moodbar</source>
-        <translation type="unfinished">Mostrar barra de ánimo</translation>
+      <source>Show moodbar</source>
+      <translation type="unfinished">Show moodbar</translation>
     </message>
     <message>
-        <source>Moodbar style</source>
-        <translation type="unfinished">Estilo de la barra de ánimo</translation>
+      <source>Moodbar style</source>
+      <translation type="unfinished">Moodbar style</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceManager</name>
     <message>
-        <source>Connect device</source>
-        <translation type="unfinished">Conectar dispositivo</translation>
+      <source>Connect device</source>
+      <translation type="unfinished">Connect device</translation>
     </message>
     <message>
-        <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
-        <translation type="unfinished">Esta es la primera vez que conecta este dispositivo. Strawberry analizará el dispositivo ahora para encontrar archivos de música; esto podría tardar un poco.</translation>
+      <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
+      <translation type="unfinished">This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</translation>
     </message>
     <message>
-        <source>This device will not work properly</source>
-        <translation type="unfinished">Este dispositivo no funcionará correctamente</translation>
+      <source>This device will not work properly</source>
+      <translation type="unfinished">This device will not work properly</translation>
     </message>
     <message>
-        <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
-        <translation type="unfinished">Este es un dispositivo MTP, pero se compiló Strawberry sin compatibilidad con libmtp.</translation>
+      <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
+      <translation type="unfinished">This is an MTP device, but you compiled Strawberry without libmtp support.</translation>
     </message>
     <message>
-        <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
-        <translation type="unfinished">Si continúa, este dispositivo funcionará con lentitud y las pistas que se copien en él podrían no funcionar.</translation>
+      <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
+      <translation type="unfinished">If you continue, this device will work slowly and songs copied to it may not work.</translation>
     </message>
     <message>
-        <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
-        <translation type="unfinished">Esto es un iPod, pero se compiló Strawberry sin compatibilidad con libgpod.</translation>
+      <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
+      <translation type="unfinished">This is an iPod, but you compiled Strawberry without libgpod support.</translation>
     </message>
     <message>
-        <source>This type of device is not supported: %1</source>
-        <translation type="unfinished">No se admite este tipo de dispositivo: %1</translation>
+      <source>This type of device is not supported: %1</source>
+      <translation type="unfinished">This type of device is not supported: %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceItemDelegate</name>
     <message>
-        <source>Updating %1%...</source>
-        <translation type="unfinished">Actualizando… (%1%)</translation>
+      <source>Updating %1%...</source>
+      <translation type="unfinished">Updating %1%...</translation>
     </message>
     <message>
-        <source>Not connected</source>
-        <translation type="unfinished">No conectado</translation>
+      <source>Not connected</source>
+      <translation type="unfinished">Not connected</translation>
     </message>
     <message>
-        <source>Not mounted - double click to mount</source>
-        <translation type="unfinished">Sin montar. Pulse dos veces para montar</translation>
+      <source>Not mounted - double click to mount</source>
+      <translation type="unfinished">Not mounted - double click to mount</translation>
     </message>
     <message>
-        <source>Double click to open</source>
-        <translation type="unfinished">Doble clic para abrir</translation>
+      <source>Double click to open</source>
+      <translation type="unfinished">Double click to open</translation>
     </message>
     <message>
-        <source>%1 song%2</source>
-        <translation type="unfinished">%1 canción%2</translation>
+      <source>%1 song%2</source>
+      <translation type="unfinished">%1 song%2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceView</name>
     <message>
-        <source>Safely remove device</source>
-        <translation type="unfinished">Quitar dispositivo con seguridad</translation>
+      <source>Safely remove device</source>
+      <translation type="unfinished">Safely remove device</translation>
     </message>
     <message>
-        <source>Forget device</source>
-        <translation type="unfinished">Olvidar dispositivo</translation>
+      <source>Forget device</source>
+      <translation type="unfinished">Forget device</translation>
     </message>
     <message>
-        <source>Device properties...</source>
-        <translation type="unfinished">Propiedades del dispositivo…</translation>
+      <source>Device properties...</source>
+      <translation type="unfinished">Device properties...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Añadir a la lista de reproducción actual</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Reemplazar lista de reproducción actual</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Abrir en una lista nueva</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Copiar en la colección…</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Delete from device...</source>
-        <translation type="unfinished">Eliminar del dispositivo…</translation>
+      <source>Delete from device...</source>
+      <translation type="unfinished">Delete from device...</translation>
     </message>
     <message>
-        <source>Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</source>
-        <translation type="unfinished">Olvidar un dispositivo lo eliminará de la lista y Strawberry tendrá que volver a examinar todas las pistas la próxima vez que lo conecte.</translation>
+      <source>Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</source>
+      <translation type="unfinished">Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</translation>
     </message>
     <message>
-        <source>Delete files</source>
-        <translation type="unfinished">Eliminar archivos</translation>
+      <source>Delete files</source>
+      <translation type="unfinished">Delete files</translation>
     </message>
     <message>
-        <source>These files will be deleted from the device, are you sure you want to continue?</source>
-        <translation type="unfinished">Se eliminarán estos archivos del dispositivo. ¿Confirma que quiere continuar?</translation>
+      <source>These files will be deleted from the device, are you sure you want to continue?</source>
+      <translation type="unfinished">These files will be deleted from the device, are you sure you want to continue?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GioLister</name>
     <message>
-        <source>Mount point</source>
-        <translation type="unfinished">Punto de montaje</translation>
+      <source>Mount point</source>
+      <translation type="unfinished">Mount point</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Dispositivo</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>URI</source>
-        <translation type="unfinished"></translation>
+      <source>URI</source>
+      <translation type="unfinished">URI</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Udisks2Lister</name>
     <message>
-        <source>D-Bus path</source>
-        <translation type="unfinished">Ruta de D-Bus</translation>
+      <source>D-Bus path</source>
+      <translation type="unfinished">D-Bus path</translation>
     </message>
     <message>
-        <source>Serial number</source>
-        <translation type="unfinished">Número de serie</translation>
+      <source>Serial number</source>
+      <translation type="unfinished">Serial number</translation>
     </message>
     <message>
-        <source>Mount points</source>
-        <translation type="unfinished">Puntos de montaje</translation>
+      <source>Mount points</source>
+      <translation type="unfinished">Mount points</translation>
     </message>
     <message>
-        <source>Partition label</source>
-        <translation type="unfinished">Etiqueta de partición</translation>
+      <source>Partition label</source>
+      <translation type="unfinished">Partition label</translation>
     </message>
     <message>
-        <source>UUID</source>
-        <translation type="unfinished"></translation>
+      <source>UUID</source>
+      <translation type="unfinished">UUID</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MtpConnection</name>
     <message>
-        <source>Invalid MTP device: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Invalid MTP device: %1</source>
+      <translation type="unfinished">Invalid MTP device: %1</translation>
     </message>
     <message>
-        <source>Could not open MTP device.</source>
-        <translation type="unfinished"></translation>
+      <source>Could not open MTP device.</source>
+      <translation type="unfinished">Could not open MTP device.</translation>
     </message>
     <message>
-        <source>MTP error: %1</source>
-        <translation type="unfinished"></translation>
+      <source>MTP error: %1</source>
+      <translation type="unfinished">MTP error: %1</translation>
     </message>
     <message>
-        <source>MTP device not found.</source>
-        <translation type="unfinished"></translation>
+      <source>MTP device not found.</source>
+      <translation type="unfinished">MTP device not found.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MtpLoader</name>
     <message>
-        <source>Loading MTP device</source>
-        <translation type="unfinished">Cargando el dispositivo MTP</translation>
+      <source>Loading MTP device</source>
+      <translation type="unfinished">Loading MTP device</translation>
     </message>
     <message>
-        <source>Error connecting MTP device %1</source>
-        <translation type="unfinished">Error al conectar al dispositivo MTP %1</translation>
+      <source>Error connecting MTP device %1</source>
+      <translation type="unfinished">Error connecting MTP device %1</translation>
     </message>
     <message>
-        <source>Error connecting MTP device %1: %2</source>
-        <translation type="unfinished"></translation>
+      <source>Error connecting MTP device %1: %2</source>
+      <translation type="unfinished">Error connecting MTP device %1: %2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CddaSongLoader</name>
     <message>
-        <source>Error while setting CDDA device to ready state.</source>
-        <translation type="unfinished">Error al reactivar el dispositivo CDDA.</translation>
+      <source>Error while setting CDDA device to ready state.</source>
+      <translation type="unfinished">Error while setting CDDA device to ready state.</translation>
     </message>
     <message>
-        <source>Error while setting CDDA device to pause state.</source>
-        <translation type="unfinished">Error al poner en pausa el dispositivo CDDA.</translation>
+      <source>Error while setting CDDA device to pause state.</source>
+      <translation type="unfinished">Error while setting CDDA device to pause state.</translation>
     </message>
     <message>
-        <source>Error while querying CDDA tracks.</source>
-        <translation type="unfinished">Error de acceso a las pistas CDDA.</translation>
+      <source>Error while querying CDDA tracks.</source>
+      <translation type="unfinished">Error while querying CDDA tracks.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GPodDevice</name>
     <message>
-        <source>Could not copy %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+      <source>Could not copy %1 to %2: %3</source>
+      <translation type="unfinished">Could not copy %1 to %2: %3</translation>
     </message>
     <message>
-        <source>Writing database failed: %1</source>
-        <translation type="unfinished"></translation>
+      <source>Writing database failed: %1</source>
+      <translation type="unfinished">Writing database failed: %1</translation>
     </message>
     <message>
-        <source>Writing database failed.</source>
-        <translation type="unfinished"></translation>
+      <source>Writing database failed.</source>
+      <translation type="unfinished">Writing database failed.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GPodLoader</name>
     <message>
-        <source>Loading iPod database</source>
-        <translation type="unfinished">Cargando la base de datos del iPod</translation>
+      <source>Loading iPod database</source>
+      <translation type="unfinished">Loading iPod database</translation>
     </message>
     <message>
-        <source>An error occurred loading the iTunes database</source>
-        <translation type="unfinished">Se produjo un error al cargar la base de datos de iTunes</translation>
+      <source>An error occurred loading the iTunes database</source>
+      <translation type="unfinished">An error occurred loading the iTunes database</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicService</name>
     <message>
-        <source>Server URL is invalid.</source>
-        <translation type="unfinished">La dirección URL del servidor es inválida.</translation>
+      <source>Server URL is invalid.</source>
+      <translation type="unfinished">Server URL is invalid.</translation>
     </message>
     <message>
-        <source>Missing username or password.</source>
-        <translation type="unfinished">Falta el usuario o la contraseña.</translation>
+      <source>Missing username or password.</source>
+      <translation type="unfinished">Missing username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicUrlHandler</name>
     <message>
-        <source>Subsonic server URL is invalid.</source>
-        <translation type="unfinished">La dirección URL del servidor de Subsonic es errónea</translation>
+      <source>Subsonic server URL is invalid.</source>
+      <translation type="unfinished">Subsonic server URL is invalid.</translation>
     </message>
     <message>
-        <source>Missing Subsonic username or password.</source>
-        <translation type="unfinished">Falta el usuario o la contraseña de Qobuz.</translation>
+      <source>Missing Subsonic username or password.</source>
+      <translation type="unfinished">Missing Subsonic username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicRequest</name>
     <message>
-        <source>Retrieving albums...</source>
-        <translation type="unfinished">Buscando álbumes...</translation>
+      <source>Retrieving albums...</source>
+      <translation type="unfinished">Retrieving albums...</translation>
     </message>
     <message>
-        <source>Retrieving songs for %1 album...</source>
-        <translation type="unfinished">Buscando pistas de %1 álbum...</translation>
+      <source>Retrieving songs for %1 album...</source>
+      <translation type="unfinished">Retrieving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Retrieving songs for %1 albums...</source>
-        <translation type="unfinished">Buscando pistas de %1 álbumes...</translation>
+      <source>Retrieving songs for %1 albums...</source>
+      <translation type="unfinished">Retrieving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Retrieving album cover for %1 album...</source>
-        <translation type="unfinished">Buscando cubierta del álbum %1...</translation>
+      <source>Retrieving album cover for %1 album...</source>
+      <translation type="unfinished">Retrieving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Retrieving album covers for %1 albums...</source>
-        <translation type="unfinished">Buscando cubiertas de %1 álbumes.</translation>
+      <source>Retrieving album covers for %1 albums...</source>
+      <translation type="unfinished">Retrieving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Error desconocido</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalService</name>
     <message>
-        <source>Reply from Tidal is missing query items.</source>
-        <translation type="unfinished">Faltan elementos en la respuesta de Tidal.</translation>
+      <source>Reply from Tidal is missing query items.</source>
+      <translation type="unfinished">Reply from Tidal is missing query items.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token.</source>
-        <translation type="unfinished">Falta la ficha de API de Tidal.</translation>
+      <source>Missing Tidal API token.</source>
+      <translation type="unfinished">Missing Tidal API token.</translation>
     </message>
     <message>
-        <source>Missing Tidal username.</source>
-        <translation type="unfinished">Falta el usuario de Tidal.</translation>
+      <source>Missing Tidal username.</source>
+      <translation type="unfinished">Missing Tidal username.</translation>
     </message>
     <message>
-        <source>Missing Tidal password.</source>
-        <translation type="unfinished">Falta la contraseña de Tidal.</translation>
+      <source>Missing Tidal password.</source>
+      <translation type="unfinished">Missing Tidal password.</translation>
     </message>
     <message>
-        <source>Not authenticated with Tidal and reached maximum number of login attempts.</source>
-        <translation type="unfinished">Se ha alcanzado el número máximo de intentos sin lograr acceder a Tidal.</translation>
+      <source>Not authenticated with Tidal and reached maximum number of login attempts.</source>
+      <translation type="unfinished">Not authenticated with Tidal and reached maximum number of login attempts.</translation>
     </message>
     <message>
-        <source>Not authenticated with Tidal.</source>
-        <translation type="unfinished">No se ha accedido a Tidal.</translation>
+      <source>Not authenticated with Tidal.</source>
+      <translation type="unfinished">Not authenticated with Tidal.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token, username or password.</source>
-        <translation type="unfinished">Falta la ficha de la API de Tidal, el usuario o la contraseña.</translation>
+      <source>Missing Tidal API token, username or password.</source>
+      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalRequest</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autenticando…</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Buscando...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Sin coincidencias.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalStreamURLRequest</name>
     <message>
-        <source>Not authenticated with Tidal.</source>
-        <translation type="unfinished">No se ha accedido a Tidal.</translation>
+      <source>Not authenticated with Tidal.</source>
+      <translation type="unfinished">Not authenticated with Tidal.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token, username or password.</source>
-        <translation type="unfinished">Falta la ficha de la API de Tidal, el usuario o la contraseña.</translation>
+      <source>Missing Tidal API token, username or password.</source>
+      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
     </message>
     <message>
-        <source>Cancelled.</source>
-        <translation type="unfinished">Cancelado.</translation>
+      <source>Cancelled.</source>
+      <translation type="unfinished">Cancelled.</translation>
     </message>
     <message>
-        <source>Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
-        <translation type="unfinished"></translation>
+      <source>Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
+      <translation type="unfinished">Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</translation>
     </message>
     <message>
-        <source>Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
-        <translation type="unfinished"></translation>
+      <source>Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
+      <translation type="unfinished">Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifyService</name>
     <message>
-        <source>Spotify Authentication</source>
-        <translation type="unfinished">Autenticación en Spotify</translation>
+      <source>Spotify Authentication</source>
+      <translation type="unfinished">Spotify Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Abra este URL en el navegador</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code or state!</source>
-        <translation type="unfinished">¡Falta código de token o estado!</translation>
+      <source>Redirect missing token code or state!</source>
+      <translation type="unfinished">Redirect missing token code or state!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Se recibió una respuesta no válida del navegador.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Not authenticated with Spotify.</source>
-        <translation type="unfinished"></translation>
+      <source>Not authenticated with Spotify.</source>
+      <translation type="unfinished">Not authenticated with Spotify.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifyRequest</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autenticando…</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Buscando...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Sin coincidencias.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
     <message>
-        <source>Data missing error</source>
-        <translation type="unfinished"></translation>
+      <source>Data missing error</source>
+      <translation type="unfinished">Data missing error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzService</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autenticando…</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Maximum number of login attempts reached.</source>
-        <translation type="unfinished">Se ha alcanzado el número máximo de intentos de acceso.</translation>
+      <source>Maximum number of login attempts reached.</source>
+      <translation type="unfinished">Maximum number of login attempts reached.</translation>
     </message>
     <message>
-        <source>Missing Qobuz app ID.</source>
-        <translation type="unfinished">Falta el identificador de aplicación de Qobuz.</translation>
+      <source>Missing Qobuz app ID.</source>
+      <translation type="unfinished">Missing Qobuz app ID.</translation>
     </message>
     <message>
-        <source>Missing Qobuz username.</source>
-        <translation type="unfinished">Falta el usuario de Qobuz.</translation>
+      <source>Missing Qobuz username.</source>
+      <translation type="unfinished">Missing Qobuz username.</translation>
     </message>
     <message>
-        <source>Missing Qobuz password.</source>
-        <translation type="unfinished">Falta la contraseña de Qobuz.</translation>
+      <source>Missing Qobuz password.</source>
+      <translation type="unfinished">Missing Qobuz password.</translation>
     </message>
     <message>
-        <source>Not authenticated with Qobuz.</source>
-        <translation type="unfinished">No se ha accedido a Qobuz.</translation>
+      <source>Not authenticated with Qobuz.</source>
+      <translation type="unfinished">Not authenticated with Qobuz.</translation>
     </message>
     <message>
-        <source>Missing Qobuz app ID or secret.</source>
-        <translation type="unfinished">Falta el identificador de aplicación o el secreto de Qobuz.</translation>
+      <source>Missing Qobuz app ID or secret.</source>
+      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzRequest</name>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Buscando...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished"></translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Sin coincidencias.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Error desconocido</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzStreamURLRequest</name>
     <message>
-        <source>Missing Qobuz app ID or secret.</source>
-        <translation type="unfinished">Falta el identificador de aplicación o el secreto de Qobuz.</translation>
+      <source>Missing Qobuz app ID or secret.</source>
+      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
     </message>
     <message>
-        <source>Cancelled.</source>
-        <translation type="unfinished">Cancelado.</translation>
+      <source>Cancelled.</source>
+      <translation type="unfinished">Cancelled.</translation>
     </message>
-</context>
+  </context>
 </TS>
