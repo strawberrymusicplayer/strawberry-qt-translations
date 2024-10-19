@@ -1,7569 +1,7569 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="et_EE">
-<context>
+<TS version="2.1" language="et_EE" sourcelanguage="en">
+  <context>
     <name>MainWindow</name>
     <message>
-        <source>Strawberry Music Player</source>
-        <translation type="unfinished">Strawberry muusikamängija</translation>
+      <source>Strawberry Music Player</source>
+      <translation type="unfinished">Strawberry Music Player</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>&amp;Music</source>
-        <translation type="unfinished">Muusika</translation>
+      <source>&amp;Music</source>
+      <translation type="unfinished">&amp;Music</translation>
     </message>
     <message>
-        <source>P&amp;laylist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>P&amp;laylist</source>
+      <translation type="unfinished">P&amp;laylist</translation>
     </message>
     <message>
-        <source>Help</source>
-        <translation type="unfinished">Abi</translation>
+      <source>Help</source>
+      <translation type="unfinished">Help</translation>
     </message>
     <message>
-        <source>&amp;Tools</source>
-        <translation type="unfinished">Töövahendid</translation>
+      <source>&amp;Tools</source>
+      <translation type="unfinished">&amp;Tools</translation>
     </message>
     <message>
-        <source>Previous track</source>
-        <translation type="unfinished">Eelmine lugu</translation>
+      <source>Previous track</source>
+      <translation type="unfinished">Previous track</translation>
     </message>
     <message>
-        <source>F5</source>
-        <translation type="unfinished">F5</translation>
+      <source>F5</source>
+      <translation type="unfinished">F5</translation>
     </message>
     <message>
-        <source>&amp;Play</source>
-        <translation type="unfinished">&amp;Esita</translation>
+      <source>&amp;Play</source>
+      <translation type="unfinished">&amp;Play</translation>
     </message>
     <message>
-        <source>F6</source>
-        <translation type="unfinished">F6</translation>
+      <source>F6</source>
+      <translation type="unfinished">F6</translation>
     </message>
     <message>
-        <source>&amp;Stop</source>
-        <translation type="unfinished">&amp;Peata</translation>
+      <source>&amp;Stop</source>
+      <translation type="unfinished">&amp;Stop</translation>
     </message>
     <message>
-        <source>F7</source>
-        <translation type="unfinished">F7</translation>
+      <source>F7</source>
+      <translation type="unfinished">F7</translation>
     </message>
     <message>
-        <source>&amp;Next track</source>
-        <translation type="unfinished">&amp;Järgmine lugu</translation>
+      <source>&amp;Next track</source>
+      <translation type="unfinished">&amp;Next track</translation>
     </message>
     <message>
-        <source>F8</source>
-        <translation type="unfinished">F8</translation>
+      <source>F8</source>
+      <translation type="unfinished">F8</translation>
     </message>
     <message>
-        <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Välju</translation>
+      <source>&amp;Quit</source>
+      <translation type="unfinished">&amp;Quit</translation>
     </message>
     <message>
-        <source>Ctrl+Q</source>
-        <translation type="unfinished">Ctrl+Q</translation>
+      <source>Ctrl+Q</source>
+      <translation type="unfinished">Ctrl+Q</translation>
     </message>
     <message>
-        <source>Stop after this track</source>
-        <translation type="unfinished">Peata pärast seda lugu</translation>
+      <source>Stop after this track</source>
+      <translation type="unfinished">Stop after this track</translation>
     </message>
     <message>
-        <source>Ctrl+Alt+V</source>
-        <translation type="unfinished">Ctrl+Alt+V</translation>
+      <source>Ctrl+Alt+V</source>
+      <translation type="unfinished">Ctrl+Alt+V</translation>
     </message>
     <message>
-        <source>Love</source>
-        <translation type="unfinished">Meeldib</translation>
+      <source>Love</source>
+      <translation type="unfinished">Love</translation>
     </message>
     <message>
-        <source>&amp;Clear playlist</source>
-        <translation type="unfinished">&amp;Tühjenda esitusloend</translation>
+      <source>&amp;Clear playlist</source>
+      <translation type="unfinished">&amp;Clear playlist</translation>
     </message>
     <message>
-        <source>Clear playlist</source>
-        <translation type="unfinished">Tühjenda esitusloend</translation>
+      <source>Clear playlist</source>
+      <translation type="unfinished">Clear playlist</translation>
     </message>
     <message>
-        <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+      <source>Ctrl+K</source>
+      <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Muuda loo infot...</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Ctrl+E</source>
-        <translation type="unfinished">Ctrl+E</translation>
+      <source>Ctrl+E</source>
+      <translation type="unfinished">Ctrl+E</translation>
     </message>
     <message>
-        <source>Renumber tracks in this order...</source>
-        <translation type="unfinished">Nummerda lood ümber selles järjekorras...</translation>
+      <source>Renumber tracks in this order...</source>
+      <translation type="unfinished">Renumber tracks in this order...</translation>
     </message>
     <message>
-        <source>Set value for all selected tracks...</source>
-        <translation type="unfinished">Määra väärtus kõikidel valitud lugudel...</translation>
+      <source>Set value for all selected tracks...</source>
+      <translation type="unfinished">Set value for all selected tracks...</translation>
     </message>
     <message>
-        <source>Edit tag...</source>
-        <translation type="unfinished">Muuda silti...</translation>
+      <source>Edit tag...</source>
+      <translation type="unfinished">Edit tag...</translation>
     </message>
     <message>
-        <source>&amp;Settings...</source>
-        <translation type="unfinished">&amp;Seaded...</translation>
+      <source>&amp;Settings...</source>
+      <translation type="unfinished">&amp;Settings...</translation>
     </message>
     <message>
-        <source>Ctrl+P</source>
-        <translation type="unfinished">Ctrl+P</translation>
+      <source>Ctrl+P</source>
+      <translation type="unfinished">Ctrl+P</translation>
     </message>
     <message>
-        <source>&amp;About Strawberry</source>
-        <translation type="unfinished">Strawberry teave</translation>
+      <source>&amp;About Strawberry</source>
+      <translation type="unfinished">&amp;About Strawberry</translation>
     </message>
     <message>
-        <source>F1</source>
-        <translation type="unfinished">F1</translation>
+      <source>F1</source>
+      <translation type="unfinished">F1</translation>
     </message>
     <message>
-        <source>S&amp;huffle playlist</source>
-        <translation type="unfinished">Sega esitusloend</translation>
+      <source>S&amp;huffle playlist</source>
+      <translation type="unfinished">S&amp;huffle playlist</translation>
     </message>
     <message>
-        <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+      <source>Ctrl+H</source>
+      <translation type="unfinished">Ctrl+H</translation>
     </message>
     <message>
-        <source>&amp;Add file...</source>
-        <translation type="unfinished">Lisa fail...</translation>
+      <source>&amp;Add file...</source>
+      <translation type="unfinished">&amp;Add file...</translation>
     </message>
     <message>
-        <source>Ctrl+Shift+A</source>
-        <translation type="unfinished">Ctrl+Shift+A</translation>
+      <source>Ctrl+Shift+A</source>
+      <translation type="unfinished">Ctrl+Shift+A</translation>
     </message>
     <message>
-        <source>&amp;Open file...</source>
-        <translation type="unfinished">&amp;Ava fail...</translation>
+      <source>&amp;Open file...</source>
+      <translation type="unfinished">&amp;Open file...</translation>
     </message>
     <message>
-        <source>Open audio &amp;CD...</source>
-        <translation type="unfinished">Ava CD plaat...</translation>
+      <source>Open audio &amp;CD...</source>
+      <translation type="unfinished">Open audio &amp;CD...</translation>
     </message>
     <message>
-        <source>&amp;Cover Manager</source>
-        <translation type="unfinished">&amp;Kaanepildi haldur</translation>
+      <source>&amp;Cover Manager</source>
+      <translation type="unfinished">&amp;Cover Manager</translation>
     </message>
     <message>
-        <source>C&amp;onsole</source>
-        <translation type="unfinished">Konsool</translation>
+      <source>C&amp;onsole</source>
+      <translation type="unfinished">C&amp;onsole</translation>
     </message>
     <message>
-        <source>&amp;Shuffle mode</source>
-        <translation type="unfinished">Juhuesituse režiim</translation>
+      <source>&amp;Shuffle mode</source>
+      <translation type="unfinished">&amp;Shuffle mode</translation>
     </message>
     <message>
-        <source>&amp;Repeat mode</source>
-        <translation type="unfinished">&amp;Kordusrežiim</translation>
+      <source>&amp;Repeat mode</source>
+      <translation type="unfinished">&amp;Repeat mode</translation>
     </message>
     <message>
-        <source>Remove from playlist</source>
-        <translation type="unfinished">Eemalda esitusloendist</translation>
+      <source>Remove from playlist</source>
+      <translation type="unfinished">Remove from playlist</translation>
     </message>
     <message>
-        <source>&amp;Equalizer</source>
-        <translation type="unfinished">&amp;Ekvalaiser</translation>
+      <source>&amp;Equalizer</source>
+      <translation type="unfinished">&amp;Equalizer</translation>
     </message>
     <message>
-        <source>&amp;Transcode Music</source>
-        <translation type="unfinished">&amp;Teisenda muusikat</translation>
+      <source>&amp;Transcode Music</source>
+      <translation type="unfinished">&amp;Transcode Music</translation>
     </message>
     <message>
-        <source>Add &amp;folder...</source>
-        <translation type="unfinished">Lisa &amp;kaust...</translation>
+      <source>Add &amp;folder...</source>
+      <translation type="unfinished">Add &amp;folder...</translation>
     </message>
     <message>
-        <source>&amp;Jump to the currently playing track</source>
-        <translation type="unfinished">&amp;Hüppa esitatavale loole</translation>
+      <source>&amp;Jump to the currently playing track</source>
+      <translation type="unfinished">&amp;Jump to the currently playing track</translation>
     </message>
     <message>
-        <source>Ctrl+J</source>
-        <translation type="unfinished">Ctrl+J</translation>
+      <source>Ctrl+J</source>
+      <translation type="unfinished">Ctrl+J</translation>
     </message>
     <message>
-        <source>&amp;New playlist</source>
-        <translation type="unfinished">&amp;Uus esitusloend</translation>
+      <source>&amp;New playlist</source>
+      <translation type="unfinished">&amp;New playlist</translation>
     </message>
     <message>
-        <source>Ctrl+N</source>
-        <translation type="unfinished">Ctrl+N</translation>
+      <source>Ctrl+N</source>
+      <translation type="unfinished">Ctrl+N</translation>
     </message>
     <message>
-        <source>Save &amp;playlist...</source>
-        <translation type="unfinished">Salvesta esitusloend...</translation>
+      <source>Save &amp;playlist...</source>
+      <translation type="unfinished">Save &amp;playlist...</translation>
     </message>
     <message>
-        <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+      <source>Ctrl+S</source>
+      <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
-        <source>&amp;Load playlist...</source>
-        <translation type="unfinished">&amp;Laadi esitusloend...</translation>
+      <source>&amp;Load playlist...</source>
+      <translation type="unfinished">&amp;Load playlist...</translation>
     </message>
     <message>
-        <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+      <source>Ctrl+Shift+O</source>
+      <translation type="unfinished">Ctrl+Shift+O</translation>
     </message>
     <message>
-        <source>&amp;Save all playlists...</source>
-        <translation type="unfinished">&amp;Salvesta kõik esitusloendid...</translation>
+      <source>&amp;Save all playlists...</source>
+      <translation type="unfinished">&amp;Save all playlists...</translation>
     </message>
     <message>
-        <source>Go to next playlist tab</source>
-        <translation type="unfinished">Liigu järgmisele esitusloendi vahekaardile</translation>
+      <source>Go to next playlist tab</source>
+      <translation type="unfinished">Go to next playlist tab</translation>
     </message>
     <message>
-        <source>Go to previous playlist tab</source>
-        <translation type="unfinished">Liigu eelmisele esitusloendi vahekaardile</translation>
+      <source>Go to previous playlist tab</source>
+      <translation type="unfinished">Go to previous playlist tab</translation>
     </message>
     <message>
-        <source>&amp;Update changed collection folders</source>
-        <translation type="unfinished">&amp;Värskenda muudetud kaustu helikogus</translation>
+      <source>&amp;Update changed collection folders</source>
+      <translation type="unfinished">&amp;Update changed collection folders</translation>
     </message>
     <message>
-        <source>About &amp;Qt</source>
-        <translation type="unfinished">&amp;Qt teave</translation>
+      <source>About &amp;Qt</source>
+      <translation type="unfinished">About &amp;Qt</translation>
     </message>
     <message>
-        <source>&amp;Mute</source>
-        <translation type="unfinished">&amp;Vaigista</translation>
+      <source>&amp;Mute</source>
+      <translation type="unfinished">&amp;Mute</translation>
     </message>
     <message>
-        <source>Ctrl+M</source>
-        <translation type="unfinished">Ctrl+M</translation>
+      <source>Ctrl+M</source>
+      <translation type="unfinished">Ctrl+M</translation>
     </message>
     <message>
-        <source>&amp;Do a full collection rescan</source>
-        <translation type="unfinished">&amp;Skaneeri kogu helikogu</translation>
+      <source>&amp;Do a full collection rescan</source>
+      <translation type="unfinished">&amp;Do a full collection rescan</translation>
     </message>
     <message>
-        <source>Stop collection scan</source>
-        <translation type="unfinished">Peata helikogu skaneerimine</translation>
+      <source>Stop collection scan</source>
+      <translation type="unfinished">Stop collection scan</translation>
     </message>
     <message>
-        <source>Complete tags automatically...</source>
-        <translation type="unfinished">Täida sildid automaatselt...</translation>
+      <source>Complete tags automatically...</source>
+      <translation type="unfinished">Complete tags automatically...</translation>
     </message>
     <message>
-        <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+T</translation>
+      <source>Ctrl+T</source>
+      <translation type="unfinished">Ctrl+T</translation>
     </message>
     <message>
-        <source>Toggle scrobbling</source>
-        <translation type="unfinished">Kraasimise lüliti</translation>
+      <source>Toggle scrobbling</source>
+      <translation type="unfinished">Toggle scrobbling</translation>
     </message>
     <message>
-        <source>Remove &amp;duplicates from playlist</source>
-        <translation type="unfinished">Eemalda esitusloendist duplikaadid</translation>
+      <source>Remove &amp;duplicates from playlist</source>
+      <translation type="unfinished">Remove &amp;duplicates from playlist</translation>
     </message>
     <message>
-        <source>Remove &amp;unavailable tracks from playlist</source>
-        <translation type="unfinished">Eemalda esitusloendist kättesaamatud lood</translation>
+      <source>Remove &amp;unavailable tracks from playlist</source>
+      <translation type="unfinished">Remove &amp;unavailable tracks from playlist</translation>
     </message>
     <message>
-        <source>Add file(s) to transcoder</source>
-        <translation type="unfinished">Lisa failid teisendamiseks</translation>
+      <source>Add file(s) to transcoder</source>
+      <translation type="unfinished">Add file(s) to transcoder</translation>
     </message>
     <message>
-        <source>Add file to transcoder</source>
-        <translation type="unfinished">Lisa fail teisendamiseks</translation>
+      <source>Add file to transcoder</source>
+      <translation type="unfinished">Add file to transcoder</translation>
     </message>
     <message>
-        <source>Add stream...</source>
-        <translation type="unfinished">Lisa voog...</translation>
+      <source>Add stream...</source>
+      <translation type="unfinished">Add stream...</translation>
     </message>
     <message>
-        <source>Show sidebar</source>
-        <translation type="unfinished">Kuva külgriba</translation>
+      <source>Show sidebar</source>
+      <translation type="unfinished">Show sidebar</translation>
     </message>
     <message>
-        <source>Import data from last.fm...</source>
-        <translation type="unfinished">Impordi last.fm andmed...</translation>
+      <source>Import data from last.fm...</source>
+      <translation type="unfinished">Import data from last.fm...</translation>
     </message>
     <message>
-        <source>All Files (*)</source>
-        <translation type="unfinished">Kõik failid (*)</translation>
+      <source>All Files (*)</source>
+      <translation type="unfinished">All Files (*)</translation>
     </message>
     <message>
-        <source>Context</source>
-        <translation type="unfinished">Kontekst</translation>
+      <source>Context</source>
+      <translation type="unfinished">Context</translation>
     </message>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Helikogu</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>Queue</source>
-        <translation type="unfinished">Järjekord</translation>
+      <source>Queue</source>
+      <translation type="unfinished">Queue</translation>
     </message>
     <message>
-        <source>Playlists</source>
-        <translation type="unfinished">Esitusloendid</translation>
+      <source>Playlists</source>
+      <translation type="unfinished">Playlists</translation>
     </message>
     <message>
-        <source>Smart playlists</source>
-        <translation type="unfinished">Nutikad esitusloendid</translation>
+      <source>Smart playlists</source>
+      <translation type="unfinished">Smart playlists</translation>
     </message>
     <message>
-        <source>Files</source>
-        <translation type="unfinished">Failid</translation>
+      <source>Files</source>
+      <translation type="unfinished">Files</translation>
     </message>
     <message>
-        <source>Radios</source>
-        <translation type="unfinished">Raadiod</translation>
+      <source>Radios</source>
+      <translation type="unfinished">Radios</translation>
     </message>
     <message>
-        <source>Devices</source>
-        <translation type="unfinished">Seadmed</translation>
+      <source>Devices</source>
+      <translation type="unfinished">Devices</translation>
     </message>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished">Subsonic</translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished">Tidal</translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Spotify</source>
-        <translation type="unfinished">Spotify</translation>
+      <source>Spotify</source>
+      <translation type="unfinished">Spotify</translation>
     </message>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished">Qobuz</translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>Show all songs</source>
-        <translation type="unfinished">Kuva kõik lood</translation>
+      <source>Show all songs</source>
+      <translation type="unfinished">Show all songs</translation>
     </message>
     <message>
-        <source>Show only duplicates</source>
-        <translation type="unfinished">Kuva ainult duplikaadid</translation>
+      <source>Show only duplicates</source>
+      <translation type="unfinished">Show only duplicates</translation>
     </message>
     <message>
-        <source>Show only untagged</source>
-        <translation type="unfinished">Kuva ainult sildistamata lood</translation>
+      <source>Show only untagged</source>
+      <translation type="unfinished">Show only untagged</translation>
     </message>
     <message>
-        <source>Configure collection...</source>
-        <translation type="unfinished">Helikogu seadistamine...</translation>
+      <source>Configure collection...</source>
+      <translation type="unfinished">Configure collection...</translation>
     </message>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Mängi</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
     <message>
-        <source>Toggle queue status</source>
-        <translation type="unfinished">Muuda järjekorra olekut</translation>
+      <source>Toggle queue status</source>
+      <translation type="unfinished">Toggle queue status</translation>
     </message>
     <message>
-        <source>Queue selected tracks to play next</source>
-        <translation type="unfinished">Lisa valitud lood järgmiseks esitamiseks järjekorda</translation>
+      <source>Queue selected tracks to play next</source>
+      <translation type="unfinished">Queue selected tracks to play next</translation>
     </message>
     <message>
-        <source>Toggle skip status</source>
-        <translation type="unfinished">Muuda vahelejätmise olekut</translation>
+      <source>Toggle skip status</source>
+      <translation type="unfinished">Toggle skip status</translation>
     </message>
     <message>
-        <source>Rescan song(s)...</source>
-        <translation type="unfinished">Skaneeri lugu uuesti...</translation>
+      <source>Rescan song(s)...</source>
+      <translation type="unfinished">Rescan song(s)...</translation>
     </message>
     <message>
-        <source>Copy URL(s)...</source>
-        <translation type="unfinished">Kopeeri URL(id)...</translation>
+      <source>Copy URL(s)...</source>
+      <translation type="unfinished">Copy URL(s)...</translation>
     </message>
     <message>
-        <source>Show in collection...</source>
-        <translation type="unfinished">Kuva helikogus...</translation>
+      <source>Show in collection...</source>
+      <translation type="unfinished">Show in collection...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Kuva failihalduris...</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
     <message>
-        <source>Organize files...</source>
-        <translation type="unfinished">Korrasta faile...</translation>
+      <source>Organize files...</source>
+      <translation type="unfinished">Organize files...</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Kopeeri helikogusse...</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Move to collection...</source>
-        <translation type="unfinished">Teisalda helikogusse...</translation>
+      <source>Move to collection...</source>
+      <translation type="unfinished">Move to collection...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Kopeeri seadmesse...</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Kustuta kettalt...</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Check for updates...</source>
-        <translation type="unfinished">Kontrolli uuendusi...</translation>
+      <source>Check for updates...</source>
+      <translation type="unfinished">Check for updates...</translation>
     </message>
     <message>
-        <source>Strawberry running under Rosetta</source>
-        <translation type="unfinished">Strawberry töötab Rosetta all</translation>
+      <source>Strawberry running under Rosetta</source>
+      <translation type="unfinished">Strawberry running under Rosetta</translation>
     </message>
     <message>
-        <source>You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</source>
-        <translation type="unfinished">Kasutad Strawberryt Rosetta all.  Strawberry käitamist Rosetta all ei toetata ja sellel on teadaolevalt probleeme.  Õige CPU arhitektuuri jaoks tuleks Strawberry alla laadida saidilt %1</translation>
+      <source>You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</source>
+      <translation type="unfinished">You are running Strawberry under Rosetta. Running Strawberry under Rosetta is unsupported and known to have issues. You should download Strawberry for the correct CPU architecture from %1</translation>
     </message>
     <message>
-        <source>Sponsoring Strawberry</source>
-        <translation type="unfinished">Strawberry toetamine</translation>
+      <source>Sponsoring Strawberry</source>
+      <translation type="unfinished">Sponsoring Strawberry</translation>
     </message>
     <message>
-        <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
-        <translation type="unfinished">Strawberry on tasuta ja avatud lähtekoodiga tarkvara.  Kui sulle meeldib Strawberry, kaalu projekti toetamist.  Lisateavet sponsorluse kohta leiab meie veebisaidilt %1</translation>
+      <source>Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</source>
+      <translation type="unfinished">Strawberry is free and open source software. If you like Strawberry, please consider sponsoring the project. For more information about sponsorship see our website %1</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Paus</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Dequeue track</source>
-        <translation type="unfinished">Eemalda lugu järjekorrast</translation>
+      <source>Dequeue track</source>
+      <translation type="unfinished">Dequeue track</translation>
     </message>
     <message>
-        <source>Dequeue selected tracks</source>
-        <translation type="unfinished">Eemalda valitud lood järjekorrast</translation>
+      <source>Dequeue selected tracks</source>
+      <translation type="unfinished">Dequeue selected tracks</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Lisa järjekorda</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue selected tracks</source>
-        <translation type="unfinished">Lisa valitud lood järjekorda</translation>
+      <source>Queue selected tracks</source>
+      <translation type="unfinished">Queue selected tracks</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Lisa järgmiseks esitamiseks järjekorda</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Unskip track</source>
-        <translation type="unfinished">Tühista loo vahelejätmine</translation>
+      <source>Unskip track</source>
+      <translation type="unfinished">Unskip track</translation>
     </message>
     <message>
-        <source>Unskip selected tracks</source>
-        <translation type="unfinished">Tühista valitud lugude vahelejätmine</translation>
+      <source>Unskip selected tracks</source>
+      <translation type="unfinished">Unskip selected tracks</translation>
     </message>
     <message>
-        <source>Skip track</source>
-        <translation type="unfinished">Jäta vahele</translation>
+      <source>Skip track</source>
+      <translation type="unfinished">Skip track</translation>
     </message>
     <message>
-        <source>Skip selected tracks</source>
-        <translation type="unfinished">Jäta valitud lood vahele</translation>
+      <source>Skip selected tracks</source>
+      <translation type="unfinished">Skip selected tracks</translation>
     </message>
     <message>
-        <source>Set %1 to &quot;%2&quot;...</source>
-        <translation type="unfinished">Määra %1 väärtuseks „%2“...</translation>
+      <source>Set %1 to &quot;%2&quot;...</source>
+      <translation type="unfinished">Set %1 to &quot;%2&quot;...</translation>
     </message>
     <message>
-        <source>Edit tag &quot;%1&quot;...</source>
-        <translation type="unfinished">Muuda silti &quot;%1&quot;...</translation>
+      <source>Edit tag &quot;%1&quot;...</source>
+      <translation type="unfinished">Edit tag &quot;%1&quot;...</translation>
     </message>
     <message>
-        <source>Add to another playlist</source>
-        <translation type="unfinished">Lisa teise esitusloendisse</translation>
+      <source>Add to another playlist</source>
+      <translation type="unfinished">Add to another playlist</translation>
     </message>
     <message>
-        <source>New playlist</source>
-        <translation type="unfinished">Uus esitusloend</translation>
+      <source>New playlist</source>
+      <translation type="unfinished">New playlist</translation>
     </message>
     <message>
-        <source>Add file</source>
-        <translation type="unfinished">Lisa fail</translation>
+      <source>Add file</source>
+      <translation type="unfinished">Add file</translation>
     </message>
     <message>
-        <source>Music</source>
-        <translation type="unfinished">Muusika</translation>
+      <source>Music</source>
+      <translation type="unfinished">Music</translation>
     </message>
     <message>
-        <source>Add folder</source>
-        <translation type="unfinished">Lisa kaust</translation>
+      <source>Add folder</source>
+      <translation type="unfinished">Add folder</translation>
     </message>
     <message>
-        <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
-        <translation type="unfinished">Esitusloendis on %1 lugu, liiga suur, et seda tagasi võtta. Kas oled kindel, et soovid esitusloendi tühjendada?</translation>
+      <source>Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</source>
+      <translation type="unfinished">Playlist has %1 songs, too large to undo, are you sure you want to clear the playlist?</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>None of the selected songs were suitable for copying to a device</source>
-        <translation type="unfinished">Valitud lood ei olnud sobilikud seadmesse kopeerimiseks</translation>
+      <source>None of the selected songs were suitable for copying to a device</source>
+      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
     </message>
     <message>
-        <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
-        <translation type="unfinished">Strawberry versioon, millele äsja uuendasid, nõuab muusikakogu täielikku uuesti skaneerimist allpool loetletud uute funktsioonide tõttu:</translation>
+      <source>The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</source>
+      <translation type="unfinished">The version of Strawberry you&apos;ve just updated to requires a full collection rescan because of the new features listed below:</translation>
     </message>
     <message>
-        <source>Would you like to run a full rescan right now?</source>
-        <translation type="unfinished">Kas teha uus täielik skaneering kohe?</translation>
+      <source>Would you like to run a full rescan right now?</source>
+      <translation type="unfinished">Would you like to run a full rescan right now?</translation>
     </message>
     <message>
-        <source>Collection rescan notice</source>
-        <translation type="unfinished">Helikogu uuesti skaneerimise teatis</translation>
+      <source>Collection rescan notice</source>
+      <translation type="unfinished">Collection rescan notice</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GroupByDialog</name>
     <message>
-        <source>Collection advanced grouping</source>
-        <translation type="unfinished">Helikogu täpsem rühmitamine</translation>
+      <source>Collection advanced grouping</source>
+      <translation type="unfinished">Collection advanced grouping</translation>
     </message>
     <message>
-        <source>You can change the way the songs in the collection are organized.</source>
-        <translation type="unfinished">Saad muuta viisi, kuidas helikogus olevad lood on korraldatud.</translation>
+      <source>You can change the way the songs in the collection are organized.</source>
+      <translation type="unfinished">You can change the way the songs in the collection are organized.</translation>
     </message>
     <message>
-        <source>Group Collection by...</source>
-        <translation type="unfinished">Järjesta helikogu...</translation>
+      <source>Group Collection by...</source>
+      <translation type="unfinished">Group Collection by...</translation>
     </message>
     <message>
-        <source>First level</source>
-        <translation type="unfinished">Esimene tase</translation>
+      <source>First level</source>
+      <translation type="unfinished">First level</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Puudub</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Albumi esitaja</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Album - Disc</source>
-        <translation type="unfinished">Album – plaat</translation>
+      <source>Album - Disc</source>
+      <translation type="unfinished">Album - Disc</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Ketas</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation type="unfinished">Vorming</translation>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Žanr</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Year - Album</source>
-        <translation type="unfinished">Aasta - Album</translation>
+      <source>Year - Album</source>
+      <translation type="unfinished">Year - Album</translation>
     </message>
     <message>
-        <source>Year - Album - Disc</source>
-        <translation type="unfinished">Aasta - Album - Plaat</translation>
+      <source>Year - Album - Disc</source>
+      <translation type="unfinished">Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Algne aasta</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Original year - Album</source>
-        <translation type="unfinished">Algne aasta – album</translation>
+      <source>Original year - Album</source>
+      <translation type="unfinished">Original year - Album</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Helilooja</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Esineja</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Rühmitamine</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Faili tüüp</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Second level</source>
-        <translation type="unfinished">Teine tase</translation>
+      <source>Second level</source>
+      <translation type="unfinished">Second level</translation>
     </message>
     <message>
-        <source>Third level</source>
-        <translation type="unfinished">Kolmas tase</translation>
+      <source>Third level</source>
+      <translation type="unfinished">Third level</translation>
     </message>
     <message>
-        <source>Separate albums by grouping tag</source>
-        <translation type="unfinished">Eralda albumid rühmitamise sildi järgi</translation>
+      <source>Separate albums by grouping tag</source>
+      <translation type="unfinished">Separate albums by grouping tag</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionFilterWidget</name>
     <message>
-        <source>Collection Filter</source>
-        <translation type="unfinished">Helikogu filter</translation>
+      <source>Collection Filter</source>
+      <translation type="unfinished">Collection Filter</translation>
     </message>
     <message>
-        <source>Enter search terms here</source>
-        <translation type="unfinished">Sisesta siia otsingusõnad</translation>
+      <source>Enter search terms here</source>
+      <translation type="unfinished">Enter search terms here</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Entire collection</source>
-        <translation type="unfinished">Terve helikogu</translation>
+      <source>Entire collection</source>
+      <translation type="unfinished">Entire collection</translation>
     </message>
     <message>
-        <source>Added today</source>
-        <translation type="unfinished">Lisatud täna</translation>
+      <source>Added today</source>
+      <translation type="unfinished">Added today</translation>
     </message>
     <message>
-        <source>Added this week</source>
-        <translation type="unfinished">Lisatud sel nädalal</translation>
+      <source>Added this week</source>
+      <translation type="unfinished">Added this week</translation>
     </message>
     <message>
-        <source>Added within three months</source>
-        <translation type="unfinished">Lisatud kolme kuu jooksul</translation>
+      <source>Added within three months</source>
+      <translation type="unfinished">Added within three months</translation>
     </message>
     <message>
-        <source>Added this year</source>
-        <translation type="unfinished">Lisatud sel aastal</translation>
+      <source>Added this year</source>
+      <translation type="unfinished">Added this year</translation>
     </message>
     <message>
-        <source>Added this month</source>
-        <translation type="unfinished">Lisatud sel kuul</translation>
+      <source>Added this month</source>
+      <translation type="unfinished">Added this month</translation>
     </message>
     <message>
-        <source>Save current grouping</source>
-        <translation type="unfinished">Salvesta praegune rühmitus</translation>
+      <source>Save current grouping</source>
+      <translation type="unfinished">Save current grouping</translation>
     </message>
     <message>
-        <source>Manage saved groupings</source>
-        <translation type="unfinished">Halda salvestatud rühmitusi</translation>
+      <source>Manage saved groupings</source>
+      <translation type="unfinished">Manage saved groupings</translation>
     </message>
     <message>
-        <source>Show</source>
-        <translation type="unfinished">Näita</translation>
+      <source>Show</source>
+      <translation type="unfinished">Show</translation>
     </message>
     <message>
-        <source>Group by</source>
-        <translation type="unfinished">Rühmitamise alus</translation>
+      <source>Group by</source>
+      <translation type="unfinished">Group by</translation>
     </message>
     <message>
-        <source>Display options</source>
-        <translation type="unfinished">Kuvamise valikud</translation>
+      <source>Display options</source>
+      <translation type="unfinished">Display options</translation>
     </message>
     <message>
-        <source>Group by Album artist/Album</source>
-        <translation type="unfinished">Rühmita: album esitaja/album</translation>
+      <source>Group by Album artist/Album</source>
+      <translation type="unfinished">Group by Album artist/Album</translation>
     </message>
     <message>
-        <source>Group by Album artist/Album - Disc</source>
-        <translation type="unfinished">Rühmita: album esitaja/album - plaat</translation>
+      <source>Group by Album artist/Album - Disc</source>
+      <translation type="unfinished">Group by Album artist/Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Album artist/Year - Album</source>
-        <translation type="unfinished">Rühmita: album esitaja/aasta - album</translation>
+      <source>Group by Album artist/Year - Album</source>
+      <translation type="unfinished">Group by Album artist/Year - Album</translation>
     </message>
     <message>
-        <source>Group by Album artist/Year - Album - Disc</source>
-        <translation type="unfinished">Rühmita: album esitaja/aasta - album - plaat</translation>
+      <source>Group by Album artist/Year - Album - Disc</source>
+      <translation type="unfinished">Group by Album artist/Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Artist/Album</source>
-        <translation type="unfinished">Rühmita: esitaja/album</translation>
+      <source>Group by Artist/Album</source>
+      <translation type="unfinished">Group by Artist/Album</translation>
     </message>
     <message>
-        <source>Group by Artist/Album - Disc</source>
-        <translation type="unfinished">Rühmita: esitaja/album - plaat</translation>
+      <source>Group by Artist/Album - Disc</source>
+      <translation type="unfinished">Group by Artist/Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Artist/Year - Album</source>
-        <translation type="unfinished">Rühmita: esitaja/aasta - album</translation>
+      <source>Group by Artist/Year - Album</source>
+      <translation type="unfinished">Group by Artist/Year - Album</translation>
     </message>
     <message>
-        <source>Group by Artist/Year - Album - Disc</source>
-        <translation type="unfinished">Rühmita: esitaja/aasta - album - plaat</translation>
+      <source>Group by Artist/Year - Album - Disc</source>
+      <translation type="unfinished">Group by Artist/Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Group by Genre/Album artist/Album</source>
-        <translation type="unfinished">Rühmita: žanr/album esitaja/album</translation>
+      <source>Group by Genre/Album artist/Album</source>
+      <translation type="unfinished">Group by Genre/Album artist/Album</translation>
     </message>
     <message>
-        <source>Group by Genre/Artist/Album</source>
-        <translation type="unfinished">Rühmita: žanr/esitaja/album</translation>
+      <source>Group by Genre/Artist/Album</source>
+      <translation type="unfinished">Group by Genre/Artist/Album</translation>
     </message>
     <message>
-        <source>Group by Album Artist</source>
-        <translation type="unfinished">Rühmita: album esitaja</translation>
+      <source>Group by Album Artist</source>
+      <translation type="unfinished">Group by Album Artist</translation>
     </message>
     <message>
-        <source>Group by Artist</source>
-        <translation type="unfinished">Rühmita: esitaja</translation>
+      <source>Group by Artist</source>
+      <translation type="unfinished">Group by Artist</translation>
     </message>
     <message>
-        <source>Group by Album</source>
-        <translation type="unfinished">Rühmita: album</translation>
+      <source>Group by Album</source>
+      <translation type="unfinished">Group by Album</translation>
     </message>
     <message>
-        <source>Group by Genre/Album</source>
-        <translation type="unfinished">Rühmita: žanr/album</translation>
+      <source>Group by Genre/Album</source>
+      <translation type="unfinished">Group by Genre/Album</translation>
     </message>
     <message>
-        <source>Advanced grouping...</source>
-        <translation type="unfinished">Täpsem rühmitamine...</translation>
+      <source>Advanced grouping...</source>
+      <translation type="unfinished">Advanced grouping...</translation>
     </message>
     <message>
-        <source>Grouping Name</source>
-        <translation type="unfinished">Rühmituse nimi</translation>
+      <source>Grouping Name</source>
+      <translation type="unfinished">Grouping Name</translation>
     </message>
     <message>
-        <source>Grouping name:</source>
-        <translation type="unfinished">Rühmituse nimi:</translation>
+      <source>Grouping name:</source>
+      <translation type="unfinished">Grouping name:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SavedGroupingManager</name>
     <message>
-        <source>Saved Grouping Manager</source>
-        <translation type="unfinished">Salvestatud rühmituste haldur</translation>
+      <source>Saved Grouping Manager</source>
+      <translation type="unfinished">Saved Grouping Manager</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eemalda</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Ctrl+Up</source>
-        <translation type="unfinished">Ctrl+Up</translation>
+      <source>Ctrl+Up</source>
+      <translation type="unfinished">Ctrl+Up</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>First level</source>
-        <translation type="unfinished">Esimene tase</translation>
+      <source>First level</source>
+      <translation type="unfinished">First level</translation>
     </message>
     <message>
-        <source>Second Level</source>
-        <translation type="unfinished">Teine tase</translation>
+      <source>Second Level</source>
+      <translation type="unfinished">Second Level</translation>
     </message>
     <message>
-        <source>Third Level</source>
-        <translation type="unfinished">Kolmas tase</translation>
+      <source>Third Level</source>
+      <translation type="unfinished">Third Level</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Puudub</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Albumi esitaja</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Album - Disc</source>
-        <translation type="unfinished">Album – plaat</translation>
+      <source>Album - Disc</source>
+      <translation type="unfinished">Album - Disc</translation>
     </message>
     <message>
-        <source>Year - Album</source>
-        <translation type="unfinished">Aasta - Album</translation>
+      <source>Year - Album</source>
+      <translation type="unfinished">Year - Album</translation>
     </message>
     <message>
-        <source>Year - Album - Disc</source>
-        <translation type="unfinished">Aasta - Album - Plaat</translation>
+      <source>Year - Album - Disc</source>
+      <translation type="unfinished">Year - Album - Disc</translation>
     </message>
     <message>
-        <source>Original year - Album</source>
-        <translation type="unfinished">Algne aasta – album</translation>
+      <source>Original year - Album</source>
+      <translation type="unfinished">Original year - Album</translation>
     </message>
     <message>
-        <source>Original year - Album - Disc</source>
-        <translation type="unfinished">Algne aasta – album - plaat</translation>
+      <source>Original year - Album - Disc</source>
+      <translation type="unfinished">Original year - Album - Disc</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Ketas</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Algne aasta</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Žanr</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Helilooja</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Esineja</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Rühmitamine</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Faili tüüp</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Format</source>
-        <translation type="unfinished">Vorming</translation>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Undo</source>
-        <translation type="unfinished">Võta tagasi</translation>
+      <source>Undo</source>
+      <translation type="unfinished">Undo</translation>
     </message>
     <message>
-        <source>Redo</source>
-        <translation type="unfinished">Tee uuesti</translation>
+      <source>Redo</source>
+      <translation type="unfinished">Redo</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Load playlist</source>
-        <translation type="unfinished">Laadi esitusloend</translation>
+      <source>Load playlist</source>
+      <translation type="unfinished">Load playlist</translation>
     </message>
     <message>
-        <source>No matches found.  Clear the search box to show the whole playlist again.</source>
-        <translation type="unfinished">Vasteid ei leitud. Puhasta otsingukast, et näha kogu esitusloendit.</translation>
+      <source>No matches found.  Clear the search box to show the whole playlist again.</source>
+      <translation type="unfinished">No matches found.  Clear the search box to show the whole playlist again.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistListContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>New folder</source>
-        <translation type="unfinished">Uus kaust</translation>
+      <source>New folder</source>
+      <translation type="unfinished">New folder</translation>
     </message>
     <message>
-        <source>Delete</source>
-        <translation type="unfinished">Kustuta</translation>
+      <source>Delete</source>
+      <translation type="unfinished">Delete</translation>
     </message>
     <message>
-        <source>Save playlist</source>
-        <comment>Save playlist menu action.</comment>
-        <translation type="unfinished">Salvesta esitusloend</translation>
+      <source>Save playlist</source>
+      <comment>Save playlist menu action.</comment>
+      <translation type="unfinished">Save playlist</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Kopeeri seadmesse...</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Enter the name of the folder</source>
-        <translation type="unfinished">Sisesta kausta nimi</translation>
+      <source>Enter the name of the folder</source>
+      <translation type="unfinished">Enter the name of the folder</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Copy to device</source>
-        <translation type="unfinished">Kopeeri seadmesse</translation>
+      <source>Copy to device</source>
+      <translation type="unfinished">Copy to device</translation>
     </message>
     <message>
-        <source>Playlist must be open first.</source>
-        <translation type="unfinished">Esitusloend peab esmalt olema avatud.</translation>
+      <source>Playlist must be open first.</source>
+      <translation type="unfinished">Playlist must be open first.</translation>
     </message>
     <message>
-        <source>Remove playlists</source>
-        <translation type="unfinished">Eemalda esitusloendid</translation>
+      <source>Remove playlists</source>
+      <translation type="unfinished">Remove playlists</translation>
     </message>
     <message>
-        <source>You are about to remove %1 playlists from your favorites, are you sure?</source>
-        <translation type="unfinished">Oled eemaldamas oma lemmikutest %1 esitusloendit. Kas oled kindel?</translation>
+      <source>You are about to remove %1 playlists from your favorites, are you sure?</source>
+      <translation type="unfinished">You are about to remove %1 playlists from your favorites, are you sure?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSaveOptionsDialog</name>
     <message>
-        <source>Playlist options</source>
-        <translation type="unfinished">Esitusloendi valikud</translation>
+      <source>Playlist options</source>
+      <translation type="unfinished">Playlist options</translation>
     </message>
     <message>
-        <source>File paths</source>
-        <translation type="unfinished">Failide asukohad</translation>
+      <source>File paths</source>
+      <translation type="unfinished">File paths</translation>
     </message>
     <message>
-        <source>This can be changed later through the preferences</source>
-        <translation type="unfinished">Seda saab hiljem eelistuste kaudu muuta</translation>
+      <source>This can be changed later through the preferences</source>
+      <translation type="unfinished">This can be changed later through the preferences</translation>
     </message>
     <message>
-        <source>Remember my choice</source>
-        <translation type="unfinished">Jäta minu valik meelde</translation>
+      <source>Remember my choice</source>
+      <translation type="unfinished">Remember my choice</translation>
     </message>
     <message>
-        <source>Automatic</source>
-        <translation type="unfinished">Automaatne</translation>
+      <source>Automatic</source>
+      <translation type="unfinished">Automatic</translation>
     </message>
     <message>
-        <source>Relative</source>
-        <translation type="unfinished">Suhteline</translation>
+      <source>Relative</source>
+      <translation type="unfinished">Relative</translation>
     </message>
     <message>
-        <source>Absolute</source>
-        <translation type="unfinished">Absoluutne</translation>
+      <source>Absolute</source>
+      <translation type="unfinished">Absolute</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSequence</name>
     <message>
-        <source>Repeat</source>
-        <translation type="unfinished">Korda</translation>
+      <source>Repeat</source>
+      <translation type="unfinished">Repeat</translation>
     </message>
     <message>
-        <source>Shuffle</source>
-        <translation type="unfinished">Juhuesitus</translation>
+      <source>Shuffle</source>
+      <translation type="unfinished">Shuffle</translation>
     </message>
     <message>
-        <source>Don&apos;t repeat</source>
-        <translation type="unfinished">Ära korda</translation>
+      <source>Don&apos;t repeat</source>
+      <translation type="unfinished">Don&apos;t repeat</translation>
     </message>
     <message>
-        <source>Repeat track</source>
-        <translation type="unfinished">Korda lugu</translation>
+      <source>Repeat track</source>
+      <translation type="unfinished">Repeat track</translation>
     </message>
     <message>
-        <source>Repeat album</source>
-        <translation type="unfinished">Korda album</translation>
+      <source>Repeat album</source>
+      <translation type="unfinished">Repeat album</translation>
     </message>
     <message>
-        <source>Repeat playlist</source>
-        <translation type="unfinished">Korda esitusloend</translation>
+      <source>Repeat playlist</source>
+      <translation type="unfinished">Repeat playlist</translation>
     </message>
     <message>
-        <source>Stop after each track</source>
-        <translation type="unfinished">Peata pärast iga lugu</translation>
+      <source>Stop after each track</source>
+      <translation type="unfinished">Stop after each track</translation>
     </message>
     <message>
-        <source>Intro tracks</source>
-        <translation type="unfinished">Introd</translation>
+      <source>Intro tracks</source>
+      <translation type="unfinished">Intro tracks</translation>
     </message>
     <message>
-        <source>Don&apos;t shuffle</source>
-        <translation type="unfinished">Juhuesitus väljas</translation>
+      <source>Don&apos;t shuffle</source>
+      <translation type="unfinished">Don&apos;t shuffle</translation>
     </message>
     <message>
-        <source>Shuffle tracks in this album</source>
-        <translation type="unfinished">Selle albumi lugude juhuesitus</translation>
+      <source>Shuffle tracks in this album</source>
+      <translation type="unfinished">Shuffle tracks in this album</translation>
     </message>
     <message>
-        <source>Shuffle all</source>
-        <translation type="unfinished">Kõige juhuesitus</translation>
+      <source>Shuffle all</source>
+      <translation type="unfinished">Shuffle all</translation>
     </message>
     <message>
-        <source>Shuffle albums</source>
-        <translation type="unfinished">Albumite juhuesitus</translation>
+      <source>Shuffle albums</source>
+      <translation type="unfinished">Shuffle albums</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DynamicPlaylistControls</name>
     <message>
-        <source>Dynamic mode is on</source>
-        <translation type="unfinished">Kasutusel on dünaamiline režiim</translation>
+      <source>Dynamic mode is on</source>
+      <translation type="unfinished">Dynamic mode is on</translation>
     </message>
     <message>
-        <source>New tracks will be added automatically.</source>
-        <translation type="unfinished">Uued lood lisatakse automaatselt.</translation>
+      <source>New tracks will be added automatically.</source>
+      <translation type="unfinished">New tracks will be added automatically.</translation>
     </message>
     <message>
-        <source>Expand</source>
-        <translation type="unfinished">Laienda</translation>
+      <source>Expand</source>
+      <translation type="unfinished">Expand</translation>
     </message>
     <message>
-        <source>Repopulate</source>
-        <translation type="unfinished">Täida uuesti andmetega</translation>
+      <source>Repopulate</source>
+      <translation type="unfinished">Repopulate</translation>
     </message>
     <message>
-        <source>Turn off</source>
-        <translation type="unfinished">Lülita välja</translation>
+      <source>Turn off</source>
+      <translation type="unfinished">Turn off</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QueueView</name>
     <message>
-        <source>QueueView</source>
-        <translation type="unfinished">Järjekorravaade</translation>
+      <source>QueueView</source>
+      <translation type="unfinished">QueueView</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Liiguta alla</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Ctrl+Up</source>
-        <translation type="unfinished">Ctrl+Up</translation>
+      <source>Ctrl+Up</source>
+      <translation type="unfinished">Ctrl+Up</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Liiguta üles</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Ctrl+Down</source>
-        <translation type="unfinished">Ctrl+Down</translation>
+      <source>Ctrl+Down</source>
+      <translation type="unfinished">Ctrl+Down</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eemalda</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Puhasta</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+      <source>Ctrl+K</source>
+      <translation type="unfinished">Ctrl+K</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQuerySearchPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Search mode</source>
-        <translation type="unfinished">Otsingurežiim</translation>
+      <source>Search mode</source>
+      <translation type="unfinished">Search mode</translation>
     </message>
     <message>
-        <source>Match every search term (AND)</source>
-        <translation type="unfinished">Klapita iga otsingusõnaga (JA)</translation>
+      <source>Match every search term (AND)</source>
+      <translation type="unfinished">Match every search term (AND)</translation>
     </message>
     <message>
-        <source>Match one or more search terms (OR)</source>
-        <translation type="unfinished">Klapita ühe või enama otsingusõnaga (VÕI)</translation>
+      <source>Match one or more search terms (OR)</source>
+      <translation type="unfinished">Match one or more search terms (OR)</translation>
     </message>
     <message>
-        <source>Include all songs</source>
-        <translation type="unfinished">Kaasa kõik lood</translation>
+      <source>Include all songs</source>
+      <translation type="unfinished">Include all songs</translation>
     </message>
     <message>
-        <source>Search terms</source>
-        <translation type="unfinished">Otsisõnad</translation>
+      <source>Search terms</source>
+      <translation type="unfinished">Search terms</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQuerySortPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Sorting</source>
-        <translation type="unfinished">Sortimine</translation>
+      <source>Sorting</source>
+      <translation type="unfinished">Sorting</translation>
     </message>
     <message>
-        <source>Put songs in a random order</source>
-        <translation type="unfinished">Pane lood juhuslikku järjekorda</translation>
+      <source>Put songs in a random order</source>
+      <translation type="unfinished">Put songs in a random order</translation>
     </message>
     <message>
-        <source>Sort songs by</source>
-        <translation type="unfinished">Lugude sortimise alus</translation>
+      <source>Sort songs by</source>
+      <translation type="unfinished">Sort songs by</translation>
     </message>
     <message>
-        <source>Limits</source>
-        <translation type="unfinished">Piirid</translation>
+      <source>Limits</source>
+      <translation type="unfinished">Limits</translation>
     </message>
     <message>
-        <source>Show all the songs</source>
-        <translation type="unfinished">Kuva kõik lood</translation>
+      <source>Show all the songs</source>
+      <translation type="unfinished">Show all the songs</translation>
     </message>
     <message>
-        <source>Only show the first</source>
-        <translation type="unfinished">Kuva ainult esimene</translation>
+      <source>Only show the first</source>
+      <translation type="unfinished">Only show the first</translation>
     </message>
     <message>
-        <source> songs</source>
-        <translation type="unfinished"> lugu</translation>
+      <source> songs</source>
+      <translation type="unfinished"> songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchPreview</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Eelvaade</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Laadimine...</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>%1 songs found (showing %2)</source>
-        <translation type="unfinished">%1 lugu leitud (näidatakse %2)</translation>
+      <source>%1 songs found (showing %2)</source>
+      <translation type="unfinished">%1 songs found (showing %2)</translation>
     </message>
     <message>
-        <source>%1 songs found</source>
-        <translation type="unfinished">%1 lugu leitud</translation>
+      <source>%1 songs found</source>
+      <translation type="unfinished">%1 songs found</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchTermWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>and</source>
-        <translation type="unfinished">ja</translation>
+      <source>and</source>
+      <translation type="unfinished">and</translation>
     </message>
     <message>
-        <source>ago</source>
-        <translation type="unfinished">tagasi</translation>
+      <source>ago</source>
+      <translation type="unfinished">ago</translation>
     </message>
     <message>
-        <source>The second value must be greater than the first one!</source>
-        <translation type="unfinished">Teine väärtus peab olema suurem kui esimene!</translation>
+      <source>The second value must be greater than the first one!</source>
+      <translation type="unfinished">The second value must be greater than the first one!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistsViewContainer</name>
     <message>
-        <source>New smart playlist</source>
-        <translation type="unfinished">Uus nutikas esitusloend</translation>
+      <source>New smart playlist</source>
+      <translation type="unfinished">New smart playlist</translation>
     </message>
     <message>
-        <source>Edit smart playlist</source>
-        <translation type="unfinished">Muuda nutikat esitusloendit</translation>
+      <source>Edit smart playlist</source>
+      <translation type="unfinished">Edit smart playlist</translation>
     </message>
     <message>
-        <source>Delete smart playlist</source>
-        <translation type="unfinished">Kustuta nutikas esitusloend</translation>
+      <source>Delete smart playlist</source>
+      <translation type="unfinished">Delete smart playlist</translation>
     </message>
     <message>
-        <source>New smart playlist...</source>
-        <translation type="unfinished">Uus nutikas esitusloend...</translation>
+      <source>New smart playlist...</source>
+      <translation type="unfinished">New smart playlist...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Lisa järjekorda</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Play next</source>
-        <translation type="unfinished">Esita järgmisena</translation>
+      <source>Play next</source>
+      <translation type="unfinished">Play next</translation>
     </message>
     <message>
-        <source>Edit smart playlist...</source>
-        <translation type="unfinished">Muuda nutikat esitusloendit...</translation>
+      <source>Edit smart playlist...</source>
+      <translation type="unfinished">Edit smart playlist...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistWizardFinishPage</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Use dynamic mode</source>
-        <translation type="unfinished">Kasuta dünaamilist režiimi</translation>
+      <source>Use dynamic mode</source>
+      <translation type="unfinished">Use dynamic mode</translation>
     </message>
     <message>
-        <source>In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</source>
-        <translation type="unfinished">Dünaamilises režiimis valitakse uued lood ja lisatakse need esitusloendisse iga kord, kui lugu lõpeb.</translation>
+      <source>In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</source>
+      <translation type="unfinished">In dynamic mode new tracks will be chosen and added to the playlist every time a song finishes.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverExport</name>
     <message>
-        <source>Export covers</source>
-        <translation type="unfinished">Ekspordi kaanepildid</translation>
+      <source>Export covers</source>
+      <translation type="unfinished">Export covers</translation>
     </message>
     <message>
-        <source>Output</source>
-        <translation type="unfinished">Väljund</translation>
+      <source>Output</source>
+      <translation type="unfinished">Output</translation>
     </message>
     <message>
-        <source>Enter a filename for exported covers (no extension):</source>
-        <translation type="unfinished">Sisesta failinimi eksporditud kaanepiltidele (laiendita):</translation>
+      <source>Enter a filename for exported covers (no extension):</source>
+      <translation type="unfinished">Enter a filename for exported covers (no extension):</translation>
     </message>
     <message>
-        <source>Export downloaded covers</source>
-        <translation type="unfinished">Ekspordi allalaetud kaanepildid</translation>
+      <source>Export downloaded covers</source>
+      <translation type="unfinished">Export downloaded covers</translation>
     </message>
     <message>
-        <source>Export embedded covers</source>
-        <translation type="unfinished">Ekspordi põimitud kaanepildid</translation>
+      <source>Export embedded covers</source>
+      <translation type="unfinished">Export embedded covers</translation>
     </message>
     <message>
-        <source>Existing covers</source>
-        <translation type="unfinished">Olemasolevad kaanepildid</translation>
+      <source>Existing covers</source>
+      <translation type="unfinished">Existing covers</translation>
     </message>
     <message>
-        <source>Do not overwrite</source>
-        <translation type="unfinished">Ära kirjuta üle</translation>
+      <source>Do not overwrite</source>
+      <translation type="unfinished">Do not overwrite</translation>
     </message>
     <message>
-        <source>O&amp;verwrite all</source>
-        <translation type="unfinished">Kirjuta kõik üle</translation>
+      <source>O&amp;verwrite all</source>
+      <translation type="unfinished">O&amp;verwrite all</translation>
     </message>
     <message>
-        <source>Overwrite s&amp;maller ones only</source>
-        <translation type="unfinished">Kirjuta üle ainult väiksemad</translation>
+      <source>Overwrite s&amp;maller ones only</source>
+      <translation type="unfinished">Overwrite s&amp;maller ones only</translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation type="unfinished">Suurus</translation>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
     </message>
     <message>
-        <source>Scale size</source>
-        <translation type="unfinished">Skaala suurus</translation>
+      <source>Scale size</source>
+      <translation type="unfinished">Scale size</translation>
     </message>
     <message>
-        <source>Size:</source>
-        <translation type="unfinished">Suurus:</translation>
+      <source>Size:</source>
+      <translation type="unfinished">Size:</translation>
     </message>
     <message>
-        <source>Pixel</source>
-        <translation type="unfinished">Piksel</translation>
+      <source>Pixel</source>
+      <translation type="unfinished">Pixel</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverManager</name>
     <message>
-        <source>Cover Manager</source>
-        <translation type="unfinished">Kaanepildi haldur</translation>
+      <source>Cover Manager</source>
+      <translation type="unfinished">Cover Manager</translation>
     </message>
     <message>
-        <source>Enter search terms here</source>
-        <translation type="unfinished">Sisesta siia otsingusõnad</translation>
+      <source>Enter search terms here</source>
+      <translation type="unfinished">Enter search terms here</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation type="unfinished">Vaade</translation>
+      <source>View</source>
+      <translation type="unfinished">View</translation>
     </message>
     <message>
-        <source>Total albums:</source>
-        <translation type="unfinished">Albumeid kokku:</translation>
+      <source>Total albums:</source>
+      <translation type="unfinished">Total albums:</translation>
     </message>
     <message>
-        <source>Without cover:</source>
-        <translation type="unfinished">Kaanepildita:</translation>
+      <source>Without cover:</source>
+      <translation type="unfinished">Without cover:</translation>
     </message>
     <message>
-        <source>0</source>
-        <translation type="unfinished">0</translation>
+      <source>0</source>
+      <translation type="unfinished">0</translation>
     </message>
     <message>
-        <source>Fetch Missing Covers</source>
-        <translation type="unfinished">Hangi puuduvad kaanepildid</translation>
+      <source>Fetch Missing Covers</source>
+      <translation type="unfinished">Fetch Missing Covers</translation>
     </message>
     <message>
-        <source>Export Covers</source>
-        <translation type="unfinished">Ekspordi kaanepildid</translation>
+      <source>Export Covers</source>
+      <translation type="unfinished">Export Covers</translation>
     </message>
     <message>
-        <source>Fetch automatically</source>
-        <translation type="unfinished">Tõmba automaatselt</translation>
+      <source>Fetch automatically</source>
+      <translation type="unfinished">Fetch automatically</translation>
     </message>
     <message>
-        <source>Load</source>
-        <translation type="unfinished">Laadi</translation>
+      <source>Load</source>
+      <translation type="unfinished">Load</translation>
     </message>
     <message>
-        <source>Add to playlist</source>
-        <translation type="unfinished">Lisa esitusloendisse</translation>
+      <source>Add to playlist</source>
+      <translation type="unfinished">Add to playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverSearcher</name>
     <message>
-        <source>Cover Manager</source>
-        <translation type="unfinished">Kaanepildi haldur</translation>
+      <source>Cover Manager</source>
+      <translation type="unfinished">Cover Manager</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Otsing</translation>
+      <source>Search</source>
+      <translation type="unfinished">Search</translation>
     </message>
     <message>
-        <source>Covers from %1</source>
-        <translation type="unfinished">Kaanepildid teenuselt %1</translation>
+      <source>Covers from %1</source>
+      <translation type="unfinished">Covers from %1</translation>
     </message>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Katkesta</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverSearchStatisticsDialog</name>
     <message>
-        <source>Fetch completed</source>
-        <translation type="unfinished">Hankimine on tehtud</translation>
+      <source>Fetch completed</source>
+      <translation type="unfinished">Fetch completed</translation>
     </message>
     <message>
-        <source>Got %1 covers out of %2 (%3 failed)</source>
-        <translation type="unfinished">%2-st kaanepildist saadi %1 (%3 nurjus)</translation>
+      <source>Got %1 covers out of %2 (%3 failed)</source>
+      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
     </message>
     <message>
-        <source>Covers from %1</source>
-        <translation type="unfinished">Kaanepildid teenuselt %1</translation>
+      <source>Covers from %1</source>
+      <translation type="unfinished">Covers from %1</translation>
     </message>
     <message>
-        <source>Total network requests made</source>
-        <translation type="unfinished">Tehtud võrgupäringuid kokku</translation>
+      <source>Total network requests made</source>
+      <translation type="unfinished">Total network requests made</translation>
     </message>
     <message>
-        <source>Average image size</source>
-        <translation type="unfinished">Pildi keskmine suurus</translation>
+      <source>Average image size</source>
+      <translation type="unfinished">Average image size</translation>
     </message>
     <message>
-        <source>Total bytes transferred</source>
-        <translation type="unfinished">Edastatud baite kokku</translation>
+      <source>Total bytes transferred</source>
+      <translation type="unfinished">Total bytes transferred</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoverFromURLDialog</name>
     <message>
-        <source>Load cover from URL</source>
-        <translation type="unfinished">Laadi kaaanepilt aadressilt</translation>
+      <source>Load cover from URL</source>
+      <translation type="unfinished">Load cover from URL</translation>
     </message>
     <message>
-        <source>Enter a URL to download a cover from the Internet:</source>
-        <translation type="unfinished">Kaanepiltide laadimiseks internetist sisesta aadress:</translation>
+      <source>Enter a URL to download a cover from the Internet:</source>
+      <translation type="unfinished">Enter a URL to download a cover from the Internet:</translation>
     </message>
     <message>
-        <source>Fetching cover error</source>
-        <translation type="unfinished">Viga kaanepildi hankimisel</translation>
+      <source>Fetching cover error</source>
+      <translation type="unfinished">Fetching cover error</translation>
     </message>
     <message>
-        <source>The site you requested does not exist!</source>
-        <translation type="unfinished">Sinu soovitud veebisaiti pole olemas!</translation>
+      <source>The site you requested does not exist!</source>
+      <translation type="unfinished">The site you requested does not exist!</translation>
     </message>
     <message>
-        <source>The site you requested is not an image!</source>
-        <translation type="unfinished">Sinu soovitud veebisait pole pilt!</translation>
+      <source>The site you requested is not an image!</source>
+      <translation type="unfinished">The site you requested is not an image!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SettingsDialog</name>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Seaded</translation>
+      <source>Settings</source>
+      <translation type="unfinished">Settings</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="unfinished">Üldine</translation>
+      <source>General</source>
+      <translation type="unfinished">General</translation>
     </message>
     <message>
-        <source>User interface</source>
-        <translation type="unfinished">Kasutajaliides</translation>
+      <source>User interface</source>
+      <translation type="unfinished">User interface</translation>
     </message>
     <message>
-        <source>Streaming</source>
-        <translation type="unfinished">Voogesitus</translation>
+      <source>Streaming</source>
+      <translation type="unfinished">Streaming</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>BehaviourSettingsPage</name>
     <message>
-        <source>Behavior</source>
-        <translation type="unfinished">Käitumine</translation>
+      <source>Behavior</source>
+      <translation type="unfinished">Behavior</translation>
     </message>
     <message>
-        <source>Show system tray icon</source>
-        <translation type="unfinished">Kuva süsteemisalve ikoon</translation>
+      <source>Show system tray icon</source>
+      <translation type="unfinished">Show system tray icon</translation>
     </message>
     <message>
-        <source>Keep running in the background when the window is closed</source>
-        <translation type="unfinished">Jäta taustal tööle ka siis, kui programmiaken on suletud</translation>
+      <source>Keep running in the background when the window is closed</source>
+      <translation type="unfinished">Keep running in the background when the window is closed</translation>
     </message>
     <message>
-        <source>Show song progress on system tray icon</source>
-        <translation type="unfinished">Kuva süsteemisalve ikoonil edenemist</translation>
+      <source>Show song progress on system tray icon</source>
+      <translation type="unfinished">Show song progress on system tray icon</translation>
     </message>
     <message>
-        <source>Show song progress on taskbar</source>
-        <translation type="unfinished">Näita loo edenemist tegumiribal</translation>
+      <source>Show song progress on taskbar</source>
+      <translation type="unfinished">Show song progress on taskbar</translation>
     </message>
     <message>
-        <source>Resume playback on start</source>
-        <translation type="unfinished">Käivitamisel jätka taasesitust</translation>
+      <source>Resume playback on start</source>
+      <translation type="unfinished">Resume playback on start</translation>
     </message>
     <message>
-        <source>Show playing widget</source>
-        <translation type="unfinished">Kuva esitusvidin</translation>
+      <source>Show playing widget</source>
+      <translation type="unfinished">Show playing widget</translation>
     </message>
     <message>
-        <source>On startup</source>
-        <translation type="unfinished">Käivitamisel</translation>
+      <source>On startup</source>
+      <translation type="unfinished">On startup</translation>
     </message>
     <message>
-        <source>Remember from &amp;last time</source>
-        <translation type="unfinished">Jätka pooleli jäänud kohast</translation>
+      <source>Remember from &amp;last time</source>
+      <translation type="unfinished">Remember from &amp;last time</translation>
     </message>
     <message>
-        <source>Show the main window</source>
-        <translation type="unfinished">Kuva peaaken</translation>
+      <source>Show the main window</source>
+      <translation type="unfinished">Show the main window</translation>
     </message>
     <message>
-        <source>Hide the main window</source>
-        <translation type="unfinished">Peida peaaken</translation>
+      <source>Hide the main window</source>
+      <translation type="unfinished">Hide the main window</translation>
     </message>
     <message>
-        <source>Show the main window maximized</source>
-        <translation type="unfinished">Kuva peaaken maksimeerituna</translation>
+      <source>Show the main window maximized</source>
+      <translation type="unfinished">Show the main window maximized</translation>
     </message>
     <message>
-        <source>Show the main window minimized</source>
-        <translation type="unfinished">Kuva peaaken minimeerituna</translation>
+      <source>Show the main window minimized</source>
+      <translation type="unfinished">Show the main window minimized</translation>
     </message>
     <message>
-        <source>Language</source>
-        <translation type="unfinished">Keel</translation>
+      <source>Language</source>
+      <translation type="unfinished">Language</translation>
     </message>
     <message>
-        <source>Use the system default</source>
-        <translation type="unfinished">Kasuta süsteemi vaikeväärtust</translation>
+      <source>Use the system default</source>
+      <translation type="unfinished">Use the system default</translation>
     </message>
     <message>
-        <source>You will need to restart Strawberry if you change the language.</source>
-        <translation type="unfinished">Keele muutmisel tuleb Strawberry taaskäivitada.</translation>
+      <source>You will need to restart Strawberry if you change the language.</source>
+      <translation type="unfinished">You will need to restart Strawberry if you change the language.</translation>
     </message>
     <message>
-        <source>Using the menu to add a song will...</source>
-        <translation type="unfinished">Menüü kaudu loo lisamisel...</translation>
+      <source>Using the menu to add a song will...</source>
+      <translation type="unfinished">Using the menu to add a song will...</translation>
     </message>
     <message>
-        <source>Never start playing</source>
-        <translation type="unfinished">Ära kunagi alusta esitust</translation>
+      <source>Never start playing</source>
+      <translation type="unfinished">Never start playing</translation>
     </message>
     <message>
-        <source>Play if there is nothing already playing</source>
-        <translation type="unfinished">Esita, kui hetkel juba pole midagi esitamisel</translation>
+      <source>Play if there is nothing already playing</source>
+      <translation type="unfinished">Play if there is nothing already playing</translation>
     </message>
     <message>
-        <source>Always start playing</source>
-        <translation type="unfinished">Alusta alati esitust</translation>
+      <source>Always start playing</source>
+      <translation type="unfinished">Always start playing</translation>
     </message>
     <message>
-        <source>Pressing &quot;Previous&quot; in player will...</source>
-        <translation type="unfinished">Vajutades nuppu &quot;Eelmine&quot;...</translation>
+      <source>Pressing &quot;Previous&quot; in player will...</source>
+      <translation type="unfinished">Pressing &quot;Previous&quot; in player will...</translation>
     </message>
     <message>
-        <source>Jump to previous song right away</source>
-        <translation type="unfinished">Hüppa kohe eelmisele loole</translation>
+      <source>Jump to previous song right away</source>
+      <translation type="unfinished">Jump to previous song right away</translation>
     </message>
     <message>
-        <source>Restart song, then jump to previous if pressed again</source>
-        <translation type="unfinished">Esita uuesti algusest, seejärel uuesti vajutamisel hüppa eelmisele</translation>
+      <source>Restart song, then jump to previous if pressed again</source>
+      <translation type="unfinished">Restart song, then jump to previous if pressed again</translation>
     </message>
     <message>
-        <source>Double clicking a song will...</source>
-        <translation type="unfinished">Topeltklõpsuga lool...</translation>
+      <source>Double clicking a song will...</source>
+      <translation type="unfinished">Double clicking a song will...</translation>
     </message>
     <message>
-        <source>Append to the playlist</source>
-        <translation type="unfinished">Lisa esitusloendisse</translation>
+      <source>Append to the playlist</source>
+      <translation type="unfinished">Append to the playlist</translation>
     </message>
     <message>
-        <source>Replace the playlist</source>
-        <translation type="unfinished">Asenda esitusloend</translation>
+      <source>Replace the playlist</source>
+      <translation type="unfinished">Replace the playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Add to the queue</source>
-        <translation type="unfinished">Lisa esitusjärjekorda</translation>
+      <source>Add to the queue</source>
+      <translation type="unfinished">Add to the queue</translation>
     </message>
     <message>
-        <source>Double clicking a song in the playlist will...</source>
-        <translation type="unfinished">Topeltklõpsuga lool esitusloendis...</translation>
+      <source>Double clicking a song in the playlist will...</source>
+      <translation type="unfinished">Double clicking a song in the playlist will...</translation>
     </message>
     <message>
-        <source>Change the currently playing song</source>
-        <translation type="unfinished">Käivita valitud lugu</translation>
+      <source>Change the currently playing song</source>
+      <translation type="unfinished">Change the currently playing song</translation>
     </message>
     <message>
-        <source>Seeking using a keyboard shortcut or mouse wheel</source>
-        <translation type="unfinished">Kiirklahvi või hiireratta abil kerimine</translation>
+      <source>Seeking using a keyboard shortcut or mouse wheel</source>
+      <translation type="unfinished">Seeking using a keyboard shortcut or mouse wheel</translation>
     </message>
     <message>
-        <source>Time step</source>
-        <translation type="unfinished">Aja samm</translation>
+      <source>Time step</source>
+      <translation type="unfinished">Time step</translation>
     </message>
     <message>
-        <source> s</source>
-        <translation type="unfinished"> s</translation>
+      <source> s</source>
+      <translation type="unfinished"> s</translation>
     </message>
     <message>
-        <source>Volume Increment</source>
-        <translation type="unfinished">Helivaljuse samm</translation>
+      <source>Volume Increment</source>
+      <translation type="unfinished">Volume Increment</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionSettingsPage</name>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Helikogu</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>These folders will be scanned for music to make up your collection</source>
-        <translation type="unfinished">Helikogu moodustamiseks skaneeritakse muusikat nendest kaustadest</translation>
+      <source>These folders will be scanned for music to make up your collection</source>
+      <translation type="unfinished">These folders will be scanned for music to make up your collection</translation>
     </message>
     <message>
-        <source>Add new folder...</source>
-        <translation type="unfinished">Lisa uus kaust...</translation>
+      <source>Add new folder...</source>
+      <translation type="unfinished">Add new folder...</translation>
     </message>
     <message>
-        <source>Remove folder</source>
-        <translation type="unfinished">Eemalda kaust</translation>
+      <source>Remove folder</source>
+      <translation type="unfinished">Remove folder</translation>
     </message>
     <message>
-        <source>Automatic updating</source>
-        <translation type="unfinished">Automaatne uuendamine</translation>
+      <source>Automatic updating</source>
+      <translation type="unfinished">Automatic updating</translation>
     </message>
     <message>
-        <source>Update the collection when Strawberry starts</source>
-        <translation type="unfinished">Värskenda helikogu Strawberry käivitumisel</translation>
+      <source>Update the collection when Strawberry starts</source>
+      <translation type="unfinished">Update the collection when Strawberry starts</translation>
     </message>
     <message>
-        <source>Monitor the collection for changes</source>
-        <translation type="unfinished">Jälgi muudatusi helikogus</translation>
+      <source>Monitor the collection for changes</source>
+      <translation type="unfinished">Monitor the collection for changes</translation>
     </message>
     <message>
-        <source>Song fingerprinting and tracking</source>
-        <translation type="unfinished">Sõrmejäljesta ja jälgi lugusi</translation>
+      <source>Song fingerprinting and tracking</source>
+      <translation type="unfinished">Song fingerprinting and tracking</translation>
     </message>
     <message>
-        <source>Mark disappeared songs unavailable</source>
-        <translation type="unfinished">Märgi kadunud lood kättesaamatuks</translation>
+      <source>Mark disappeared songs unavailable</source>
+      <translation type="unfinished">Mark disappeared songs unavailable</translation>
     </message>
     <message>
-        <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
-        <translation type="unfinished">Teosta loo EBU R 128 analüüs (vajalik EBU R 128 valjuse normaliseerimiseks)</translation>
+      <source>Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</source>
+      <translation type="unfinished">Perform song EBU R 128 analysis (required for EBU R 128 loudness normalization)</translation>
     </message>
     <message>
-        <source>Expire unavailable songs after</source>
-        <translation type="unfinished">Kättesaamatud lood aeguvad pärast</translation>
+      <source>Expire unavailable songs after</source>
+      <translation type="unfinished">Expire unavailable songs after</translation>
     </message>
     <message>
-        <source>days</source>
-        <translation type="unfinished">päeva</translation>
+      <source>days</source>
+      <translation type="unfinished">days</translation>
     </message>
     <message>
-        <source>Preferred album art filenames (comma separated)</source>
-        <translation type="unfinished">Eelistatud kaanepildi failinimed (komadega eraldatud)</translation>
+      <source>Preferred album art filenames (comma separated)</source>
+      <translation type="unfinished">Preferred album art filenames (comma separated)</translation>
     </message>
     <message>
-        <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
+      <source>When looking for album art Strawberry will first look for picture files that contain one of these words.
 If there are no matches then it will use the largest image in the directory.</source>
-        <translation type="unfinished">Kaanepilte otsides vaatab Strawberry esmalt pildifaile, mis sisaldavad ühte neist sõnadest.
- Kui vasteid pole, kasutab see kataloogi suurimat pilti.</translation>
+      <translation type="unfinished">When looking for album art Strawberry will first look for picture files that contain one of these words.
+If there are no matches then it will use the largest image in the directory.</translation>
     </message>
     <message>
-        <source>Display options</source>
-        <translation type="unfinished">Kuvamise valikud</translation>
+      <source>Display options</source>
+      <translation type="unfinished">Display options</translation>
     </message>
     <message>
-        <source>Automatically open single categories in the collection tree</source>
-        <translation type="unfinished">Ava üksikud kategooriad kogumikupuus automaatselt</translation>
+      <source>Automatically open single categories in the collection tree</source>
+      <translation type="unfinished">Automatically open single categories in the collection tree</translation>
     </message>
     <message>
-        <source>Show dividers</source>
-        <translation type="unfinished">Kuva eraldajad</translation>
+      <source>Show dividers</source>
+      <translation type="unfinished">Show dividers</translation>
     </message>
     <message>
-        <source>Show album cover art in collection</source>
-        <translation type="unfinished">Kuva helikogus kaanepilte</translation>
+      <source>Show album cover art in collection</source>
+      <translation type="unfinished">Show album cover art in collection</translation>
     </message>
     <message>
-        <source>Use various artists for compilation albums</source>
-        <translation type="unfinished">Kogumike puhul kasuta albumi esitajanimena märget „Erinevad esitajad“</translation>
+      <source>Use various artists for compilation albums</source>
+      <translation type="unfinished">Use various artists for compilation albums</translation>
     </message>
     <message>
-        <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
-        <translation type="unfinished">Esitajate nimede sortimisel eira eesliiteid (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;)</translation>
+      <source>Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</source>
+      <translation type="unfinished">Skip leading articles (&quot;the&quot;, &quot;a&quot;, &quot;an&quot;) when sorting artist names</translation>
     </message>
     <message>
-        <source>Album cover pixmap cache</source>
-        <translation type="unfinished">Kaanepiltide vahemälu</translation>
+      <source>Album cover pixmap cache</source>
+      <translation type="unfinished">Album cover pixmap cache</translation>
     </message>
     <message>
-        <source>Size</source>
-        <translation type="unfinished">Suurus</translation>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
     </message>
     <message>
-        <source>Enable Disk Cache</source>
-        <translation type="unfinished">Luba ketta vahemälu</translation>
+      <source>Enable Disk Cache</source>
+      <translation type="unfinished">Enable Disk Cache</translation>
     </message>
     <message>
-        <source>Disk Cache Size</source>
-        <translation type="unfinished">Ketta vahemälu suurus</translation>
+      <source>Disk Cache Size</source>
+      <translation type="unfinished">Disk Cache Size</translation>
     </message>
     <message>
-        <source>Current disk cache in use:</source>
-        <translation type="unfinished">Praegu kasutatav ketta vahemälu:</translation>
+      <source>Current disk cache in use:</source>
+      <translation type="unfinished">Current disk cache in use:</translation>
     </message>
     <message>
-        <source>Clear Disk Cache</source>
-        <translation type="unfinished">Tühjenda ketta vahemälu</translation>
+      <source>Clear Disk Cache</source>
+      <translation type="unfinished">Clear Disk Cache</translation>
     </message>
     <message>
-        <source>Song playcounts and ratings</source>
-        <translation type="unfinished">Loo esituskorrad ja hinnangud</translation>
+      <source>Song playcounts and ratings</source>
+      <translation type="unfinished">Song playcounts and ratings</translation>
     </message>
     <message>
-        <source>Save playcounts to song tags when possible</source>
-        <translation type="unfinished">Salvesta esituskorrad ja hinnangud failidesse esimesel võimalusel</translation>
+      <source>Save playcounts to song tags when possible</source>
+      <translation type="unfinished">Save playcounts to song tags when possible</translation>
     </message>
     <message>
-        <source>Save ratings to song tags when possible</source>
-        <translation type="unfinished">Salvesta hinnangud lugude siltidesse esimesel võimalusel</translation>
+      <source>Save ratings to song tags when possible</source>
+      <translation type="unfinished">Save ratings to song tags when possible</translation>
     </message>
     <message>
-        <source>Overwrite database playcount when songs are re-read from disk</source>
-        <translation type="unfinished">Kirjuta lugude uuesti sisselugemisel andmebaasi esituskorrad üle</translation>
+      <source>Overwrite database playcount when songs are re-read from disk</source>
+      <translation type="unfinished">Overwrite database playcount when songs are re-read from disk</translation>
     </message>
     <message>
-        <source>Overwrite database rating when songs are re-read from disk</source>
-        <translation type="unfinished">Kirjuta lugude uuesti sisselugemisel andmebaasi hinnangud üle</translation>
+      <source>Overwrite database rating when songs are re-read from disk</source>
+      <translation type="unfinished">Overwrite database rating when songs are re-read from disk</translation>
     </message>
     <message>
-        <source>Save playcounts and ratings to files now</source>
-        <translation type="unfinished">Salvesta esituskorrad ja hinnangud failidesse kohe</translation>
+      <source>Save playcounts and ratings to files now</source>
+      <translation type="unfinished">Save playcounts and ratings to files now</translation>
     </message>
     <message>
-        <source>Enable delete files in the right click context menu</source>
-        <translation type="unfinished">Luba failide kustutamine paremklõpsuga kontekstimenüüs</translation>
+      <source>Enable delete files in the right click context menu</source>
+      <translation type="unfinished">Enable delete files in the right click context menu</translation>
     </message>
     <message>
-        <source>Add directory...</source>
-        <translation type="unfinished">Lisa kataloog...</translation>
+      <source>Add directory...</source>
+      <translation type="unfinished">Add directory...</translation>
     </message>
     <message>
-        <source>Write all playcounts and ratings to files</source>
-        <translation type="unfinished">Kirjuta failidesse kõik esituskorrad ja reitingud</translation>
+      <source>Write all playcounts and ratings to files</source>
+      <translation type="unfinished">Write all playcounts and ratings to files</translation>
     </message>
     <message>
-        <source>Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</source>
-        <translation type="unfinished">Kas soovid salvestada esituskorrad ja hinnangud kõigi oma helikogus olevate lugude jaoks?</translation>
+      <source>Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</source>
+      <translation type="unfinished">Are you sure you want to write song playcounts and ratings to file for all songs in your collection?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>BackendSettingsPage</name>
     <message>
-        <source>Backend</source>
-        <translation type="unfinished">Taustaprogramm</translation>
+      <source>Backend</source>
+      <translation type="unfinished">Backend</translation>
     </message>
     <message>
-        <source>Audio output</source>
-        <translation type="unfinished">Heli väljund</translation>
+      <source>Audio output</source>
+      <translation type="unfinished">Audio output</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Seade</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>Output</source>
-        <translation type="unfinished">Väljund</translation>
+      <source>Output</source>
+      <translation type="unfinished">Output</translation>
     </message>
     <message>
-        <source>Engine</source>
-        <translation type="unfinished">Mootor</translation>
+      <source>Engine</source>
+      <translation type="unfinished">Engine</translation>
     </message>
     <message>
-        <source>ALSA plugin:</source>
-        <translation type="unfinished">ALSA pistikprogramm:</translation>
+      <source>ALSA plugin:</source>
+      <translation type="unfinished">ALSA plugin:</translation>
     </message>
     <message>
-        <source>hw</source>
-        <translation type="unfinished">hw</translation>
+      <source>hw</source>
+      <translation type="unfinished">hw</translation>
     </message>
     <message>
-        <source>p&amp;lughw</source>
-        <translation type="unfinished">p&amp;lughw</translation>
+      <source>p&amp;lughw</source>
+      <translation type="unfinished">p&amp;lughw</translation>
     </message>
     <message>
-        <source>pcm</source>
-        <translation type="unfinished">pcm</translation>
+      <source>pcm</source>
+      <translation type="unfinished">pcm</translation>
     </message>
     <message>
-        <source>Exclusive mode (Experimental)</source>
-        <translation type="unfinished">Eksklusiivne režiim (eksperimentaalne)</translation>
+      <source>Exclusive mode (Experimental)</source>
+      <translation type="unfinished">Exclusive mode (Experimental)</translation>
     </message>
     <message>
-        <source>Options</source>
-        <translation type="unfinished">Valikud</translation>
+      <source>Options</source>
+      <translation type="unfinished">Options</translation>
     </message>
     <message>
-        <source>Enable volume control</source>
-        <translation type="unfinished">Luba helitugevuse juhtimine</translation>
+      <source>Enable volume control</source>
+      <translation type="unfinished">Enable volume control</translation>
     </message>
     <message>
-        <source>Upmix / downmix to</source>
-        <translation type="unfinished">Teisenda heli</translation>
+      <source>Upmix / downmix to</source>
+      <translation type="unfinished">Upmix / downmix to</translation>
     </message>
     <message>
-        <source>channels</source>
-        <translation type="unfinished">kanaliseks</translation>
+      <source>channels</source>
+      <translation type="unfinished">channels</translation>
     </message>
     <message>
-        <source>Improve headphone listening of stereo audio records (bs2b)</source>
-        <translation type="unfinished">Paranda stereo helisalvestuste kuulamist kõrvaklappidega (bs2b)</translation>
+      <source>Improve headphone listening of stereo audio records (bs2b)</source>
+      <translation type="unfinished">Improve headphone listening of stereo audio records (bs2b)</translation>
     </message>
     <message>
-        <source>Enable HTTP/2 for streaming</source>
-        <translation type="unfinished">Luba voogesituseks HTTP/2</translation>
+      <source>Enable HTTP/2 for streaming</source>
+      <translation type="unfinished">Enable HTTP/2 for streaming</translation>
     </message>
     <message>
-        <source>Use strict SSL mode</source>
-        <translation type="unfinished">Kasuta ranget SSL režiimi</translation>
+      <source>Use strict SSL mode</source>
+      <translation type="unfinished">Use strict SSL mode</translation>
     </message>
     <message>
-        <source>Buffer</source>
-        <translation type="unfinished">Puhver</translation>
+      <source>Buffer</source>
+      <translation type="unfinished">Buffer</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation type="unfinished"> ms</translation>
+      <source> ms</source>
+      <translation type="unfinished"> ms</translation>
     </message>
     <message>
-        <source>Buffer duration</source>
-        <translation type="unfinished">Puhvri kestus</translation>
+      <source>Buffer duration</source>
+      <translation type="unfinished">Buffer duration</translation>
     </message>
     <message>
-        <source>High watermark</source>
-        <translation type="unfinished">Kõrgeim väärtus</translation>
+      <source>High watermark</source>
+      <translation type="unfinished">High watermark</translation>
     </message>
     <message>
-        <source>Low watermark</source>
-        <translation type="unfinished">Madalaim väärtus</translation>
+      <source>Low watermark</source>
+      <translation type="unfinished">Low watermark</translation>
     </message>
     <message>
-        <source>Defaults</source>
-        <translation type="unfinished">Vaikeväärtused</translation>
+      <source>Defaults</source>
+      <translation type="unfinished">Defaults</translation>
     </message>
     <message>
-        <source>Audio normalization</source>
-        <translation type="unfinished">Heli normaliseerimine</translation>
+      <source>Audio normalization</source>
+      <translation type="unfinished">Audio normalization</translation>
     </message>
     <message>
-        <source>No audio normalization</source>
-        <translation type="unfinished">Heli ei normaliseerita</translation>
+      <source>No audio normalization</source>
+      <translation type="unfinished">No audio normalization</translation>
     </message>
     <message>
-        <source>Replay Gain</source>
-        <translation type="unfinished">Esitusvaljuse tundlikkus</translation>
+      <source>Replay Gain</source>
+      <translation type="unfinished">Replay Gain</translation>
     </message>
     <message>
-        <source>Use Replay Gain metadata if it is available</source>
-        <translation type="unfinished">Kui esitusvaljuse tundlikkuse metainfo on failis olemas, siis kasuta seda</translation>
+      <source>Use Replay Gain metadata if it is available</source>
+      <translation type="unfinished">Use Replay Gain metadata if it is available</translation>
     </message>
     <message>
-        <source>Replay Gain mode</source>
-        <translation type="unfinished">Esitusvaljuse tundlikkuse režiim</translation>
+      <source>Replay Gain mode</source>
+      <translation type="unfinished">Replay Gain mode</translation>
     </message>
     <message>
-        <source>Radio (equal loudness for all tracks)</source>
-        <translation type="unfinished">Raadio (kõigil paladel võrdne valjus)</translation>
+      <source>Radio (equal loudness for all tracks)</source>
+      <translation type="unfinished">Radio (equal loudness for all tracks)</translation>
     </message>
     <message>
-        <source>Album (ideal loudness for all tracks)</source>
-        <translation type="unfinished">Album (kõigil radadel ideaalne valjus)</translation>
+      <source>Album (ideal loudness for all tracks)</source>
+      <translation type="unfinished">Album (ideal loudness for all tracks)</translation>
     </message>
     <message>
-        <source>Pre-amp</source>
-        <translation type="unfinished">Eelmoonutus</translation>
+      <source>Pre-amp</source>
+      <translation type="unfinished">Pre-amp</translation>
     </message>
     <message>
-        <source>Apply compression to prevent clipping</source>
-        <translation type="unfinished">Ülevõimenduse vältimiseks kasuta kompressorit</translation>
+      <source>Apply compression to prevent clipping</source>
+      <translation type="unfinished">Apply compression to prevent clipping</translation>
     </message>
     <message>
-        <source>Fallback-gain</source>
-        <translation type="unfinished">Esitusvaljuse samm</translation>
+      <source>Fallback-gain</source>
+      <translation type="unfinished">Fallback-gain</translation>
     </message>
     <message>
-        <source>EBU R 128 Loudness Normalization</source>
-        <translation type="unfinished">EBU R 128 valjuse normaliseerimine</translation>
+      <source>EBU R 128 Loudness Normalization</source>
+      <translation type="unfinished">EBU R 128 Loudness Normalization</translation>
     </message>
     <message>
-        <source>Perform track loudness normalization</source>
-        <translation type="unfinished">Normaliseeri loo valjus</translation>
+      <source>Perform track loudness normalization</source>
+      <translation type="unfinished">Perform track loudness normalization</translation>
     </message>
     <message>
-        <source>Target Level</source>
-        <translation type="unfinished">Sihttase</translation>
+      <source>Target Level</source>
+      <translation type="unfinished">Target Level</translation>
     </message>
     <message>
-        <source>Fading</source>
-        <translation type="unfinished">Hajumine</translation>
+      <source>Fading</source>
+      <translation type="unfinished">Fading</translation>
     </message>
     <message>
-        <source>Fade out when stopping a track</source>
-        <translation type="unfinished">Hajuta heli loo peatamisel</translation>
+      <source>Fade out when stopping a track</source>
+      <translation type="unfinished">Fade out when stopping a track</translation>
     </message>
     <message>
-        <source>Cross-fade when changing tracks manually</source>
-        <translation type="unfinished">Risthajuta heli lugude käsitsi vahetamisel</translation>
+      <source>Cross-fade when changing tracks manually</source>
+      <translation type="unfinished">Cross-fade when changing tracks manually</translation>
     </message>
     <message>
-        <source>Cross-fade when changing tracks automatically</source>
-        <translation type="unfinished">Risthajuta heli lugude automaatsel vahetamisel</translation>
+      <source>Cross-fade when changing tracks automatically</source>
+      <translation type="unfinished">Cross-fade when changing tracks automatically</translation>
     </message>
     <message>
-        <source>Except between tracks on the same album or in the same CUE sheet</source>
-        <translation type="unfinished">Välja arvatud samal albumil või samas asukohatabelis asuvate lugude vahel</translation>
+      <source>Except between tracks on the same album or in the same CUE sheet</source>
+      <translation type="unfinished">Except between tracks on the same album or in the same CUE sheet</translation>
     </message>
     <message>
-        <source>Fading duration</source>
-        <translation type="unfinished">Hajumise kestus</translation>
+      <source>Fading duration</source>
+      <translation type="unfinished">Fading duration</translation>
     </message>
     <message>
-        <source>Fade out on pause / fade in on resume</source>
-        <translation type="unfinished">Kasuta pausimisel ja jätkamisel hajumist</translation>
+      <source>Fade out on pause / fade in on resume</source>
+      <translation type="unfinished">Fade out on pause / fade in on resume</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ContextSettingsPage</name>
     <message>
-        <source>Context</source>
-        <translation type="unfinished">Kontekst</translation>
+      <source>Context</source>
+      <translation type="unfinished">Context</translation>
     </message>
     <message>
-        <source>Custom text settings</source>
-        <translation type="unfinished">Kohandatud teksti seaded</translation>
+      <source>Custom text settings</source>
+      <translation type="unfinished">Custom text settings</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Pealkiri</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Kokkuvõte</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Enable Items</source>
-        <translation type="unfinished">Luba üksused</translation>
+      <source>Enable Items</source>
+      <translation type="unfinished">Enable Items</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Technical Data</source>
-        <translation type="unfinished">Tehnilised andmed</translation>
+      <source>Technical Data</source>
+      <translation type="unfinished">Technical Data</translation>
     </message>
     <message>
-        <source>Song Lyrics</source>
-        <translation type="unfinished">Laulusõnad</translation>
+      <source>Song Lyrics</source>
+      <translation type="unfinished">Song Lyrics</translation>
     </message>
     <message>
-        <source>Automatically search for album cover</source>
-        <translation type="unfinished">Otsi kaanepilti automaatselt</translation>
+      <source>Automatically search for album cover</source>
+      <translation type="unfinished">Automatically search for album cover</translation>
     </message>
     <message>
-        <source>Automatically search for song lyrics</source>
-        <translation type="unfinished">Otsi laulusõnu automaatselt</translation>
+      <source>Automatically search for song lyrics</source>
+      <translation type="unfinished">Automatically search for song lyrics</translation>
     </message>
     <message>
-        <source>Font for headline</source>
-        <translation type="unfinished">Pealkirja kirjatüüp</translation>
+      <source>Font for headline</source>
+      <translation type="unfinished">Font for headline</translation>
     </message>
     <message>
-        <source>Font</source>
-        <translation type="unfinished">Kirjatüüp</translation>
+      <source>Font</source>
+      <translation type="unfinished">Font</translation>
     </message>
     <message>
-        <source>Font size</source>
-        <translation type="unfinished">Kirjatüübi suurus</translation>
+      <source>Font size</source>
+      <translation type="unfinished">Font size</translation>
     </message>
     <message>
-        <source> pt</source>
-        <translation type="unfinished"> punkti</translation>
+      <source> pt</source>
+      <translation type="unfinished"> pt</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Eelvaade</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Font for data and lyrics</source>
-        <translation type="unfinished">Andmete ja laulusõnade kirjatüüp</translation>
+      <source>Font for data and lyrics</source>
+      <translation type="unfinished">Font for data and lyrics</translation>
     </message>
     <message>
-        <source>Add song artist tag</source>
-        <translation type="unfinished">Lisa loole esitaja silt</translation>
+      <source>Add song artist tag</source>
+      <translation type="unfinished">Add song artist tag</translation>
     </message>
     <message>
-        <source>Add song album tag</source>
-        <translation type="unfinished">Lisa loole albumi silt</translation>
+      <source>Add song album tag</source>
+      <translation type="unfinished">Add song album tag</translation>
     </message>
     <message>
-        <source>Add song title tag</source>
-        <translation type="unfinished">Lisa loole pealkirja silt</translation>
+      <source>Add song title tag</source>
+      <translation type="unfinished">Add song title tag</translation>
     </message>
     <message>
-        <source>Add song albumartist tag</source>
-        <translation type="unfinished">Lisa loole albumi esitaja silt</translation>
+      <source>Add song albumartist tag</source>
+      <translation type="unfinished">Add song albumartist tag</translation>
     </message>
     <message>
-        <source>Add song year tag</source>
-        <translation type="unfinished">Lisa loole aasta silt</translation>
+      <source>Add song year tag</source>
+      <translation type="unfinished">Add song year tag</translation>
     </message>
     <message>
-        <source>Add song composer tag</source>
-        <translation type="unfinished">Lisa loole helilooja silt</translation>
+      <source>Add song composer tag</source>
+      <translation type="unfinished">Add song composer tag</translation>
     </message>
     <message>
-        <source>Add song performer tag</source>
-        <translation type="unfinished">Lisa loole esineja silt</translation>
+      <source>Add song performer tag</source>
+      <translation type="unfinished">Add song performer tag</translation>
     </message>
     <message>
-        <source>Add song grouping tag</source>
-        <translation type="unfinished">Lisa loole rühmitamise silt</translation>
+      <source>Add song grouping tag</source>
+      <translation type="unfinished">Add song grouping tag</translation>
     </message>
     <message>
-        <source>Add song disc tag</source>
-        <translation type="unfinished">Lisa loole plaadi numbri silt</translation>
+      <source>Add song disc tag</source>
+      <translation type="unfinished">Add song disc tag</translation>
     </message>
     <message>
-        <source>Add song track tag</source>
-        <translation type="unfinished">Lisa loole plaadijärjekorra silt</translation>
+      <source>Add song track tag</source>
+      <translation type="unfinished">Add song track tag</translation>
     </message>
     <message>
-        <source>Add song genre tag</source>
-        <translation type="unfinished">Lisage loole žanri silt</translation>
+      <source>Add song genre tag</source>
+      <translation type="unfinished">Add song genre tag</translation>
     </message>
     <message>
-        <source>Add song length tag</source>
-        <translation type="unfinished">Lisa loole pikkuse silt</translation>
+      <source>Add song length tag</source>
+      <translation type="unfinished">Add song length tag</translation>
     </message>
     <message>
-        <source>Add song play count</source>
-        <translation type="unfinished">Lisa loole esituskorrad</translation>
+      <source>Add song play count</source>
+      <translation type="unfinished">Add song play count</translation>
     </message>
     <message>
-        <source>Add song skip count</source>
-        <translation type="unfinished">Lisa loole vahelejätmiskorrad</translation>
+      <source>Add song skip count</source>
+      <translation type="unfinished">Add song skip count</translation>
     </message>
     <message>
-        <source>Add a new line if supported by the notification type</source>
-        <translation type="unfinished">Lisa uus rida, kui teavituse tüüp seda toetab</translation>
+      <source>Add a new line if supported by the notification type</source>
+      <translation type="unfinished">Add a new line if supported by the notification type</translation>
     </message>
     <message>
-        <source>%filename%</source>
-        <translation type="unfinished">%filename%</translation>
+      <source>%filename%</source>
+      <translation type="unfinished">%filename%</translation>
     </message>
     <message>
-        <source>Add song filename</source>
-        <translation type="unfinished">Lisa loole failinimi</translation>
+      <source>Add song filename</source>
+      <translation type="unfinished">Add song filename</translation>
     </message>
     <message>
-        <source>%url%</source>
-        <translation type="unfinished">%url%</translation>
+      <source>%url%</source>
+      <translation type="unfinished">%url%</translation>
     </message>
     <message>
-        <source>Add song URL</source>
-        <translation type="unfinished">Lisa loo URL</translation>
+      <source>Add song URL</source>
+      <translation type="unfinished">Add song URL</translation>
     </message>
     <message>
-        <source>%rating%</source>
-        <translation type="unfinished">%rating%</translation>
+      <source>%rating%</source>
+      <translation type="unfinished">%rating%</translation>
     </message>
     <message>
-        <source>Add song rating</source>
-        <translation type="unfinished">Lisa loole hinnang</translation>
+      <source>Add song rating</source>
+      <translation type="unfinished">Add song rating</translation>
     </message>
     <message>
-        <source>%originalyear%</source>
-        <translation type="unfinished">%originalyear%</translation>
+      <source>%originalyear%</source>
+      <translation type="unfinished">%originalyear%</translation>
     </message>
     <message>
-        <source>Add song original year tag</source>
-        <translation type="unfinished">Lisa loole algse aasta silt</translation>
+      <source>Add song original year tag</source>
+      <translation type="unfinished">Add song original year tag</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistSettingsPage</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Use alternating row colors</source>
-        <translation type="unfinished">Kasuta vahelduvaid reavärve</translation>
+      <source>Use alternating row colors</source>
+      <translation type="unfinished">Use alternating row colors</translation>
     </message>
     <message>
-        <source>Show bars on the currently playing track</source>
-        <translation type="unfinished">Kuva hetkel esitataval lool riba</translation>
+      <source>Show bars on the currently playing track</source>
+      <translation type="unfinished">Show bars on the currently playing track</translation>
     </message>
     <message>
-        <source>Show a glowing animation on the currently playing track</source>
-        <translation type="unfinished">Kuva esitataval lool helendav kuma</translation>
+      <source>Show a glowing animation on the currently playing track</source>
+      <translation type="unfinished">Show a glowing animation on the currently playing track</translation>
     </message>
     <message>
-        <source>Warn me when closing a playlist tab</source>
-        <translation type="unfinished">Hoiata esitusloendi vahekaardi sulgemisel</translation>
+      <source>Warn me when closing a playlist tab</source>
+      <translation type="unfinished">Warn me when closing a playlist tab</translation>
     </message>
     <message>
-        <source>Continue to the next item in the playlist if a song is unavailable</source>
-        <translation type="unfinished">Kui lugu pole saadaval, jätka esitusloendi järgmise üksusega</translation>
+      <source>Continue to the next item in the playlist if a song is unavailable</source>
+      <translation type="unfinished">Continue to the next item in the playlist if a song is unavailable</translation>
     </message>
     <message>
-        <source>Grey out unavailable songs in playlists on playback</source>
-        <translation type="unfinished">Kuva kättesaamatud lood esitusloendites hallina</translation>
+      <source>Grey out unavailable songs in playlists on playback</source>
+      <translation type="unfinished">Grey out unavailable songs in playlists on playback</translation>
     </message>
     <message>
-        <source>Grey out unavailable songs in playlists on startup</source>
-        <translation type="unfinished">Kuva käivitamisel kättesaamatud lood esitusloendites hallina</translation>
+      <source>Grey out unavailable songs in playlists on startup</source>
+      <translation type="unfinished">Grey out unavailable songs in playlists on startup</translation>
     </message>
     <message>
-        <source>Automatically select current playing track</source>
-        <translation type="unfinished">Vali hetkel esitatav lugu automaatselt</translation>
+      <source>Automatically select current playing track</source>
+      <translation type="unfinished">Automatically select current playing track</translation>
     </message>
     <message>
-        <source>Enable playlist toolbar</source>
-        <translation type="unfinished">Luba esitusloendi tööriistariba</translation>
+      <source>Enable playlist toolbar</source>
+      <translation type="unfinished">Enable playlist toolbar</translation>
     </message>
     <message>
-        <source>Enable playlist clear button</source>
-        <translation type="unfinished">Luba esitusloendi tühjendamise nupp</translation>
+      <source>Enable playlist clear button</source>
+      <translation type="unfinished">Enable playlist clear button</translation>
     </message>
     <message>
-        <source>Enable delete files in the right click context menu</source>
-        <translation type="unfinished">Luba failide kustutamine paremklõpsuga kontekstimenüüs</translation>
+      <source>Enable delete files in the right click context menu</source>
+      <translation type="unfinished">Enable delete files in the right click context menu</translation>
     </message>
     <message>
-        <source>Automatically sort playlist when inserting songs</source>
-        <translation type="unfinished">Sordi esitusloend lugude sisestamisel automaatselt</translation>
+      <source>Automatically sort playlist when inserting songs</source>
+      <translation type="unfinished">Automatically sort playlist when inserting songs</translation>
     </message>
     <message>
-        <source>When saving a playlist, file paths should be</source>
-        <translation type="unfinished">Esitusloendi salvestamisel on failitee</translation>
+      <source>When saving a playlist, file paths should be</source>
+      <translation type="unfinished">When saving a playlist, file paths should be</translation>
     </message>
     <message>
-        <source>A&amp;utomatic</source>
-        <translation type="unfinished">A&amp;utomaatne</translation>
+      <source>A&amp;utomatic</source>
+      <translation type="unfinished">A&amp;utomatic</translation>
     </message>
     <message>
-        <source>Absolu&amp;te</source>
-        <translation type="unfinished">Absoluut&amp;ne</translation>
+      <source>Absolu&amp;te</source>
+      <translation type="unfinished">Absolu&amp;te</translation>
     </message>
     <message>
-        <source>Re&amp;lative</source>
-        <translation type="unfinished">Suhteline</translation>
+      <source>Re&amp;lative</source>
+      <translation type="unfinished">Re&amp;lative</translation>
     </message>
     <message>
-        <source>As&amp;k when saving</source>
-        <translation type="unfinished">Küsi salvestamisel</translation>
+      <source>As&amp;k when saving</source>
+      <translation type="unfinished">As&amp;k when saving</translation>
     </message>
     <message>
-        <source>Metadata</source>
-        <translation type="unfinished">Metaandmed</translation>
+      <source>Metadata</source>
+      <translation type="unfinished">Metadata</translation>
     </message>
     <message>
-        <source>If activated, clicking a selected song in the playlist view will let you edit the tag value directly</source>
-        <translation type="unfinished">Kui lubatud, saab esitusloendivaates valitud lool klõpsates sildi väärtust otse muuta</translation>
+      <source>If activated, clicking a selected song in the playlist view will let you edit the tag value directly</source>
+      <translation type="unfinished">If activated, clicking a selected song in the playlist view will let you edit the tag value directly</translation>
     </message>
     <message>
-        <source>Enable song metadata inline edition with click</source>
-        <translation type="unfinished">Luba klõpsates loo metaandmete muutmine</translation>
+      <source>Enable song metadata inline edition with click</source>
+      <translation type="unfinished">Enable song metadata inline edition with click</translation>
     </message>
     <message>
-        <source>Write metadata when saving playlists</source>
-        <translation type="unfinished">Salvesta metaandmed esitusloendite salvestamisel</translation>
+      <source>Write metadata when saving playlists</source>
+      <translation type="unfinished">Write metadata when saving playlists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ScrobblerSettingsPage</name>
     <message>
-        <source>Scrobbler</source>
-        <translation type="unfinished">Kraasimine</translation>
+      <source>Scrobbler</source>
+      <translation type="unfinished">Scrobbler</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Luba</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</source>
-        <translation type="unfinished">Lood kraasitakse, kui neil on kehtivad metaandmed ja need on pikemad kui 30 sekundit, neid on mängitud vähemalt pool kestusest või 4 minutit (olenevalt sellest, kumb saabub varem).</translation>
+      <source>Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</source>
+      <translation type="unfinished">Songs are scrobbled if they have valid metadata and are longer than 30 seconds, have been playing for at least half its duration or for 4 minutes (whichever occurs earlier).</translation>
     </message>
     <message>
-        <source>Work in offline mode (Only cache scrobbles)</source>
-        <translation type="unfinished">Tööta võrguühenduseta režiimis (kraasi vahemällu)</translation>
+      <source>Work in offline mode (Only cache scrobbles)</source>
+      <translation type="unfinished">Work in offline mode (Only cache scrobbles)</translation>
     </message>
     <message>
-        <source>Show scrobble button</source>
-        <translation type="unfinished">Kuva kraasimise nupp</translation>
+      <source>Show scrobble button</source>
+      <translation type="unfinished">Show scrobble button</translation>
     </message>
     <message>
-        <source>Show love button</source>
-        <translation type="unfinished">Kuva meeldimise nupp</translation>
+      <source>Show love button</source>
+      <translation type="unfinished">Show love button</translation>
     </message>
     <message>
-        <source>Submit scrobbles every</source>
-        <translation type="unfinished">Saada kraasmed iga</translation>
+      <source>Submit scrobbles every</source>
+      <translation type="unfinished">Submit scrobbles every</translation>
     </message>
     <message>
-        <source> seconds</source>
-        <translation type="unfinished"> sekundit</translation>
+      <source> seconds</source>
+      <translation type="unfinished"> seconds</translation>
     </message>
     <message>
-        <source>(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</source>
-        <translation type="unfinished">(See on viivitus loo kraasimise ja selle serverisse esitamise vahel. Kui määrata ajaks 0 sekundit, esitatakse kraasimised kohe).</translation>
+      <source>(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</source>
+      <translation type="unfinished">(This is the delay between when a song is scrobbled and when scrobbles are submitted to the server. Setting the time to 0 seconds will submit scrobbles immediately).</translation>
     </message>
     <message>
-        <source>Prefer album artist when sending scrobbles</source>
-        <translation type="unfinished">Kraasmete saatmisel eelista albumi esitajat</translation>
+      <source>Prefer album artist when sending scrobbles</source>
+      <translation type="unfinished">Prefer album artist when sending scrobbles</translation>
     </message>
     <message>
-        <source>Show dialog for errors</source>
-        <translation type="unfinished">Kuva veaaken</translation>
+      <source>Show dialog for errors</source>
+      <translation type="unfinished">Show dialog for errors</translation>
     </message>
     <message>
-        <source>Strip &quot;remastered&quot; and similar from album and title</source>
-        <translation type="unfinished">Eemalda albumi nimest ja loo pealkirjast „remastered“ ja muud sarnased sõnad</translation>
+      <source>Strip &quot;remastered&quot; and similar from album and title</source>
+      <translation type="unfinished">Strip &quot;remastered&quot; and similar from album and title</translation>
     </message>
     <message>
-        <source>Enable scrobbling for the following sources:</source>
-        <translation type="unfinished">Luba kraasimine järgmiste allikate jaoks:</translation>
+      <source>Enable scrobbling for the following sources:</source>
+      <translation type="unfinished">Enable scrobbling for the following sources:</translation>
     </message>
     <message>
-        <source>Collection</source>
-        <translation type="unfinished">Helikogu</translation>
+      <source>Collection</source>
+      <translation type="unfinished">Collection</translation>
     </message>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished">Subsonic</translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Local file</source>
-        <translation type="unfinished">Kohalik fail</translation>
+      <source>Local file</source>
+      <translation type="unfinished">Local file</translation>
     </message>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished">Tidal</translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Seade</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished">Qobuz</translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>CDDA</source>
-        <translation type="unfinished">CDDA</translation>
+      <source>CDDA</source>
+      <translation type="unfinished">CDDA</translation>
     </message>
     <message>
-        <source>SomaFM</source>
-        <translation type="unfinished">SomaFM</translation>
+      <source>SomaFM</source>
+      <translation type="unfinished">SomaFM</translation>
     </message>
     <message>
-        <source>Stream</source>
-        <translation type="unfinished">Voog</translation>
+      <source>Stream</source>
+      <translation type="unfinished">Stream</translation>
     </message>
     <message>
-        <source>Radio Paradise</source>
-        <translation type="unfinished">Radio Paradise</translation>
+      <source>Radio Paradise</source>
+      <translation type="unfinished">Radio Paradise</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Last.fm</source>
-        <translation type="unfinished">Last.fm</translation>
+      <source>Last.fm</source>
+      <translation type="unfinished">Last.fm</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Logi sisse</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Libre.fm</source>
-        <translation type="unfinished">Libre.fm</translation>
+      <source>Libre.fm</source>
+      <translation type="unfinished">Libre.fm</translation>
     </message>
     <message>
-        <source>Listenbrainz</source>
-        <translation type="unfinished">Listenbrainz</translation>
+      <source>Listenbrainz</source>
+      <translation type="unfinished">Listenbrainz</translation>
     </message>
     <message>
-        <source>User token:</source>
-        <translation type="unfinished">Kasutaja tunnuskood:</translation>
+      <source>User token:</source>
+      <translation type="unfinished">User token:</translation>
     </message>
     <message>
-        <source>Enter your user token from</source>
-        <translation type="unfinished">Sisesta oma tunnuskood saidilt</translation>
+      <source>Enter your user token from</source>
+      <translation type="unfinished">Enter your user token from</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoversSettingsPage</name>
     <message>
-        <source>Covers</source>
-        <translation type="unfinished">Kaanepildid</translation>
+      <source>Covers</source>
+      <translation type="unfinished">Covers</translation>
     </message>
     <message>
-        <source>Cover providers</source>
-        <translation type="unfinished">Kaanepildi pakkujad</translation>
+      <source>Cover providers</source>
+      <translation type="unfinished">Cover providers</translation>
     </message>
     <message>
-        <source>Choose the providers you want to use when searching for covers.</source>
-        <translation type="unfinished">Vali teenused, mida soovid kaanepildi otsimisel kasutada.</translation>
+      <source>Choose the providers you want to use when searching for covers.</source>
+      <translation type="unfinished">Choose the providers you want to use when searching for covers.</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Liiguta üles</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Liiguta alla</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autentimine</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Logi sisse</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Album cover types</source>
-        <translation type="unfinished">Kaanepildi tüübid</translation>
+      <source>Album cover types</source>
+      <translation type="unfinished">Album cover types</translation>
     </message>
     <message>
-        <source>Saving album covers</source>
-        <translation type="unfinished">Kaanepiltide salvestamine</translation>
+      <source>Saving album covers</source>
+      <translation type="unfinished">Saving album covers</translation>
     </message>
     <message>
-        <source>Save album covers in album directory</source>
-        <translation type="unfinished">Salvesta kaanepildid albumi kataloogi</translation>
+      <source>Save album covers in album directory</source>
+      <translation type="unfinished">Save album covers in album directory</translation>
     </message>
     <message>
-        <source>Save album covers in cache directory</source>
-        <translation type="unfinished">Salvesta kaanepildid vahemälu kataloogi</translation>
+      <source>Save album covers in cache directory</source>
+      <translation type="unfinished">Save album covers in cache directory</translation>
     </message>
     <message>
-        <source>Save album covers as embedded cover</source>
-        <translation type="unfinished">Salvesta kaanepildid põimitud kaanepildina</translation>
+      <source>Save album covers as embedded cover</source>
+      <translation type="unfinished">Save album covers as embedded cover</translation>
     </message>
     <message>
-        <source>Filename:</source>
-        <translation type="unfinished">Faili nimi:</translation>
+      <source>Filename:</source>
+      <translation type="unfinished">Filename:</translation>
     </message>
     <message>
-        <source>Pattern</source>
-        <translation type="unfinished">Muster</translation>
+      <source>Pattern</source>
+      <translation type="unfinished">Pattern</translation>
     </message>
     <message>
-        <source>Random</source>
-        <translation type="unfinished">Juhuslik</translation>
+      <source>Random</source>
+      <translation type="unfinished">Random</translation>
     </message>
     <message>
-        <source>Overwrite existing file</source>
-        <translation type="unfinished">Kirjuta olemasolev fail üle</translation>
+      <source>Overwrite existing file</source>
+      <translation type="unfinished">Overwrite existing file</translation>
     </message>
     <message>
-        <source>Lowercase filename</source>
-        <translation type="unfinished">Väiketähtedega failinimi</translation>
+      <source>Lowercase filename</source>
+      <translation type="unfinished">Lowercase filename</translation>
     </message>
     <message>
-        <source>Replace spaces with dashes</source>
-        <translation type="unfinished">Asenda tühikud kriipsudega</translation>
+      <source>Replace spaces with dashes</source>
+      <translation type="unfinished">Replace spaces with dashes</translation>
     </message>
     <message>
-        <source>Use Tidal settings to authenticate.</source>
-        <translation type="unfinished">Kasuta autentimiseks Tidali seadeid.</translation>
+      <source>Use Tidal settings to authenticate.</source>
+      <translation type="unfinished">Use Tidal settings to authenticate.</translation>
     </message>
     <message>
-        <source>Use Spotify settings to authenticate.</source>
-        <translation type="unfinished">Kasuta autentimiseks Spotify seadeid.</translation>
+      <source>Use Spotify settings to authenticate.</source>
+      <translation type="unfinished">Use Spotify settings to authenticate.</translation>
     </message>
     <message>
-        <source>Use Qobuz settings to authenticate.</source>
-        <translation type="unfinished">Kasuta autentimiseks Qobuzi seadeid.</translation>
+      <source>Use Qobuz settings to authenticate.</source>
+      <translation type="unfinished">Use Qobuz settings to authenticate.</translation>
     </message>
     <message>
-        <source>%1 needs authentication.</source>
-        <translation type="unfinished">%1 vajab autentimist.</translation>
+      <source>%1 needs authentication.</source>
+      <translation type="unfinished">%1 needs authentication.</translation>
     </message>
     <message>
-        <source>%1 does not need authentication.</source>
-        <translation type="unfinished">%1 ei vaja autentimist.</translation>
+      <source>%1 does not need authentication.</source>
+      <translation type="unfinished">%1 does not need authentication.</translation>
     </message>
     <message>
-        <source>No provider selected.</source>
-        <translation type="unfinished">Teenuseid pole valitud.</translation>
+      <source>No provider selected.</source>
+      <translation type="unfinished">No provider selected.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Autentimine ebaõnnestus</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
     <message>
-        <source>Manually unset (%1)</source>
-        <translation type="unfinished">Käsitsi määramata (%1)</translation>
+      <source>Manually unset (%1)</source>
+      <translation type="unfinished">Manually unset (%1)</translation>
     </message>
     <message>
-        <source>Set through album cover search (%1)</source>
-        <translation type="unfinished">Määra kaanepildi otsinguga (%1)</translation>
+      <source>Set through album cover search (%1)</source>
+      <translation type="unfinished">Set through album cover search (%1)</translation>
     </message>
     <message>
-        <source>Automatically picked up from album directory (%1)</source>
-        <translation type="unfinished">Automaatselt võetud albumi kataloogist (%1)</translation>
+      <source>Automatically picked up from album directory (%1)</source>
+      <translation type="unfinished">Automatically picked up from album directory (%1)</translation>
     </message>
     <message>
-        <source>Embedded album cover art (%1)</source>
-        <translation type="unfinished">Põimitud albumi kaanepilt (%1)</translation>
+      <source>Embedded album cover art (%1)</source>
+      <translation type="unfinished">Embedded album cover art (%1)</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LyricsSettingsPage</name>
     <message>
-        <source>Lyrics</source>
-        <translation type="unfinished">Laulusõnad</translation>
+      <source>Lyrics</source>
+      <translation type="unfinished">Lyrics</translation>
     </message>
     <message>
-        <source>Lyrics providers</source>
-        <translation type="unfinished">Laulusõnade pakkujad</translation>
+      <source>Lyrics providers</source>
+      <translation type="unfinished">Lyrics providers</translation>
     </message>
     <message>
-        <source>Choose the providers you want to use when searching for lyrics.</source>
-        <translation type="unfinished">Vali teenused, mida soovid laulusõnade otsimisel kasutada.</translation>
+      <source>Choose the providers you want to use when searching for lyrics.</source>
+      <translation type="unfinished">Choose the providers you want to use when searching for lyrics.</translation>
     </message>
     <message>
-        <source>Move up</source>
-        <translation type="unfinished">Liiguta üles</translation>
+      <source>Move up</source>
+      <translation type="unfinished">Move up</translation>
     </message>
     <message>
-        <source>Move down</source>
-        <translation type="unfinished">Liiguta alla</translation>
+      <source>Move down</source>
+      <translation type="unfinished">Move down</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autentimine</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Logi sisse</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>No provider selected.</source>
-        <translation type="unfinished">Teenuseid pole valitud.</translation>
+      <source>No provider selected.</source>
+      <translation type="unfinished">No provider selected.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Autentimine ebaõnnestus</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>NetworkProxySettingsPage</name>
     <message>
-        <source>Network Proxy</source>
-        <translation type="unfinished">Võrgu puhverserver</translation>
+      <source>Network Proxy</source>
+      <translation type="unfinished">Network Proxy</translation>
     </message>
     <message>
-        <source>&amp;Use the system proxy settings</source>
-        <translation type="unfinished">&amp;Kasuta süsteemi puhverserveri seadeid</translation>
+      <source>&amp;Use the system proxy settings</source>
+      <translation type="unfinished">&amp;Use the system proxy settings</translation>
     </message>
     <message>
-        <source>Direct internet connection</source>
-        <translation type="unfinished">Interneti otseühendus</translation>
+      <source>Direct internet connection</source>
+      <translation type="unfinished">Direct internet connection</translation>
     </message>
     <message>
-        <source>&amp;Manual proxy configuration</source>
-        <translation type="unfinished">&amp;Puhverserveri käsitsi seadistamine</translation>
+      <source>&amp;Manual proxy configuration</source>
+      <translation type="unfinished">&amp;Manual proxy configuration</translation>
     </message>
     <message>
-        <source>HTTP proxy</source>
-        <translation type="unfinished">HTTP-puhverserver</translation>
+      <source>HTTP proxy</source>
+      <translation type="unfinished">HTTP proxy</translation>
     </message>
     <message>
-        <source>SOCKS proxy</source>
-        <translation type="unfinished">SOCKS puhverserver</translation>
+      <source>SOCKS proxy</source>
+      <translation type="unfinished">SOCKS proxy</translation>
     </message>
     <message>
-        <source>Port</source>
-        <translation type="unfinished">Port</translation>
+      <source>Port</source>
+      <translation type="unfinished">Port</translation>
     </message>
     <message>
-        <source>Use authentication</source>
-        <translation type="unfinished">Kasuta autentimist</translation>
+      <source>Use authentication</source>
+      <translation type="unfinished">Use authentication</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Use proxy settings for streaming</source>
-        <translation type="unfinished">Kasuta voogesituseks puhverserveri seadeid</translation>
+      <source>Use proxy settings for streaming</source>
+      <translation type="unfinished">Use proxy settings for streaming</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AppearanceSettingsPage</name>
     <message>
-        <source>Appearance</source>
-        <translation type="unfinished">Välimus</translation>
+      <source>Appearance</source>
+      <translation type="unfinished">Appearance</translation>
     </message>
     <message>
-        <source>Style</source>
-        <translation type="unfinished">Stiil</translation>
+      <source>Style</source>
+      <translation type="unfinished">Style</translation>
     </message>
     <message>
-        <source>Use system theme icons</source>
-        <translation type="unfinished">Kasuta süsteemi teema ikoone</translation>
+      <source>Use system theme icons</source>
+      <translation type="unfinished">Use system theme icons</translation>
     </message>
     <message>
-        <source>Settings require restart.</source>
-        <translation type="unfinished">Seaded nõuavad taaskäivitamist.</translation>
+      <source>Settings require restart.</source>
+      <translation type="unfinished">Settings require restart.</translation>
     </message>
     <message>
-        <source>Tabbar colors</source>
-        <translation type="unfinished">Kaardiriba värvid</translation>
+      <source>Tabbar colors</source>
+      <translation type="unfinished">Tabbar colors</translation>
     </message>
     <message>
-        <source>&amp;Use the system default color</source>
-        <translation type="unfinished">&amp;Kasuta süsteemi vaikevärvi</translation>
+      <source>&amp;Use the system default color</source>
+      <translation type="unfinished">&amp;Use the system default color</translation>
     </message>
     <message>
-        <source>Use custom color</source>
-        <translation type="unfinished">Kasuta kohandatud värvi</translation>
+      <source>Use custom color</source>
+      <translation type="unfinished">Use custom color</translation>
     </message>
     <message>
-        <source>Use gradient background</source>
-        <translation type="unfinished">Kasuta taustaks värvi üleminekut</translation>
+      <source>Use gradient background</source>
+      <translation type="unfinished">Use gradient background</translation>
     </message>
     <message>
-        <source>Select tabbar color:</source>
-        <translation type="unfinished">Vali kaardiriba värv:</translation>
+      <source>Select tabbar color:</source>
+      <translation type="unfinished">Select tabbar color:</translation>
     </message>
     <message>
-        <source>Background image</source>
-        <translation type="unfinished">Taustapilt</translation>
+      <source>Background image</source>
+      <translation type="unfinished">Background image</translation>
     </message>
     <message>
-        <source>Default bac&amp;kground image</source>
-        <translation type="unfinished">Vaikimisi &amp;taustapilt</translation>
+      <source>Default bac&amp;kground image</source>
+      <translation type="unfinished">Default bac&amp;kground image</translation>
     </message>
     <message>
-        <source>&amp;No background image</source>
-        <translation type="unfinished">&amp;Taustapilti pole</translation>
+      <source>&amp;No background image</source>
+      <translation type="unfinished">&amp;No background image</translation>
     </message>
     <message>
-        <source>The album cover of the currently playing song</source>
-        <translation type="unfinished">Hetkel mängitava loo kaanepilt</translation>
+      <source>The album cover of the currently playing song</source>
+      <translation type="unfinished">The album cover of the currently playing song</translation>
     </message>
     <message>
-        <source>Albu&amp;m cover</source>
-        <translation type="unfinished">Albu&amp;mi kaanepilt</translation>
+      <source>Albu&amp;m cover</source>
+      <translation type="unfinished">Albu&amp;m cover</translation>
     </message>
     <message>
-        <source>Custom image:</source>
-        <translation type="unfinished">Kohandatud pilt:</translation>
+      <source>Custom image:</source>
+      <translation type="unfinished">Custom image:</translation>
     </message>
     <message>
-        <source>Browse...</source>
-        <translation type="unfinished">Sirvi...</translation>
+      <source>Browse...</source>
+      <translation type="unfinished">Browse...</translation>
     </message>
     <message>
-        <source>Position</source>
-        <translation type="unfinished">Asukoht</translation>
+      <source>Position</source>
+      <translation type="unfinished">Position</translation>
     </message>
     <message>
-        <source>Upper Left</source>
-        <translation type="unfinished">Üleval vasakul</translation>
+      <source>Upper Left</source>
+      <translation type="unfinished">Upper Left</translation>
     </message>
     <message>
-        <source>Upper Right</source>
-        <translation type="unfinished">Üleval paremal</translation>
+      <source>Upper Right</source>
+      <translation type="unfinished">Upper Right</translation>
     </message>
     <message>
-        <source>Middle</source>
-        <translation type="unfinished">Keskel</translation>
+      <source>Middle</source>
+      <translation type="unfinished">Middle</translation>
     </message>
     <message>
-        <source>Bottom Left</source>
-        <translation type="unfinished">All vasakul</translation>
+      <source>Bottom Left</source>
+      <translation type="unfinished">Bottom Left</translation>
     </message>
     <message>
-        <source>Bottom Right</source>
-        <translation type="unfinished">All paremal</translation>
+      <source>Bottom Right</source>
+      <translation type="unfinished">Bottom Right</translation>
     </message>
     <message>
-        <source>Max cover size</source>
-        <translation type="unfinished">Kaanepildi maksimaalne suurus</translation>
+      <source>Max cover size</source>
+      <translation type="unfinished">Max cover size</translation>
     </message>
     <message>
-        <source>Stretch image to fill playlist</source>
-        <translation type="unfinished">Venita kujutist esitusloendi täitmiseks</translation>
+      <source>Stretch image to fill playlist</source>
+      <translation type="unfinished">Stretch image to fill playlist</translation>
     </message>
     <message>
-        <source>Keep aspect ratio</source>
-        <translation type="unfinished">Hoia kuvasuhet</translation>
+      <source>Keep aspect ratio</source>
+      <translation type="unfinished">Keep aspect ratio</translation>
     </message>
     <message>
-        <source>Do not cut image</source>
-        <translation type="unfinished">Ära lõika pilti</translation>
+      <source>Do not cut image</source>
+      <translation type="unfinished">Do not cut image</translation>
     </message>
     <message>
-        <source>Blur amount</source>
-        <translation type="unfinished">Hägustuse hulk</translation>
+      <source>Blur amount</source>
+      <translation type="unfinished">Blur amount</translation>
     </message>
     <message>
-        <source>0px</source>
-        <translation type="unfinished">0px</translation>
+      <source>0px</source>
+      <translation type="unfinished">0px</translation>
     </message>
     <message>
-        <source>Opacity</source>
-        <translation type="unfinished">Läbipaistmatus</translation>
+      <source>Opacity</source>
+      <translation type="unfinished">Opacity</translation>
     </message>
     <message>
-        <source>40%</source>
-        <translation type="unfinished">40%</translation>
+      <source>40%</source>
+      <translation type="unfinished">40%</translation>
     </message>
     <message>
-        <source>Icon sizes</source>
-        <translation type="unfinished">Ikoonide suurus</translation>
+      <source>Icon sizes</source>
+      <translation type="unfinished">Icon sizes</translation>
     </message>
     <message>
-        <source>Playlist buttons</source>
-        <translation type="unfinished">Esitusloendi nupud</translation>
+      <source>Playlist buttons</source>
+      <translation type="unfinished">Playlist buttons</translation>
     </message>
     <message>
-        <source>Tabbar large mode</source>
-        <translation type="unfinished">Suur kaardiriba</translation>
+      <source>Tabbar large mode</source>
+      <translation type="unfinished">Tabbar large mode</translation>
     </message>
     <message>
-        <source>Play control buttons</source>
-        <translation type="unfinished">Esituse juhtnupud</translation>
+      <source>Play control buttons</source>
+      <translation type="unfinished">Play control buttons</translation>
     </message>
     <message>
-        <source>Configure buttons</source>
-        <translation type="unfinished">Seadistuse nupud</translation>
+      <source>Configure buttons</source>
+      <translation type="unfinished">Configure buttons</translation>
     </message>
     <message>
-        <source>Files, playlists and queue buttons</source>
-        <translation type="unfinished">Failid, esitusloendid ja järjekorranupud</translation>
+      <source>Files, playlists and queue buttons</source>
+      <translation type="unfinished">Files, playlists and queue buttons</translation>
     </message>
     <message>
-        <source>Tabbar small mode</source>
-        <translation type="unfinished">Väike kaardiriba</translation>
+      <source>Tabbar small mode</source>
+      <translation type="unfinished">Tabbar small mode</translation>
     </message>
     <message>
-        <source>Playlist playing song color</source>
-        <translation type="unfinished">Esitatava loo värv esitusloendis</translation>
+      <source>Playlist playing song color</source>
+      <translation type="unfinished">Playlist playing song color</translation>
     </message>
     <message>
-        <source>System highlight color</source>
-        <translation type="unfinished">Süsteemi esiletõstu värv</translation>
+      <source>System highlight color</source>
+      <translation type="unfinished">System highlight color</translation>
     </message>
     <message>
-        <source>Custom color</source>
-        <translation type="unfinished">Kohandatud värv</translation>
+      <source>Custom color</source>
+      <translation type="unfinished">Custom color</translation>
     </message>
     <message>
-        <source>Select playlist playing song color:</source>
-        <translation type="unfinished">Vali esitusloendis esitatatava loo värv:</translation>
+      <source>Select playlist playing song color:</source>
+      <translation type="unfinished">Select playlist playing song color:</translation>
     </message>
     <message>
-        <source>Select background image</source>
-        <translation type="unfinished">Vali taustpilt</translation>
+      <source>Select background image</source>
+      <translation type="unfinished">Select background image</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>NotificationsSettingsPage</name>
     <message>
-        <source>Notifications</source>
-        <translation type="unfinished">Teavitused</translation>
+      <source>Notifications</source>
+      <translation type="unfinished">Notifications</translation>
     </message>
     <message>
-        <source>Strawberry can show a message when the track changes.</source>
-        <translation type="unfinished">Strawberry võib loo vahetumisel kuvada märguande.</translation>
+      <source>Strawberry can show a message when the track changes.</source>
+      <translation type="unfinished">Strawberry can show a message when the track changes.</translation>
     </message>
     <message>
-        <source>Notification type</source>
-        <translation type="unfinished">Teavituse tüüp</translation>
+      <source>Notification type</source>
+      <translation type="unfinished">Notification type</translation>
     </message>
     <message>
-        <source>Disabled</source>
-        <comment>Refers to a disabled notification type in Notification settings.</comment>
-        <translation type="unfinished">Välja lülitatud</translation>
+      <source>Disabled</source>
+      <comment>Refers to a disabled notification type in Notification settings.</comment>
+      <translation type="unfinished">Disabled</translation>
     </message>
     <message>
-        <source>Show a &amp;native desktop notification</source>
-        <translation type="unfinished">Kuva &amp;töölaua märguandena</translation>
+      <source>Show a &amp;native desktop notification</source>
+      <translation type="unfinished">Show a &amp;native desktop notification</translation>
     </message>
     <message>
-        <source>Show a pretty OSD</source>
-        <translation type="unfinished">Kuva ilus ekraanimenüü</translation>
+      <source>Show a pretty OSD</source>
+      <translation type="unfinished">Show a pretty OSD</translation>
     </message>
     <message>
-        <source>Show a popup fro&amp;m the system tray</source>
-        <translation type="unfinished">Kuva süsteemisalves hüpikaken</translation>
+      <source>Show a popup fro&amp;m the system tray</source>
+      <translation type="unfinished">Show a popup fro&amp;m the system tray</translation>
     </message>
     <message>
-        <source>General settings</source>
-        <translation type="unfinished">Üldised seadistused</translation>
+      <source>General settings</source>
+      <translation type="unfinished">General settings</translation>
     </message>
     <message>
-        <source>Popup duration</source>
-        <translation type="unfinished">Hüpikakna kestus</translation>
+      <source>Popup duration</source>
+      <translation type="unfinished">Popup duration</translation>
     </message>
     <message>
-        <source> seconds</source>
-        <translation type="unfinished"> sekundit</translation>
+      <source> seconds</source>
+      <translation type="unfinished"> seconds</translation>
     </message>
     <message>
-        <source>Disable duration</source>
-        <translation type="unfinished">Näita kestust</translation>
+      <source>Disable duration</source>
+      <translation type="unfinished">Disable duration</translation>
     </message>
     <message>
-        <source>Show a notification when I change the volume</source>
-        <translation type="unfinished">Kuva helitugevuse muutmisel märguanne</translation>
+      <source>Show a notification when I change the volume</source>
+      <translation type="unfinished">Show a notification when I change the volume</translation>
     </message>
     <message>
-        <source>Show a notification when I change the repeat/shuffle mode</source>
-        <translation type="unfinished">Kuva märguanne kordus-/juhuesitusrežiimi muutmisel</translation>
+      <source>Show a notification when I change the repeat/shuffle mode</source>
+      <translation type="unfinished">Show a notification when I change the repeat/shuffle mode</translation>
     </message>
     <message>
-        <source>Show a notification when I pause playback</source>
-        <translation type="unfinished">Kuva taasesituse pausimisel märguanne</translation>
+      <source>Show a notification when I pause playback</source>
+      <translation type="unfinished">Show a notification when I pause playback</translation>
     </message>
     <message>
-        <source>Show a notification when I resume playback</source>
-        <translation type="unfinished">Kuva taasesituse jätkamisel märguanne</translation>
+      <source>Show a notification when I resume playback</source>
+      <translation type="unfinished">Show a notification when I resume playback</translation>
     </message>
     <message>
-        <source>Include album art in the notification</source>
-        <translation type="unfinished">Kuva teavituses albumi kaanepilt</translation>
+      <source>Include album art in the notification</source>
+      <translation type="unfinished">Include album art in the notification</translation>
     </message>
     <message>
-        <source>Custom message settings</source>
-        <translation type="unfinished">Kohandatud sõnumi seaded</translation>
+      <source>Custom message settings</source>
+      <translation type="unfinished">Custom message settings</translation>
     </message>
     <message>
-        <source>Use a custom message for notifications</source>
-        <translation type="unfinished">Kasuta teavitustes kohandatud sõnumit</translation>
+      <source>Use a custom message for notifications</source>
+      <translation type="unfinished">Use a custom message for notifications</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Eelvaade</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Kokkuvõte</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Body</source>
-        <translation type="unfinished">Sisu</translation>
+      <source>Body</source>
+      <translation type="unfinished">Body</translation>
     </message>
     <message>
-        <source>Pretty OSD options</source>
-        <translation type="unfinished">Ilusa ekraanimenüü seadistused</translation>
+      <source>Pretty OSD options</source>
+      <translation type="unfinished">Pretty OSD options</translation>
     </message>
     <message>
-        <source>Background color</source>
-        <translation type="unfinished">Taustavärv</translation>
+      <source>Background color</source>
+      <translation type="unfinished">Background color</translation>
     </message>
     <message>
-        <source>Text options</source>
-        <translation type="unfinished">Tekstivalikud</translation>
+      <source>Text options</source>
+      <translation type="unfinished">Text options</translation>
     </message>
     <message>
-        <source>Choose font...</source>
-        <translation type="unfinished">Vali kirjatüüp...</translation>
+      <source>Choose font...</source>
+      <translation type="unfinished">Choose font...</translation>
     </message>
     <message>
-        <source>Choose color...</source>
-        <translation type="unfinished">Vali värv...</translation>
+      <source>Choose color...</source>
+      <translation type="unfinished">Choose color...</translation>
     </message>
     <message>
-        <source>Background opacity</source>
-        <translation type="unfinished">Tausta läbipaistvus</translation>
+      <source>Background opacity</source>
+      <translation type="unfinished">Background opacity</translation>
     </message>
     <message>
-        <source>Basic Blue</source>
-        <translation type="unfinished">Tavaline sinine</translation>
+      <source>Basic Blue</source>
+      <translation type="unfinished">Basic Blue</translation>
     </message>
     <message>
-        <source>Strawberry Red</source>
-        <translation type="unfinished">Maasikapunane</translation>
+      <source>Strawberry Red</source>
+      <translation type="unfinished">Strawberry Red</translation>
     </message>
     <message>
-        <source>Custom...</source>
-        <translation type="unfinished">Kohandatud...</translation>
+      <source>Custom...</source>
+      <translation type="unfinished">Custom...</translation>
     </message>
     <message>
-        <source>Enable fading</source>
-        <translation type="unfinished">Luba hajumine</translation>
+      <source>Enable fading</source>
+      <translation type="unfinished">Enable fading</translation>
     </message>
     <message>
-        <source>Add song artist tag</source>
-        <translation type="unfinished">Lisa loole esitaja silt</translation>
+      <source>Add song artist tag</source>
+      <translation type="unfinished">Add song artist tag</translation>
     </message>
     <message>
-        <source>Add song album tag</source>
-        <translation type="unfinished">Lisa loole albumi silt</translation>
+      <source>Add song album tag</source>
+      <translation type="unfinished">Add song album tag</translation>
     </message>
     <message>
-        <source>Add song title tag</source>
-        <translation type="unfinished">Lisa loole pealkirja silt</translation>
+      <source>Add song title tag</source>
+      <translation type="unfinished">Add song title tag</translation>
     </message>
     <message>
-        <source>Add song albumartist tag</source>
-        <translation type="unfinished">Lisa loole albumi esitaja silt</translation>
+      <source>Add song albumartist tag</source>
+      <translation type="unfinished">Add song albumartist tag</translation>
     </message>
     <message>
-        <source>Add song year tag</source>
-        <translation type="unfinished">Lisa loole aasta silt</translation>
+      <source>Add song year tag</source>
+      <translation type="unfinished">Add song year tag</translation>
     </message>
     <message>
-        <source>Add song composer tag</source>
-        <translation type="unfinished">Lisa loole helilooja silt</translation>
+      <source>Add song composer tag</source>
+      <translation type="unfinished">Add song composer tag</translation>
     </message>
     <message>
-        <source>Add song performer tag</source>
-        <translation type="unfinished">Lisa loole esineja silt</translation>
+      <source>Add song performer tag</source>
+      <translation type="unfinished">Add song performer tag</translation>
     </message>
     <message>
-        <source>Add song grouping tag</source>
-        <translation type="unfinished">Lisa loole rühmitamise silt</translation>
+      <source>Add song grouping tag</source>
+      <translation type="unfinished">Add song grouping tag</translation>
     </message>
     <message>
-        <source>Add song disc tag</source>
-        <translation type="unfinished">Lisa loole plaadi numbri silt</translation>
+      <source>Add song disc tag</source>
+      <translation type="unfinished">Add song disc tag</translation>
     </message>
     <message>
-        <source>Add song track tag</source>
-        <translation type="unfinished">Lisa loole plaadijärjekorra silt</translation>
+      <source>Add song track tag</source>
+      <translation type="unfinished">Add song track tag</translation>
     </message>
     <message>
-        <source>Add song genre tag</source>
-        <translation type="unfinished">Lisage loole žanri silt</translation>
+      <source>Add song genre tag</source>
+      <translation type="unfinished">Add song genre tag</translation>
     </message>
     <message>
-        <source>Add song length tag</source>
-        <translation type="unfinished">Lisa loole pikkuse silt</translation>
+      <source>Add song length tag</source>
+      <translation type="unfinished">Add song length tag</translation>
     </message>
     <message>
-        <source>Add song play count</source>
-        <translation type="unfinished">Lisa loole esituskorrad</translation>
+      <source>Add song play count</source>
+      <translation type="unfinished">Add song play count</translation>
     </message>
     <message>
-        <source>Add song skip count</source>
-        <translation type="unfinished">Lisa loole vahelejätmiskorrad</translation>
+      <source>Add song skip count</source>
+      <translation type="unfinished">Add song skip count</translation>
     </message>
     <message>
-        <source>Add song rating</source>
-        <translation type="unfinished">Lisa loole hinnang</translation>
+      <source>Add song rating</source>
+      <translation type="unfinished">Add song rating</translation>
     </message>
     <message>
-        <source>Add a new line if supported by the notification type</source>
-        <translation type="unfinished">Lisa uus rida, kui teavituse tüüp seda toetab</translation>
+      <source>Add a new line if supported by the notification type</source>
+      <translation type="unfinished">Add a new line if supported by the notification type</translation>
     </message>
     <message>
-        <source>%filename%</source>
-        <translation type="unfinished">%filename%</translation>
+      <source>%filename%</source>
+      <translation type="unfinished">%filename%</translation>
     </message>
     <message>
-        <source>Add song filename</source>
-        <translation type="unfinished">Lisa loole failinimi</translation>
+      <source>Add song filename</source>
+      <translation type="unfinished">Add song filename</translation>
     </message>
     <message>
-        <source>%url%</source>
-        <translation type="unfinished">%url%</translation>
+      <source>%url%</source>
+      <translation type="unfinished">%url%</translation>
     </message>
     <message>
-        <source>Add song URL</source>
-        <translation type="unfinished">Lisa loo URL</translation>
+      <source>Add song URL</source>
+      <translation type="unfinished">Add song URL</translation>
     </message>
     <message>
-        <source>%originalyear%</source>
-        <translation type="unfinished">%originalyear%</translation>
+      <source>%originalyear%</source>
+      <translation type="unfinished">%originalyear%</translation>
     </message>
     <message>
-        <source>Add song original year tag</source>
-        <translation type="unfinished">Lisa loole algse aasta silt</translation>
+      <source>Add song original year tag</source>
+      <translation type="unfinished">Add song original year tag</translation>
     </message>
     <message>
-        <source>OSD Preview</source>
-        <translation type="unfinished">Ekraanimenüü eelvaade</translation>
+      <source>OSD Preview</source>
+      <translation type="unfinished">OSD Preview</translation>
     </message>
     <message>
-        <source>Drag to reposition</source>
-        <translation type="unfinished">Lohista asukoha muutmiseks</translation>
+      <source>Drag to reposition</source>
+      <translation type="unfinished">Drag to reposition</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderSettingsPage</name>
     <message>
-        <source>Transcoding</source>
-        <translation type="unfinished">Teisendamine</translation>
+      <source>Transcoding</source>
+      <translation type="unfinished">Transcoding</translation>
     </message>
     <message>
-        <source>These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</source>
-        <translation type="unfinished">Neid sätteid kasutatakse aknas &quot;Teisenda muusikat&quot; ja muusika teisendamisel enne selle seadmesse kopeerimist.</translation>
+      <source>These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</source>
+      <translation type="unfinished">These settings are used in the &quot;Transcode Music&quot; dialog, and when converting music before copying it to a device.</translation>
     </message>
     <message>
-        <source>FLAC</source>
-        <translation type="unfinished">FLAC</translation>
+      <source>FLAC</source>
+      <translation type="unfinished">FLAC</translation>
     </message>
     <message>
-        <source>WavPack</source>
-        <translation type="unfinished">WavPack</translation>
+      <source>WavPack</source>
+      <translation type="unfinished">WavPack</translation>
     </message>
     <message>
-        <source>Vorbis</source>
-        <translation type="unfinished">Vorbis</translation>
+      <source>Vorbis</source>
+      <translation type="unfinished">Vorbis</translation>
     </message>
     <message>
-        <source>Opus</source>
-        <translation type="unfinished">Opus</translation>
+      <source>Opus</source>
+      <translation type="unfinished">Opus</translation>
     </message>
     <message>
-        <source>Speex</source>
-        <translation type="unfinished">Speex</translation>
+      <source>Speex</source>
+      <translation type="unfinished">Speex</translation>
     </message>
     <message>
-        <source>AAC</source>
-        <translation type="unfinished">AAC</translation>
+      <source>AAC</source>
+      <translation type="unfinished">AAC</translation>
     </message>
     <message>
-        <source>ASF (WMA)</source>
-        <translation type="unfinished">ASF (WMA)</translation>
+      <source>ASF (WMA)</source>
+      <translation type="unfinished">ASF (WMA)</translation>
     </message>
     <message>
-        <source>MP3</source>
-        <translation type="unfinished">MP3</translation>
+      <source>MP3</source>
+      <translation type="unfinished">MP3</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Equalizer</name>
     <message>
-        <source>Equalizer</source>
-        <translation type="unfinished">Ekvalaiser</translation>
+      <source>Equalizer</source>
+      <translation type="unfinished">Equalizer</translation>
     </message>
     <message>
-        <source>Preset:</source>
-        <translation type="unfinished">Valmisvalik:</translation>
+      <source>Preset:</source>
+      <translation type="unfinished">Preset:</translation>
     </message>
     <message>
-        <source>Save preset</source>
-        <translation type="unfinished">Eelmääratluse salvestamine</translation>
+      <source>Save preset</source>
+      <translation type="unfinished">Save preset</translation>
     </message>
     <message>
-        <source>Delete preset</source>
-        <translation type="unfinished">Kustuta valmisseadistus</translation>
+      <source>Delete preset</source>
+      <translation type="unfinished">Delete preset</translation>
     </message>
     <message>
-        <source>Enable equalizer</source>
-        <translation type="unfinished">Luba ekvalaiser</translation>
+      <source>Enable equalizer</source>
+      <translation type="unfinished">Enable equalizer</translation>
     </message>
     <message>
-        <source>Enable stereo balancer</source>
-        <translation type="unfinished">Stereo tasakaalustamine</translation>
+      <source>Enable stereo balancer</source>
+      <translation type="unfinished">Enable stereo balancer</translation>
     </message>
     <message>
-        <source>Left</source>
-        <translation type="unfinished">Vasak</translation>
+      <source>Left</source>
+      <translation type="unfinished">Left</translation>
     </message>
     <message>
-        <source>Balance</source>
-        <translation type="unfinished">Tasakaal</translation>
+      <source>Balance</source>
+      <translation type="unfinished">Balance</translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation type="unfinished">Parem</translation>
+      <source>Right</source>
+      <translation type="unfinished">Right</translation>
     </message>
     <message>
-        <source>Pre-amp</source>
-        <translation type="unfinished">Eelmoonutus</translation>
+      <source>Pre-amp</source>
+      <translation type="unfinished">Pre-amp</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="unfinished">Kohanda</translation>
+      <source>Custom</source>
+      <translation type="unfinished">Custom</translation>
     </message>
     <message>
-        <source>Classical</source>
-        <translation type="unfinished">Klassikaline</translation>
+      <source>Classical</source>
+      <translation type="unfinished">Classical</translation>
     </message>
     <message>
-        <source>Club</source>
-        <translation type="unfinished">Klubi</translation>
+      <source>Club</source>
+      <translation type="unfinished">Club</translation>
     </message>
     <message>
-        <source>Dance</source>
-        <translation type="unfinished">Tantsumuusika</translation>
+      <source>Dance</source>
+      <translation type="unfinished">Dance</translation>
     </message>
     <message>
-        <source>Full Bass</source>
-        <translation type="unfinished">Täisbass</translation>
+      <source>Full Bass</source>
+      <translation type="unfinished">Full Bass</translation>
     </message>
     <message>
-        <source>Full Treble</source>
-        <translation type="unfinished">Täiskõrged</translation>
+      <source>Full Treble</source>
+      <translation type="unfinished">Full Treble</translation>
     </message>
     <message>
-        <source>Full Bass + Treble</source>
-        <translation type="unfinished">Täisbass + kõrged</translation>
+      <source>Full Bass + Treble</source>
+      <translation type="unfinished">Full Bass + Treble</translation>
     </message>
     <message>
-        <source>Laptop/Headphones</source>
-        <translation type="unfinished">Sülearvuti/kõrvaklapid</translation>
+      <source>Laptop/Headphones</source>
+      <translation type="unfinished">Laptop/Headphones</translation>
     </message>
     <message>
-        <source>Large Hall</source>
-        <translation type="unfinished">Suur ruum</translation>
+      <source>Large Hall</source>
+      <translation type="unfinished">Large Hall</translation>
     </message>
     <message>
-        <source>Live</source>
-        <translation type="unfinished">Kontsert</translation>
+      <source>Live</source>
+      <translation type="unfinished">Live</translation>
     </message>
     <message>
-        <source>Party</source>
-        <translation type="unfinished">Pidu</translation>
+      <source>Party</source>
+      <translation type="unfinished">Party</translation>
     </message>
     <message>
-        <source>Pop</source>
-        <translation type="unfinished">Pop</translation>
+      <source>Pop</source>
+      <translation type="unfinished">Pop</translation>
     </message>
     <message>
-        <source>Reggae</source>
-        <translation type="unfinished">Regemuusika</translation>
+      <source>Reggae</source>
+      <translation type="unfinished">Reggae</translation>
     </message>
     <message>
-        <source>Rock</source>
-        <translation type="unfinished">Rokk</translation>
+      <source>Rock</source>
+      <translation type="unfinished">Rock</translation>
     </message>
     <message>
-        <source>Soft</source>
-        <translation type="unfinished">Mahe</translation>
+      <source>Soft</source>
+      <translation type="unfinished">Soft</translation>
     </message>
     <message>
-        <source>Ska</source>
-        <translation type="unfinished">Ska</translation>
+      <source>Ska</source>
+      <translation type="unfinished">Ska</translation>
     </message>
     <message>
-        <source>Soft Rock</source>
-        <translation type="unfinished">Pehme rokk</translation>
+      <source>Soft Rock</source>
+      <translation type="unfinished">Soft Rock</translation>
     </message>
     <message>
-        <source>Techno</source>
-        <translation type="unfinished">Tehno</translation>
+      <source>Techno</source>
+      <translation type="unfinished">Techno</translation>
     </message>
     <message>
-        <source>Zero</source>
-        <translation type="unfinished">Null</translation>
+      <source>Zero</source>
+      <translation type="unfinished">Zero</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the &quot;%1&quot; preset?</source>
-        <translation type="unfinished">Kas soovid kustutada eelseadistuse &quot;%1&quot;?</translation>
+      <source>Are you sure you want to delete the &quot;%1&quot; preset?</source>
+      <translation type="unfinished">Are you sure you want to delete the &quot;%1&quot; preset?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>EqualizerSlider</name>
     <message>
-        <source>Equalizer</source>
-        <translation type="unfinished">Ekvalaiser</translation>
+      <source>Equalizer</source>
+      <translation type="unfinished">Equalizer</translation>
     </message>
     <message>
-        <source>%1 dB</source>
-        <translation type="unfinished">%1 dB</translation>
+      <source>%1 dB</source>
+      <translation type="unfinished">%1 dB</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>About</name>
     <message>
-        <source>About</source>
-        <translation type="unfinished">Programmist</translation>
+      <source>About</source>
+      <translation type="unfinished">About</translation>
     </message>
     <message>
-        <source>About Strawberry</source>
-        <translation type="unfinished">Strawberry teave</translation>
+      <source>About Strawberry</source>
+      <translation type="unfinished">About Strawberry</translation>
     </message>
     <message>
-        <source>Version %1</source>
-        <translation type="unfinished">Versioon %1</translation>
+      <source>Version %1</source>
+      <translation type="unfinished">Version %1</translation>
     </message>
     <message>
-        <source>Strawberry is a music player and music collection organizer.</source>
-        <translation type="unfinished">Strawberry on muusikamängija ja helikogude haldur.</translation>
+      <source>Strawberry is a music player and music collection organizer.</source>
+      <translation type="unfinished">Strawberry is a music player and music collection organizer.</translation>
     </message>
     <message>
-        <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
-        <translation type="unfinished">See on 2018. aastal välja antud Clementine haru, mis on suunatud muusikakollektsionääridele ja audiofiilidele.</translation>
+      <source>It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</source>
+      <translation type="unfinished">It is a fork of Clementine released in 2018 aimed at music collectors and audiophiles.</translation>
     </message>
     <message>
-        <source>Strawberry is free software released under GPL. The source code is available on %1</source>
-        <translation type="unfinished">Strawberry on tasuta tarkvara, mis on välja antud GPL litsentsi all.  Lähtekood on saadaval aadressil %1</translation>
+      <source>Strawberry is free software released under GPL. The source code is available on %1</source>
+      <translation type="unfinished">Strawberry is free software released under GPL. The source code is available on %1</translation>
     </message>
     <message>
-        <source>You should have received a copy of the GNU General Public License along with this program.  If not, see %1</source>
-        <translation type="unfinished">Sai ilmselt koos selle programmiga ka GNU üldise avaliku litsentsi koopia. Kui ei, vaata %1</translation>
+      <source>You should have received a copy of the GNU General Public License along with this program.  If not, see %1</source>
+      <translation type="unfinished">You should have received a copy of the GNU General Public License along with this program.  If not, see %1</translation>
     </message>
     <message>
-        <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
-        <translation type="unfinished">Kui sulle meeldib Strawberry ja leiad selle olevat kasulik, kaalu sponsoreerimist või annetamist.</translation>
+      <source>If you like Strawberry and can make use of it, consider sponsoring or donating.</source>
+      <translation type="unfinished">If you like Strawberry and can make use of it, consider sponsoring or donating.</translation>
     </message>
     <message>
-        <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
-        <translation type="unfinished">Võid toetatada autorit saidil %1.  Samuti on võimalik ühekordne makse %2 kaudu.</translation>
+      <source>You can sponsor the author on %1. You can also make a one-time payment through %2.</source>
+      <translation type="unfinished">You can sponsor the author on %1. You can also make a one-time payment through %2.</translation>
     </message>
     <message>
-        <source>Author and maintainer</source>
-        <translation type="unfinished">Autor ja hooldaja</translation>
+      <source>Author and maintainer</source>
+      <translation type="unfinished">Author and maintainer</translation>
     </message>
     <message>
-        <source>Contributors</source>
-        <translation type="unfinished">Toetajad</translation>
+      <source>Contributors</source>
+      <translation type="unfinished">Contributors</translation>
     </message>
     <message>
-        <source>Clementine authors</source>
-        <translation type="unfinished">Clementine autorid</translation>
+      <source>Clementine authors</source>
+      <translation type="unfinished">Clementine authors</translation>
     </message>
     <message>
-        <source>Clementine contributors</source>
-        <translation type="unfinished">Clementine toetajad</translation>
+      <source>Clementine contributors</source>
+      <translation type="unfinished">Clementine contributors</translation>
     </message>
     <message>
-        <source>Thanks to</source>
-        <translation type="unfinished">Tänud</translation>
+      <source>Thanks to</source>
+      <translation type="unfinished">Thanks to</translation>
     </message>
     <message>
-        <source>Thanks to all the other Amarok and Clementine contributors.</source>
-        <translation type="unfinished">Täname kõiki teisi Amaroki ja Clementine&apos; kaastöölisi.</translation>
+      <source>Thanks to all the other Amarok and Clementine contributors.</source>
+      <translation type="unfinished">Thanks to all the other Amarok and Clementine contributors.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ErrorDialog</name>
     <message>
-        <source>Strawberry Error</source>
-        <translation type="unfinished">Strawberry viga</translation>
+      <source>Strawberry Error</source>
+      <translation type="unfinished">Strawberry Error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Console</name>
     <message>
-        <source>Console</source>
-        <translation type="unfinished">Konsool</translation>
+      <source>Console</source>
+      <translation type="unfinished">Console</translation>
     </message>
     <message>
-        <source>Run</source>
-        <translation type="unfinished">Käivita</translation>
+      <source>Run</source>
+      <translation type="unfinished">Run</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>EditTagDialog</name>
     <message>
-        <source>Edit track information</source>
-        <translation type="unfinished">Muuda loo infot</translation>
+      <source>Edit track information</source>
+      <translation type="unfinished">Edit track information</translation>
     </message>
     <message>
-        <source>Summary</source>
-        <translation type="unfinished">Kokkuvõte</translation>
+      <source>Summary</source>
+      <translation type="unfinished">Summary</translation>
     </message>
     <message>
-        <source>Date created</source>
-        <translation type="unfinished">Loomise kuupäev</translation>
+      <source>Date created</source>
+      <translation type="unfinished">Date created</translation>
     </message>
     <message>
-        <source>Art Automatic</source>
-        <translation type="unfinished">Automaatne kaanepilt</translation>
+      <source>Art Automatic</source>
+      <translation type="unfinished">Art Automatic</translation>
     </message>
     <message>
-        <source>Date modified</source>
-        <translation type="unfinished">Muutmise kuupäev</translation>
+      <source>Date modified</source>
+      <translation type="unfinished">Date modified</translation>
     </message>
     <message>
-        <source>Art Embedded</source>
-        <translation type="unfinished">Põimitud kaanepilt</translation>
+      <source>Art Embedded</source>
+      <translation type="unfinished">Art Embedded</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <comment>A playlist&apos;s tag.</comment>
-        <translation type="unfinished">Viimati esitatud</translation>
+      <source>Last played</source>
+      <comment>A playlist&apos;s tag.</comment>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>File type</source>
-        <translation type="unfinished">Faili tüüp</translation>
+      <source>File type</source>
+      <translation type="unfinished">File type</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Kestus</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Play count</source>
-        <translation type="unfinished">Esituskordi</translation>
+      <source>Play count</source>
+      <translation type="unfinished">Play count</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>EBU R 128 integrated loudness</source>
-        <translation type="unfinished">EBU R 128 integreeritud valjus</translation>
+      <source>EBU R 128 integrated loudness</source>
+      <translation type="unfinished">EBU R 128 integrated loudness</translation>
     </message>
     <message>
-        <source>Bit rate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bit rate</source>
+      <translation type="unfinished">Bit rate</translation>
     </message>
     <message>
-        <source>Skip count</source>
-        <translation type="unfinished">Vahelejätmisi</translation>
+      <source>Skip count</source>
+      <translation type="unfinished">Skip count</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Path</source>
-        <translation type="unfinished">Asukoht</translation>
+      <source>Path</source>
+      <translation type="unfinished">Path</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="unfinished">Faili nimi</translation>
+      <source>Filename</source>
+      <translation type="unfinished">Filename</translation>
     </message>
     <message>
-        <source>Art Unset</source>
-        <translation type="unfinished">Kaanepilt määramata</translation>
+      <source>Art Unset</source>
+      <translation type="unfinished">Art Unset</translation>
     </message>
     <message>
-        <source>File size</source>
-        <translation type="unfinished">Faili suurus</translation>
+      <source>File size</source>
+      <translation type="unfinished">File size</translation>
     </message>
     <message>
-        <source>Art Manual</source>
-        <translation type="unfinished">Käsitsi kaanepilt</translation>
+      <source>Art Manual</source>
+      <translation type="unfinished">Art Manual</translation>
     </message>
     <message>
-        <source>EBU R 128 loudness range</source>
-        <translation type="unfinished">EBU R 128 valjuse vahemik</translation>
+      <source>EBU R 128 loudness range</source>
+      <translation type="unfinished">EBU R 128 loudness range</translation>
     </message>
     <message>
-        <source>Reset play counts</source>
-        <translation type="unfinished">Lähtesta esituskorrad</translation>
+      <source>Reset play counts</source>
+      <translation type="unfinished">Reset play counts</translation>
     </message>
     <message>
-        <source>Tags</source>
-        <translation type="unfinished">Sildid</translation>
+      <source>Tags</source>
+      <translation type="unfinished">Tags</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>Change art</source>
-        <translation type="unfinished">Muuda kaanepilti</translation>
+      <source>Change art</source>
+      <translation type="unfinished">Change art</translation>
     </message>
     <message>
-        <source>Embedded cover</source>
-        <translation type="unfinished">Põimitud kaanepilt</translation>
+      <source>Embedded cover</source>
+      <translation type="unfinished">Embedded cover</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Ketas</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Rühmitamine</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Albumi esitaja</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Pealkiri</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Helilooja</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Complete tags automatically</source>
-        <translation type="unfinished">Täida sildid automaatselt</translation>
+      <source>Complete tags automatically</source>
+      <translation type="unfinished">Complete tags automatically</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Žanr</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Märkus</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Esineja</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Compilation</source>
-        <translation type="unfinished">Kogumik</translation>
+      <source>Compilation</source>
+      <translation type="unfinished">Compilation</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Rada</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation type="unfinished">Hinnang</translation>
+      <source>Rating</source>
+      <translation type="unfinished">Rating</translation>
     </message>
     <message>
-        <source>Lyrics</source>
-        <translation type="unfinished">Laulusõnad</translation>
+      <source>Lyrics</source>
+      <translation type="unfinished">Lyrics</translation>
     </message>
     <message>
-        <source>Complete lyrics automatically</source>
-        <translation type="unfinished">Täida laulusõnad automaatselt</translation>
+      <source>Complete lyrics automatically</source>
+      <translation type="unfinished">Complete lyrics automatically</translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation type="unfinished">Eelmine</translation>
+      <source>Previous</source>
+      <translation type="unfinished">Previous</translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation type="unfinished">Järgmine</translation>
+      <source>Next</source>
+      <translation type="unfinished">Next</translation>
     </message>
     <message>
-        <source>Saving tracks</source>
-        <translation type="unfinished">Lugude salvestamine</translation>
+      <source>Saving tracks</source>
+      <translation type="unfinished">Saving tracks</translation>
     </message>
     <message>
-        <source>Loading tracks</source>
-        <translation type="unfinished">Radade laadimine</translation>
+      <source>Loading tracks</source>
+      <translation type="unfinished">Loading tracks</translation>
     </message>
     <message>
-        <source>%1 songs selected.</source>
-        <translation type="unfinished">%1 lugu valitud.</translation>
+      <source>%1 songs selected.</source>
+      <translation type="unfinished">%1 songs selected.</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kbps</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="unfinished">Jah</translation>
+      <source>Yes</source>
+      <translation type="unfinished">Yes</translation>
     </message>
     <message>
-        <source>No</source>
-        <translation type="unfinished">Ei</translation>
+      <source>No</source>
+      <translation type="unfinished">No</translation>
     </message>
     <message>
-        <source>None</source>
-        <translation type="unfinished">Puudub</translation>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-        <source>Cover is unset.</source>
-        <translation type="unfinished">Kaanepilt on kinnitamata.</translation>
+      <source>Cover is unset.</source>
+      <translation type="unfinished">Cover is unset.</translation>
     </message>
     <message>
-        <source>Cover from embedded image.</source>
-        <translation type="unfinished">Kaanepilt põimitud pildilt.</translation>
+      <source>Cover from embedded image.</source>
+      <translation type="unfinished">Cover from embedded image.</translation>
     </message>
     <message>
-        <source>Cover from %1</source>
-        <translation type="unfinished">Kaanepilt teenuselt %1</translation>
+      <source>Cover from %1</source>
+      <translation type="unfinished">Cover from %1</translation>
     </message>
     <message>
-        <source>Cover art not set</source>
-        <translation type="unfinished">Kaanepilt määramata</translation>
+      <source>Cover art not set</source>
+      <translation type="unfinished">Cover art not set</translation>
     </message>
     <message>
-        <source>Album cover editing is only available for collection songs.</source>
-        <translation type="unfinished">Kaanepildi muutmine on võimalik ainult helikogu lugudel.</translation>
+      <source>Album cover editing is only available for collection songs.</source>
+      <translation type="unfinished">Album cover editing is only available for collection songs.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be cleared when saved.</source>
-        <translation type="unfinished">Kaanepilt muudetud: salvestamisel eemaldatakse.</translation>
+      <source>Cover changed: Will be cleared when saved.</source>
+      <translation type="unfinished">Cover changed: Will be cleared when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be unset when saved.</source>
-        <translation type="unfinished">Kaanepilt muudetud: salvestamisel tühistatakse.</translation>
+      <source>Cover changed: Will be unset when saved.</source>
+      <translation type="unfinished">Cover changed: Will be unset when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will be deleted when saved.</source>
-        <translation type="unfinished">Kaanepilt muudetud: salvestamisel kustutatakse.</translation>
+      <source>Cover changed: Will be deleted when saved.</source>
+      <translation type="unfinished">Cover changed: Will be deleted when saved.</translation>
     </message>
     <message>
-        <source>Cover changed: Will set new when saved.</source>
-        <translation type="unfinished">Kaanepilt muudetud: salvestamisel määratakse uus.</translation>
+      <source>Cover changed: Will set new when saved.</source>
+      <translation type="unfinished">Cover changed: Will set new when saved.</translation>
     </message>
     <message>
-        <source>Never</source>
-        <translation type="unfinished">Mitte kunagi</translation>
+      <source>Never</source>
+      <translation type="unfinished">Never</translation>
     </message>
     <message>
-        <source>Reset song play statistics</source>
-        <translation type="unfinished">Lähtest loo esitamise statistika</translation>
+      <source>Reset song play statistics</source>
+      <translation type="unfinished">Reset song play statistics</translation>
     </message>
     <message>
-        <source>Are you sure you want to reset this song&apos;s play statistics?</source>
-        <translation type="unfinished">Kas soovid selle loo esitusstatistika lähtestada?</translation>
+      <source>Are you sure you want to reset this song&apos;s play statistics?</source>
+      <translation type="unfinished">Are you sure you want to reset this song&apos;s play statistics?</translation>
     </message>
     <message>
-        <source>loading...</source>
-        <translation type="unfinished">laadimine...</translation>
+      <source>loading...</source>
+      <translation type="unfinished">loading...</translation>
     </message>
     <message>
-        <source>Not found.</source>
-        <translation type="unfinished">Ei leitud.</translation>
+      <source>Not found.</source>
+      <translation type="unfinished">Not found.</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1</source>
-        <translation type="unfinished">Metaandmete salvestamine faili „%1“ ei õnnestunud</translation>
+      <source>Could not write metadata to %1</source>
+      <translation type="unfinished">Could not write metadata to %1</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1: %2</source>
-        <translation type="unfinished">Metaandmete salvestamine faili „%1“ ei õnnestunud: %2</translation>
+      <source>Could not write metadata to %1: %2</source>
+      <translation type="unfinished">Could not write metadata to %1: %2</translation>
     </message>
     <message>
-        <source>(different across multiple songs)</source>
-        <translation type="unfinished"></translation>
+      <source>(different across multiple songs)</source>
+      <translation type="unfinished">(different across multiple songs)</translation>
     </message>
     <message>
-        <source>Different art across multiple songs.</source>
-        <translation type="unfinished"></translation>
+      <source>Different art across multiple songs.</source>
+      <translation type="unfinished">Different art across multiple songs.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TrackSelectionDialog</name>
     <message>
-        <source>Tag fetcher</source>
-        <translation type="unfinished">Siltide laadija</translation>
+      <source>Tag fetcher</source>
+      <translation type="unfinished">Tag fetcher</translation>
     </message>
     <message>
-        <source>Sorry</source>
-        <translation type="unfinished">Vabandust</translation>
+      <source>Sorry</source>
+      <translation type="unfinished">Sorry</translation>
     </message>
     <message>
-        <source>Strawberry was unable to find results for this file</source>
-        <translation type="unfinished">Strawberry ei leidnud selle faili jaoks tulemusi</translation>
+      <source>Strawberry was unable to find results for this file</source>
+      <translation type="unfinished">Strawberry was unable to find results for this file</translation>
     </message>
     <message>
-        <source>Select best possible match</source>
-        <translation type="unfinished">Vali parim võimalik vaste</translation>
+      <source>Select best possible match</source>
+      <translation type="unfinished">Select best possible match</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Rada</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Pealkiri</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation type="unfinished">Eelmine</translation>
+      <source>Previous</source>
+      <translation type="unfinished">Previous</translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation type="unfinished">Järgmine</translation>
+      <source>Next</source>
+      <translation type="unfinished">Next</translation>
     </message>
     <message>
-        <source>Original tags</source>
-        <translation type="unfinished">Algsed sildid</translation>
+      <source>Original tags</source>
+      <translation type="unfinished">Original tags</translation>
     </message>
     <message>
-        <source>Suggested tags</source>
-        <translation type="unfinished">Soovitatud sildid</translation>
+      <source>Suggested tags</source>
+      <translation type="unfinished">Suggested tags</translation>
     </message>
     <message>
-        <source>Saving tracks</source>
-        <translation type="unfinished">Lugude salvestamine</translation>
+      <source>Saving tracks</source>
+      <translation type="unfinished">Saving tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AddStreamDialog</name>
     <message>
-        <source>Add Stream</source>
-        <translation type="unfinished">Lisa voog</translation>
+      <source>Add Stream</source>
+      <translation type="unfinished">Add Stream</translation>
     </message>
     <message>
-        <source>Enter the URL of a stream:</source>
-        <translation type="unfinished">Sisesta voo URL:</translation>
+      <source>Enter the URL of a stream:</source>
+      <translation type="unfinished">Enter the URL of a stream:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>UserPassDialog</name>
     <message>
-        <source>Enter username and password</source>
-        <translation type="unfinished">Sisesta kasutajanimi ja parool</translation>
+      <source>Enter username and password</source>
+      <translation type="unfinished">Enter username and password</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastFMImportDialog</name>
     <message>
-        <source>Import data from last.fm</source>
-        <translation type="unfinished">Impordi last.fm andmed</translation>
+      <source>Import data from last.fm</source>
+      <translation type="unfinished">Import data from last.fm</translation>
     </message>
     <message>
-        <source>Choose data to import from last.fm</source>
-        <translation type="unfinished">Vali andmed saidilt last.fm importimiseks</translation>
+      <source>Choose data to import from last.fm</source>
+      <translation type="unfinished">Choose data to import from last.fm</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <translation type="unfinished">Viimati esitatud</translation>
+      <source>Last played</source>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>Play counts</source>
-        <translation type="unfinished">Esituskordi</translation>
+      <source>Play counts</source>
+      <translation type="unfinished">Play counts</translation>
     </message>
     <message>
-        <source>Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</source>
-        <translation type="unfinished">Hoiatus: Esituskordade ja viimati mängitud lugude statistikasaidilt last.fm asendab täielikult samad andmed vastega lugude jaoks. Andmed asendatakse sama albumi esitaja ja loo pealkirja järgi! Enne alustamist varunda oma andmebaas.</translation>
+      <source>Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</source>
+      <translation type="unfinished">Warning: Play counts and last played from last.fm will completely replace the same data for the matched songs. Play counts will replace the data based on artist and song title for the same albums! Please backup your database before you start.</translation>
     </message>
     <message>
-        <source>Go!</source>
-        <translation type="unfinished">Mine!</translation>
+      <source>Go!</source>
+      <translation type="unfinished">Go!</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Sulge</translation>
+      <source>Close</source>
+      <translation type="unfinished">Close</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+      <source>Cancel</source>
+      <translation type="unfinished">Cancel</translation>
     </message>
     <message>
-        <source>Receiving initial data from last.fm...</source>
-        <translation type="unfinished">Algandmete vastuvõtmine saidilt last.fm...</translation>
+      <source>Receiving initial data from last.fm...</source>
+      <translation type="unfinished">Receiving initial data from last.fm...</translation>
     </message>
     <message>
-        <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
-        <translation type="unfinished">Esituskordade vastuvõtmine %1 loo jaoks ja viimati esitamine %2 loo jaoks.</translation>
+      <source>Receiving playcount for %1 songs and last played for %2 songs.</source>
+      <translation type="unfinished">Receiving playcount for %1 songs and last played for %2 songs.</translation>
     </message>
     <message>
-        <source>Receiving last played for %1 songs.</source>
-        <translation type="unfinished">%1 loo viimati esitamise vastuvõtmine.</translation>
+      <source>Receiving last played for %1 songs.</source>
+      <translation type="unfinished">Receiving last played for %1 songs.</translation>
     </message>
     <message>
-        <source>Receiving playcounts for %1 songs.</source>
-        <translation type="unfinished">%1 loo esituskorra vastuvõtmine.</translation>
+      <source>Receiving playcounts for %1 songs.</source>
+      <translation type="unfinished">Receiving playcounts for %1 songs.</translation>
     </message>
     <message>
-        <source>Playcounts for %1 songs and last played for %2 songs received.</source>
-        <translation type="unfinished">%1 loo esituskorrad ja %2 loo viimati esitamised on vastu võetud.</translation>
+      <source>Playcounts for %1 songs and last played for %2 songs received.</source>
+      <translation type="unfinished">Playcounts for %1 songs and last played for %2 songs received.</translation>
     </message>
     <message>
-        <source>Last played for %1 songs received.</source>
-        <translation type="unfinished">Viimati esitamine %1 loole vastu võetud.</translation>
+      <source>Last played for %1 songs received.</source>
+      <translation type="unfinished">Last played for %1 songs received.</translation>
     </message>
     <message>
-        <source>Playcounts for %1 songs received.</source>
-        <translation type="unfinished">%1 loo esituskorrad on vastu võetud.</translation>
+      <source>Playcounts for %1 songs received.</source>
+      <translation type="unfinished">Playcounts for %1 songs received.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MessageDialog</name>
     <message>
-        <source>Message Dialog</source>
-        <translation type="unfinished">Sõnumiaken</translation>
+      <source>Message Dialog</source>
+      <translation type="unfinished">Message Dialog</translation>
     </message>
     <message>
-        <source>Do not show this message again.</source>
-        <translation type="unfinished">Ära seda teadet enam näita.</translation>
+      <source>Do not show this message again.</source>
+      <translation type="unfinished">Do not show this message again.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SavePlaylistsDialog</name>
     <message>
-        <source>Select directory for saving playlists</source>
-        <translation type="unfinished">Vali esitusloendite salvestamise kataloog</translation>
+      <source>Select directory for saving playlists</source>
+      <translation type="unfinished">Select directory for saving playlists</translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation type="unfinished">Tüüp</translation>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
     </message>
     <message>
-        <source>Select directory for the playlists</source>
-        <translation type="unfinished">Vali esitusloendite jaoks kataloog</translation>
+      <source>Select directory for the playlists</source>
+      <translation type="unfinished">Select directory for the playlists</translation>
     </message>
     <message>
-        <source>Directory does not exist.</source>
-        <translation type="unfinished">Kataloogi pole olemas.</translation>
+      <source>Directory does not exist.</source>
+      <translation type="unfinished">Directory does not exist.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TrackSlider</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>0:00:00</source>
-        <translation type="unfinished">0:00:00</translation>
+      <source>0:00:00</source>
+      <translation type="unfinished">0:00:00</translation>
     </message>
     <message>
-        <source>Click to toggle between remaining time and total time</source>
-        <translation type="unfinished">Klõpsa järelejäänud aja ja kestuse vahel vahetamiseks</translation>
+      <source>Click to toggle between remaining time and total time</source>
+      <translation type="unfinished">Click to toggle between remaining time and total time</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileView</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LoginStateWidget</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>You are not signed in.</source>
-        <translation type="unfinished">Sa ei ole sisse logitud.</translation>
+      <source>You are not signed in.</source>
+      <translation type="unfinished">You are not signed in.</translation>
     </message>
     <message>
-        <source>Sign out</source>
-        <translation type="unfinished">Logi välja</translation>
+      <source>Sign out</source>
+      <translation type="unfinished">Sign out</translation>
     </message>
     <message>
-        <source>Signing in...</source>
-        <translation type="unfinished">Sisselogimine...</translation>
+      <source>Signing in...</source>
+      <translation type="unfinished">Signing in...</translation>
     </message>
     <message>
-        <source>You are signed in.</source>
-        <translation type="unfinished">Oled sisse logitud.</translation>
+      <source>You are signed in.</source>
+      <translation type="unfinished">You are signed in.</translation>
     </message>
     <message>
-        <source>You are signed in as %1.</source>
-        <translation type="unfinished">Oled sisse logitud kui %1.</translation>
+      <source>You are signed in as %1.</source>
+      <translation type="unfinished">You are signed in as %1.</translation>
     </message>
     <message>
-        <source>Expires on %1</source>
-        <translation type="unfinished">Aegub %1</translation>
+      <source>Expires on %1</source>
+      <translation type="unfinished">Expires on %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingTabsView</name>
     <message>
-        <source>Streaming Tabs View</source>
-        <translation type="unfinished">Voogedastuse kaardivaade</translation>
+      <source>Streaming Tabs View</source>
+      <translation type="unfinished">Streaming Tabs View</translation>
     </message>
     <message>
-        <source>Artists</source>
-        <translation type="unfinished">Esitajad</translation>
+      <source>Artists</source>
+      <translation type="unfinished">Artists</translation>
     </message>
     <message>
-        <source>Albums</source>
-        <translation type="unfinished">Albumid</translation>
+      <source>Albums</source>
+      <translation type="unfinished">Albums</translation>
     </message>
     <message>
-        <source>Songs</source>
-        <translation type="unfinished">lugu</translation>
+      <source>Songs</source>
+      <translation type="unfinished">Songs</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Otsing</translation>
+      <source>Search</source>
+      <translation type="unfinished">Search</translation>
     </message>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Seadista %1...</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingCollectionViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="unfinished">Sulge</translation>
+      <source>Close</source>
+      <translation type="unfinished">Close</translation>
     </message>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Katkesta</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
     <message>
-        <source>Refresh catalogue</source>
-        <translation type="unfinished">Värskenda kataloog</translation>
+      <source>Refresh catalogue</source>
+      <translation type="unfinished">Refresh catalogue</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSearchView</name>
     <message>
-        <source>Streaming Search View</source>
-        <translation type="unfinished">Voogedastuse otsinguvaade</translation>
+      <source>Streaming Search View</source>
+      <translation type="unfinished">Streaming Search View</translation>
     </message>
     <message>
-        <source>MenuPopupToolButton</source>
-        <translation type="unfinished">MenuPopupToolButton</translation>
+      <source>MenuPopupToolButton</source>
+      <translation type="unfinished">MenuPopupToolButton</translation>
     </message>
     <message>
-        <source>artists</source>
-        <translation type="unfinished">esitajad</translation>
+      <source>artists</source>
+      <translation type="unfinished">artists</translation>
     </message>
     <message>
-        <source>albums</source>
-        <translation type="unfinished">albumit</translation>
+      <source>albums</source>
+      <translation type="unfinished">albums</translation>
     </message>
     <message>
-        <source>songs</source>
-        <translation type="unfinished">lugu</translation>
+      <source>songs</source>
+      <translation type="unfinished">songs</translation>
     </message>
     <message>
-        <source>Enter search terms above to find music</source>
-        <translation type="unfinished">Muusika leidmiseks sisesta üles otsingusõnad</translation>
+      <source>Enter search terms above to find music</source>
+      <translation type="unfinished">Enter search terms above to find music</translation>
     </message>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Seadista %1...</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Lisa järjekorda</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Add to artists</source>
-        <translation type="unfinished">Lisa esitajate hulka</translation>
+      <source>Add to artists</source>
+      <translation type="unfinished">Add to artists</translation>
     </message>
     <message>
-        <source>Add to albums</source>
-        <translation type="unfinished">Lisa albumitesse</translation>
+      <source>Add to albums</source>
+      <translation type="unfinished">Add to albums</translation>
     </message>
     <message>
-        <source>Add to songs</source>
-        <translation type="unfinished">Lisa lugude hulka</translation>
+      <source>Add to songs</source>
+      <translation type="unfinished">Add to songs</translation>
     </message>
     <message>
-        <source>Search for this</source>
-        <translation type="unfinished">Otsi seda</translation>
+      <source>Search for this</source>
+      <translation type="unfinished">Search for this</translation>
     </message>
     <message>
-        <source>Group by</source>
-        <translation type="unfinished">Rühmitamise alus</translation>
+      <source>Group by</source>
+      <translation type="unfinished">Group by</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OrganizeDialog</name>
     <message>
-        <source>Organize Files</source>
-        <translation type="unfinished">Korrasta faile</translation>
+      <source>Organize Files</source>
+      <translation type="unfinished">Organize Files</translation>
     </message>
     <message>
-        <source>Destination</source>
-        <translation type="unfinished">Sihtkoht</translation>
+      <source>Destination</source>
+      <translation type="unfinished">Destination</translation>
     </message>
     <message>
-        <source>After copying...</source>
-        <translation type="unfinished">Pärast kopeerimist...</translation>
+      <source>After copying...</source>
+      <translation type="unfinished">After copying...</translation>
     </message>
     <message>
-        <source>Keep the original files</source>
-        <translation type="unfinished">Säiilita algsed failid</translation>
+      <source>Keep the original files</source>
+      <translation type="unfinished">Keep the original files</translation>
     </message>
     <message>
-        <source>Delete the original files</source>
-        <translation type="unfinished">Kustuta algsed failid</translation>
+      <source>Delete the original files</source>
+      <translation type="unfinished">Delete the original files</translation>
     </message>
     <message>
-        <source>Naming options</source>
-        <translation type="unfinished">Nimetamise valikud</translation>
+      <source>Naming options</source>
+      <translation type="unfinished">Naming options</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
+      <source>&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
 
 &lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Asendusmärkid algavad %&apos;ga, näiteks %artist, %album %title&lt;/p&gt;
+      <translation type="unfinished">&lt;p&gt;Tokens start with %, for example: %artist %album %title &lt;/p&gt;
 
-&lt;p&gt;Kui Kui ümbritsed asendusmärkidega tekstilõigu looksulgudega, siis see tekstilõik jäetakse kuvamata, kui asendusmärgi väärtus on tühi.&lt;/p&gt;</translation>
+&lt;p&gt;If you surround sections of text that contain a token with curly-braces, that section will be hidden if the token is empty.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Insert...</source>
-        <translation type="unfinished">Lisa...</translation>
+      <source>Insert...</source>
+      <translation type="unfinished">Insert...</translation>
     </message>
     <message>
-        <source>Remove problematic characters from filenames</source>
-        <translation type="unfinished">Eemalda failinimedest probleemsed tähemärgid</translation>
+      <source>Remove problematic characters from filenames</source>
+      <translation type="unfinished">Remove problematic characters from filenames</translation>
     </message>
     <message>
-        <source>Restrict to characters allowed on FAT filesystems</source>
-        <translation type="unfinished">Piira FAT failisüsteemides lubatud tähemärkidega</translation>
+      <source>Restrict to characters allowed on FAT filesystems</source>
+      <translation type="unfinished">Restrict to characters allowed on FAT filesystems</translation>
     </message>
     <message>
-        <source>Restrict characters to ASCII</source>
-        <translation type="unfinished">Piira ASCII tähemärkidega</translation>
+      <source>Restrict characters to ASCII</source>
+      <translation type="unfinished">Restrict characters to ASCII</translation>
     </message>
     <message>
-        <source>Allow extended ASCII characters</source>
-        <translation type="unfinished">Luba laiendatud ASCII tähemärgid</translation>
+      <source>Allow extended ASCII characters</source>
+      <translation type="unfinished">Allow extended ASCII characters</translation>
     </message>
     <message>
-        <source>Replace spaces with underscores</source>
-        <translation type="unfinished">Asenda tühikud allkriipsudega</translation>
+      <source>Replace spaces with underscores</source>
+      <translation type="unfinished">Replace spaces with underscores</translation>
     </message>
     <message>
-        <source>Overwrite existing files</source>
-        <translation type="unfinished">Kirjuta olemasolevad failid üle</translation>
+      <source>Overwrite existing files</source>
+      <translation type="unfinished">Overwrite existing files</translation>
     </message>
     <message>
-        <source>Copy album cover artwork</source>
-        <translation type="unfinished">Kopeeri albumi kaanepildid</translation>
+      <source>Copy album cover artwork</source>
+      <translation type="unfinished">Copy album cover artwork</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation type="unfinished">Eelvaade</translation>
+      <source>Preview</source>
+      <translation type="unfinished">Preview</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Laadimine...</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>Safely remove the device after copying</source>
-        <translation type="unfinished">Pärast kopeerimist eemalda seade ohutult</translation>
+      <source>Safely remove the device after copying</source>
+      <translation type="unfinished">Safely remove the device after copying</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Pealkiri</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Artist&apos;s initial</source>
-        <translation type="unfinished">Esitaja initsiaalid</translation>
+      <source>Artist&apos;s initial</source>
+      <translation type="unfinished">Artist&apos;s initial</translation>
     </message>
     <message>
-        <source>Album artist</source>
-        <translation type="unfinished">Albumi esitaja</translation>
+      <source>Album artist</source>
+      <translation type="unfinished">Album artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Helilooja</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Esineja</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Rühmitamine</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Rada</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Ketas</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original year</source>
-        <translation type="unfinished">Algne aasta</translation>
+      <source>Original year</source>
+      <translation type="unfinished">Original year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Žanr</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Märkus</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Kestus</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <comment>Refers to bitrate in file organize dialog.</comment>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <comment>Refers to bitrate in file organize dialog.</comment>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>Sample rate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Sample rate</source>
+      <translation type="unfinished">Sample rate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>File extension</source>
-        <translation type="unfinished">Faililaiend</translation>
+      <source>File extension</source>
+      <translation type="unfinished">File extension</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscodeDialog</name>
     <message>
-        <source>Transcode Music</source>
-        <translation type="unfinished">Teisenda muusikat</translation>
+      <source>Transcode Music</source>
+      <translation type="unfinished">Transcode Music</translation>
     </message>
     <message>
-        <source>Files to transcode</source>
-        <translation type="unfinished">Teisendatavad failid</translation>
+      <source>Files to transcode</source>
+      <translation type="unfinished">Files to transcode</translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="unfinished">Faili nimi</translation>
+      <source>Filename</source>
+      <translation type="unfinished">Filename</translation>
     </message>
     <message>
-        <source>Directory</source>
-        <translation type="unfinished">Kataloog</translation>
+      <source>Directory</source>
+      <translation type="unfinished">Directory</translation>
     </message>
     <message>
-        <source>Add...</source>
-        <translation type="unfinished">Lisa...</translation>
+      <source>Add...</source>
+      <translation type="unfinished">Add...</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="unfinished">Eemalda</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Add all tracks from a directory and all its subdirectories</source>
-        <translation type="unfinished">Lisa kõik lood kataloogist ja kõigist selle alamkataloogidest</translation>
+      <source>Add all tracks from a directory and all its subdirectories</source>
+      <translation type="unfinished">Add all tracks from a directory and all its subdirectories</translation>
     </message>
     <message>
-        <source>Import...</source>
-        <translation type="unfinished">Impordi...</translation>
+      <source>Import...</source>
+      <translation type="unfinished">Import...</translation>
     </message>
     <message>
-        <source>Output options</source>
-        <translation type="unfinished">Väljundi valikud</translation>
+      <source>Output options</source>
+      <translation type="unfinished">Output options</translation>
     </message>
     <message>
-        <source>Audio format</source>
-        <translation type="unfinished">Heli vorming</translation>
+      <source>Audio format</source>
+      <translation type="unfinished">Audio format</translation>
     </message>
     <message>
-        <source>Options...</source>
-        <translation type="unfinished">Valikud...</translation>
+      <source>Options...</source>
+      <translation type="unfinished">Options...</translation>
     </message>
     <message>
-        <source>Destination</source>
-        <translation type="unfinished">Sihtkoht</translation>
+      <source>Destination</source>
+      <translation type="unfinished">Destination</translation>
     </message>
     <message>
-        <source>Alongside the originals</source>
-        <translation type="unfinished">Lähtefailide kõrval</translation>
+      <source>Alongside the originals</source>
+      <translation type="unfinished">Alongside the originals</translation>
     </message>
     <message>
-        <source>Select...</source>
-        <translation type="unfinished">Vali...</translation>
+      <source>Select...</source>
+      <translation type="unfinished">Select...</translation>
     </message>
     <message>
-        <source>Progress</source>
-        <translation type="unfinished">Edenemine</translation>
+      <source>Progress</source>
+      <translation type="unfinished">Progress</translation>
     </message>
     <message>
-        <source>Details...</source>
-        <translation type="unfinished">Üksikasjad...</translation>
+      <source>Details...</source>
+      <translation type="unfinished">Details...</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Puhasta</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Start transcoding</source>
-        <translation type="unfinished">Alusta teisendamist</translation>
+      <source>Start transcoding</source>
+      <translation type="unfinished">Start transcoding</translation>
     </message>
     <message numerus="yes">
-        <source>%n remaining</source>
-        <translation type="unfinished">
-            <numerusform>jäänud %n</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n remaining</source>
+      <translation type="unfinished">
+        <numerusform>%n remaining</numerusform>
+        <numerusform>%n remaining</numerusform>
+      </translation>
     </message>
     <message numerus="yes">
-        <source>%n finished</source>
-        <translation type="unfinished">
-            <numerusform>%n lõpetatud</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n finished</source>
+      <translation type="unfinished">
+        <numerusform>%n finished</numerusform>
+        <numerusform>%n finished</numerusform>
+      </translation>
     </message>
     <message numerus="yes">
-        <source>%n failed</source>
-        <translation type="unfinished">
-            <numerusform>%n ebaõnnestus</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n failed</source>
+      <translation type="unfinished">
+        <numerusform>%n failed</numerusform>
+        <numerusform>%n failed</numerusform>
+      </translation>
     </message>
     <message>
-        <source>Add files to transcode</source>
-        <translation type="unfinished">Lisa failid teisendamiseks</translation>
+      <source>Add files to transcode</source>
+      <translation type="unfinished">Add files to transcode</translation>
     </message>
     <message>
-        <source>Music</source>
-        <translation type="unfinished">Muusika</translation>
+      <source>Music</source>
+      <translation type="unfinished">Music</translation>
     </message>
     <message>
-        <source>Open a directory to import music from</source>
-        <translation type="unfinished">Ava kataloog, kust muusika importida</translation>
+      <source>Open a directory to import music from</source>
+      <translation type="unfinished">Open a directory to import music from</translation>
     </message>
     <message>
-        <source>Add folder</source>
-        <translation type="unfinished">Lisa kaust</translation>
+      <source>Add folder</source>
+      <translation type="unfinished">Add folder</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscodeLogDialog</name>
     <message>
-        <source>Transcoder Log</source>
-        <translation type="unfinished">Teisendamise logi</translation>
+      <source>Transcoder Log</source>
+      <translation type="unfinished">Transcoder Log</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsAAC</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Profile</source>
-        <translation type="unfinished">Profiil</translation>
+      <source>Profile</source>
+      <translation type="unfinished">Profile</translation>
     </message>
     <message>
-        <source>Main profile (MAIN)</source>
-        <translation type="unfinished">Põhiprofiil (MAIN)</translation>
+      <source>Main profile (MAIN)</source>
+      <translation type="unfinished">Main profile (MAIN)</translation>
     </message>
     <message>
-        <source>Low complexity profile (LC)</source>
-        <translation type="unfinished">Vähese keerukusega profiil (LC)</translation>
+      <source>Low complexity profile (LC)</source>
+      <translation type="unfinished">Low complexity profile (LC)</translation>
     </message>
     <message>
-        <source>Scalable sampling rate profile (SSR)</source>
-        <translation type="unfinished">Skaleeritava diskreetimissageduse profiil (Scalable sampling rate profile - SSR)</translation>
+      <source>Scalable sampling rate profile (SSR)</source>
+      <translation type="unfinished">Scalable sampling rate profile (SSR)</translation>
     </message>
     <message>
-        <source>Long term prediction profile (LTP)</source>
-        <translation type="unfinished">Pikaajalisel ennustusel põhinev profiil (LTP)</translation>
+      <source>Long term prediction profile (LTP)</source>
+      <translation type="unfinished">Long term prediction profile (LTP)</translation>
     </message>
     <message>
-        <source>Use temporal noise shaping</source>
-        <translation type="unfinished">Kasuta ajutist müravormimist (temporal noise shaping)</translation>
+      <source>Use temporal noise shaping</source>
+      <translation type="unfinished">Use temporal noise shaping</translation>
     </message>
     <message>
-        <source>Allow mid/side encoding</source>
-        <translation type="unfinished">Luba keskmist/külgmist kodeerimist (mid/side encoding)</translation>
+      <source>Allow mid/side encoding</source>
+      <translation type="unfinished">Allow mid/side encoding</translation>
     </message>
     <message>
-        <source>Block type</source>
-        <translation type="unfinished">Blokitüüp</translation>
+      <source>Block type</source>
+      <translation type="unfinished">Block type</translation>
     </message>
     <message>
-        <source>Normal block type</source>
-        <translation type="unfinished">Tavaline blokitüüp</translation>
+      <source>Normal block type</source>
+      <translation type="unfinished">Normal block type</translation>
     </message>
     <message>
-        <source>No short blocks</source>
-        <translation type="unfinished">Ära kasuta lühikesi blokke</translation>
+      <source>No short blocks</source>
+      <translation type="unfinished">No short blocks</translation>
     </message>
     <message>
-        <source>No long blocks</source>
-        <translation type="unfinished">Ära kasuta pikki blokke</translation>
+      <source>No long blocks</source>
+      <translation type="unfinished">No long blocks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsDialog</name>
     <message>
-        <source>Transcoding options</source>
-        <translation type="unfinished">Teisendamise valikud</translation>
+      <source>Transcoding options</source>
+      <translation type="unfinished">Transcoding options</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsFLAC</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Kvaliteet</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Fast</source>
-        <translation type="unfinished">Kiire</translation>
+      <source>Fast</source>
+      <translation type="unfinished">Fast</translation>
     </message>
     <message>
-        <source>Best</source>
-        <translation type="unfinished">Parim</translation>
+      <source>Best</source>
+      <translation type="unfinished">Best</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsWavPack</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsVorbis</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Kvaliteet</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Use bitrate management engine</source>
-        <translation type="unfinished">Kasuta bitikiiruse haldust</translation>
+      <source>Use bitrate management engine</source>
+      <translation type="unfinished">Use bitrate management engine</translation>
     </message>
     <message>
-        <source>Target bitrate</source>
-        <translation type="unfinished">Sihtbitikiirus</translation>
+      <source>Target bitrate</source>
+      <translation type="unfinished">Target bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Minimum bitrate</source>
-        <translation type="unfinished">Vähim bitikiirus</translation>
+      <source>Minimum bitrate</source>
+      <translation type="unfinished">Minimum bitrate</translation>
     </message>
     <message>
-        <source>disabled</source>
-        <translation type="unfinished">keelatud</translation>
+      <source>disabled</source>
+      <translation type="unfinished">disabled</translation>
     </message>
     <message>
-        <source>Maximum bitrate</source>
-        <translation type="unfinished">Suurim bitikiirus</translation>
+      <source>Maximum bitrate</source>
+      <translation type="unfinished">Maximum bitrate</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsOpus</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsSpeex</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Kvaliteet</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>automatic</source>
-        <translation type="unfinished">automaatne</translation>
+      <source>automatic</source>
+      <translation type="unfinished">automatic</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Average bitrate</source>
-        <translation type="unfinished">Keskmine bitikiirus</translation>
+      <source>Average bitrate</source>
+      <translation type="unfinished">Average bitrate</translation>
     </message>
     <message>
-        <source>disabled</source>
-        <translation type="unfinished">keelatud</translation>
+      <source>disabled</source>
+      <translation type="unfinished">disabled</translation>
     </message>
     <message>
-        <source>Encoding mode</source>
-        <translation type="unfinished">Kodeerimisrežiim</translation>
+      <source>Encoding mode</source>
+      <translation type="unfinished">Encoding mode</translation>
     </message>
     <message>
-        <source>Auto</source>
-        <translation type="unfinished">Automaatne</translation>
+      <source>Auto</source>
+      <translation type="unfinished">Auto</translation>
     </message>
     <message>
-        <source>Ultra wide band (UWB)</source>
-        <translation type="unfinished">Ülilairiba (UWB)</translation>
+      <source>Ultra wide band (UWB)</source>
+      <translation type="unfinished">Ultra wide band (UWB)</translation>
     </message>
     <message>
-        <source>Wide band (WB)</source>
-        <translation type="unfinished">Lairiba (WB)</translation>
+      <source>Wide band (WB)</source>
+      <translation type="unfinished">Wide band (WB)</translation>
     </message>
     <message>
-        <source>Narrow band (NB)</source>
-        <translation type="unfinished">Kitsasribaühendus (NB)</translation>
+      <source>Narrow band (NB)</source>
+      <translation type="unfinished">Narrow band (NB)</translation>
     </message>
     <message>
-        <source>Variable bit rate</source>
-        <translation type="unfinished">Varieeruv bitikiirus</translation>
+      <source>Variable bit rate</source>
+      <translation type="unfinished">Variable bit rate</translation>
     </message>
     <message>
-        <source>Voice activity detection</source>
-        <translation type="unfinished">Häältegevuse tuvastamine</translation>
+      <source>Voice activity detection</source>
+      <translation type="unfinished">Voice activity detection</translation>
     </message>
     <message>
-        <source>Discontinuous transmission</source>
-        <translation type="unfinished">Katkestustega edastamine</translation>
+      <source>Discontinuous transmission</source>
+      <translation type="unfinished">Discontinuous transmission</translation>
     </message>
     <message>
-        <source>Encoding complexity</source>
-        <translation type="unfinished">Kodeerimise keerukus</translation>
+      <source>Encoding complexity</source>
+      <translation type="unfinished">Encoding complexity</translation>
     </message>
     <message>
-        <source>Frames per buffer</source>
-        <translation type="unfinished">Kaadreid puhvri kohta</translation>
+      <source>Frames per buffer</source>
+      <translation type="unfinished">Frames per buffer</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsASF</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TranscoderOptionsMP3</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>Optimize for &amp;quality</source>
-        <translation type="unfinished">Optimeerige kvaliteedile</translation>
+      <source>Optimize for &amp;quality</source>
+      <translation type="unfinished">Optimize for &amp;quality</translation>
     </message>
     <message>
-        <source>Quality</source>
-        <comment>Sound quality</comment>
-        <translation type="unfinished">Kvaliteet</translation>
+      <source>Quality</source>
+      <comment>Sound quality</comment>
+      <translation type="unfinished">Quality</translation>
     </message>
     <message>
-        <source>Opti&amp;mize for bitrate</source>
-        <translation type="unfinished">Optimeeri bitikiirusele</translation>
+      <source>Opti&amp;mize for bitrate</source>
+      <translation type="unfinished">Opti&amp;mize for bitrate</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source> kbps</source>
-        <translation type="unfinished"> kbps</translation>
+      <source> kbps</source>
+      <translation type="unfinished"> kbps</translation>
     </message>
     <message>
-        <source>Constant bitrate</source>
-        <translation type="unfinished">Ühtlane bitikiirus</translation>
+      <source>Constant bitrate</source>
+      <translation type="unfinished">Constant bitrate</translation>
     </message>
     <message>
-        <source>Encoding engine quality</source>
-        <translation type="unfinished">Kodeerimismootori kvaliteet</translation>
+      <source>Encoding engine quality</source>
+      <translation type="unfinished">Encoding engine quality</translation>
     </message>
     <message>
-        <source>Fast</source>
-        <translation type="unfinished">Kiire</translation>
+      <source>Fast</source>
+      <translation type="unfinished">Fast</translation>
     </message>
     <message>
-        <source>Standard</source>
-        <translation type="unfinished">Tavaline</translation>
+      <source>Standard</source>
+      <translation type="unfinished">Standard</translation>
     </message>
     <message>
-        <source>High</source>
-        <translation type="unfinished">Kõrge</translation>
+      <source>High</source>
+      <translation type="unfinished">High</translation>
     </message>
     <message>
-        <source>Force mono encoding</source>
-        <translation type="unfinished">Sunni monoheli</translation>
+      <source>Force mono encoding</source>
+      <translation type="unfinished">Force mono encoding</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutGrabber</name>
     <message>
-        <source>Press a key</source>
-        <translation type="unfinished">Vajuta klahvi</translation>
+      <source>Press a key</source>
+      <translation type="unfinished">Press a key</translation>
     </message>
     <message>
-        <source>Press a key combination to use for %1...</source>
-        <translation type="unfinished">Vajuta klahvikombinatsiooni %1 kasutamiseks...</translation>
+      <source>Press a key combination to use for %1...</source>
+      <translation type="unfinished">Press a key combination to use for %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutsSettingsPage</name>
     <message>
-        <source>Global Shortcuts</source>
-        <translation type="unfinished">Globaalsed kiirklahvid</translation>
+      <source>Global Shortcuts</source>
+      <translation type="unfinished">Global Shortcuts</translation>
     </message>
     <message>
-        <source>Use Gnome (GSD) shortcuts when available</source>
-        <translation type="unfinished">Kasuta võimalusel Gnome kiirklahve</translation>
+      <source>Use Gnome (GSD) shortcuts when available</source>
+      <translation type="unfinished">Use Gnome (GSD) shortcuts when available</translation>
     </message>
     <message>
-        <source>Open...</source>
-        <translation type="unfinished">Ava...</translation>
+      <source>Open...</source>
+      <translation type="unfinished">Open...</translation>
     </message>
     <message>
-        <source>Use MATE shortcuts when available</source>
-        <translation type="unfinished">Kasuta võimalusel MATE kiirklahve</translation>
+      <source>Use MATE shortcuts when available</source>
+      <translation type="unfinished">Use MATE shortcuts when available</translation>
     </message>
     <message>
-        <source>Use KDE (KGlobalAccel) shortcuts when available</source>
-        <translation type="unfinished">Kasuta võimalusel KDE kiirklahve</translation>
+      <source>Use KDE (KGlobalAccel) shortcuts when available</source>
+      <translation type="unfinished">Use KDE (KGlobalAccel) shortcuts when available</translation>
     </message>
     <message>
-        <source>Use X11 shortcuts when available</source>
-        <translation type="unfinished">Kasuta võimalusel X11 kiirklahve</translation>
+      <source>Use X11 shortcuts when available</source>
+      <translation type="unfinished">Use X11 shortcuts when available</translation>
     </message>
     <message>
-        <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
-        <translation type="unfinished">Et Strawberry saaks üldiseid kiirklahve kasutada, ava süsteemi seadistused ja märgi eelistus „&lt;span style=&quot;font-style:italic&quot;&gt;juhi oma arvutit&lt;/span&gt;“.</translation>
+      <source>You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</source>
+      <translation type="unfinished">You need to launch System Preferences and allow Strawberry to &quot;&lt;span style=&quot;font-style:italic&quot;&gt;control your computer&lt;/span&gt;&quot; to use global shortcuts in Strawberry.</translation>
     </message>
     <message>
-        <source>Action</source>
-        <comment>Category label</comment>
-        <translation type="unfinished">Tegevus</translation>
+      <source>Action</source>
+      <comment>Category label</comment>
+      <translation type="unfinished">Action</translation>
     </message>
     <message>
-        <source>Shortcut</source>
-        <translation type="unfinished">Kiirklahv</translation>
+      <source>Shortcut</source>
+      <translation type="unfinished">Shortcut</translation>
     </message>
     <message>
-        <source>Shortcut for %1</source>
-        <translation type="unfinished">%1 kiirklahv</translation>
+      <source>Shortcut for %1</source>
+      <translation type="unfinished">Shortcut for %1</translation>
     </message>
     <message>
-        <source>&amp;None</source>
-        <translation type="unfinished">&amp;Puudub</translation>
+      <source>&amp;None</source>
+      <translation type="unfinished">&amp;None</translation>
     </message>
     <message>
-        <source>&amp;Default</source>
-        <translation type="unfinished">&amp;Vaikimisi</translation>
+      <source>&amp;Default</source>
+      <translation type="unfinished">&amp;Default</translation>
     </message>
     <message>
-        <source>&amp;Custom</source>
-        <translation type="unfinished">&amp;Kohandatud</translation>
+      <source>&amp;Custom</source>
+      <translation type="unfinished">&amp;Custom</translation>
     </message>
     <message>
-        <source>Change shortcut...</source>
-        <translation type="unfinished">Muuda kiirklahvi...</translation>
+      <source>Change shortcut...</source>
+      <translation type="unfinished">Change shortcut...</translation>
     </message>
     <message>
-        <source>The &quot;%1&quot; command could not be started.</source>
-        <translation type="unfinished">Käsku &quot;%1&quot; ei saanud käivitada.</translation>
+      <source>The &quot;%1&quot; command could not be started.</source>
+      <translation type="unfinished">The &quot;%1&quot; command could not be started.</translation>
     </message>
     <message>
-        <source>Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</source>
-        <translation type="unfinished">X11 otseteede kasutamine asukohas %1 ei ole soovitatav ja see võib põhjustada klaviatuuri hangumise!</translation>
+      <source>Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</source>
+      <translation type="unfinished">Using X11 shortcuts on %1 is not recommended and can cause keyboard to become unresponsive!</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</source>
-        <translation type="unfinished"> %1 otseteid kasutatakse tavaliselt MPRIS ja KGlobalAccel kaudu.</translation>
+      <source> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through MPRIS and KGlobalAccel.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</source>
-        <translation type="unfinished"> %1 otseteid kasutatakse tavaliselt Gnome sätete deemoni kaudu ja need tuleks seadistada hoopis gnome-settings-daemon&apos;i abil.</translation>
+      <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in gnome-settings-daemon instead.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</source>
-        <translation type="unfinished"> %1 otseteid kasutatakse tavaliselt Gnome sätete deemoni kaudu ja need tuleks seadistada hoopis cinnamon-settings-daemon&apos;i abil.</translation>
+      <source> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through Gnome Settings Daemon and should be configured in cinnamon-settings-daemon instead.</translation>
     </message>
     <message>
-        <source> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</source>
-        <translation type="unfinished"> %1 otseteid kasutatakse tavaliselt MATE sätete deemoni kaudu ja need tuleks seadistada hoopis seal.</translation>
+      <source> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</source>
+      <translation type="unfinished"> Shortcuts on %1 are usually used through MATE Settings Daemon and should be configured there instead.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MoodbarSettingsPage</name>
     <message>
-        <source>Moodbar</source>
-        <translation type="unfinished">Meeleoluriba</translation>
+      <source>Moodbar</source>
+      <translation type="unfinished">Moodbar</translation>
     </message>
     <message>
-        <source>Show a moodbar in the track progress bar</source>
-        <translation type="unfinished">Kuva loo edenemisribal meeleoluriba</translation>
+      <source>Show a moodbar in the track progress bar</source>
+      <translation type="unfinished">Show a moodbar in the track progress bar</translation>
     </message>
     <message>
-        <source>Moodbar style</source>
-        <translation type="unfinished">Meeleoluriba stiil</translation>
+      <source>Moodbar style</source>
+      <translation type="unfinished">Moodbar style</translation>
     </message>
     <message>
-        <source>Save the .mood files directly in the songs folders</source>
-        <translation type="unfinished">Salvesta .mood failid lugude kaustadesse</translation>
+      <source>Save the .mood files directly in the songs folders</source>
+      <translation type="unfinished">Save the .mood files directly in the songs folders</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Lubatud</translation>
+      <source>Enabled</source>
+      <translation type="unfinished">Enabled</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceProperties</name>
     <message>
-        <source>Device Properties</source>
-        <translation type="unfinished">Seadme omadused</translation>
+      <source>Device Properties</source>
+      <translation type="unfinished">Device Properties</translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation type="unfinished">Informatsioon</translation>
+      <source>Information</source>
+      <translation type="unfinished">Information</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Icon</source>
-        <translation type="unfinished">Ikoon</translation>
+      <source>Icon</source>
+      <translation type="unfinished">Icon</translation>
     </message>
     <message>
-        <source>Hardware information</source>
-        <translation type="unfinished">Riistvara info</translation>
+      <source>Hardware information</source>
+      <translation type="unfinished">Hardware information</translation>
     </message>
     <message>
-        <source>Hardware information is only available while the device is connected.</source>
-        <translation type="unfinished">Riistvara info on ainult siis saadaval, kui seade on ühendatud.</translation>
+      <source>Hardware information is only available while the device is connected.</source>
+      <translation type="unfinished">Hardware information is only available while the device is connected.</translation>
     </message>
     <message>
-        <source>File formats</source>
-        <translation type="unfinished">Failivormingud</translation>
+      <source>File formats</source>
+      <translation type="unfinished">File formats</translation>
     </message>
     <message>
-        <source>Supported formats</source>
-        <translation type="unfinished">Toetatud vormingud</translation>
+      <source>Supported formats</source>
+      <translation type="unfinished">Supported formats</translation>
     </message>
     <message>
-        <source>This device supports the following file formats:</source>
-        <translation type="unfinished">See seade toetab järgmisi failivorminguid:</translation>
+      <source>This device supports the following file formats:</source>
+      <translation type="unfinished">This device supports the following file formats:</translation>
     </message>
     <message>
-        <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
-        <translation type="unfinished">Strawberry saab sellesse seadmesse kopeeritud muusika automaatselt teisendada vormingusse, mida ta suudab esitada.</translation>
+      <source>Strawberry can automatically convert the music you copy to this device into a format that it can play.</source>
+      <translation type="unfinished">Strawberry can automatically convert the music you copy to this device into a format that it can play.</translation>
     </message>
     <message>
-        <source>Do not convert any music</source>
-        <translation type="unfinished">Ära teisenda mitte midagi</translation>
+      <source>Do not convert any music</source>
+      <translation type="unfinished">Do not convert any music</translation>
     </message>
     <message>
-        <source>Convert any music that the device can&apos;t play</source>
-        <translation type="unfinished">Teisenda kogu muusika, mida seade ei suuda esitada</translation>
+      <source>Convert any music that the device can&apos;t play</source>
+      <translation type="unfinished">Convert any music that the device can&apos;t play</translation>
     </message>
     <message>
-        <source>Convert all music</source>
-        <translation type="unfinished">Konverteeri kõik failid</translation>
+      <source>Convert all music</source>
+      <translation type="unfinished">Convert all music</translation>
     </message>
     <message>
-        <source>Preferred format</source>
-        <translation type="unfinished">Eelistatud vorming</translation>
+      <source>Preferred format</source>
+      <translation type="unfinished">Preferred format</translation>
     </message>
     <message>
-        <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
-        <translation type="unfinished">See seade peab olema ühendatud ja avatud, enne kui Strawberry näeb, milliseid failivorminguid see toetab.</translation>
+      <source>This device must be connected and opened before Strawberry can see what file formats it supports.</source>
+      <translation type="unfinished">This device must be connected and opened before Strawberry can see what file formats it supports.</translation>
     </message>
     <message>
-        <source>Open device</source>
-        <translation type="unfinished">Ava seade</translation>
+      <source>Open device</source>
+      <translation type="unfinished">Open device</translation>
     </message>
     <message>
-        <source>Querying device...</source>
-        <translation type="unfinished">Vaatame, mida seadmes leidub...</translation>
+      <source>Querying device...</source>
+      <translation type="unfinished">Querying device...</translation>
     </message>
     <message>
-        <source>Model</source>
-        <translation type="unfinished">Mudel</translation>
+      <source>Model</source>
+      <translation type="unfinished">Model</translation>
     </message>
     <message>
-        <source>Manufacturer</source>
-        <translation type="unfinished">Tootja</translation>
+      <source>Manufacturer</source>
+      <translation type="unfinished">Manufacturer</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceViewContainer</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicSettingsPage</name>
     <message>
-        <source>Subsonic</source>
-        <translation type="unfinished">Subsonic</translation>
+      <source>Subsonic</source>
+      <translation type="unfinished">Subsonic</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Luba</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Server URL</source>
-        <translation type="unfinished">Serveri URL</translation>
+      <source>Server URL</source>
+      <translation type="unfinished">Server URL</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autentimine</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Authentication method:</source>
-        <translation type="unfinished">Autentimise viis:</translation>
+      <source>Authentication method:</source>
+      <translation type="unfinished">Authentication method:</translation>
     </message>
     <message>
-        <source>Hex</source>
-        <translation type="unfinished">Hex</translation>
+      <source>Hex</source>
+      <translation type="unfinished">Hex</translation>
     </message>
     <message>
-        <source>MD5 token (Recommended)</source>
-        <translation type="unfinished">MD5 tunnuskood (soovitatav)</translation>
+      <source>MD5 token (Recommended)</source>
+      <translation type="unfinished">MD5 token (Recommended)</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Seadistused</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Use HTTP/2 when possible</source>
-        <translation type="unfinished">Kasuta võimalusel HTTP/2</translation>
+      <source>Use HTTP/2 when possible</source>
+      <translation type="unfinished">Use HTTP/2 when possible</translation>
     </message>
     <message>
-        <source>Verify server certificate</source>
-        <translation type="unfinished">Kontrolli serveri sertifikaati</translation>
+      <source>Verify server certificate</source>
+      <translation type="unfinished">Verify server certificate</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Laadi alla albumi kaanepilte</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Server-side scrobbling</source>
-        <translation type="unfinished">Serveripoolne kraasimine</translation>
+      <source>Server-side scrobbling</source>
+      <translation type="unfinished">Server-side scrobbling</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation type="unfinished">Testi</translation>
+      <source>Test</source>
+      <translation type="unfinished">Test</translation>
     </message>
     <message>
-        <source>Delete songs</source>
-        <translation type="unfinished">Kustuta lood</translation>
+      <source>Delete songs</source>
+      <translation type="unfinished">Delete songs</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Seadistamine on pooleli</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing server url, username or password.</source>
-        <translation type="unfinished">Serveri URL, kasutajanimi või parool puudub.</translation>
+      <source>Missing server url, username or password.</source>
+      <translation type="unfinished">Missing server url, username or password.</translation>
     </message>
     <message>
-        <source>Configuration incorrect</source>
-        <translation type="unfinished">Seadistus on vale</translation>
+      <source>Configuration incorrect</source>
+      <translation type="unfinished">Configuration incorrect</translation>
     </message>
     <message>
-        <source>Server URL is invalid.</source>
-        <translation type="unfinished">Serveri URL on vigane.</translation>
+      <source>Server URL is invalid.</source>
+      <translation type="unfinished">Server URL is invalid.</translation>
     </message>
     <message>
-        <source>Test successful!</source>
-        <translation type="unfinished">Test õnnestus!</translation>
+      <source>Test successful!</source>
+      <translation type="unfinished">Test successful!</translation>
     </message>
     <message>
-        <source>Test failed!</source>
-        <translation type="unfinished">Test ebaõnnestus!</translation>
+      <source>Test failed!</source>
+      <translation type="unfinished">Test failed!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalSettingsPage</name>
     <message>
-        <source>Tidal</source>
-        <translation type="unfinished">Tidal</translation>
+      <source>Tidal</source>
+      <translation type="unfinished">Tidal</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Luba</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</source>
-        <translation type="unfinished">Tidali tugi ei ole ametlik ja selle toimimiseks on vaja registreeritud rakenduse API tunnuskood. Meie ei saa aidata neid hankida.</translation>
+      <source>Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</source>
+      <translation type="unfinished">Tidal support is not official and requires a API token from a registered application to work. We can&apos;t help you getting these.</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autentimine</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>Use OAuth</source>
-        <translation type="unfinished">Kasuta OAuth</translation>
+      <source>Use OAuth</source>
+      <translation type="unfinished">Use OAuth</translation>
     </message>
     <message>
-        <source>Client ID</source>
-        <translation type="unfinished">Kliendi ID</translation>
+      <source>Client ID</source>
+      <translation type="unfinished">Client ID</translation>
     </message>
     <message>
-        <source>API Token</source>
-        <translation type="unfinished">API tunnuskood</translation>
+      <source>API Token</source>
+      <translation type="unfinished">API Token</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Logi sisse</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Seadistused</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Audio quality</source>
-        <translation type="unfinished">Heli kvaliteet</translation>
+      <source>Audio quality</source>
+      <translation type="unfinished">Audio quality</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Otsingu viivitus</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished">ms</translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Esitajate otsingu piirang</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Albumite otsingu piirang</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Lugude otsingu limiit</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Laadi alla albumi kaanepilte</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Fetch entire albums when searching songs</source>
-        <translation type="unfinished">Lugude otsimisel hangi terved albumid</translation>
+      <source>Fetch entire albums when searching songs</source>
+      <translation type="unfinished">Fetch entire albums when searching songs</translation>
     </message>
     <message>
-        <source>Album cover size</source>
-        <translation type="unfinished">Kaanepildi suurus</translation>
+      <source>Album cover size</source>
+      <translation type="unfinished">Album cover size</translation>
     </message>
     <message>
-        <source>Stream URL method</source>
-        <translation type="unfinished">Voo URL-i meetod</translation>
+      <source>Stream URL method</source>
+      <translation type="unfinished">Stream URL method</translation>
     </message>
     <message>
-        <source>Append explicit to album title for explicit albums</source>
-        <translation type="unfinished">Lisa vajadusel albumi nimele silt &apos;explicit&apos;</translation>
+      <source>Append explicit to album title for explicit albums</source>
+      <translation type="unfinished">Append explicit to album title for explicit albums</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Seadistamine on pooleli</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing Tidal client ID.</source>
-        <translation type="unfinished">Tidali kliendi ID puudub.</translation>
+      <source>Missing Tidal client ID.</source>
+      <translation type="unfinished">Missing Tidal client ID.</translation>
     </message>
     <message>
-        <source>Missing API token.</source>
-        <translation type="unfinished">API tunnuskood puudub.</translation>
+      <source>Missing API token.</source>
+      <translation type="unfinished">Missing API token.</translation>
     </message>
     <message>
-        <source>Missing username.</source>
-        <translation type="unfinished">Kasutajanimi puudub.</translation>
+      <source>Missing username.</source>
+      <translation type="unfinished">Missing username.</translation>
     </message>
     <message>
-        <source>Missing password.</source>
-        <translation type="unfinished">Parool puudub.</translation>
+      <source>Missing password.</source>
+      <translation type="unfinished">Missing password.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Autentimine ebaõnnestus</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifySettingsPage</name>
     <message>
-        <source>Spotify</source>
-        <translation type="unfinished">Spotify</translation>
+      <source>Spotify</source>
+      <translation type="unfinished">Spotify</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Luba</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Basic authentication</source>
-        <translation type="unfinished">Lihtne autentimine</translation>
+      <source>Basic authentication</source>
+      <translation type="unfinished">Basic authentication</translation>
     </message>
     <message>
-        <source>Authenticate</source>
-        <translation type="unfinished">Autendi</translation>
+      <source>Authenticate</source>
+      <translation type="unfinished">Authenticate</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;GStreameri Spotify pistikprogrammi ei õnnestu tuvastada, aga Spotify voogedastus ilma selleta ei toimi. Lisateavet leiad: &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;&lt;/span&gt;&lt;/a&gt; selle pistikprogrammi paigaldamise lehelt meie vikis.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The GStreamer Spotify plugin is not detected, you will not be able to stream songs from Spotify without it. See &lt;a href=&quot;https://wiki.strawberrymusicplayer.org/wiki/Installing_GStreamer_Spotify_plugin&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Wiki&lt;/span&gt;&lt;/a&gt; for instructions on how to install the plugin.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Seadistused</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Otsingu viivitus</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished">ms</translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Esitajate otsingu piirang</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Albumite otsingu piirang</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Lugude otsingu limiit</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Laadi alla albumi kaanepilte</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Fetch entire albums when searching songs</source>
-        <translation type="unfinished">Lugude otsimisel hangi terved albumid</translation>
+      <source>Fetch entire albums when searching songs</source>
+      <translation type="unfinished">Fetch entire albums when searching songs</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Autentimine ebaõnnestus</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzSettingsPage</name>
     <message>
-        <source>Qobuz</source>
-        <translation type="unfinished">Qobuz</translation>
+      <source>Qobuz</source>
+      <translation type="unfinished">Qobuz</translation>
     </message>
     <message>
-        <source>Enable</source>
-        <translation type="unfinished">Luba</translation>
+      <source>Enable</source>
+      <translation type="unfinished">Enable</translation>
     </message>
     <message>
-        <source>Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</source>
-        <translation type="unfinished">Qobuzi tugi ei ole ametlik ja selle toimimiseks on vajalik rakenduse API ID ja registreeritud rakenduse võtit. Me ei saa aidata neid hankida.</translation>
+      <source>Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</source>
+      <translation type="unfinished">Qobuz support is not official and requires an API app ID and secret from a registered application to work. We can&apos;t help you getting these.</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation type="unfinished">Autentimine</translation>
+      <source>Authentication</source>
+      <translation type="unfinished">Authentication</translation>
     </message>
     <message>
-        <source>App ID</source>
-        <translation type="unfinished">Rakenduse ID</translation>
+      <source>App ID</source>
+      <translation type="unfinished">App ID</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+      <source>Password</source>
+      <translation type="unfinished">Password</translation>
     </message>
     <message>
-        <source>App Secret</source>
-        <translation type="unfinished">Rakenduse võti</translation>
+      <source>App Secret</source>
+      <translation type="unfinished">App Secret</translation>
     </message>
     <message>
-        <source>Login</source>
-        <translation type="unfinished">Logi sisse</translation>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="unfinished">Seadistused</translation>
+      <source>Preferences</source>
+      <translation type="unfinished">Preferences</translation>
     </message>
     <message>
-        <source>Audio format</source>
-        <translation type="unfinished">Heli vorming</translation>
+      <source>Audio format</source>
+      <translation type="unfinished">Audio format</translation>
     </message>
     <message>
-        <source>Search delay</source>
-        <translation type="unfinished">Otsingu viivitus</translation>
+      <source>Search delay</source>
+      <translation type="unfinished">Search delay</translation>
     </message>
     <message>
-        <source>ms</source>
-        <translation type="unfinished">ms</translation>
+      <source>ms</source>
+      <translation type="unfinished">ms</translation>
     </message>
     <message>
-        <source>Artists search limit</source>
-        <translation type="unfinished">Esitajate otsingu piirang</translation>
+      <source>Artists search limit</source>
+      <translation type="unfinished">Artists search limit</translation>
     </message>
     <message>
-        <source>Albums search limit</source>
-        <translation type="unfinished">Albumite otsingu piirang</translation>
+      <source>Albums search limit</source>
+      <translation type="unfinished">Albums search limit</translation>
     </message>
     <message>
-        <source>Songs search limit</source>
-        <translation type="unfinished">Lugude otsingu limiit</translation>
+      <source>Songs search limit</source>
+      <translation type="unfinished">Songs search limit</translation>
     </message>
     <message>
-        <source>Download album covers</source>
-        <translation type="unfinished">Laadi alla albumi kaanepilte</translation>
+      <source>Download album covers</source>
+      <translation type="unfinished">Download album covers</translation>
     </message>
     <message>
-        <source>Base64 encoded secret</source>
-        <translation type="unfinished">Base64 kodeeringus võti</translation>
+      <source>Base64 encoded secret</source>
+      <translation type="unfinished">Base64 encoded secret</translation>
     </message>
     <message>
-        <source>Configuration incomplete</source>
-        <translation type="unfinished">Seadistamine on pooleli</translation>
+      <source>Configuration incomplete</source>
+      <translation type="unfinished">Configuration incomplete</translation>
     </message>
     <message>
-        <source>Missing app id.</source>
-        <translation type="unfinished">Rakenduse ID puudub.</translation>
+      <source>Missing app id.</source>
+      <translation type="unfinished">Missing app id.</translation>
     </message>
     <message>
-        <source>Missing username.</source>
-        <translation type="unfinished">Kasutajanimi puudub.</translation>
+      <source>Missing username.</source>
+      <translation type="unfinished">Missing username.</translation>
     </message>
     <message>
-        <source>Missing password.</source>
-        <translation type="unfinished">Parool puudub.</translation>
+      <source>Missing password.</source>
+      <translation type="unfinished">Missing password.</translation>
     </message>
     <message>
-        <source>Authentication failed</source>
-        <translation type="unfinished">Autentimine ebaõnnestus</translation>
+      <source>Authentication failed</source>
+      <translation type="unfinished">Authentication failed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QObject</name>
     <message>
-        <source>Usage</source>
-        <translation type="unfinished">Kasutus</translation>
+      <source>Usage</source>
+      <translation type="unfinished">Usage</translation>
     </message>
     <message>
-        <source>options</source>
-        <translation type="unfinished">valikud</translation>
+      <source>options</source>
+      <translation type="unfinished">options</translation>
     </message>
     <message>
-        <source>URL(s)</source>
-        <translation type="unfinished">URL(id)</translation>
+      <source>URL(s)</source>
+      <translation type="unfinished">URL(s)</translation>
     </message>
     <message>
-        <source>Player options</source>
-        <translation type="unfinished">Meediamängija valikud</translation>
+      <source>Player options</source>
+      <translation type="unfinished">Player options</translation>
     </message>
     <message>
-        <source>Start the playlist currently playing</source>
-        <translation type="unfinished">Alusta hetkel esitatav esitusloend uuesti algusest</translation>
+      <source>Start the playlist currently playing</source>
+      <translation type="unfinished">Start the playlist currently playing</translation>
     </message>
     <message>
-        <source>Play if stopped, pause if playing</source>
-        <translation type="unfinished">Mängi, kui on peatatud, paus, kui mängitakse</translation>
+      <source>Play if stopped, pause if playing</source>
+      <translation type="unfinished">Play if stopped, pause if playing</translation>
     </message>
     <message>
-        <source>Pause playback</source>
-        <translation type="unfinished">Peata esitus</translation>
+      <source>Pause playback</source>
+      <translation type="unfinished">Pause playback</translation>
     </message>
     <message>
-        <source>Stop playback</source>
-        <translation type="unfinished">Peata taasesitus</translation>
+      <source>Stop playback</source>
+      <translation type="unfinished">Stop playback</translation>
     </message>
     <message>
-        <source>Stop playback after current track</source>
-        <translation type="unfinished">Peata taasesitus pärast praegust lugu</translation>
+      <source>Stop playback after current track</source>
+      <translation type="unfinished">Stop playback after current track</translation>
     </message>
     <message>
-        <source>Skip backwards in playlist</source>
-        <translation type="unfinished">Hüppa esitusloendis tagasi</translation>
+      <source>Skip backwards in playlist</source>
+      <translation type="unfinished">Skip backwards in playlist</translation>
     </message>
     <message>
-        <source>Skip forwards in playlist</source>
-        <translation type="unfinished">Hüppa esitusloendis edasi</translation>
+      <source>Skip forwards in playlist</source>
+      <translation type="unfinished">Skip forwards in playlist</translation>
     </message>
     <message>
-        <source>Set the volume to &lt;value&gt; percent</source>
-        <translation type="unfinished">Määra helitugevuseks &lt;value&gt; protsenti</translation>
+      <source>Set the volume to &lt;value&gt; percent</source>
+      <translation type="unfinished">Set the volume to &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Increase the volume by 4 percent</source>
-        <translation type="unfinished">Heli valjemaks 4 protsenti</translation>
+      <source>Increase the volume by 4 percent</source>
+      <translation type="unfinished">Increase the volume by 4 percent</translation>
     </message>
     <message>
-        <source>Decrease the volume by 4 percent</source>
-        <translation type="unfinished">Heli vaiksemaks 4 protsenti</translation>
+      <source>Decrease the volume by 4 percent</source>
+      <translation type="unfinished">Decrease the volume by 4 percent</translation>
     </message>
     <message>
-        <source>Increase the volume by &lt;value&gt; percent</source>
-        <translation type="unfinished">Heli valjemaks &lt;value&gt; protsenti</translation>
+      <source>Increase the volume by &lt;value&gt; percent</source>
+      <translation type="unfinished">Increase the volume by &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Decrease the volume by &lt;value&gt; percent</source>
-        <translation type="unfinished">Heli vaiksemaks &lt;value&gt; protsenti</translation>
+      <source>Decrease the volume by &lt;value&gt; percent</source>
+      <translation type="unfinished">Decrease the volume by &lt;value&gt; percent</translation>
     </message>
     <message>
-        <source>Seek the currently playing track to an absolute position</source>
-        <translation type="unfinished">Jätka praeguse loo esitust uuest absoluutsest asukohast</translation>
+      <source>Seek the currently playing track to an absolute position</source>
+      <translation type="unfinished">Seek the currently playing track to an absolute position</translation>
     </message>
     <message>
-        <source>Seek the currently playing track by a relative amount</source>
-        <translation type="unfinished">Jätka praeguse loo esitust uuest suhtelisest asukohast</translation>
+      <source>Seek the currently playing track by a relative amount</source>
+      <translation type="unfinished">Seek the currently playing track by a relative amount</translation>
     </message>
     <message>
-        <source>Restart the track, or play the previous track if within 8 seconds of start.</source>
-        <translation type="unfinished">Käivita lugu uuesti või esita eelmine lugu, kui see on 8 sekundi jooksul pärast alustamist.</translation>
+      <source>Restart the track, or play the previous track if within 8 seconds of start.</source>
+      <translation type="unfinished">Restart the track, or play the previous track if within 8 seconds of start.</translation>
     </message>
     <message>
-        <source>Playlist options</source>
-        <translation type="unfinished">Esitusloendi valikud</translation>
+      <source>Playlist options</source>
+      <translation type="unfinished">Playlist options</translation>
     </message>
     <message>
-        <source>Create a new playlist with files</source>
-        <translation type="unfinished">Loo uus esitusloend failidega</translation>
+      <source>Create a new playlist with files</source>
+      <translation type="unfinished">Create a new playlist with files</translation>
     </message>
     <message>
-        <source>Append files/URLs to the playlist</source>
-        <translation type="unfinished">Lisa failid/URL-id esitusloendisse</translation>
+      <source>Append files/URLs to the playlist</source>
+      <translation type="unfinished">Append files/URLs to the playlist</translation>
     </message>
     <message>
-        <source>Loads files/URLs, replacing current playlist</source>
-        <translation type="unfinished">Laadib failid/URL-id, asendades praeguse esitusloendi</translation>
+      <source>Loads files/URLs, replacing current playlist</source>
+      <translation type="unfinished">Loads files/URLs, replacing current playlist</translation>
     </message>
     <message>
-        <source>Play the &lt;n&gt;th track in the playlist</source>
-        <translation type="unfinished">Esita esitusloendi lugu nr &lt;n&gt;</translation>
+      <source>Play the &lt;n&gt;th track in the playlist</source>
+      <translation type="unfinished">Play the &lt;n&gt;th track in the playlist</translation>
     </message>
     <message>
-        <source>Play given playlist</source>
-        <translation type="unfinished">Esita antud esitusloendit</translation>
+      <source>Play given playlist</source>
+      <translation type="unfinished">Play given playlist</translation>
     </message>
     <message>
-        <source>Other options</source>
-        <translation type="unfinished">Muud valikud</translation>
+      <source>Other options</source>
+      <translation type="unfinished">Other options</translation>
     </message>
     <message>
-        <source>Display the on-screen-display</source>
-        <translation type="unfinished">Kuva ekraanigraafika</translation>
+      <source>Display the on-screen-display</source>
+      <translation type="unfinished">Display the on-screen-display</translation>
     </message>
     <message>
-        <source>Toggle visibility for the pretty on-screen-display</source>
-        <translation type="unfinished">Muuda ilusa ekraanimenüü nähtavust</translation>
+      <source>Toggle visibility for the pretty on-screen-display</source>
+      <translation type="unfinished">Toggle visibility for the pretty on-screen-display</translation>
     </message>
     <message>
-        <source>Change the language</source>
-        <translation type="unfinished">Muuda keelt</translation>
+      <source>Change the language</source>
+      <translation type="unfinished">Change the language</translation>
     </message>
     <message>
-        <source>Resize the window</source>
-        <translation type="unfinished">Muuda akna suurust</translation>
+      <source>Resize the window</source>
+      <translation type="unfinished">Resize the window</translation>
     </message>
     <message>
-        <source>Equivalent to --log-levels *:1</source>
-        <translation type="unfinished">Võrdne käivitusvõtmega --log-levels *:1</translation>
+      <source>Equivalent to --log-levels *:1</source>
+      <translation type="unfinished">Equivalent to --log-levels *:1</translation>
     </message>
     <message>
-        <source>Equivalent to --log-levels *:3</source>
-        <translation type="unfinished">Võrdne käivitusvõtmega --log-levels *:3</translation>
+      <source>Equivalent to --log-levels *:3</source>
+      <translation type="unfinished">Equivalent to --log-levels *:3</translation>
     </message>
     <message>
-        <source>Comma separated list of class:level, level is 0-3</source>
-        <translation type="unfinished">Komadega eraldatud loend klass:tase, kus tase võib olla 0-3</translation>
+      <source>Comma separated list of class:level, level is 0-3</source>
+      <translation type="unfinished">Comma separated list of class:level, level is 0-3</translation>
     </message>
     <message>
-        <source>Print out version information</source>
-        <translation type="unfinished">Trüki teave käesoleva versiooni kohta</translation>
+      <source>Print out version information</source>
+      <translation type="unfinished">Print out version information</translation>
     </message>
     <message>
-        <source>Failed to create directory %1.</source>
-        <translation type="unfinished">Kataloogi %1 loomine ei õnnestunud.</translation>
+      <source>Failed to create directory %1.</source>
+      <translation type="unfinished">Failed to create directory %1.</translation>
     </message>
     <message>
-        <source>Destination file %1 exists, but not allowed to overwrite.</source>
-        <translation type="unfinished">Sihtfail %1 on olemas, kuid seda ei lubata üle kirjutada.</translation>
+      <source>Destination file %1 exists, but not allowed to overwrite.</source>
+      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite.</translation>
     </message>
     <message>
-        <source>Destination file %1 exists, but not allowed to overwrite</source>
-        <translation type="unfinished">Sihtfail %1 on olemas, kuid seda ei lubata üle kirjutada</translation>
+      <source>Destination file %1 exists, but not allowed to overwrite</source>
+      <translation type="unfinished">Destination file %1 exists, but not allowed to overwrite</translation>
     </message>
     <message>
-        <source>Could not copy file %1 to %2.</source>
-        <translation type="unfinished">Ei õnnestunud kopeerida faili %1 seadmesse %2.</translation>
+      <source>Could not copy file %1 to %2.</source>
+      <translation type="unfinished">Could not copy file %1 to %2.</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>LUFS</source>
-        <translation type="unfinished">LUFS</translation>
+      <source>LUFS</source>
+      <translation type="unfinished">LUFS</translation>
     </message>
     <message>
-        <source>LU</source>
-        <translation type="unfinished">LU</translation>
+      <source>LU</source>
+      <translation type="unfinished">LU</translation>
     </message>
     <message>
-        <source>File %1 is not recognized as a valid audio file.</source>
-        <translation type="unfinished">Faili %1 ei tuvastatud kehtiva helifailina.</translation>
+      <source>File %1 is not recognized as a valid audio file.</source>
+      <translation type="unfinished">File %1 is not recognized as a valid audio file.</translation>
     </message>
     <message>
-        <source>1 day</source>
-        <translation type="unfinished">1 päev</translation>
+      <source>1 day</source>
+      <translation type="unfinished">1 day</translation>
     </message>
     <message>
-        <source>%1 days</source>
-        <translation type="unfinished">%1 päeva</translation>
+      <source>%1 days</source>
+      <translation type="unfinished">%1 days</translation>
     </message>
     <message>
-        <source>Today</source>
-        <translation type="unfinished">Täna</translation>
+      <source>Today</source>
+      <translation type="unfinished">Today</translation>
     </message>
     <message>
-        <source>Yesterday</source>
-        <translation type="unfinished">Eile</translation>
+      <source>Yesterday</source>
+      <translation type="unfinished">Yesterday</translation>
     </message>
     <message>
-        <source>%1 days ago</source>
-        <translation type="unfinished">%1 päeva tagasi</translation>
+      <source>%1 days ago</source>
+      <translation type="unfinished">%1 days ago</translation>
     </message>
     <message>
-        <source>Tomorrow</source>
-        <translation type="unfinished">Homme</translation>
+      <source>Tomorrow</source>
+      <translation type="unfinished">Tomorrow</translation>
     </message>
     <message>
-        <source>In %1 days</source>
-        <translation type="unfinished">%1 päeva jooksul</translation>
+      <source>In %1 days</source>
+      <translation type="unfinished">In %1 days</translation>
     </message>
     <message>
-        <source>Next week</source>
-        <translation type="unfinished">järgmisel nädalal</translation>
+      <source>Next week</source>
+      <translation type="unfinished">Next week</translation>
     </message>
     <message>
-        <source>In %1 weeks</source>
-        <translation type="unfinished">%1 nädala jooksul</translation>
+      <source>In %1 weeks</source>
+      <translation type="unfinished">In %1 weeks</translation>
     </message>
     <message>
-        <source>Show in file browser</source>
-        <translation type="unfinished">Kuva failihalduris</translation>
+      <source>Show in file browser</source>
+      <translation type="unfinished">Show in file browser</translation>
     </message>
     <message>
-        <source>Too many songs selected.</source>
-        <translation type="unfinished">Valitud on liiga palju lugusi.</translation>
+      <source>Too many songs selected.</source>
+      <translation type="unfinished">Too many songs selected.</translation>
     </message>
     <message>
-        <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
-        <translation type="unfinished">Valitud on %1 lugu %2 erinevas kataloogis. Kas oled kindel, et soovid need kõik avada?</translation>
+      <source>%1 songs in %2 different directories selected, are you sure you want to open them all?</source>
+      <translation type="unfinished">%1 songs in %2 different directories selected, are you sure you want to open them all?</translation>
     </message>
     <message>
-        <source>Failed to load image from data for %1</source>
-        <translation type="unfinished">%1 jaoks ei õnnestunud andmetest tuvastada pildifaili</translation>
+      <source>Failed to load image from data for %1</source>
+      <translation type="unfinished">Failed to load image from data for %1</translation>
     </message>
     <message>
-        <source>Success</source>
-        <translation type="unfinished">Valmis</translation>
+      <source>Success</source>
+      <translation type="unfinished">Success</translation>
     </message>
     <message>
-        <source>File is unsupported</source>
-        <translation type="unfinished">Fail pole toetatud</translation>
+      <source>File is unsupported</source>
+      <translation type="unfinished">File is unsupported</translation>
     </message>
     <message>
-        <source>Filename is missing</source>
-        <translation type="unfinished">Faili nimi on puudu</translation>
+      <source>Filename is missing</source>
+      <translation type="unfinished">Filename is missing</translation>
     </message>
     <message>
-        <source>File does not exist</source>
-        <translation type="unfinished">Faili pole olemas</translation>
+      <source>File does not exist</source>
+      <translation type="unfinished">File does not exist</translation>
     </message>
     <message>
-        <source>File could not be opened</source>
-        <translation type="unfinished">Faili avamine ei õnnestunud</translation>
+      <source>File could not be opened</source>
+      <translation type="unfinished">File could not be opened</translation>
     </message>
     <message>
-        <source>Could not parse file</source>
-        <translation type="unfinished">Faili süntaksi analüüsimine ei õnnestunud</translation>
+      <source>Could not parse file</source>
+      <translation type="unfinished">Could not parse file</translation>
     </message>
     <message>
-        <source>Could save file</source>
-        <translation type="unfinished">Faili salvestamine ei õnnestunud</translation>
+      <source>Could save file</source>
+      <translation type="unfinished">Could save file</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Tundmatu viga</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
     <message>
-        <source>Prefix a search term with a field name to limit the search to that field, e.g.:</source>
-        <translation type="unfinished">Otsingusõnale välja nime lisamine võimaldab piirata otsingut selle väljaga, näiteks:</translation>
+      <source>Prefix a search term with a field name to limit the search to that field, e.g.:</source>
+      <translation type="unfinished">Prefix a search term with a field name to limit the search to that field, e.g.:</translation>
     </message>
     <message>
-        <source>artist</source>
-        <translation type="unfinished">esitaja</translation>
+      <source>artist</source>
+      <translation type="unfinished">artist</translation>
     </message>
     <message>
-        <source>searches for all artists containing the word %1. </source>
-        <translation type="unfinished">kõikide esitajate otsing, kus leidub %1. </translation>
+      <source>searches for all artists containing the word %1. </source>
+      <translation type="unfinished">searches for all artists containing the word %1. </translation>
     </message>
     <message>
-        <source>Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </source>
-        <translation type="unfinished">Otsingu täpsustamiseks võib numbriväljade otsisõnade eesliiteks lisada %1 või %2, nt: </translation>
+      <source>Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </source>
+      <translation type="unfinished">Search terms for numerical fields can be prefixed with %1 or %2 to refine the search, e.g.: </translation>
     </message>
     <message>
-        <source>rating</source>
-        <translation type="unfinished">hinnang</translation>
+      <source>rating</source>
+      <translation type="unfinished">rating</translation>
     </message>
     <message>
-        <source>Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </source>
-        <translation type="unfinished">Mitut otsinguterminit saab kombineerida ka sõnadega &quot;%1&quot; (vaikimisi) ja &quot;%2&quot; ning rühmitada need sulgudega. </translation>
+      <source>Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </source>
+      <translation type="unfinished">Multiple search terms can also be combined with &quot;%1&quot; (default) and &quot;%2&quot;, as well as grouped with parentheses. </translation>
     </message>
     <message>
-        <source>Available fields</source>
-        <translation type="unfinished">Saadaolevad väljad</translation>
+      <source>Available fields</source>
+      <translation type="unfinished">Available fields</translation>
     </message>
     <message>
-        <source>after</source>
-        <translation type="unfinished">pärast</translation>
+      <source>after</source>
+      <translation type="unfinished">after</translation>
     </message>
     <message>
-        <source>before</source>
-        <translation type="unfinished">enne</translation>
+      <source>before</source>
+      <translation type="unfinished">before</translation>
     </message>
     <message>
-        <source>on</source>
-        <translation type="unfinished">kuupäeval</translation>
+      <source>on</source>
+      <translation type="unfinished">on</translation>
     </message>
     <message>
-        <source>not on</source>
-        <translation type="unfinished">ei ole kuupäeval</translation>
+      <source>not on</source>
+      <translation type="unfinished">not on</translation>
     </message>
     <message>
-        <source>in the last</source>
-        <translation type="unfinished">on vähem kui viimased</translation>
+      <source>in the last</source>
+      <translation type="unfinished">in the last</translation>
     </message>
     <message>
-        <source>not in the last</source>
-        <translation type="unfinished">on enam kui viimased</translation>
+      <source>not in the last</source>
+      <translation type="unfinished">not in the last</translation>
     </message>
     <message>
-        <source>between</source>
-        <translation type="unfinished">vahemikus</translation>
+      <source>between</source>
+      <translation type="unfinished">between</translation>
     </message>
     <message>
-        <source>contains</source>
-        <translation type="unfinished">sisaldab</translation>
+      <source>contains</source>
+      <translation type="unfinished">contains</translation>
     </message>
     <message>
-        <source>does not contain</source>
-        <translation type="unfinished">ei sisalda</translation>
+      <source>does not contain</source>
+      <translation type="unfinished">does not contain</translation>
     </message>
     <message>
-        <source>starts with</source>
-        <translation type="unfinished">alguses on</translation>
+      <source>starts with</source>
+      <translation type="unfinished">starts with</translation>
     </message>
     <message>
-        <source>ends with</source>
-        <translation type="unfinished">lõpus on</translation>
+      <source>ends with</source>
+      <translation type="unfinished">ends with</translation>
     </message>
     <message>
-        <source>greater than</source>
-        <translation type="unfinished">suurem kui</translation>
+      <source>greater than</source>
+      <translation type="unfinished">greater than</translation>
     </message>
     <message>
-        <source>less than</source>
-        <translation type="unfinished">on väiksem kui</translation>
+      <source>less than</source>
+      <translation type="unfinished">less than</translation>
     </message>
     <message>
-        <source>equals</source>
-        <translation type="unfinished">võrdub</translation>
+      <source>equals</source>
+      <translation type="unfinished">equals</translation>
     </message>
     <message>
-        <source>not equals</source>
-        <translation type="unfinished">ei võrdu</translation>
+      <source>not equals</source>
+      <translation type="unfinished">not equals</translation>
     </message>
     <message>
-        <source>empty</source>
-        <translation type="unfinished">tühi</translation>
+      <source>empty</source>
+      <translation type="unfinished">empty</translation>
     </message>
     <message>
-        <source>not empty</source>
-        <translation type="unfinished">pole tühi</translation>
+      <source>not empty</source>
+      <translation type="unfinished">not empty</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Märkus</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>A-Z</source>
-        <translation type="unfinished">A-Ü</translation>
+      <source>A-Z</source>
+      <translation type="unfinished">A-Z</translation>
     </message>
     <message>
-        <source>Z-A</source>
-        <translation type="unfinished">Z-A</translation>
+      <source>Z-A</source>
+      <translation type="unfinished">Z-A</translation>
     </message>
     <message>
-        <source>oldest first</source>
-        <translation type="unfinished">vanimad esimesena</translation>
+      <source>oldest first</source>
+      <translation type="unfinished">oldest first</translation>
     </message>
     <message>
-        <source>newest first</source>
-        <translation type="unfinished">uusim esimesena</translation>
+      <source>newest first</source>
+      <translation type="unfinished">newest first</translation>
     </message>
     <message>
-        <source>shortest first</source>
-        <translation type="unfinished">lühimad esimesena</translation>
+      <source>shortest first</source>
+      <translation type="unfinished">shortest first</translation>
     </message>
     <message>
-        <source>longest first</source>
-        <translation type="unfinished">pikim esimesena</translation>
+      <source>longest first</source>
+      <translation type="unfinished">longest first</translation>
     </message>
     <message>
-        <source>smallest first</source>
-        <translation type="unfinished">väikseim esimesena</translation>
+      <source>smallest first</source>
+      <translation type="unfinished">smallest first</translation>
     </message>
     <message>
-        <source>biggest first</source>
-        <translation type="unfinished">suurimad esimesena</translation>
+      <source>biggest first</source>
+      <translation type="unfinished">biggest first</translation>
     </message>
     <message>
-        <source>Hours</source>
-        <translation type="unfinished">tundi</translation>
+      <source>Hours</source>
+      <translation type="unfinished">Hours</translation>
     </message>
     <message>
-        <source>Days</source>
-        <translation type="unfinished">päeva</translation>
+      <source>Days</source>
+      <translation type="unfinished">Days</translation>
     </message>
     <message>
-        <source>Weeks</source>
-        <translation type="unfinished">nädalat</translation>
+      <source>Weeks</source>
+      <translation type="unfinished">Weeks</translation>
     </message>
     <message>
-        <source>Months</source>
-        <translation type="unfinished">kuud</translation>
+      <source>Months</source>
+      <translation type="unfinished">Months</translation>
     </message>
     <message>
-        <source>Years</source>
-        <translation type="unfinished">aastat</translation>
+      <source>Years</source>
+      <translation type="unfinished">Years</translation>
     </message>
     <message>
-        <source>Normal</source>
-        <translation type="unfinished">Tavaline</translation>
+      <source>Normal</source>
+      <translation type="unfinished">Normal</translation>
     </message>
     <message>
-        <source>Angry</source>
-        <translation type="unfinished">Vihane</translation>
+      <source>Angry</source>
+      <translation type="unfinished">Angry</translation>
     </message>
     <message>
-        <source>Frozen</source>
-        <translation type="unfinished">Külmunud</translation>
+      <source>Frozen</source>
+      <translation type="unfinished">Frozen</translation>
     </message>
     <message>
-        <source>Happy</source>
-        <translation type="unfinished">Õnnelik</translation>
+      <source>Happy</source>
+      <translation type="unfinished">Happy</translation>
     </message>
     <message>
-        <source>System colors</source>
-        <translation type="unfinished">Süsteemi värvid</translation>
+      <source>System colors</source>
+      <translation type="unfinished">System colors</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Database</name>
     <message>
-        <source>Unable to execute SQL query: %1</source>
-        <translation type="unfinished">SQL päring nurjus: %1</translation>
+      <source>Unable to execute SQL query: %1</source>
+      <translation type="unfinished">Unable to execute SQL query: %1</translation>
     </message>
     <message>
-        <source>Failed SQL query: %1</source>
-        <translation type="unfinished">Nurjunud SQL päring: %1</translation>
+      <source>Failed SQL query: %1</source>
+      <translation type="unfinished">Failed SQL query: %1</translation>
     </message>
     <message>
-        <source>Integrity check</source>
-        <translation type="unfinished">Terviklikkuse kontroll</translation>
+      <source>Integrity check</source>
+      <translation type="unfinished">Integrity check</translation>
     </message>
     <message>
-        <source>Database corruption detected.</source>
-        <translation type="unfinished">Tuvastati rikutud andmebaas.</translation>
+      <source>Database corruption detected.</source>
+      <translation type="unfinished">Database corruption detected.</translation>
     </message>
     <message>
-        <source>Backing up database</source>
-        <translation type="unfinished">Andmebaasi varundamine</translation>
+      <source>Backing up database</source>
+      <translation type="unfinished">Backing up database</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeleteFiles</name>
     <message>
-        <source>Deleting files</source>
-        <translation type="unfinished">Failide kustutamine</translation>
+      <source>Deleting files</source>
+      <translation type="unfinished">Deleting files</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SongLoader</name>
     <message>
-        <source>You need GStreamer for this URL.</source>
-        <translation type="unfinished">Selle URL-i jaoks vajad GStreamerit.</translation>
+      <source>You need GStreamer for this URL.</source>
+      <translation type="unfinished">You need GStreamer for this URL.</translation>
     </message>
     <message>
-        <source>Preload function was not set for blocking operation.</source>
-        <translation type="unfinished">Eellaadimise funktsionaalsus polnud määratud blokeerimiseks.</translation>
+      <source>Preload function was not set for blocking operation.</source>
+      <translation type="unfinished">Preload function was not set for blocking operation.</translation>
     </message>
     <message>
-        <source>File %1 does not exist.</source>
-        <translation type="unfinished">Faili %1 pole olemas.</translation>
+      <source>File %1 does not exist.</source>
+      <translation type="unfinished">File %1 does not exist.</translation>
     </message>
     <message>
-        <source>CD playback is only available with the GStreamer engine.</source>
-        <translation type="unfinished">CD taasesitus on võimalik ainult GStreameri mootoriga.</translation>
+      <source>CD playback is only available with the GStreamer engine.</source>
+      <translation type="unfinished">CD playback is only available with the GStreamer engine.</translation>
     </message>
     <message>
-        <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Ei õnnestunud avada %1 faili lugemiseks: %2</translation>
+      <source>Could not open file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Could not open CUE file %1 for reading: %2</source>
-        <translation type="unfinished">Ei õnnestunud avada CUE faili %1 lugemiseks: %2</translation>
+      <source>Could not open CUE file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open CUE file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Could not open playlist file %1 for reading: %2</source>
-        <translation type="unfinished">Esitusloendi faili %1 ei õnnestunud lugemiseks avada: %2</translation>
+      <source>Could not open playlist file %1 for reading: %2</source>
+      <translation type="unfinished">Could not open playlist file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer source element for %1</source>
-        <translation type="unfinished">GStreameri lähteelemendi loomine %1 jaoks nurjus</translation>
+      <source>Couldn&apos;t create GStreamer source element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer source element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer typefind element for %1</source>
-        <translation type="unfinished">GStreameri typefind elemendi loomine %1 jaoks nurjus</translation>
+      <source>Couldn&apos;t create GStreamer typefind element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer typefind element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create GStreamer fakesink element for %1</source>
-        <translation type="unfinished">GStreameri fakesink elemendi loomine %1 jaoks nurjus</translation>
+      <source>Couldn&apos;t create GStreamer fakesink element for %1</source>
+      <translation type="unfinished">Couldn&apos;t create GStreamer fakesink element for %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</source>
-        <translation type="unfinished">GStreameri fakesink, typefind ja lähteelementide linkimine %1 jaoks nurjus</translation>
+      <source>Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</source>
+      <translation type="unfinished">Couldn&apos;t link GStreamer source, typefind and fakesink elements for %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MimeData</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GstEngine</name>
     <message>
-        <source>Buffering</source>
-        <translation type="unfinished">Puhvedamine</translation>
+      <source>Buffering</source>
+      <translation type="unfinished">Buffering</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AnalyzerContainer</name>
     <message>
-        <source>Framerate</source>
-        <translation type="unfinished">Kaadrisagedus</translation>
+      <source>Framerate</source>
+      <translation type="unfinished">Framerate</translation>
     </message>
     <message>
-        <source>Low (%1 fps)</source>
-        <translation type="unfinished">Madal (%1 fps)</translation>
+      <source>Low (%1 fps)</source>
+      <translation type="unfinished">Low (%1 fps)</translation>
     </message>
     <message>
-        <source>Medium (%1 fps)</source>
-        <translation type="unfinished">Keskmine (%1 fps)</translation>
+      <source>Medium (%1 fps)</source>
+      <translation type="unfinished">Medium (%1 fps)</translation>
     </message>
     <message>
-        <source>High (%1 fps)</source>
-        <translation type="unfinished">Kõrge (%1 fps)</translation>
+      <source>High (%1 fps)</source>
+      <translation type="unfinished">High (%1 fps)</translation>
     </message>
     <message>
-        <source>Super high (%1 fps)</source>
-        <translation type="unfinished">Ülikõrge (%1 kaadrit sekundis)</translation>
+      <source>Super high (%1 fps)</source>
+      <translation type="unfinished">Super high (%1 fps)</translation>
     </message>
     <message>
-        <source>No analyzer</source>
-        <translation type="unfinished">Analüsaator puudub</translation>
+      <source>No analyzer</source>
+      <translation type="unfinished">No analyzer</translation>
     </message>
     <message>
-        <source>Block analyzer</source>
-        <translation type="unfinished">Blokk-analüsaator</translation>
+      <source>Block analyzer</source>
+      <translation type="unfinished">Block analyzer</translation>
     </message>
     <message>
-        <source>Boom analyzer</source>
-        <translation type="unfinished">Kõmisev analüsaator</translation>
+      <source>Boom analyzer</source>
+      <translation type="unfinished">Boom analyzer</translation>
     </message>
     <message>
-        <source>Turbine</source>
-        <translation type="unfinished">Turbine</translation>
+      <source>Turbine</source>
+      <translation type="unfinished">Turbine</translation>
     </message>
     <message>
-        <source>Sonogram</source>
-        <translation type="unfinished">Sonogram</translation>
+      <source>Sonogram</source>
+      <translation type="unfinished">Sonogram</translation>
     </message>
     <message>
-        <source>WaveRubber</source>
-        <translation type="unfinished">WaveRubber</translation>
+      <source>WaveRubber</source>
+      <translation type="unfinished">WaveRubber</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ContextView</name>
     <message>
-        <source>Filetype</source>
-        <translation type="unfinished">Faili tüüp</translation>
+      <source>Filetype</source>
+      <translation type="unfinished">Filetype</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Kestus</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Samplerate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Samplerate</source>
+      <translation type="unfinished">Samplerate</translation>
     </message>
     <message>
-        <source>Bit depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit depth</source>
+      <translation type="unfinished">Bit depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>EBU R 128 Integrated Loudness</source>
-        <translation type="unfinished">EBU R 128 integreeritud valjus</translation>
+      <source>EBU R 128 Integrated Loudness</source>
+      <translation type="unfinished">EBU R 128 Integrated Loudness</translation>
     </message>
     <message>
-        <source>EBU R 128 Loudness Range</source>
-        <translation type="unfinished">EBU R 128 valjuse vahemik</translation>
+      <source>EBU R 128 Loudness Range</source>
+      <translation type="unfinished">EBU R 128 Loudness Range</translation>
     </message>
     <message>
-        <source>Show album cover</source>
-        <translation type="unfinished">Kuva kaanepilte</translation>
+      <source>Show album cover</source>
+      <translation type="unfinished">Show album cover</translation>
     </message>
     <message>
-        <source>Show song technical data</source>
-        <translation type="unfinished">Kuva loo tehnilisi andmeid</translation>
+      <source>Show song technical data</source>
+      <translation type="unfinished">Show song technical data</translation>
     </message>
     <message>
-        <source>Show song lyrics</source>
-        <translation type="unfinished">Kuva laulusõnad</translation>
+      <source>Show song lyrics</source>
+      <translation type="unfinished">Show song lyrics</translation>
     </message>
     <message>
-        <source>Automatically search for song lyrics</source>
-        <translation type="unfinished">Otsi laulusõnu automaatselt</translation>
+      <source>Automatically search for song lyrics</source>
+      <translation type="unfinished">Automatically search for song lyrics</translation>
     </message>
     <message>
-        <source>No song playing</source>
-        <translation type="unfinished">Midagi ei mängita</translation>
+      <source>No song playing</source>
+      <translation type="unfinished">No song playing</translation>
     </message>
     <message>
-        <source>%1 song</source>
-        <translation type="unfinished">%1 lugu</translation>
+      <source>%1 song</source>
+      <translation type="unfinished">%1 song</translation>
     </message>
     <message>
-        <source>%1 songs</source>
-        <translation type="unfinished">%1 lugu</translation>
+      <source>%1 songs</source>
+      <translation type="unfinished">%1 songs</translation>
     </message>
     <message>
-        <source>%1 artist</source>
-        <translation type="unfinished">%1 esitaja</translation>
+      <source>%1 artist</source>
+      <translation type="unfinished">%1 artist</translation>
     </message>
     <message>
-        <source>%1 artists</source>
-        <translation type="unfinished">%1 esitajat</translation>
+      <source>%1 artists</source>
+      <translation type="unfinished">%1 artists</translation>
     </message>
     <message>
-        <source>%1 album</source>
-        <translation type="unfinished">%1 album</translation>
+      <source>%1 album</source>
+      <translation type="unfinished">%1 album</translation>
     </message>
     <message>
-        <source>%1 albums</source>
-        <translation type="unfinished">%1 albumit</translation>
+      <source>%1 albums</source>
+      <translation type="unfinished">%1 albums</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kbps</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SCollection</name>
     <message>
-        <source>Saving playcounts and ratings</source>
-        <translation type="unfinished">Salvestame esituskordi ja hinnanguid</translation>
+      <source>Saving playcounts and ratings</source>
+      <translation type="unfinished">Saving playcounts and ratings</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionModel</name>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Erinevad esitajad</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="unfinished">Laadimine...</translation>
+      <source>Loading...</source>
+      <translation type="unfinished">Loading...</translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionBackend</name>
     <message>
-        <source>Unable to execute collection SQL query: %1</source>
-        <translation type="unfinished">Helikogu SQL päring ei õnnestunud: %1</translation>
+      <source>Unable to execute collection SQL query: %1</source>
+      <translation type="unfinished">Unable to execute collection SQL query: %1</translation>
     </message>
     <message>
-        <source>Failed SQL query: %1</source>
-        <translation type="unfinished">Nurjunud SQL päring: %1</translation>
+      <source>Failed SQL query: %1</source>
+      <translation type="unfinished">Failed SQL query: %1</translation>
     </message>
     <message>
-        <source>Updating %1 database.</source>
-        <translation type="unfinished">%1 andmebaasi värskendamine.</translation>
+      <source>Updating %1 database.</source>
+      <translation type="unfinished">Updating %1 database.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionWatcher</name>
     <message>
-        <source>Updating collection</source>
-        <translation type="unfinished">Helikogu värskendamine</translation>
+      <source>Updating collection</source>
+      <translation type="unfinished">Updating collection</translation>
     </message>
     <message>
-        <source>Updating %1</source>
-        <translation type="unfinished">%1 uuendamine</translation>
+      <source>Updating %1</source>
+      <translation type="unfinished">Updating %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CollectionView</name>
     <message>
-        <source>Your collection is empty!</source>
-        <translation type="unfinished">Su helikogu on tühi!</translation>
+      <source>Your collection is empty!</source>
+      <translation type="unfinished">Your collection is empty!</translation>
     </message>
     <message>
-        <source>Click here to add some music</source>
-        <translation type="unfinished">Klõpsa muusika lisamiseks siia</translation>
+      <source>Click here to add some music</source>
+      <translation type="unfinished">Click here to add some music</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Lisa järjekorda</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Lisa järgmiseks esitamiseks järjekorda</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Search for this</source>
-        <translation type="unfinished">Otsi seda</translation>
+      <source>Search for this</source>
+      <translation type="unfinished">Search for this</translation>
     </message>
     <message>
-        <source>Organize files...</source>
-        <translation type="unfinished">Korrasta faile...</translation>
+      <source>Organize files...</source>
+      <translation type="unfinished">Organize files...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Kopeeri seadmesse...</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Kustuta kettalt...</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Muuda loo infot...</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Edit tracks information...</source>
-        <translation type="unfinished">Muuda lugude infot...</translation>
+      <source>Edit tracks information...</source>
+      <translation type="unfinished">Edit tracks information...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Kuva failihalduris...</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
     <message>
-        <source>Rescan song(s)</source>
-        <translation type="unfinished">Skaneeri lugu uuesti</translation>
+      <source>Rescan song(s)</source>
+      <translation type="unfinished">Rescan song(s)</translation>
     </message>
     <message>
-        <source>Show in various artists</source>
-        <translation type="unfinished">Kuva nimistus &apos;Erinevad esitajad&apos;</translation>
+      <source>Show in various artists</source>
+      <translation type="unfinished">Show in various artists</translation>
     </message>
     <message>
-        <source>Don&apos;t show in various artists</source>
-        <translation type="unfinished">Ära kuva nimistus &apos;Erinevad esitajad&apos;</translation>
+      <source>Don&apos;t show in various artists</source>
+      <translation type="unfinished">Don&apos;t show in various artists</translation>
     </message>
     <message>
-        <source>There are other songs in this album</source>
-        <translation type="unfinished">Sellel albumil on ka teisi lugusid</translation>
+      <source>There are other songs in this album</source>
+      <translation type="unfinished">There are other songs in this album</translation>
     </message>
     <message>
-        <source>Would you like to move the other songs on this album to Various Artists as well?</source>
-        <translation type="unfinished">Kas soovid teisaldada ka teised selle albumi lood nimistusse &apos;Erinevad esitajad&apos;?</translation>
+      <source>Would you like to move the other songs on this album to Various Artists as well?</source>
+      <translation type="unfinished">Would you like to move the other songs on this album to Various Artists as well?</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>None of the selected songs were suitable for copying to a device</source>
-        <translation type="unfinished">Valitud lood ei olnud sobilikud seadmesse kopeerimiseks</translation>
+      <source>None of the selected songs were suitable for copying to a device</source>
+      <translation type="unfinished">None of the selected songs were suitable for copying to a device</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Playlist</name>
     <message>
-        <source>Could not write metadata to %1</source>
-        <translation type="unfinished">Metaandmete salvestamine faili „%1“ ei õnnestunud</translation>
+      <source>Could not write metadata to %1</source>
+      <translation type="unfinished">Could not write metadata to %1</translation>
     </message>
     <message>
-        <source>Could not write metadata to %1: %2</source>
-        <translation type="unfinished">Metaandmete salvestamine faili „%1“ ei õnnestunud: %2</translation>
+      <source>Could not write metadata to %1: %2</source>
+      <translation type="unfinished">Could not write metadata to %1: %2</translation>
     </message>
     <message>
-        <source>Title</source>
-        <translation type="unfinished">Pealkiri</translation>
+      <source>Title</source>
+      <translation type="unfinished">Title</translation>
     </message>
     <message>
-        <source>Artist</source>
-        <translation type="unfinished">Esitaja</translation>
+      <source>Artist</source>
+      <translation type="unfinished">Artist</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation type="unfinished">Album</translation>
+      <source>Album</source>
+      <translation type="unfinished">Album</translation>
     </message>
     <message>
-        <source>Track</source>
-        <translation type="unfinished">Rada</translation>
+      <source>Track</source>
+      <translation type="unfinished">Track</translation>
     </message>
     <message>
-        <source>Disc</source>
-        <translation type="unfinished">Ketas</translation>
+      <source>Disc</source>
+      <translation type="unfinished">Disc</translation>
     </message>
     <message>
-        <source>Length</source>
-        <translation type="unfinished">Kestus</translation>
+      <source>Length</source>
+      <translation type="unfinished">Length</translation>
     </message>
     <message>
-        <source>Year</source>
-        <translation type="unfinished">Aasta</translation>
+      <source>Year</source>
+      <translation type="unfinished">Year</translation>
     </message>
     <message>
-        <source>Original Year</source>
-        <translation type="unfinished">Algne aasta</translation>
+      <source>Original Year</source>
+      <translation type="unfinished">Original Year</translation>
     </message>
     <message>
-        <source>Genre</source>
-        <translation type="unfinished">Žanr</translation>
+      <source>Genre</source>
+      <translation type="unfinished">Genre</translation>
     </message>
     <message>
-        <source>Album Artist</source>
-        <translation type="unfinished">Albumi esitaja</translation>
+      <source>Album Artist</source>
+      <translation type="unfinished">Album Artist</translation>
     </message>
     <message>
-        <source>Composer</source>
-        <translation type="unfinished">Helilooja</translation>
+      <source>Composer</source>
+      <translation type="unfinished">Composer</translation>
     </message>
     <message>
-        <source>Performer</source>
-        <translation type="unfinished">Esineja</translation>
+      <source>Performer</source>
+      <translation type="unfinished">Performer</translation>
     </message>
     <message>
-        <source>Grouping</source>
-        <translation type="unfinished">Rühmitamine</translation>
+      <source>Grouping</source>
+      <translation type="unfinished">Grouping</translation>
     </message>
     <message>
-        <source>Play Count</source>
-        <translation type="unfinished">Esituskordi</translation>
+      <source>Play Count</source>
+      <translation type="unfinished">Play Count</translation>
     </message>
     <message>
-        <source>Skip Count</source>
-        <translation type="unfinished">Vahelejätmisi</translation>
+      <source>Skip Count</source>
+      <translation type="unfinished">Skip Count</translation>
     </message>
     <message>
-        <source>Last Played</source>
-        <translation type="unfinished">Viimati esitatud</translation>
+      <source>Last Played</source>
+      <translation type="unfinished">Last Played</translation>
     </message>
     <message>
-        <source>Sample Rate</source>
-        <translation type="unfinished">Diskreetimissagedus</translation>
+      <source>Sample Rate</source>
+      <translation type="unfinished">Sample Rate</translation>
     </message>
     <message>
-        <source>Bit Depth</source>
-        <translation type="unfinished">Bitisügavus</translation>
+      <source>Bit Depth</source>
+      <translation type="unfinished">Bit Depth</translation>
     </message>
     <message>
-        <source>Bitrate</source>
-        <translation type="unfinished">Bitikiirus</translation>
+      <source>Bitrate</source>
+      <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
-        <source>File Name</source>
-        <translation type="unfinished">Faili nimi</translation>
+      <source>File Name</source>
+      <translation type="unfinished">File Name</translation>
     </message>
     <message>
-        <source>File Name (without path)</source>
-        <translation type="unfinished">Faili nimi (asukohata)</translation>
+      <source>File Name (without path)</source>
+      <translation type="unfinished">File Name (without path)</translation>
     </message>
     <message>
-        <source>File Size</source>
-        <translation type="unfinished">Faili suurus</translation>
+      <source>File Size</source>
+      <translation type="unfinished">File Size</translation>
     </message>
     <message>
-        <source>File Type</source>
-        <translation type="unfinished">Faili tüüp</translation>
+      <source>File Type</source>
+      <translation type="unfinished">File Type</translation>
     </message>
     <message>
-        <source>Date Modified</source>
-        <translation type="unfinished">Muutmise aeg</translation>
+      <source>Date Modified</source>
+      <translation type="unfinished">Date Modified</translation>
     </message>
     <message>
-        <source>Date Created</source>
-        <translation type="unfinished">Loomise aeg</translation>
+      <source>Date Created</source>
+      <translation type="unfinished">Date Created</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation type="unfinished">Märkus</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Source</source>
-        <translation type="unfinished">Allikas</translation>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
     </message>
     <message>
-        <source>Mood</source>
-        <translation type="unfinished">Meeleolu</translation>
+      <source>Mood</source>
+      <translation type="unfinished">Mood</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation type="unfinished">Hinnang</translation>
+      <source>Rating</source>
+      <translation type="unfinished">Rating</translation>
     </message>
     <message>
-        <source>CUE</source>
-        <translation type="unfinished">CUE</translation>
+      <source>CUE</source>
+      <translation type="unfinished">CUE</translation>
     </message>
     <message>
-        <source>Integrated Loudness</source>
-        <translation type="unfinished">Integreeritud valjus</translation>
+      <source>Integrated Loudness</source>
+      <translation type="unfinished">Integrated Loudness</translation>
     </message>
     <message>
-        <source>Loudness Range</source>
-        <translation type="unfinished">Valjuse vahemik</translation>
+      <source>Loudness Range</source>
+      <translation type="unfinished">Loudness Range</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistDelegateBase</name>
     <message>
-        <source>stop</source>
-        <translation type="unfinished">peata</translation>
+      <source>stop</source>
+      <translation type="unfinished">stop</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastPlayedItemDelegate</name>
     <message>
-        <source>Never</source>
-        <translation type="unfinished">Mitte kunagi</translation>
+      <source>Never</source>
+      <translation type="unfinished">Never</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileTypeItemDelegate</name>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistHeader</name>
     <message>
-        <source>&amp;Hide...</source>
-        <translation type="unfinished">&amp;Peida...</translation>
+      <source>&amp;Hide...</source>
+      <translation type="unfinished">&amp;Hide...</translation>
     </message>
     <message>
-        <source>&amp;Stretch columns to fit window</source>
-        <translation type="unfinished">&amp;Sobita veerud akna laiusega</translation>
+      <source>&amp;Stretch columns to fit window</source>
+      <translation type="unfinished">&amp;Stretch columns to fit window</translation>
     </message>
     <message>
-        <source>&amp;Reset columns to default</source>
-        <translation type="unfinished">&amp;Lähtesta veerud vaikeväärtustele</translation>
+      <source>&amp;Reset columns to default</source>
+      <translation type="unfinished">&amp;Reset columns to default</translation>
     </message>
     <message>
-        <source>&amp;Lock rating</source>
-        <translation type="unfinished">&amp;Lukusta hinne</translation>
+      <source>&amp;Lock rating</source>
+      <translation type="unfinished">&amp;Lock rating</translation>
     </message>
     <message>
-        <source>&amp;Align text</source>
-        <translation type="unfinished">&amp;Joonda tekst</translation>
+      <source>&amp;Align text</source>
+      <translation type="unfinished">&amp;Align text</translation>
     </message>
     <message>
-        <source>&amp;Left</source>
-        <translation type="unfinished">&amp;Vasak</translation>
+      <source>&amp;Left</source>
+      <translation type="unfinished">&amp;Left</translation>
     </message>
     <message>
-        <source>&amp;Center</source>
-        <translation type="unfinished">&amp;Keskele</translation>
+      <source>&amp;Center</source>
+      <translation type="unfinished">&amp;Center</translation>
     </message>
     <message>
-        <source>&amp;Right</source>
-        <translation type="unfinished">&amp;Parem</translation>
+      <source>&amp;Right</source>
+      <translation type="unfinished">&amp;Right</translation>
     </message>
     <message>
-        <source>&amp;Hide %1</source>
-        <translation type="unfinished">&amp;Peida %1</translation>
+      <source>&amp;Hide %1</source>
+      <translation type="unfinished">&amp;Hide %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistListView</name>
     <message>
-        <source>You can favorite playlists by clicking the star icon next to a playlist name</source>
-        <translation type="unfinished">Esitusloendi saab määrata lemmikuks vajutades selle nime juures olevale täheikoonile</translation>
+      <source>You can favorite playlists by clicking the star icon next to a playlist name</source>
+      <translation type="unfinished">You can favorite playlists by clicking the star icon next to a playlist name</translation>
     </message>
     <message>
-        <source>Favorited playlists will be saved here</source>
-        <translation type="unfinished">Lemmikuks määratud esitusloendid salvestatakse siia</translation>
+      <source>Favorited playlists will be saved here</source>
+      <translation type="unfinished">Favorited playlists will be saved here</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistManager</name>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
     <message>
-        <source>Couldn&apos;t create playlist</source>
-        <translation type="unfinished">Esitusloendit ei saanud luua</translation>
+      <source>Couldn&apos;t create playlist</source>
+      <translation type="unfinished">Couldn&apos;t create playlist</translation>
     </message>
     <message>
-        <source>Save playlist</source>
-        <comment>Title of the playlist save dialog.</comment>
-        <translation type="unfinished">Salvesta esitusloend</translation>
+      <source>Save playlist</source>
+      <comment>Title of the playlist save dialog.</comment>
+      <translation type="unfinished">Save playlist</translation>
     </message>
     <message>
-        <source>Unknown playlist extension</source>
-        <translation type="unfinished">Tundmatu esitusloendi laiend</translation>
+      <source>Unknown playlist extension</source>
+      <translation type="unfinished">Unknown playlist extension</translation>
     </message>
     <message>
-        <source>Unknown file extension for playlist.</source>
-        <translation type="unfinished">Esitusloendi jaoks tundmatu faililaiend.</translation>
+      <source>Unknown file extension for playlist.</source>
+      <translation type="unfinished">Unknown file extension for playlist.</translation>
     </message>
     <message>
-        <source>%1 selected of</source>
-        <translation type="unfinished">%1 on valitud</translation>
+      <source>%1 selected of</source>
+      <translation type="unfinished">%1 selected of</translation>
     </message>
     <message numerus="yes">
-        <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n lugu</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n track(s)</source>
+      <translation type="unfinished">
+        <numerusform>%n track(s)</numerusform>
+        <numerusform>%n track(s)</numerusform>
+      </translation>
     </message>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+      <source>Unknown</source>
+      <translation type="unfinished">Unknown</translation>
     </message>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Erinevad esitajad</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistTabBar</name>
     <message>
-        <source>Star playlist</source>
-        <translation type="unfinished">Standardne</translation>
+      <source>Star playlist</source>
+      <translation type="unfinished">Star playlist</translation>
     </message>
     <message>
-        <source>Close playlist</source>
-        <translation type="unfinished">Sulge esitusloend</translation>
+      <source>Close playlist</source>
+      <translation type="unfinished">Close playlist</translation>
     </message>
     <message>
-        <source>Rename playlist...</source>
-        <translation type="unfinished">Nimeta esitusloend ümber...</translation>
+      <source>Rename playlist...</source>
+      <translation type="unfinished">Rename playlist...</translation>
     </message>
     <message>
-        <source>Save playlist...</source>
-        <translation type="unfinished">Salvesta esitusloend...</translation>
+      <source>Save playlist...</source>
+      <translation type="unfinished">Save playlist...</translation>
     </message>
     <message>
-        <source>Rename playlist</source>
-        <translation type="unfinished">Nimeta esitusloend ümber</translation>
+      <source>Rename playlist</source>
+      <translation type="unfinished">Rename playlist</translation>
     </message>
     <message>
-        <source>Enter a new name for this playlist</source>
-        <translation type="unfinished">Sisesta sellele esitusloendile uus nimi</translation>
+      <source>Enter a new name for this playlist</source>
+      <translation type="unfinished">Enter a new name for this playlist</translation>
     </message>
     <message>
-        <source>Remove playlist</source>
-        <translation type="unfinished">Eemalda esitusloend</translation>
+      <source>Remove playlist</source>
+      <translation type="unfinished">Remove playlist</translation>
     </message>
     <message>
-        <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
+      <source>You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
 Are you sure you want to continue?</source>
-        <translation type="unfinished">Oled eemaldamas esitusloendit, mis ei kuulu lemmikesitusloendite hulka: esitusloend kustutatakse (seda toimingut ei saa tagasi võtta). 
-Kas soovid jätkata?</translation>
+      <translation type="unfinished">You are about to remove a playlist which is not part of your favorite playlists: the playlist will be deleted (this action cannot be undone). 
+Are you sure you want to continue?</translation>
     </message>
     <message>
-        <source>Warn me when closing a playlist tab</source>
-        <translation type="unfinished">Hoiata esitusloendi vahekaardi sulgemisel</translation>
+      <source>Warn me when closing a playlist tab</source>
+      <translation type="unfinished">Warn me when closing a playlist tab</translation>
     </message>
     <message>
-        <source>This option can be changed in the &quot;Behavior&quot; preferences</source>
-        <translation type="unfinished">Seda valikut saab muuta eelistustes &quot;Käitumine&quot;</translation>
+      <source>This option can be changed in the &quot;Behavior&quot; preferences</source>
+      <translation type="unfinished">This option can be changed in the &quot;Behavior&quot; preferences</translation>
     </message>
     <message>
-        <source>Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</source>
-        <translation type="unfinished">Selle esitusloendi lemmikuks lisamiseks topeltklõpsa siin. See salvestatakse ja jääb juurdepääsetavaks vasakpoolsel küljeribal oleva paneeli &quot;Esitusloendid&quot; kaudu</translation>
+      <source>Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</source>
+      <translation type="unfinished">Double-click here to favorite this playlist so it will be saved and remain accessible through the &quot;Playlists&quot; panel on the left side bar</translation>
     </message>
     <message>
-        <source>Playlist</source>
-        <translation type="unfinished">Esitusloend</translation>
+      <source>Playlist</source>
+      <translation type="unfinished">Playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::InsertItems</name>
     <message numerus="yes">
-        <source>add %n songs</source>
-        <translation type="unfinished">
-            <numerusform>lisa %n lugu</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>add %n songs</source>
+      <translation type="unfinished">
+        <numerusform>add %n songs</numerusform>
+        <numerusform>add %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::RemoveItems</name>
     <message numerus="yes">
-        <source>remove %n songs</source>
-        <translation type="unfinished">
-            <numerusform>eemalda %n lugu</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>remove %n songs</source>
+      <translation type="unfinished">
+        <numerusform>remove %n songs</numerusform>
+        <numerusform>remove %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::MoveItems</name>
     <message numerus="yes">
-        <source>move %n songs</source>
-        <translation type="unfinished">
-            <numerusform>liiguta %n lugu</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>move %n songs</source>
+      <translation type="unfinished">
+        <numerusform>move %n songs</numerusform>
+        <numerusform>move %n songs</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::SortItems</name>
     <message>
-        <source>sort songs</source>
-        <translation type="unfinished">sordi lugusi</translation>
+      <source>sort songs</source>
+      <translation type="unfinished">sort songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistUndoCommands::ShuffleItems</name>
     <message>
-        <source>shuffle songs</source>
-        <translation type="unfinished">lugude juhuesitus</translation>
+      <source>shuffle songs</source>
+      <translation type="unfinished">shuffle songs</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistView</name>
     <message>
-        <source>Hz</source>
-        <translation type="unfinished">Hz</translation>
+      <source>Hz</source>
+      <translation type="unfinished">Hz</translation>
     </message>
     <message>
-        <source>Bit</source>
-        <translation type="unfinished">bitt</translation>
+      <source>Bit</source>
+      <translation type="unfinished">Bit</translation>
     </message>
     <message>
-        <source>kbps</source>
-        <translation type="unfinished">kbps</translation>
+      <source>kbps</source>
+      <translation type="unfinished">kbps</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SongLoaderInserter</name>
     <message>
-        <source>Error while loading audio CD.</source>
-        <translation type="unfinished">Viga audio CD laadimisel.</translation>
+      <source>Error while loading audio CD.</source>
+      <translation type="unfinished">Error while loading audio CD.</translation>
     </message>
     <message>
-        <source>Loading tracks</source>
-        <translation type="unfinished">Radade laadimine</translation>
+      <source>Loading tracks</source>
+      <translation type="unfinished">Loading tracks</translation>
     </message>
     <message>
-        <source>Loading tracks info</source>
-        <translation type="unfinished">Lugude teabe laadimine</translation>
+      <source>Loading tracks info</source>
+      <translation type="unfinished">Loading tracks info</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Queue</name>
     <message numerus="yes">
-        <source>%n track(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n lugu</numerusform>
-            <numerusform></numerusform>
-        </translation>
+      <source>%n track(s)</source>
+      <translation type="unfinished">
+        <numerusform>%n track(s)</numerusform>
+        <numerusform>%n track(s)</numerusform>
+      </translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CueParser</name>
     <message>
-        <source>Saving CUE files is not supported.</source>
-        <translation type="unfinished">CUE-failide salvestamine pole toetatud.</translation>
+      <source>Saving CUE files is not supported.</source>
+      <translation type="unfinished">Saving CUE files is not supported.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ParserBase</name>
     <message>
-        <source>Don&apos;t know how to handle %1</source>
-        <translation type="unfinished">Ei tea, kuidas peaks kasutama: %1</translation>
+      <source>Don&apos;t know how to handle %1</source>
+      <translation type="unfinished">Don&apos;t know how to handle %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistParser</name>
     <message>
-        <source>All playlists (%1)</source>
-        <translation type="unfinished">Kõik esitusloendid (%1)</translation>
+      <source>All playlists (%1)</source>
+      <translation type="unfinished">All playlists (%1)</translation>
     </message>
     <message>
-        <source>%1 playlists (%2)</source>
-        <translation type="unfinished">%1 esitusloendit (%2)</translation>
+      <source>%1 playlists (%2)</source>
+      <translation type="unfinished">%1 playlists (%2)</translation>
     </message>
     <message>
-        <source>Unknown filetype: %1</source>
-        <translation type="unfinished">Tundmatu failitüüp: %1</translation>
+      <source>Unknown filetype: %1</source>
+      <translation type="unfinished">Unknown filetype: %1</translation>
     </message>
     <message>
-        <source>Could not open file %1</source>
-        <translation type="unfinished">Faili avamine ei õnnestu: %1</translation>
+      <source>Could not open file %1</source>
+      <translation type="unfinished">Could not open file %1</translation>
     </message>
     <message>
-        <source>Directory %1 does not exist.</source>
-        <translation type="unfinished">„%1“ kausta pole olemas.</translation>
+      <source>Directory %1 does not exist.</source>
+      <translation type="unfinished">Directory %1 does not exist.</translation>
     </message>
     <message>
-        <source>Failed to open %1 for writing.</source>
-        <translation type="unfinished">%1 avamine salvestamiseks ei õnnestunud.</translation>
+      <source>Failed to open %1 for writing.</source>
+      <translation type="unfinished">Failed to open %1 for writing.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlaylistGeneratorInserter</name>
     <message>
-        <source>Loading smart playlist</source>
-        <translation type="unfinished">Nutika esitusloendi laadimine</translation>
+      <source>Loading smart playlist</source>
+      <translation type="unfinished">Loading smart playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistQueryWizardPlugin</name>
     <message>
-        <source>Collection search</source>
-        <translation type="unfinished">Helikogu otsing</translation>
+      <source>Collection search</source>
+      <translation type="unfinished">Collection search</translation>
     </message>
     <message>
-        <source>Find songs in your collection that match the criteria you specify.</source>
-        <translation type="unfinished">Otsi oma helikogust laule, mis vastavad määratud kriteeriumidele.</translation>
+      <source>Find songs in your collection that match the criteria you specify.</source>
+      <translation type="unfinished">Find songs in your collection that match the criteria you specify.</translation>
     </message>
     <message>
-        <source>Search terms</source>
-        <translation type="unfinished">Otsisõnad</translation>
+      <source>Search terms</source>
+      <translation type="unfinished">Search terms</translation>
     </message>
     <message>
-        <source>A song will be included in the playlist if it matches these conditions.</source>
-        <translation type="unfinished">Lugu lisatakse esitusloendisse, kui see vastab nendele tingimustele.</translation>
+      <source>A song will be included in the playlist if it matches these conditions.</source>
+      <translation type="unfinished">A song will be included in the playlist if it matches these conditions.</translation>
     </message>
     <message>
-        <source>Search options</source>
-        <translation type="unfinished">Otsingu valikud</translation>
+      <source>Search options</source>
+      <translation type="unfinished">Search options</translation>
     </message>
     <message>
-        <source>Choose how the playlist is sorted and how many songs it will contain.</source>
-        <translation type="unfinished">Vali, kuidas esitusloend sorditakse ja kui palju lugusid see sisaldab.</translation>
+      <source>Choose how the playlist is sorted and how many songs it will contain.</source>
+      <translation type="unfinished">Choose how the playlist is sorted and how many songs it will contain.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistSearchTermWidgetOverlay</name>
     <message>
-        <source>Add search term</source>
-        <translation type="unfinished">Lisa otsingusõna</translation>
+      <source>Add search term</source>
+      <translation type="unfinished">Add search term</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylists</name>
     <message>
-        <source>Newest tracks</source>
-        <translation type="unfinished">Uusimad lood</translation>
+      <source>Newest tracks</source>
+      <translation type="unfinished">Newest tracks</translation>
     </message>
     <message>
-        <source>50 random tracks</source>
-        <translation type="unfinished">50 juhuslikku lugu</translation>
+      <source>50 random tracks</source>
+      <translation type="unfinished">50 random tracks</translation>
     </message>
     <message>
-        <source>Ever played</source>
-        <translation type="unfinished">Läbi aegade esitatud</translation>
+      <source>Ever played</source>
+      <translation type="unfinished">Ever played</translation>
     </message>
     <message>
-        <source>Never played</source>
-        <translation type="unfinished">Pole esitatud</translation>
+      <source>Never played</source>
+      <translation type="unfinished">Never played</translation>
     </message>
     <message>
-        <source>Last played</source>
-        <translation type="unfinished">Viimati esitatud</translation>
+      <source>Last played</source>
+      <translation type="unfinished">Last played</translation>
     </message>
     <message>
-        <source>Most played</source>
-        <translation type="unfinished">Enim esitatud</translation>
+      <source>Most played</source>
+      <translation type="unfinished">Most played</translation>
     </message>
     <message>
-        <source>Favourite tracks</source>
-        <translation type="unfinished">Lemmiklood</translation>
+      <source>Favourite tracks</source>
+      <translation type="unfinished">Favourite tracks</translation>
     </message>
     <message>
-        <source>All tracks</source>
-        <translation type="unfinished">Kõik lood</translation>
+      <source>All tracks</source>
+      <translation type="unfinished">All tracks</translation>
     </message>
     <message>
-        <source>Dynamic random mix</source>
-        <translation type="unfinished">Dünaamiline juhuslik valik</translation>
+      <source>Dynamic random mix</source>
+      <translation type="unfinished">Dynamic random mix</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Library</name>
     <message>
-        <source>Least favourite tracks</source>
-        <translation type="unfinished">Vähim kuulatud lood</translation>
+      <source>Least favourite tracks</source>
+      <translation type="unfinished">Least favourite tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SmartPlaylistWizard</name>
     <message>
-        <source>Smart playlist</source>
-        <translation type="unfinished">Nutikas esitusloend</translation>
+      <source>Smart playlist</source>
+      <translation type="unfinished">Smart playlist</translation>
     </message>
     <message>
-        <source>Playlist type</source>
-        <translation type="unfinished">Esitusloendi tüüp</translation>
+      <source>Playlist type</source>
+      <translation type="unfinished">Playlist type</translation>
     </message>
     <message>
-        <source>A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</source>
-        <translation type="unfinished">Nutikas esitusloend on dünaamiline loend lugudest sinu helikogust. On olemas erinevat tüüpi nutikaid esitusloendeid, mis pakuvad erinevaid viise lugude valimiseks.</translation>
+      <source>A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</source>
+      <translation type="unfinished">A smart playlist is a dynamic list of songs that come from your collection.  There are different types of smart playlist that offer different ways of selecting songs.</translation>
     </message>
     <message>
-        <source>Finish</source>
-        <translation type="unfinished">Lõpeta</translation>
+      <source>Finish</source>
+      <translation type="unfinished">Finish</translation>
     </message>
     <message>
-        <source>Choose a name for your smart playlist</source>
-        <translation type="unfinished">Vali oma nutikale esitusloendile nimi</translation>
+      <source>Choose a name for your smart playlist</source>
+      <translation type="unfinished">Choose a name for your smart playlist</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverManager</name>
     <message>
-        <source>Abort</source>
-        <translation type="unfinished">Katkesta</translation>
+      <source>Abort</source>
+      <translation type="unfinished">Abort</translation>
     </message>
     <message>
-        <source>All albums</source>
-        <translation type="unfinished">Kõik albumid</translation>
+      <source>All albums</source>
+      <translation type="unfinished">All albums</translation>
     </message>
     <message>
-        <source>Albums with covers</source>
-        <translation type="unfinished">Kaanepildiga albumid</translation>
+      <source>Albums with covers</source>
+      <translation type="unfinished">Albums with covers</translation>
     </message>
     <message>
-        <source>Albums without covers</source>
-        <translation type="unfinished">Kaanepildita albumid</translation>
+      <source>Albums without covers</source>
+      <translation type="unfinished">Albums without covers</translation>
     </message>
     <message>
-        <source>Really cancel?</source>
-        <translation type="unfinished">Kas tühistada?</translation>
+      <source>Really cancel?</source>
+      <translation type="unfinished">Really cancel?</translation>
     </message>
     <message>
-        <source>Closing this window will stop searching for album covers.</source>
-        <translation type="unfinished">Selle akna sulgemine lõpetab kaanepiltide otsimise.</translation>
+      <source>Closing this window will stop searching for album covers.</source>
+      <translation type="unfinished">Closing this window will stop searching for album covers.</translation>
     </message>
     <message>
-        <source>Don&apos;t stop!</source>
-        <translation type="unfinished">Ära peata!</translation>
+      <source>Don&apos;t stop!</source>
+      <translation type="unfinished">Don&apos;t stop!</translation>
     </message>
     <message>
-        <source>All artists</source>
-        <translation type="unfinished">Kõik esitajad</translation>
+      <source>All artists</source>
+      <translation type="unfinished">All artists</translation>
     </message>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Erinevad esitajad</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
     <message>
-        <source>Got %1 covers out of %2 (%3 failed)</source>
-        <translation type="unfinished">%2-st kaanepildist saadi %1 (%3 nurjus)</translation>
+      <source>Got %1 covers out of %2 (%3 failed)</source>
+      <translation type="unfinished">Got %1 covers out of %2 (%3 failed)</translation>
     </message>
     <message>
-        <source>%1 transferred</source>
-        <translation type="unfinished">%1 üle kantud</translation>
+      <source>%1 transferred</source>
+      <translation type="unfinished">%1 transferred</translation>
     </message>
     <message>
-        <source>Export finished</source>
-        <translation type="unfinished">Eksport on lõpetatud</translation>
+      <source>Export finished</source>
+      <translation type="unfinished">Export finished</translation>
     </message>
     <message>
-        <source>No covers to export.</source>
-        <translation type="unfinished">Kaanepilte ekspordiks pole.</translation>
+      <source>No covers to export.</source>
+      <translation type="unfinished">No covers to export.</translation>
     </message>
     <message>
-        <source>Exported %1 covers out of %2 (%3 skipped)</source>
-        <translation type="unfinished">%2-st kaanepildist eksporditi %1 (%3 jäeti vahele)</translation>
+      <source>Exported %1 covers out of %2 (%3 skipped)</source>
+      <translation type="unfinished">Exported %1 covers out of %2 (%3 skipped)</translation>
     </message>
     <message>
-        <source>Could not save cover to file %1.</source>
-        <translation type="unfinished">Ei õnnestunud salvestada kaanepilti faili %1.</translation>
+      <source>Could not save cover to file %1.</source>
+      <translation type="unfinished">Could not save cover to file %1.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AlbumCoverChoiceController</name>
     <message>
-        <source>Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</source>
-        <translation type="unfinished">Pildid (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
+      <source>Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</source>
+      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.gif *.xpm *.pbm *.pgm *.ppm *.xbm)</translation>
     </message>
     <message>
-        <source>Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</source>
-        <translation type="unfinished">Pildid (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
+      <source>Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</source>
+      <translation type="unfinished">Images (*.png *.jpg *.jpeg *.bmp *.xpm *.pbm *.ppm *.xbm)</translation>
     </message>
     <message>
-        <source>All files (*)</source>
-        <translation type="unfinished">Kõik failid (*)</translation>
+      <source>All files (*)</source>
+      <translation type="unfinished">All files (*)</translation>
     </message>
     <message>
-        <source>Load cover from disk...</source>
-        <translation type="unfinished">Laadi kaanepilt kettalt...</translation>
+      <source>Load cover from disk...</source>
+      <translation type="unfinished">Load cover from disk...</translation>
     </message>
     <message>
-        <source>Save cover to disk...</source>
-        <translation type="unfinished">Salvesta kaanepilt kettale...</translation>
+      <source>Save cover to disk...</source>
+      <translation type="unfinished">Save cover to disk...</translation>
     </message>
     <message>
-        <source>Load cover from URL...</source>
-        <translation type="unfinished">Laadi kaaanepilt aadressilt...</translation>
+      <source>Load cover from URL...</source>
+      <translation type="unfinished">Load cover from URL...</translation>
     </message>
     <message>
-        <source>Search for album covers...</source>
-        <translation type="unfinished">Otsi kaanepilte...</translation>
+      <source>Search for album covers...</source>
+      <translation type="unfinished">Search for album covers...</translation>
     </message>
     <message>
-        <source>Unset cover</source>
-        <translation type="unfinished">Tühista kaanepilt</translation>
+      <source>Unset cover</source>
+      <translation type="unfinished">Unset cover</translation>
     </message>
     <message>
-        <source>Delete cover</source>
-        <translation type="unfinished">Kustuta kaanepilt</translation>
+      <source>Delete cover</source>
+      <translation type="unfinished">Delete cover</translation>
     </message>
     <message>
-        <source>Clear cover</source>
-        <translation type="unfinished">Eemalda kaanepilt</translation>
+      <source>Clear cover</source>
+      <translation type="unfinished">Clear cover</translation>
     </message>
     <message>
-        <source>Show fullsize...</source>
-        <translation type="unfinished">Kuva täissuuruses...</translation>
+      <source>Show fullsize...</source>
+      <translation type="unfinished">Show fullsize...</translation>
     </message>
     <message>
-        <source>Search automatically</source>
-        <translation type="unfinished">Otsi automaatselt</translation>
+      <source>Search automatically</source>
+      <translation type="unfinished">Search automatically</translation>
     </message>
     <message>
-        <source>Load cover from disk</source>
-        <translation type="unfinished">Laadi kaanepilt kettalt</translation>
+      <source>Load cover from disk</source>
+      <translation type="unfinished">Load cover from disk</translation>
     </message>
     <message>
-        <source>Failed to open cover file %1 for reading: %2</source>
-        <translation type="unfinished">Kaanepildi faili %1 avamine lugemiseks nurjus: %2</translation>
+      <source>Failed to open cover file %1 for reading: %2</source>
+      <translation type="unfinished">Failed to open cover file %1 for reading: %2</translation>
     </message>
     <message>
-        <source>Cover file %1 is empty.</source>
-        <translation type="unfinished">Kaanepildi fail %1 on tühi.</translation>
+      <source>Cover file %1 is empty.</source>
+      <translation type="unfinished">Cover file %1 is empty.</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation type="unfinished">tundmatu</translation>
+      <source>unknown</source>
+      <translation type="unfinished">unknown</translation>
     </message>
     <message>
-        <source>Save album cover</source>
-        <translation type="unfinished">Salvesta kaanepilt</translation>
+      <source>Save album cover</source>
+      <translation type="unfinished">Save album cover</translation>
     </message>
     <message>
-        <source>Failed to open cover file %1 for writing: %2</source>
-        <translation type="unfinished">Kaanepildi faili %1 avamine salvestamiseks nurjus: %2</translation>
+      <source>Failed to open cover file %1 for writing: %2</source>
+      <translation type="unfinished">Failed to open cover file %1 for writing: %2</translation>
     </message>
     <message>
-        <source>Failed writing cover to file %1: %2</source>
-        <translation type="unfinished">Kaanepildi salvestamine faili %1 nurjus: %2</translation>
+      <source>Failed writing cover to file %1: %2</source>
+      <translation type="unfinished">Failed writing cover to file %1: %2</translation>
     </message>
     <message>
-        <source>Failed writing cover to file %1.</source>
-        <translation type="unfinished">Kaanepildi salvestamine faili %1 nurjus.</translation>
+      <source>Failed writing cover to file %1.</source>
+      <translation type="unfinished">Failed writing cover to file %1.</translation>
     </message>
     <message>
-        <source>Failed to delete cover file %1: %2</source>
-        <translation type="unfinished">Kaanepildi faili %1 kustutamine ei õnnestunud: %2</translation>
+      <source>Failed to delete cover file %1: %2</source>
+      <translation type="unfinished">Failed to delete cover file %1: %2</translation>
     </message>
     <message>
-        <source>Failed to write cover to file %1: %2</source>
-        <translation type="unfinished">Kaanepildi salvestamine faili %1 nurjus: %2</translation>
+      <source>Failed to write cover to file %1: %2</source>
+      <translation type="unfinished">Failed to write cover to file %1: %2</translation>
     </message>
     <message>
-        <source>Could not save cover to file %1.</source>
-        <translation type="unfinished">Ei õnnestunud salvestada kaanepilti faili %1.</translation>
+      <source>Could not save cover to file %1.</source>
+      <translation type="unfinished">Could not save cover to file %1.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GeniusLyricsProvider</name>
     <message>
-        <source>Genius Authentication</source>
-        <translation type="unfinished">Genius autentimine</translation>
+      <source>Genius Authentication</source>
+      <translation type="unfinished">Genius Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Ava see URL oma veebilehitsejas</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code!</source>
-        <translation type="unfinished">Suuna puuduv tunnuskood ümber!</translation>
+      <source>Redirect missing token code!</source>
+      <translation type="unfinished">Redirect missing token code!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Veebilehitsejast saadi vigane vastus.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Redirect from Genius is missing query items code or state.</source>
-        <translation type="unfinished">Geniuse ümbersuunamisel puudub päringuüksuste kood või olek.</translation>
+      <source>Redirect from Genius is missing query items code or state.</source>
+      <translation type="unfinished">Redirect from Genius is missing query items code or state.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeleteConfirmationDialog</name>
     <message>
-        <source>Delete files</source>
-        <translation type="unfinished">Kustuta failid</translation>
+      <source>Delete files</source>
+      <translation type="unfinished">Delete files</translation>
     </message>
     <message>
-        <source>The following files will be deleted from disk:</source>
-        <translation type="unfinished">Järgnevad failid kustutatakse kettalt:</translation>
+      <source>The following files will be deleted from disk:</source>
+      <translation type="unfinished">The following files will be deleted from disk:</translation>
     </message>
     <message>
-        <source>Are you sure you want to continue?</source>
-        <translation type="unfinished">Kas soovid jätkata?</translation>
+      <source>Are you sure you want to continue?</source>
+      <translation type="unfinished">Are you sure you want to continue?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SnapDialog</name>
     <message>
-        <source>Strawberry is running as a Snap</source>
-        <translation type="unfinished">Strawberry töötab Snapina</translation>
+      <source>Strawberry is running as a Snap</source>
+      <translation type="unfinished">Strawberry is running as a Snap</translation>
     </message>
     <message>
-        <source>It is detected that Strawberry is running as a Snap</source>
-        <translation type="unfinished">Tuvastati, et Strawberry töötab Snapina</translation>
+      <source>It is detected that Strawberry is running as a Snap</source>
+      <translation type="unfinished">It is detected that Strawberry is running as a Snap</translation>
     </message>
     <message>
-        <source>Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</source>
-        <translation type="unfinished">Strawberry on aeglasem ja omab Snapina käitamisel piiranguid.  Juurfailisüsteemile (/) ligipääs puudub.  Samuti võivad kehtida muud piirangud, näiteks juurdepääs teatud seadmetele või võrgujagudele.</translation>
+      <source>Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</source>
+      <translation type="unfinished">Strawberry is slower, and has restrictions when running as a Snap. Accessing the root filesystem (/) will not work. There also might be other restrictions such as accessing certain devices or network shares.</translation>
     </message>
     <message>
-        <source>For Ubuntu there is an official PPA repository available at %1.</source>
-        <translation type="unfinished">Ubuntu jaoks on ametlik PPA hoidla, mis on saadaval aadressil %1.</translation>
+      <source>For Ubuntu there is an official PPA repository available at %1.</source>
+      <translation type="unfinished">For Ubuntu there is an official PPA repository available at %1.</translation>
     </message>
     <message>
-        <source>Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</source>
-        <translation type="unfinished">Ametlikud versioonid on saadaval Debiani ja Ubuntu jaoks, mis töötavad ka enamiku nende derivaatidega. Lisateabe saamiseks vaata %1.</translation>
+      <source>Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</source>
+      <translation type="unfinished">Official releases are available for Debian and Ubuntu which also work on most of their derivatives. See %1 for more information.</translation>
     </message>
     <message>
-        <source>For a better experience please consider the other options above.</source>
-        <translation type="unfinished">Parema kasutuskogemuse saamiseks kaalu teisi ülaltoodud valikuid.</translation>
+      <source>For a better experience please consider the other options above.</source>
+      <translation type="unfinished">For a better experience please consider the other options above.</translation>
     </message>
     <message>
-        <source>Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</source>
-        <translation type="unfinished">Varunda strawberry.conf ja strawberry.db kataloogist ~/snap, et vältida seadistuse kaotamist enne snapi eemaldamist:</translation>
+      <source>Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</source>
+      <translation type="unfinished">Copy your strawberry.conf and strawberry.db from your ~/snap directory to avoid losing configuration before you uninstall the snap:</translation>
     </message>
     <message>
-        <source>Uninstall the snap with:</source>
-        <translation type="unfinished">Eemalda snap koos:</translation>
+      <source>Uninstall the snap with:</source>
+      <translation type="unfinished">Uninstall the snap with:</translation>
     </message>
     <message>
-        <source>Install strawberry through PPA:</source>
-        <translation type="unfinished">Paigalda Strawberry PPA kaudu:</translation>
+      <source>Install strawberry through PPA:</source>
+      <translation type="unfinished">Install strawberry through PPA:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FancyTabWidget</name>
     <message>
-        <source>Large sidebar</source>
-        <translation type="unfinished">Suur külgriba</translation>
+      <source>Large sidebar</source>
+      <translation type="unfinished">Large sidebar</translation>
     </message>
     <message>
-        <source>Icons sidebar</source>
-        <translation type="unfinished">Ikoonide külgriba</translation>
+      <source>Icons sidebar</source>
+      <translation type="unfinished">Icons sidebar</translation>
     </message>
     <message>
-        <source>Small sidebar</source>
-        <translation type="unfinished">Väike külgriba</translation>
+      <source>Small sidebar</source>
+      <translation type="unfinished">Small sidebar</translation>
     </message>
     <message>
-        <source>Plain sidebar</source>
-        <translation type="unfinished">Lihtne külgriba</translation>
+      <source>Plain sidebar</source>
+      <translation type="unfinished">Plain sidebar</translation>
     </message>
     <message>
-        <source>Tabs on top</source>
-        <translation type="unfinished">Kaardid üleval</translation>
+      <source>Tabs on top</source>
+      <translation type="unfinished">Tabs on top</translation>
     </message>
     <message>
-        <source>Icons on top</source>
-        <translation type="unfinished">Ikoonid üleval</translation>
+      <source>Icons on top</source>
+      <translation type="unfinished">Icons on top</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FileViewList</name>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Kopeeri helikogusse...</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Move to collection...</source>
-        <translation type="unfinished">Teisalda helikogusse...</translation>
+      <source>Move to collection...</source>
+      <translation type="unfinished">Move to collection...</translation>
     </message>
     <message>
-        <source>Copy to device...</source>
-        <translation type="unfinished">Kopeeri seadmesse...</translation>
+      <source>Copy to device...</source>
+      <translation type="unfinished">Copy to device...</translation>
     </message>
     <message>
-        <source>Delete from disk...</source>
-        <translation type="unfinished">Kustuta kettalt...</translation>
+      <source>Delete from disk...</source>
+      <translation type="unfinished">Delete from disk...</translation>
     </message>
     <message>
-        <source>Edit track information...</source>
-        <translation type="unfinished">Muuda loo infot...</translation>
+      <source>Edit track information...</source>
+      <translation type="unfinished">Edit track information...</translation>
     </message>
     <message>
-        <source>Show in file browser...</source>
-        <translation type="unfinished">Kuva failihalduris...</translation>
+      <source>Show in file browser...</source>
+      <translation type="unfinished">Show in file browser...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FreeSpaceBar</name>
     <message>
-        <source>Available</source>
-        <translation type="unfinished">Saadaolevad</translation>
+      <source>Available</source>
+      <translation type="unfinished">Available</translation>
     </message>
     <message>
-        <source>New songs</source>
-        <translation type="unfinished">Uued lood</translation>
+      <source>New songs</source>
+      <translation type="unfinished">New songs</translation>
     </message>
     <message>
-        <source>Exceeded by</source>
-        <translation type="unfinished">Ületatud</translation>
+      <source>Exceeded by</source>
+      <translation type="unfinished">Exceeded by</translation>
     </message>
     <message>
-        <source>Used</source>
-        <translation type="unfinished">Kasutuses</translation>
+      <source>Used</source>
+      <translation type="unfinished">Used</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QWidget</name>
     <message>
-        <source>Clear</source>
-        <translation type="unfinished">Puhasta</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Reset</source>
-        <translation type="unfinished">Lähtesta</translation>
+      <source>Reset</source>
+      <translation type="unfinished">Reset</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PlayingWidget</name>
     <message>
-        <source>Small album cover</source>
-        <translation type="unfinished">Väike kaanepilt</translation>
+      <source>Small album cover</source>
+      <translation type="unfinished">Small album cover</translation>
     </message>
     <message>
-        <source>Large album cover</source>
-        <translation type="unfinished">Suur kaanepilt</translation>
+      <source>Large album cover</source>
+      <translation type="unfinished">Large album cover</translation>
     </message>
     <message>
-        <source>Fit cover to width</source>
-        <translation type="unfinished">Sobita kaanepilt laiusega</translation>
+      <source>Fit cover to width</source>
+      <translation type="unfinished">Fit cover to width</translation>
     </message>
     <message>
-        <source>Show above status bar</source>
-        <translation type="unfinished">Kuva olekuriba kohal</translation>
+      <source>Show above status bar</source>
+      <translation type="unfinished">Show above status bar</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OSDBase</name>
     <message>
-        <source>disc %1</source>
-        <translation type="unfinished">plaat %1</translation>
+      <source>disc %1</source>
+      <translation type="unfinished">disc %1</translation>
     </message>
     <message>
-        <source>track %1</source>
-        <translation type="unfinished">lugu %1</translation>
+      <source>track %1</source>
+      <translation type="unfinished">track %1</translation>
     </message>
     <message>
-        <source>Paused</source>
-        <translation type="unfinished">Peatatud</translation>
+      <source>Paused</source>
+      <translation type="unfinished">Paused</translation>
     </message>
     <message>
-        <source>Stopped</source>
-        <translation type="unfinished">Peatatud</translation>
+      <source>Stopped</source>
+      <translation type="unfinished">Stopped</translation>
     </message>
     <message>
-        <source>Stop playing after track: %1</source>
-        <translation type="unfinished">Peata taasesitus pärast lugu: %1</translation>
+      <source>Stop playing after track: %1</source>
+      <translation type="unfinished">Stop playing after track: %1</translation>
     </message>
     <message>
-        <source>On</source>
-        <translation type="unfinished">Sees</translation>
+      <source>On</source>
+      <translation type="unfinished">On</translation>
     </message>
     <message>
-        <source>Off</source>
-        <translation type="unfinished">Väljas</translation>
+      <source>Off</source>
+      <translation type="unfinished">Off</translation>
     </message>
     <message>
-        <source>Playlist finished</source>
-        <translation type="unfinished">Esitusnimekiri läbi</translation>
+      <source>Playlist finished</source>
+      <translation type="unfinished">Playlist finished</translation>
     </message>
     <message>
-        <source>Volume %1%</source>
-        <translation type="unfinished">Helitugevus %1%</translation>
+      <source>Volume %1%</source>
+      <translation type="unfinished">Volume %1%</translation>
     </message>
     <message>
-        <source>Don&apos;t shuffle</source>
-        <translation type="unfinished">Juhuesitus väljas</translation>
+      <source>Don&apos;t shuffle</source>
+      <translation type="unfinished">Don&apos;t shuffle</translation>
     </message>
     <message>
-        <source>Shuffle all</source>
-        <translation type="unfinished">Kõige juhuesitus</translation>
+      <source>Shuffle all</source>
+      <translation type="unfinished">Shuffle all</translation>
     </message>
     <message>
-        <source>Shuffle tracks in this album</source>
-        <translation type="unfinished">Selle albumi lugude juhuesitus</translation>
+      <source>Shuffle tracks in this album</source>
+      <translation type="unfinished">Shuffle tracks in this album</translation>
     </message>
     <message>
-        <source>Shuffle albums</source>
-        <translation type="unfinished">Albumite juhuesitus</translation>
+      <source>Shuffle albums</source>
+      <translation type="unfinished">Shuffle albums</translation>
     </message>
     <message>
-        <source>Don&apos;t repeat</source>
-        <translation type="unfinished">Ära korda</translation>
+      <source>Don&apos;t repeat</source>
+      <translation type="unfinished">Don&apos;t repeat</translation>
     </message>
     <message>
-        <source>Repeat track</source>
-        <translation type="unfinished">Korda lugu</translation>
+      <source>Repeat track</source>
+      <translation type="unfinished">Repeat track</translation>
     </message>
     <message>
-        <source>Repeat album</source>
-        <translation type="unfinished">Korda album</translation>
+      <source>Repeat album</source>
+      <translation type="unfinished">Repeat album</translation>
     </message>
     <message>
-        <source>Repeat playlist</source>
-        <translation type="unfinished">Korda esitusloend</translation>
+      <source>Repeat playlist</source>
+      <translation type="unfinished">Repeat playlist</translation>
     </message>
     <message>
-        <source>Stop after every track</source>
-        <translation type="unfinished">Peata pärast iga lugu</translation>
+      <source>Stop after every track</source>
+      <translation type="unfinished">Stop after every track</translation>
     </message>
     <message>
-        <source>Intro tracks</source>
-        <translation type="unfinished">Introd</translation>
+      <source>Intro tracks</source>
+      <translation type="unfinished">Intro tracks</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSearchModel</name>
     <message>
-        <source>Various artists</source>
-        <translation type="unfinished">Erinevad esitajad</translation>
+      <source>Various artists</source>
+      <translation type="unfinished">Various artists</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingSongsView</name>
     <message>
-        <source>Configure %1...</source>
-        <translation type="unfinished">Seadista %1...</translation>
+      <source>Configure %1...</source>
+      <translation type="unfinished">Configure %1...</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>StreamingCollectionView</name>
     <message>
-        <source>The streaming collection is empty!</source>
-        <translation type="unfinished">Voogesituste kogu on tühi!</translation>
+      <source>The streaming collection is empty!</source>
+      <translation type="unfinished">The streaming collection is empty!</translation>
     </message>
     <message>
-        <source>Click here to retrieve music</source>
-        <translation type="unfinished">Muusika hankimiseks klõpsa siia</translation>
+      <source>Click here to retrieve music</source>
+      <translation type="unfinished">Click here to retrieve music</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Queue track</source>
-        <translation type="unfinished">Lisa järjekorda</translation>
+      <source>Queue track</source>
+      <translation type="unfinished">Queue track</translation>
     </message>
     <message>
-        <source>Queue to play next</source>
-        <translation type="unfinished">Lisa järgmiseks esitamiseks järjekorda</translation>
+      <source>Queue to play next</source>
+      <translation type="unfinished">Queue to play next</translation>
     </message>
     <message>
-        <source>Remove from favorites</source>
-        <translation type="unfinished">Eemalda lemmikutest</translation>
+      <source>Remove from favorites</source>
+      <translation type="unfinished">Remove from favorites</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioView</name>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Open homepage</source>
-        <translation type="unfinished">Ava koduleht</translation>
+      <source>Open homepage</source>
+      <translation type="unfinished">Open homepage</translation>
     </message>
     <message>
-        <source>Donate</source>
-        <translation type="unfinished">Anneta</translation>
+      <source>Donate</source>
+      <translation type="unfinished">Donate</translation>
     </message>
     <message>
-        <source>Refresh channels</source>
-        <translation type="unfinished">Värskenda kanaleid</translation>
+      <source>Refresh channels</source>
+      <translation type="unfinished">Refresh channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SomaFMService</name>
     <message>
-        <source>Getting %1 channels</source>
-        <translation type="unfinished">%1 kanali hankimine</translation>
+      <source>Getting %1 channels</source>
+      <translation type="unfinished">Getting %1 channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RadioParadiseService</name>
     <message>
-        <source>Getting %1 channels</source>
-        <translation type="unfinished">%1 kanali hankimine</translation>
+      <source>Getting %1 channels</source>
+      <translation type="unfinished">Getting %1 channels</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ScrobblingAPI20</name>
     <message>
-        <source>%1 Scrobbler Authentication</source>
-        <translation type="unfinished">%1 kraasija autentimine</translation>
+      <source>%1 Scrobbler Authentication</source>
+      <translation type="unfinished">%1 Scrobbler Authentication</translation>
     </message>
     <message>
-        <source>Open URL in web browser?</source>
-        <translation type="unfinished">Kas avada URL veebibrauseris?</translation>
+      <source>Open URL in web browser?</source>
+      <translation type="unfinished">Open URL in web browser?</translation>
     </message>
     <message>
-        <source>Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</source>
-        <translation type="unfinished">URL-i lõikepuhvrisse kopeerimiseks ja veebilehitsejas käsitsi avamiseks vajuta nuppu &quot;Salvesta&quot;.</translation>
+      <source>Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</source>
+      <translation type="unfinished">Press &quot;Save&quot; to copy the URL to clipboard and manually open it in a web browser.</translation>
     </message>
     <message>
-        <source>Could not open URL. Please open this URL in your browser</source>
-        <translation type="unfinished">URL-i ei saanud avada. Ava see URL oma veebilehitseja</translation>
+      <source>Could not open URL. Please open this URL in your browser</source>
+      <translation type="unfinished">Could not open URL. Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Invalid reply from web browser. Missing token.</source>
-        <translation type="unfinished">Kehtetu vastus veebibrauserist. Tunnuskood puudub.</translation>
+      <source>Invalid reply from web browser. Missing token.</source>
+      <translation type="unfinished">Invalid reply from web browser. Missing token.</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser. Try another browser.</source>
-        <translation type="unfinished">Veebilehitsejast saadi vigane vastus. Proovi teist lehitsejat.</translation>
+      <source>Received invalid reply from web browser. Try another browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser. Try another browser.</translation>
     </message>
     <message>
-        <source>Scrobbler %1 is not authenticated!</source>
-        <translation type="unfinished">Kraasija %1 ei ole autentitud!</translation>
+      <source>Scrobbler %1 is not authenticated!</source>
+      <translation type="unfinished">Scrobbler %1 is not authenticated!</translation>
     </message>
     <message>
-        <source>Scrobbler %1 error: %2</source>
-        <translation type="unfinished">Kraasija %1 viga: %2</translation>
+      <source>Scrobbler %1 error: %2</source>
+      <translation type="unfinished">Scrobbler %1 error: %2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ListenBrainzScrobbler</name>
     <message>
-        <source>ListenBrainz Authentication</source>
-        <translation type="unfinished">ListenBrainz autentimine</translation>
+      <source>ListenBrainz Authentication</source>
+      <translation type="unfinished">ListenBrainz Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Ava see URL oma veebilehitsejas</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code!</source>
-        <translation type="unfinished">Suuna puuduv tunnuskood ümber!</translation>
+      <source>Redirect missing token code!</source>
+      <translation type="unfinished">Redirect missing token code!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Veebilehitsejast saadi vigane vastus.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Unable to scrobble %1 - %2 because of error: %3</source>
-        <translation type="unfinished">%1 kraasimine nurjus - %2 põhjuseks: %3</translation>
+      <source>Unable to scrobble %1 - %2 because of error: %3</source>
+      <translation type="unfinished">Unable to scrobble %1 - %2 because of error: %3</translation>
     </message>
     <message>
-        <source>Missing MusicBrainz recording ID for %1 %2 %3</source>
-        <translation type="unfinished">MusicBrainzi salvestuse ID puudub %1 %2 %3 jaoks</translation>
+      <source>Missing MusicBrainz recording ID for %1 %2 %3</source>
+      <translation type="unfinished">Missing MusicBrainz recording ID for %1 %2 %3</translation>
     </message>
     <message>
-        <source>ListenBrainz error: %1</source>
-        <translation type="unfinished">ListenBrainz viga: %1</translation>
+      <source>ListenBrainz error: %1</source>
+      <translation type="unfinished">ListenBrainz error: %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>LastFMImport</name>
     <message>
-        <source>Missing username, please login to last.fm first!</source>
-        <translation type="unfinished">Kasutajanimi puudub, logi esmalt last.fm-i sisse!</translation>
+      <source>Missing username, please login to last.fm first!</source>
+      <translation type="unfinished">Missing username, please login to last.fm first!</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Organize</name>
     <message>
-        <source>Organizing files</source>
-        <translation type="unfinished">Failide korrastamine</translation>
+      <source>Organizing files</source>
+      <translation type="unfinished">Organizing files</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OrganizeErrorDialog</name>
     <message>
-        <source>Error copying songs</source>
-        <translation type="unfinished">Viga lugude kopeerimisel</translation>
+      <source>Error copying songs</source>
+      <translation type="unfinished">Error copying songs</translation>
     </message>
     <message>
-        <source>There were problems copying some songs.  The following files could not be copied:</source>
-        <translation type="unfinished">Mõne loo kopeerimisel ilmnes probleeme.  Järgnevaid faile ei kopeeritud:</translation>
+      <source>There were problems copying some songs.  The following files could not be copied:</source>
+      <translation type="unfinished">There were problems copying some songs.  The following files could not be copied:</translation>
     </message>
     <message>
-        <source>Error deleting songs</source>
-        <translation type="unfinished">Viga lugude kustutamisel</translation>
+      <source>Error deleting songs</source>
+      <translation type="unfinished">Error deleting songs</translation>
     </message>
     <message>
-        <source>There were problems deleting some songs.  The following files could not be deleted:</source>
-        <translation type="unfinished">Mõne loo kustutamisel ilmnes probleeme.  Järgnevaid faile ei kustutatud:</translation>
+      <source>There were problems deleting some songs.  The following files could not be deleted:</source>
+      <translation type="unfinished">There were problems deleting some songs.  The following files could not be deleted:</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Transcoder</name>
     <message>
-        <source>Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</source>
-        <translation type="unfinished">Ei suutnud luua GStreamer&apos;i elementi &quot;%1&quot; - palun kontrolli, et arvutis oleks paigaldatud kõik vajalikud GStreamer&apos;i pistikprogrammid</translation>
+      <source>Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</source>
+      <translation type="unfinished">Could not create the GStreamer element &quot;%1&quot; - make sure you have all the required GStreamer plugins installed</translation>
     </message>
     <message>
-        <source>Successfully written %1</source>
-        <translation type="unfinished">Kodeerimine õnnestus: %1</translation>
+      <source>Successfully written %1</source>
+      <translation type="unfinished">Successfully written %1</translation>
     </message>
     <message>
-        <source>Transcoding %1 files using %2 threads</source>
-        <translation type="unfinished">Teisendatakse %1 faili kasutades %2 lõime</translation>
+      <source>Transcoding %1 files using %2 threads</source>
+      <translation type="unfinished">Transcoding %1 files using %2 threads</translation>
     </message>
     <message>
-        <source>Error processing %1: %2</source>
-        <translation type="unfinished">Viga %1 töötlemisel: %2</translation>
+      <source>Error processing %1: %2</source>
+      <translation type="unfinished">Error processing %1: %2</translation>
     </message>
     <message>
-        <source>Starting %1</source>
-        <translation type="unfinished">Käivitatakse %1</translation>
+      <source>Starting %1</source>
+      <translation type="unfinished">Starting %1</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</source>
-        <translation type="unfinished">Ei leidnud kodeerijat %1 jaoks, palun kontrolli et arvutis oleks paigaldatud õiged GStreamer&apos;i pistikprogrammid</translation>
+      <source>Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</source>
+      <translation type="unfinished">Couldn&apos;t find an encoder for %1, check you have the correct GStreamer plugins installed</translation>
     </message>
     <message>
-        <source>Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</source>
-        <translation type="unfinished">Ei leidnud mukserit %1 jaoks, palun kontrolli et arvutis oleks paigaldatud õiged GStreamer&apos;i pistikprogrammid</translation>
+      <source>Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</source>
+      <translation type="unfinished">Couldn&apos;t find a muxer for %1, check you have the correct GStreamer plugins installed</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SystemTrayIcon</name>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Paus</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Mängi</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GlobalShortcutsManager</name>
     <message>
-        <source>Play</source>
-        <translation type="unfinished">Mängi</translation>
+      <source>Play</source>
+      <translation type="unfinished">Play</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation type="unfinished">Paus</translation>
+      <source>Pause</source>
+      <translation type="unfinished">Pause</translation>
     </message>
     <message>
-        <source>Play/Pause</source>
-        <translation type="unfinished">Esita/paus</translation>
+      <source>Play/Pause</source>
+      <translation type="unfinished">Play/Pause</translation>
     </message>
     <message>
-        <source>Stop</source>
-        <translation type="unfinished">Peata</translation>
+      <source>Stop</source>
+      <translation type="unfinished">Stop</translation>
     </message>
     <message>
-        <source>Stop playing after current track</source>
-        <translation type="unfinished">Peata taasesitus pärast praegust lugu</translation>
+      <source>Stop playing after current track</source>
+      <translation type="unfinished">Stop playing after current track</translation>
     </message>
     <message>
-        <source>Next track</source>
-        <translation type="unfinished">Järgmine lugu</translation>
+      <source>Next track</source>
+      <translation type="unfinished">Next track</translation>
     </message>
     <message>
-        <source>Previous track</source>
-        <translation type="unfinished">Eelmine lugu</translation>
+      <source>Previous track</source>
+      <translation type="unfinished">Previous track</translation>
     </message>
     <message>
-        <source>Restart or previous track</source>
-        <translation type="unfinished">Käivita uuesti või esita eelmine lugu</translation>
+      <source>Restart or previous track</source>
+      <translation type="unfinished">Restart or previous track</translation>
     </message>
     <message>
-        <source>Increase volume</source>
-        <translation type="unfinished">Heli valjemaks</translation>
+      <source>Increase volume</source>
+      <translation type="unfinished">Increase volume</translation>
     </message>
     <message>
-        <source>Decrease volume</source>
-        <translation type="unfinished">Heli vaiksemaks</translation>
+      <source>Decrease volume</source>
+      <translation type="unfinished">Decrease volume</translation>
     </message>
     <message>
-        <source>Mute</source>
-        <translation type="unfinished">Vaigista</translation>
+      <source>Mute</source>
+      <translation type="unfinished">Mute</translation>
     </message>
     <message>
-        <source>Seek forward</source>
-        <translation type="unfinished">Samm edasi</translation>
+      <source>Seek forward</source>
+      <translation type="unfinished">Seek forward</translation>
     </message>
     <message>
-        <source>Seek backward</source>
-        <translation type="unfinished">Samm tagasi</translation>
+      <source>Seek backward</source>
+      <translation type="unfinished">Seek backward</translation>
     </message>
     <message>
-        <source>Show/Hide</source>
-        <translation type="unfinished">Kuva/peida</translation>
+      <source>Show/Hide</source>
+      <translation type="unfinished">Show/Hide</translation>
     </message>
     <message>
-        <source>Show OSD</source>
-        <translation type="unfinished">Kuva ekraanimenüü</translation>
+      <source>Show OSD</source>
+      <translation type="unfinished">Show OSD</translation>
     </message>
     <message>
-        <source>Toggle Pretty OSD</source>
-        <translation type="unfinished">Ilusa ekraanimenüü lüliti</translation>
+      <source>Toggle Pretty OSD</source>
+      <translation type="unfinished">Toggle Pretty OSD</translation>
     </message>
     <message>
-        <source>Change shuffle mode</source>
-        <translation type="unfinished">Muuda juhuesituse režiimi</translation>
+      <source>Change shuffle mode</source>
+      <translation type="unfinished">Change shuffle mode</translation>
     </message>
     <message>
-        <source>Change repeat mode</source>
-        <translation type="unfinished">Muuda kordusrežiimi</translation>
+      <source>Change repeat mode</source>
+      <translation type="unfinished">Change repeat mode</translation>
     </message>
     <message>
-        <source>Enable/disable scrobbling</source>
-        <translation type="unfinished">Luba/keela kraasimine</translation>
+      <source>Enable/disable scrobbling</source>
+      <translation type="unfinished">Enable/disable scrobbling</translation>
     </message>
     <message>
-        <source>Love</source>
-        <translation type="unfinished">Meeldib</translation>
+      <source>Love</source>
+      <translation type="unfinished">Love</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TagFetcher</name>
     <message>
-        <source>Identifying song</source>
-        <translation type="unfinished">Tuvastame laulu</translation>
+      <source>Identifying song</source>
+      <translation type="unfinished">Identifying song</translation>
     </message>
     <message>
-        <source>Fingerprinting song</source>
-        <translation type="unfinished">Sõrmejäljestame lugu</translation>
+      <source>Fingerprinting song</source>
+      <translation type="unfinished">Fingerprinting song</translation>
     </message>
     <message>
-        <source>Downloading metadata</source>
-        <translation type="unfinished">Laadime alla metaandmeid</translation>
+      <source>Downloading metadata</source>
+      <translation type="unfinished">Downloading metadata</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MoodbarProxyStyle</name>
     <message>
-        <source>Show moodbar</source>
-        <translation type="unfinished">Kuva tujuriba</translation>
+      <source>Show moodbar</source>
+      <translation type="unfinished">Show moodbar</translation>
     </message>
     <message>
-        <source>Moodbar style</source>
-        <translation type="unfinished">Meeleoluriba stiil</translation>
+      <source>Moodbar style</source>
+      <translation type="unfinished">Moodbar style</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceManager</name>
     <message>
-        <source>Connect device</source>
-        <translation type="unfinished">Ühenda seade</translation>
+      <source>Connect device</source>
+      <translation type="unfinished">Connect device</translation>
     </message>
     <message>
-        <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
-        <translation type="unfinished">Ühendasid selle seadme esimest korda.  Strawberry skaneerib nüüd seadet muusikafailide leidmiseks – selleks võib kuluda veidi aega.</translation>
+      <source>This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</source>
+      <translation type="unfinished">This is the first time you have connected this device.  Strawberry will now scan the device to find music files - this may take some time.</translation>
     </message>
     <message>
-        <source>This device will not work properly</source>
-        <translation type="unfinished">See seade ei tööta korralikult</translation>
+      <source>This device will not work properly</source>
+      <translation type="unfinished">This device will not work properly</translation>
     </message>
     <message>
-        <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
-        <translation type="unfinished">See on MTP seade, kuid kompileerisid Strawberry libmtp toeta.</translation>
+      <source>This is an MTP device, but you compiled Strawberry without libmtp support.</source>
+      <translation type="unfinished">This is an MTP device, but you compiled Strawberry without libmtp support.</translation>
     </message>
     <message>
-        <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
-        <translation type="unfinished">Kui jätkad, töötab see seade aeglaselt ja sinna kopeeritud lood ei pruugi töötada.</translation>
+      <source>If you continue, this device will work slowly and songs copied to it may not work.</source>
+      <translation type="unfinished">If you continue, this device will work slowly and songs copied to it may not work.</translation>
     </message>
     <message>
-        <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
-        <translation type="unfinished">See on iPod, kuid kompileerisid Strawberry libgpod toeta.</translation>
+      <source>This is an iPod, but you compiled Strawberry without libgpod support.</source>
+      <translation type="unfinished">This is an iPod, but you compiled Strawberry without libgpod support.</translation>
     </message>
     <message>
-        <source>This type of device is not supported: %1</source>
-        <translation type="unfinished">Seda tüüpi seadet ei toetata: %1</translation>
+      <source>This type of device is not supported: %1</source>
+      <translation type="unfinished">This type of device is not supported: %1</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceItemDelegate</name>
     <message>
-        <source>Updating %1%...</source>
-        <translation type="unfinished">%1% värskendamine...</translation>
+      <source>Updating %1%...</source>
+      <translation type="unfinished">Updating %1%...</translation>
     </message>
     <message>
-        <source>Not connected</source>
-        <translation type="unfinished">Pole ühendatud</translation>
+      <source>Not connected</source>
+      <translation type="unfinished">Not connected</translation>
     </message>
     <message>
-        <source>Not mounted - double click to mount</source>
-        <translation type="unfinished">Haakimata - topeltklõps haakimiseks</translation>
+      <source>Not mounted - double click to mount</source>
+      <translation type="unfinished">Not mounted - double click to mount</translation>
     </message>
     <message>
-        <source>Double click to open</source>
-        <translation type="unfinished">Avamiseks tee topeltklikk</translation>
+      <source>Double click to open</source>
+      <translation type="unfinished">Double click to open</translation>
     </message>
     <message>
-        <source>%1 song%2</source>
-        <translation type="unfinished">%1 lugu%2</translation>
+      <source>%1 song%2</source>
+      <translation type="unfinished">%1 song%2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DeviceView</name>
     <message>
-        <source>Safely remove device</source>
-        <translation type="unfinished">Eemalda seade ohutult</translation>
+      <source>Safely remove device</source>
+      <translation type="unfinished">Safely remove device</translation>
     </message>
     <message>
-        <source>Forget device</source>
-        <translation type="unfinished">Unusta seade</translation>
+      <source>Forget device</source>
+      <translation type="unfinished">Forget device</translation>
     </message>
     <message>
-        <source>Device properties...</source>
-        <translation type="unfinished">Seadme omadused...</translation>
+      <source>Device properties...</source>
+      <translation type="unfinished">Device properties...</translation>
     </message>
     <message>
-        <source>Append to current playlist</source>
-        <translation type="unfinished">Lisa praegusesse esitusloendisse</translation>
+      <source>Append to current playlist</source>
+      <translation type="unfinished">Append to current playlist</translation>
     </message>
     <message>
-        <source>Replace current playlist</source>
-        <translation type="unfinished">Asenda praegune esitusloend</translation>
+      <source>Replace current playlist</source>
+      <translation type="unfinished">Replace current playlist</translation>
     </message>
     <message>
-        <source>Open in new playlist</source>
-        <translation type="unfinished">Ava uues esitusloendis</translation>
+      <source>Open in new playlist</source>
+      <translation type="unfinished">Open in new playlist</translation>
     </message>
     <message>
-        <source>Copy to collection...</source>
-        <translation type="unfinished">Kopeeri helikogusse...</translation>
+      <source>Copy to collection...</source>
+      <translation type="unfinished">Copy to collection...</translation>
     </message>
     <message>
-        <source>Delete from device...</source>
-        <translation type="unfinished">Kustuta seadmest...</translation>
+      <source>Delete from device...</source>
+      <translation type="unfinished">Delete from device...</translation>
     </message>
     <message>
-        <source>Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</source>
-        <translation type="unfinished">Seadme unustamine eemaldab selle siit loendist, mistõttu peab Strawberry järgmisel ühendamisel kõik lood uuesti skaneerima.</translation>
+      <source>Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</source>
+      <translation type="unfinished">Forgetting a device will remove it from this list and Strawberry will have to rescan all the songs again next time you connect it.</translation>
     </message>
     <message>
-        <source>Delete files</source>
-        <translation type="unfinished">Kustuta failid</translation>
+      <source>Delete files</source>
+      <translation type="unfinished">Delete files</translation>
     </message>
     <message>
-        <source>These files will be deleted from the device, are you sure you want to continue?</source>
-        <translation type="unfinished">Need failid kustutatakse seadmest. Kas soovid jätkata?</translation>
+      <source>These files will be deleted from the device, are you sure you want to continue?</source>
+      <translation type="unfinished">These files will be deleted from the device, are you sure you want to continue?</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GioLister</name>
     <message>
-        <source>Mount point</source>
-        <translation type="unfinished">Haakepunkt</translation>
+      <source>Mount point</source>
+      <translation type="unfinished">Mount point</translation>
     </message>
     <message>
-        <source>Device</source>
-        <translation type="unfinished">Seade</translation>
+      <source>Device</source>
+      <translation type="unfinished">Device</translation>
     </message>
     <message>
-        <source>URI</source>
-        <translation type="unfinished">URI</translation>
+      <source>URI</source>
+      <translation type="unfinished">URI</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Udisks2Lister</name>
     <message>
-        <source>D-Bus path</source>
-        <translation type="unfinished">D-Bus asukoht</translation>
+      <source>D-Bus path</source>
+      <translation type="unfinished">D-Bus path</translation>
     </message>
     <message>
-        <source>Serial number</source>
-        <translation type="unfinished">Seerianumber</translation>
+      <source>Serial number</source>
+      <translation type="unfinished">Serial number</translation>
     </message>
     <message>
-        <source>Mount points</source>
-        <translation type="unfinished">Haakepunktid</translation>
+      <source>Mount points</source>
+      <translation type="unfinished">Mount points</translation>
     </message>
     <message>
-        <source>Partition label</source>
-        <translation type="unfinished">Partitsiooni silt</translation>
+      <source>Partition label</source>
+      <translation type="unfinished">Partition label</translation>
     </message>
     <message>
-        <source>UUID</source>
-        <translation type="unfinished">UUID</translation>
+      <source>UUID</source>
+      <translation type="unfinished">UUID</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MtpConnection</name>
     <message>
-        <source>Invalid MTP device: %1</source>
-        <translation type="unfinished">Kehtetu MTP-seade: %1</translation>
+      <source>Invalid MTP device: %1</source>
+      <translation type="unfinished">Invalid MTP device: %1</translation>
     </message>
     <message>
-        <source>Could not open MTP device.</source>
-        <translation type="unfinished">MTP seadme avamine ei õnnestunud.</translation>
+      <source>Could not open MTP device.</source>
+      <translation type="unfinished">Could not open MTP device.</translation>
     </message>
     <message>
-        <source>MTP error: %1</source>
-        <translation type="unfinished">MTP viga: %1</translation>
+      <source>MTP error: %1</source>
+      <translation type="unfinished">MTP error: %1</translation>
     </message>
     <message>
-        <source>MTP device not found.</source>
-        <translation type="unfinished">MTP-seadet ei leitud.</translation>
+      <source>MTP device not found.</source>
+      <translation type="unfinished">MTP device not found.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>MtpLoader</name>
     <message>
-        <source>Loading MTP device</source>
-        <translation type="unfinished">MTP-seadme laadimine</translation>
+      <source>Loading MTP device</source>
+      <translation type="unfinished">Loading MTP device</translation>
     </message>
     <message>
-        <source>Error connecting MTP device %1</source>
-        <translation type="unfinished">Viga MTP seadme %1 ühendamiselug</translation>
+      <source>Error connecting MTP device %1</source>
+      <translation type="unfinished">Error connecting MTP device %1</translation>
     </message>
     <message>
-        <source>Error connecting MTP device %1: %2</source>
-        <translation type="unfinished">Viga MTP-seadme %1 ühendamisel: %2</translation>
+      <source>Error connecting MTP device %1: %2</source>
+      <translation type="unfinished">Error connecting MTP device %1: %2</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CddaSongLoader</name>
     <message>
-        <source>Error while setting CDDA device to ready state.</source>
-        <translation type="unfinished">Viga CDDA seadme valmisolekusse seadmisel.</translation>
+      <source>Error while setting CDDA device to ready state.</source>
+      <translation type="unfinished">Error while setting CDDA device to ready state.</translation>
     </message>
     <message>
-        <source>Error while setting CDDA device to pause state.</source>
-        <translation type="unfinished">Viga CDDA seadme peatatud olekusse määramisel.</translation>
+      <source>Error while setting CDDA device to pause state.</source>
+      <translation type="unfinished">Error while setting CDDA device to pause state.</translation>
     </message>
     <message>
-        <source>Error while querying CDDA tracks.</source>
-        <translation type="unfinished">Viga lugude CDDA päringul.</translation>
+      <source>Error while querying CDDA tracks.</source>
+      <translation type="unfinished">Error while querying CDDA tracks.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GPodDevice</name>
     <message>
-        <source>Could not copy %1 to %2: %3</source>
-        <translation type="unfinished">%1 -&gt; %2 kopeeruimine ei õnnestunud: %3</translation>
+      <source>Could not copy %1 to %2: %3</source>
+      <translation type="unfinished">Could not copy %1 to %2: %3</translation>
     </message>
     <message>
-        <source>Writing database failed: %1</source>
-        <translation type="unfinished">Andmebaasi salvestamine ei õnnestunud: %1</translation>
+      <source>Writing database failed: %1</source>
+      <translation type="unfinished">Writing database failed: %1</translation>
     </message>
     <message>
-        <source>Writing database failed.</source>
-        <translation type="unfinished">Andmebaasi salvestamine ei õnnestunud.</translation>
+      <source>Writing database failed.</source>
+      <translation type="unfinished">Writing database failed.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>GPodLoader</name>
     <message>
-        <source>Loading iPod database</source>
-        <translation type="unfinished">Laadime iPodi andmekogu</translation>
+      <source>Loading iPod database</source>
+      <translation type="unfinished">Loading iPod database</translation>
     </message>
     <message>
-        <source>An error occurred loading the iTunes database</source>
-        <translation type="unfinished">iTunesi andmebaasi laadimisel tekkis viga</translation>
+      <source>An error occurred loading the iTunes database</source>
+      <translation type="unfinished">An error occurred loading the iTunes database</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicService</name>
     <message>
-        <source>Server URL is invalid.</source>
-        <translation type="unfinished">Serveri URL on vigane.</translation>
+      <source>Server URL is invalid.</source>
+      <translation type="unfinished">Server URL is invalid.</translation>
     </message>
     <message>
-        <source>Missing username or password.</source>
-        <translation type="unfinished">Kasutajanimi või parool puudub.</translation>
+      <source>Missing username or password.</source>
+      <translation type="unfinished">Missing username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicUrlHandler</name>
     <message>
-        <source>Subsonic server URL is invalid.</source>
-        <translation type="unfinished">Subsonici serveri URL on kehtetu.</translation>
+      <source>Subsonic server URL is invalid.</source>
+      <translation type="unfinished">Subsonic server URL is invalid.</translation>
     </message>
     <message>
-        <source>Missing Subsonic username or password.</source>
-        <translation type="unfinished">Subsonic kasutajanimi või parool puudub.</translation>
+      <source>Missing Subsonic username or password.</source>
+      <translation type="unfinished">Missing Subsonic username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SubsonicRequest</name>
     <message>
-        <source>Retrieving albums...</source>
-        <translation type="unfinished">Albumite toomine...</translation>
+      <source>Retrieving albums...</source>
+      <translation type="unfinished">Retrieving albums...</translation>
     </message>
     <message>
-        <source>Retrieving songs for %1 album...</source>
-        <translation type="unfinished">%1 albumi lugude toomine...</translation>
+      <source>Retrieving songs for %1 album...</source>
+      <translation type="unfinished">Retrieving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Retrieving songs for %1 albums...</source>
-        <translation type="unfinished">%1 albumi lugude toomine...</translation>
+      <source>Retrieving songs for %1 albums...</source>
+      <translation type="unfinished">Retrieving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Retrieving album cover for %1 album...</source>
-        <translation type="unfinished">Kaanepildi toomine albumile %1...</translation>
+      <source>Retrieving album cover for %1 album...</source>
+      <translation type="unfinished">Retrieving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Retrieving album covers for %1 albums...</source>
-        <translation type="unfinished">Kaanepiltide toomine albumitele %1...</translation>
+      <source>Retrieving album covers for %1 albums...</source>
+      <translation type="unfinished">Retrieving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Tundmatu viga</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalService</name>
     <message>
-        <source>Reply from Tidal is missing query items.</source>
-        <translation type="unfinished">Tidali vastuses puuduvad päringuüksused.</translation>
+      <source>Reply from Tidal is missing query items.</source>
+      <translation type="unfinished">Reply from Tidal is missing query items.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token.</source>
-        <translation type="unfinished">Tidali API tunnuskood puudub.</translation>
+      <source>Missing Tidal API token.</source>
+      <translation type="unfinished">Missing Tidal API token.</translation>
     </message>
     <message>
-        <source>Missing Tidal username.</source>
-        <translation type="unfinished">Tidali kasutajanimi puudub.</translation>
+      <source>Missing Tidal username.</source>
+      <translation type="unfinished">Missing Tidal username.</translation>
     </message>
     <message>
-        <source>Missing Tidal password.</source>
-        <translation type="unfinished">Tidali parool puudub.</translation>
+      <source>Missing Tidal password.</source>
+      <translation type="unfinished">Missing Tidal password.</translation>
     </message>
     <message>
-        <source>Not authenticated with Tidal and reached maximum number of login attempts.</source>
-        <translation type="unfinished">Tidalis autentimata ja maksimaalne sisselogimiskatsete arv on täis.</translation>
+      <source>Not authenticated with Tidal and reached maximum number of login attempts.</source>
+      <translation type="unfinished">Not authenticated with Tidal and reached maximum number of login attempts.</translation>
     </message>
     <message>
-        <source>Not authenticated with Tidal.</source>
-        <translation type="unfinished">Pole Tidaliga autentitud.</translation>
+      <source>Not authenticated with Tidal.</source>
+      <translation type="unfinished">Not authenticated with Tidal.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token, username or password.</source>
-        <translation type="unfinished">Puuduv Tidal API tunnuskood, kasutajanimi või parool.</translation>
+      <source>Missing Tidal API token, username or password.</source>
+      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalRequest</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autentimine...</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished">Esitajate vastuvõtmine...</translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished">Albumite vastuvõtmine...</translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished">Lugude vastuvõtmine...</translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Otsimine...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Vasteid ei leitud.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TidalStreamURLRequest</name>
     <message>
-        <source>Not authenticated with Tidal.</source>
-        <translation type="unfinished">Pole Tidaliga autentitud.</translation>
+      <source>Not authenticated with Tidal.</source>
+      <translation type="unfinished">Not authenticated with Tidal.</translation>
     </message>
     <message>
-        <source>Missing Tidal API token, username or password.</source>
-        <translation type="unfinished">Puuduv Tidal API tunnuskood, kasutajanimi või parool.</translation>
+      <source>Missing Tidal API token, username or password.</source>
+      <translation type="unfinished">Missing Tidal API token, username or password.</translation>
     </message>
     <message>
-        <source>Cancelled.</source>
-        <translation type="unfinished">Tühistatud.</translation>
+      <source>Cancelled.</source>
+      <translation type="unfinished">Cancelled.</translation>
     </message>
     <message>
-        <source>Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
-        <translation type="unfinished">Tidalilt saabus URL %1 krüptitud vooga . Strawberry ei toeta praegu krüptitud vooge.</translation>
+      <source>Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
+      <translation type="unfinished">Received URL with %1 encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</translation>
     </message>
     <message>
-        <source>Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
-        <translation type="unfinished">Tidalilt saabus URL krüptitud vooga . Strawberry ei toeta praegu krüptitud vooge.</translation>
+      <source>Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</source>
+      <translation type="unfinished">Received URL with encrypted stream from Tidal. Strawberry does not currently support encrypted streams.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifyService</name>
     <message>
-        <source>Spotify Authentication</source>
-        <translation type="unfinished">Spotify autentimine</translation>
+      <source>Spotify Authentication</source>
+      <translation type="unfinished">Spotify Authentication</translation>
     </message>
     <message>
-        <source>Please open this URL in your browser</source>
-        <translation type="unfinished">Ava see URL oma veebilehitsejas</translation>
+      <source>Please open this URL in your browser</source>
+      <translation type="unfinished">Please open this URL in your browser</translation>
     </message>
     <message>
-        <source>Redirect missing token code or state!</source>
-        <translation type="unfinished">Suuna puuduv tunnuskood või olek ümber!</translation>
+      <source>Redirect missing token code or state!</source>
+      <translation type="unfinished">Redirect missing token code or state!</translation>
     </message>
     <message>
-        <source>Received invalid reply from web browser.</source>
-        <translation type="unfinished">Veebilehitsejast saadi vigane vastus.</translation>
+      <source>Received invalid reply from web browser.</source>
+      <translation type="unfinished">Received invalid reply from web browser.</translation>
     </message>
     <message>
-        <source>Not authenticated with Spotify.</source>
-        <translation type="unfinished">Pole Spotifyga autenditud.</translation>
+      <source>Not authenticated with Spotify.</source>
+      <translation type="unfinished">Not authenticated with Spotify.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SpotifyRequest</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autentimine...</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished">Esitajate vastuvõtmine...</translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished">Albumite vastuvõtmine...</translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished">Lugude vastuvõtmine...</translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Otsimine...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Vasteid ei leitud.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
     <message>
-        <source>Data missing error</source>
-        <translation type="unfinished">Viga: andmed puuduvad</translation>
+      <source>Data missing error</source>
+      <translation type="unfinished">Data missing error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzService</name>
     <message>
-        <source>Authenticating...</source>
-        <translation type="unfinished">Autentimine...</translation>
+      <source>Authenticating...</source>
+      <translation type="unfinished">Authenticating...</translation>
     </message>
     <message>
-        <source>Maximum number of login attempts reached.</source>
-        <translation type="unfinished">Maksimaalne sisselogimiskatsete arv on täis.</translation>
+      <source>Maximum number of login attempts reached.</source>
+      <translation type="unfinished">Maximum number of login attempts reached.</translation>
     </message>
     <message>
-        <source>Missing Qobuz app ID.</source>
-        <translation type="unfinished">Qobuzi rakenduse ID puudub.</translation>
+      <source>Missing Qobuz app ID.</source>
+      <translation type="unfinished">Missing Qobuz app ID.</translation>
     </message>
     <message>
-        <source>Missing Qobuz username.</source>
-        <translation type="unfinished">Qobuzi kasutajanimi puudub.</translation>
+      <source>Missing Qobuz username.</source>
+      <translation type="unfinished">Missing Qobuz username.</translation>
     </message>
     <message>
-        <source>Missing Qobuz password.</source>
-        <translation type="unfinished">Qobuzi parool puudub.</translation>
+      <source>Missing Qobuz password.</source>
+      <translation type="unfinished">Missing Qobuz password.</translation>
     </message>
     <message>
-        <source>Not authenticated with Qobuz.</source>
-        <translation type="unfinished">Pole Qobuziga autentitud.</translation>
+      <source>Not authenticated with Qobuz.</source>
+      <translation type="unfinished">Not authenticated with Qobuz.</translation>
     </message>
     <message>
-        <source>Missing Qobuz app ID or secret.</source>
-        <translation type="unfinished">Qobuzi rakenduse ID või võti puudub.</translation>
+      <source>Missing Qobuz app ID or secret.</source>
+      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzRequest</name>
     <message>
-        <source>Receiving artists...</source>
-        <translation type="unfinished">Esitajate vastuvõtmine...</translation>
+      <source>Receiving artists...</source>
+      <translation type="unfinished">Receiving artists...</translation>
     </message>
     <message>
-        <source>Receiving albums...</source>
-        <translation type="unfinished">Albumite vastuvõtmine...</translation>
+      <source>Receiving albums...</source>
+      <translation type="unfinished">Receiving albums...</translation>
     </message>
     <message>
-        <source>Receiving songs...</source>
-        <translation type="unfinished">Lugude vastuvõtmine...</translation>
+      <source>Receiving songs...</source>
+      <translation type="unfinished">Receiving songs...</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation type="unfinished">Otsimine...</translation>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artist...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artist...</source>
+      <translation type="unfinished">Receiving albums for %1 artist...</translation>
     </message>
     <message>
-        <source>Receiving albums for %1 artists...</source>
-        <translation type="unfinished">%1 esitaja albumite vastuvõtmine...</translation>
+      <source>Receiving albums for %1 artists...</source>
+      <translation type="unfinished">Receiving albums for %1 artists...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 album...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 album...</source>
+      <translation type="unfinished">Receiving songs for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving songs for %1 albums...</source>
-        <translation type="unfinished">%1 albumi lugude vastuvõtmine...</translation>
+      <source>Receiving songs for %1 albums...</source>
+      <translation type="unfinished">Receiving songs for %1 albums...</translation>
     </message>
     <message>
-        <source>Receiving album cover for %1 album...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album cover for %1 album...</source>
+      <translation type="unfinished">Receiving album cover for %1 album...</translation>
     </message>
     <message>
-        <source>Receiving album covers for %1 albums...</source>
-        <translation type="unfinished">%1 albumi kaanepildi vastuvõtmine...</translation>
+      <source>Receiving album covers for %1 albums...</source>
+      <translation type="unfinished">Receiving album covers for %1 albums...</translation>
     </message>
     <message>
-        <source>No match.</source>
-        <translation type="unfinished">Vasteid ei leitud.</translation>
+      <source>No match.</source>
+      <translation type="unfinished">No match.</translation>
     </message>
     <message>
-        <source>Unknown error</source>
-        <translation type="unfinished">Tundmatu viga</translation>
+      <source>Unknown error</source>
+      <translation type="unfinished">Unknown error</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QobuzStreamURLRequest</name>
     <message>
-        <source>Missing Qobuz app ID or secret.</source>
-        <translation type="unfinished">Qobuzi rakenduse ID või võti puudub.</translation>
+      <source>Missing Qobuz app ID or secret.</source>
+      <translation type="unfinished">Missing Qobuz app ID or secret.</translation>
     </message>
     <message>
-        <source>Cancelled.</source>
-        <translation type="unfinished">Tühistatud.</translation>
+      <source>Cancelled.</source>
+      <translation type="unfinished">Cancelled.</translation>
     </message>
-</context>
+  </context>
 </TS>
